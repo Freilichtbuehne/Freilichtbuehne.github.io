@@ -1,16 +1,24 @@
 {
-    "0": [
-        "Jahseh",
-        "https: //www.goldphoenix.de/wcf/index.php?user/1033-jahseh/",
-        "(Leitung)",
-        "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
-        "true"
-    ],
-    "1": [
-        "Alexander Ulf",
-        "https://www.goldphoenix.de/wcf/index.php?user/928-alexander-ulf/",
-        "(Stv.Leitung)",
-        "https://www.goldphoenix.de/wcf/images/avatars/8f/4842-8ffa439929d28dabd3b8fed0aa17510e87a38936.jpg",
-        "false"
+    "members": [{
+            "name": "Chrisskross",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
+        },
+        {
+            "name": "Jahseh",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
+            "profile": "https://www.goldphoenix.de/index.php?thread/4021-bewerbung-zum-fahrlehrer/"
+        },
+        {
+            "name": "Razor Callahan",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c6/4586-c674a58948790647204bf1e926696138deec5cc9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1382-razor-callahan/"
+        }        
     ]
 }
