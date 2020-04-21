@@ -10,37 +10,37 @@ function load(page) {
 
     switch (page) {
         case 1:
-            url = "https://raw.githubusercontent.com/Uschipanzer/GPXPanel2/master/team.json";
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/team.json";
             break;
         case 2:
-            url = "https://raw.githubusercontent.com/Uschipanzer/GPXPanel2/master/bewerbungsteam.json";
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/bewerbungsteam.json";
             break;
         case 3:
-            url = "https://raw.githubusercontent.com/Uschipanzer/GPXPanel2/master/eventteam.json";
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/eventteam.json";
             break;
         case 4:
-            url = "https://raw.githubusercontent.com/Uschipanzer/GPXPanel2/master/teammanagement.json";
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/teammanagement.json";
             break;
         case 5:
-            url = "https://raw.githubusercontent.com/Uschipanzer/GPXPanel2/master/communitymanager.json";
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/communitymanager.json";
             break;
         case 7:
-            url = "https://raw.githubusercontent.com/Uschipanzer/GPXPanel2/master/polizei.json";
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/polizei.json";
             ClearSubBox();
             setActive(rpids[page]);
             break;
         case 8:
-            url = "https://raw.githubusercontent.com/Uschipanzer/GPXPanel2/master/medic.json";
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/medic.json";
             ClearSubBox();
             setActive(rpids[page]);
             break;
         case 9:
-            url = "https://raw.githubusercontent.com/Uschipanzer/GPXPanel2/master/feuerwehr.json";
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/feuerwehr.json";
             ClearSubBox();
             setActive(rpids[page]);
             break;
         case 10:
-            url = "https://raw.githubusercontent.com/Uschipanzer/GPXPanel2/master/fahrschule.json";
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/fahrschule.json";
             ClearSubBox();
             setActive(rpids[page]);
         default:
