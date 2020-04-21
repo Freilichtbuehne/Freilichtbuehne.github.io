@@ -76,7 +76,7 @@ function loadingError(error) {
     var t = document.createTextNode("Ein Fehler ist beim Laden der Daten aufgetreten!");
     try {
         document.getElementById("error").parentNode.removeChild(document.getElementById("error"));
-    } catch {}
+    } catch (err) {}
     document.getElementById("contentBox").appendChild(div).id = "error";
     document.getElementById("error").appendChild(t).classList.add("highlight");
 }
