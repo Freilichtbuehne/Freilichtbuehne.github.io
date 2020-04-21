@@ -1,16 +1,24 @@
 {
-    "0": [
-        "Jahseh",
-        "https: //www.goldphoenix.de/wcf/index.php?user/1033-jahseh/",
-        "(Leitung)",
-        "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
-        "true"
-    ],
-    "1": [
-        "Alexander Ulf",
-        "https://www.goldphoenix.de/wcf/index.php?user/928-alexander-ulf/",
-        "(Stv.Leitung)",
-        "https://www.goldphoenix.de/wcf/images/avatars/8f/4842-8ffa439929d28dabd3b8fed0aa17510e87a38936.jpg",
-        "false"
+    "members": [{
+        "name": "Luca Jauch",
+        "rank": "Oberbrandadmiral",
+        "highlight": true,
+        "picture": "https://i.ibb.co/kSpnyYz/badge-6.png",
+        "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
+        },
+        {
+            "name": "Marly Ulf",
+            "rank": "Oberbrandadmiral",
+            "highlight": true,
+            "picture": "https://i.ibb.co/nwyKW5H/badge-8.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/536-marly/"
+        },
+        {
+            "name": "Bernd Herrlich",
+            "rank": "Oberbrandadmiral",
+            "highlight": true,
+            "picture": "https://i.ibb.co/WHdSrSP/badge-7.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
+        }        
     ]
 }
