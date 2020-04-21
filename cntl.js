@@ -43,6 +43,7 @@ function load(page) {
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/fahrschule.json";
             ClearSubBox();
             setActive(rpids[page]);
+            break;
         default:
             loadingError("Ladefehler");
     }
