@@ -1,0 +1,203 @@
+.menuBox {
+    background-color: #212121;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.menuBox a {
+    float: left;
+    color: #a1a1a1;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.menuBox a:hover {
+    background-color: rgb(53, 53, 53);
+    color: black;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.menuBox a.active {
+    background-color: rgb(53, 53, 53);
+    color: #a1a1a1;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 0px 3px 0px -1px rgb(255, 196, 0);
+}
+
+.subBox {
+    background-color: #212121;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.subBox a {
+    float: left;
+    color: #a1a1a1;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top: 2px;
+    margin-bottom: 10px;
+}
+
+.subBox a:hover {
+    background-color: rgb(53, 53, 53);
+    color: black;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    cursor: pointer;
+}
+
+.subBox a.active {
+    background-color: rgb(53, 53, 53);
+    color: #a1a1a1;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 0px 3px 0px -1px rgb(0, 132, 255);
+}
+
+html {
+    background-color: #151515;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 120%;
+    font-weight: normal;
+    padding: 10px 5px;
+    border-style: solid;
+    font-family: 'Roboto', sans-serif;
+}
+
+#contentBox a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#contentBox {
+    background-color: #212121;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #a7a7a7;
+    margin-top: 10px;
+}
+
+#listItem {
+    margin-top: 25px;
+    outline-style: solid;
+    outline-width: 5px;
+    outline-color: #039be5;
+    background-color: rgb(180, 180, 180);
+    padding: 10px 15px;
+}
+
+#contentBox img {
+    width: 100px;
+    vertical-align: middle;
+    margin-bottom: 0.75em;
+    border-style: solid;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+img {
+    cursor: pointer
+}
+
+#contentBox text {
+    vertical-align: middle;
+    margin-bottom: 0.75em;
+}
+
+.highlight {
+    color: rgb(226, 44, 44);
+    font-weight: bold;
+}
+
+#error {
+    background-color: rgb(255, 58, 58);
+    padding: 50px;
+    text-align: center;
+}
+
+#infoBox {
+    background-color: rgb(20, 93, 165);
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 17px;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.headBox {
+    text-align: center;
+    background-color: #212121;
+}
+
+.headBox img {
+    margin-top: 1%;
+    width: 60%;
+}
+
+.loader {
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 4px solid transparent;
+    position: relative;
+    padding: 1px;
+}
+
+.loader .loaderBar {
+    position: absolute;
+    border-radius: 10px;
+    top: 0;
+    right: 100%;
+    bottom: 0;
+    left: 0;
+    background: rgb(255, 187, 0);
+    width: 0;
+    animation: borealisBar 3s linear infinite;
+    box-shadow: 0px 0px 5px 1px rgb(255, 243, 77);
+}
+
+@keyframes borealisBar {
+    0% {
+        left: 0%;
+        right: 100%;
+        width: 0%;
+    }
+    20% {
+        left: 0%;
+        right: 75%;
+        width: 25%;
+    }
+    90% {
+        right: 0%;
+        left: 75%;
+        width: 25%;
+    }
+    100% {
+        left: 100%;
+        right: 0%;
+        width: 0%;
+    }
+}
+
+.paused {
+    -webkit-animation-play-state: paused;
+    -moz-animation-play-state: paused;
+    -o-animation-play-state: paused;
+    animation-play-state: paused;
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Forum Übersicht</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="cntl.js">
+    </script>
+</head>
+
+<body>
+    <div class="menuBox">
+        <a href="Page1.html">UnitedRP-Team</a>
+        <a href="Page2.html">Bewerbungsteam</a>
+        <a href="Page3.html">Eventteam</a>
+        <a href="Page4.html">Teammanagement</a>
+        <a href="Page5.html">Communityorganizer </a>
+        <a class="active" href="Page6.html">RP-Leitungen</a>
+        <a href="Page0.html">Info </a>
+    </div>
+    <div id="contentBox">
+        <div class="subBox">
+            <a onclick="load(7)" id="pol">Polizei</a>
+            <a onclick="load(8)" id="med">Rettungsdienst</a>
+            <a onclick="load(9)" id="feu">Feuerwehr</a>
+            <a onclick="load(10)" id="far">Fahrschule</a>
+        </div>
+        <div class="loader">
+            <div class="loaderBar"></div>
+        </div>
+    </div>
+
+</html>
