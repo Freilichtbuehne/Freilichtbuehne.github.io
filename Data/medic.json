@@ -1,0 +1,45 @@
+{
+    "members": [{
+            "name": "Manuel Herrlich",
+            "rank": "Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/30/4931-30925c6ff4ca06e894930830ad1f1887e759df7a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1228-g0xar/"
+        },
+        {
+            "name": "Marcel Wegner",
+            "rank": "Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/89/4405-89ca10f91a7a08e17e5f58dc74fe249f74b8eee3.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/933-firemarcel112/"
+        },
+        {
+            "name": "Dr. Bernd Deutschmann",
+            "rank": "Leitender Notarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/4289-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
+        },
+        {
+            "name": "Mas Tyranus",
+            "rank": "Personalabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/5176-0d1b37e230307be10d785aa4ed40381e872a5ffa.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
+        },
+        {
+            "name": "Never Bright",
+            "rank": "Ausbilder",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d5/3208-d51a7e45bcb646db584b4fb0b3f0d890cd06ddcb.jpg",
+            "profile": "https://www.goldphoenix.de/"
+        },
+        {
+            "name": "Luca Jauch",
+            "rank": "Notfallsanitäter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/5189-7a94abb4dd45a1c07603747fea79e5be352b5dc8.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
+        }
+    ]
+}

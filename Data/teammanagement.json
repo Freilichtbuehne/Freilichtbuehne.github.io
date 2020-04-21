@@ -1,0 +1,31 @@
+{
+    "members": [{
+            "name": "Garono",
+            "rank": "none",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7b/4277-7b61675293a0f978d834aae4543a17978dd311e2.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1243-garono/"
+        },
+        {
+            "name": "G0xar",
+            "rank": "none",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/30/4931-30925c6ff4ca06e894930830ad1f1887e759df7a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1228-g0xar/"
+        },
+        {
+            "name": "Jahseh",
+            "rank": "none",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
+        },
+        {
+            "name": "Samuel",
+            "rank": "none",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8f/5067-8f4710117865b940cd347314bbf363529851fe51.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/358-samuel-ulf/"
+        }
+    ]
+}

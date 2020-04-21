@@ -1,0 +1,38 @@
+{
+    "members": [{
+            "name": "Jahseh",
+            "rank": "Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
+            "profile": "https: //www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
+        },
+        {
+            "name": "Alexander Ulf",
+            "rank": "Stv.Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8f/4842-8ffa439929d28dabd3b8fed0aa17510e87a38936.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/928-alexander-ulf/"
+        },
+        {
+            "name": "IGHosT-_-LegZ",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/16/5160-16aa2154016481a0f2ac1656fc231420cf7cd488.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1027-ighost-legz/"
+        },
+        {
+            "name": "Raymond Reddington",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b1/5183-b1f2dfb90cec28afb7d26d08dbf827c98722760e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1043-crazyjason/"
+        },
+        {
+            "name": "Rimidal",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/5176-0d1b37e230307be10d785aa4ed40381e872a5ffa.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
+        }
+    ]
+}

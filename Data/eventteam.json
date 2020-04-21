@@ -1,0 +1,80 @@
+{
+    "members": [{
+            "name": "AlynexYT",
+            "rank": "Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/5193-4c5949cb52a863b17c64ddc0180d864714fd0af2.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1147-alynexyt/"
+        },
+        {
+            "name": "NeverDark/Dr Jack Bright",
+            "rank": "Stv.Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e3/4952-e34a3a6fa4f85003f8be0b9598b48e34d31ff3b1.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/743-neverdark-dr-jack-bright/"
+        },
+        {
+            "name": "PlayingGun",
+            "rank": "Text-Writer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c3/3194-c341be8fcbd282677674bf833dadb5727a80f7df.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/581-playinggun/"
+        },
+        {
+            "name": "Fabian Varox",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/4227-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1212-fabian-varox/"
+        },
+        {
+            "name": "Grandpa_Josef",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/4968-bb35f54203fb1a4a0f217f3623a1a4d2af641945.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1108-grandpa-josef/"
+        },
+        {
+            "name": "Luca11013 -GPX-",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/5189-7a94abb4dd45a1c07603747fea79e5be352b5dc8.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
+        },
+        {
+            "name": "Alexander Ulf",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8f/4842-8ffa439929d28dabd3b8fed0aa17510e87a38936.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/928-alexander-ulf/"
+        },
+        {
+            "name": "Affe134",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ed/4738-edae501da1f93e0672be019cccfbc7e9b0e50835.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1436-affe134/"
+        },
+        {
+            "name": "Rimidal",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/5176-0d1b37e230307be10d785aa4ed40381e872a5ffa.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
+        },
+        {
+            "name": "Miguel Phoenix",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/4841-6937f431c67fd9b1b122de3ea23e7c142473fa25.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-miguel-phoenix/"
+        },
+        {
+            "name": "jannik",
+            "rank": "Moderator III",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/4289-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
+        }
+    ]
+}

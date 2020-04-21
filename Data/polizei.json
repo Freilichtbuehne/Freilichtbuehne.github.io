@@ -1,0 +1,101 @@
+{
+    "members": [{
+            "name": "Levis Royal",
+            "rank": "Personalabteilungsleiter / Polizeipräsident",
+            "highlight": true,
+            "picture": "https://i.ibb.co/zngD6gw/Royal-neu-1.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1043-crazyjason/"
+        },
+        {
+            "name": "Miguel Herrlich",
+            "rank": "Beschwerdeabteilungsleiter / Polizeivizepräsident",
+            "highlight": true,
+            "picture": "https://i.ibb.co/FYxkwRr/Miguel.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-miguel-phoenix/"
+        },
+        {
+            "name": "Roach Sanderson",
+            "rank": "Stellv. Personalabteilungsleiter / Polizeidirektor",
+            "highlight": false,
+            "picture": "https://i.ibb.co/TvKMFRQ/Roach.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/953-silent-wolf/"
+        },
+        {
+            "name": "Benny Herrlich",
+            "rank": "Mitarbeiter der Personalabteilungen / Polizeidirektor",
+            "highlight": false,
+            "picture": "https://i.ibb.co/XtWCTzG/Benny-Polizeidirektor.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
+        },
+        {
+            "name": "Fabian Varox",
+            "rank": "Polizeirat",
+            "highlight": false,
+            "picture": "https://i.ibb.co/VwFpjTd/Varox-neu-1.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1212-fabian-varox/"
+        },
+        {
+            "name": "Markus Albendorf",
+            "rank": "Mitarbeiter der Personalabteilung / Polizeirat",
+            "highlight": false,
+            "picture": "https://i.ibb.co/CH8Ptym/markus-neu-1.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
+        },
+        {
+            "name": "Samuel Ulf",
+            "rank": "Polizeirat",
+            "highlight": false,
+            "picture": "https://i.ibb.co/sPR5Bhf/ulf-neu-1.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/358-samuel-ulf/"
+        },
+        {
+            "name": "Dominic Toretto",
+            "rank": "Stellv. Ausbildungsleiter / Polizeirat",
+            "highlight": false,
+            "picture": "https://i.ibb.co/BZx8Snx/Dominic.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1544-xwolfy/"
+        },
+        {
+            "name": "Ben Bernado",
+            "rank": "Polizeirat",
+            "highlight": false,
+            "picture": "https://i.ibb.co/XkBvvgG/ben.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1462-kuchenplays/"
+        },
+        {
+            "name": "Paul Wolf",
+            "rank": "Polizeirat",
+            "highlight": false,
+            "picture": "https://i.ibb.co/QCBmnmG/paul-wolf.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1436-affe134/"
+        },
+        {
+            "name": "Justin Varox",
+            "rank": "Ausbildungsleiter / Polizeirat",
+            "highlight": false,
+            "picture": "https://i.ibb.co/Fz4gdg8/Justin-Varox-59.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
+        },
+        {
+            "name": "Bernd Herrlich",
+            "rank": "Polizeirat",
+            "highlight": false,
+            "picture": "https://i.ibb.co/LYwy30R/bernd.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
+        },
+        {
+            "name": "Mike Field",
+            "rank": "Polizeirat",
+            "highlight": false,
+            "picture": "https://i.ibb.co/0qCXnzQ/Mike-Field.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1380-deadnated/"
+        },
+        {
+            "name": "Lukas Blaubeere",
+            "rank": "Mitarbeiter der Ausbildungsabteilung / Polizeirat",
+            "highlight": false,
+            "picture": "https://i.ibb.co/grN6VYS/lukas-blaubeere.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
+        }
+    ]
+}
