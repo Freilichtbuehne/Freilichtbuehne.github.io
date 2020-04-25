@@ -4,6 +4,9 @@ const rpids = {
     9: "feu",
     10: "far"
 }
+const maxEntrys = 7;
+var curMembers;
+var rpSection;
 
 function load(page) {
     let url;
@@ -11,40 +14,54 @@ function load(page) {
     switch (page) {
         case 1:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/team.json";
+            rpSection = false;
             break;
         case 2:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/bewerbungsteam.json";
+            rpSection = false;
             break;
         case 3:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/eventteam.json";
+            rpSection = false;
             break;
         case 4:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/teammanagement.json";
+            rpSection = false;
             break;
         case 5:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/communitymanager.json";
+            rpSection = false;
             break;
         case 7:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/polizei.json";
+            rpSection = true;
             ClearSubBox();
+            ClearPageBox();
             setActive(rpids[page]);
             break;
         case 8:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/medic.json";
+            rpSection = true;
             ClearSubBox();
+            ClearPageBox();
             setActive(rpids[page]);
             break;
         case 9:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/feuerwehr.json";
+            rpSection = true;
             ClearSubBox();
+            ClearPageBox();
             setActive(rpids[page]);
             break;
         case 10:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/fahrschule.json";
+            rpSection = true;
             ClearSubBox();
+            ClearPageBox();
             setActive(rpids[page]);
             break;
         default:
+            ClearPageBox();
             loadingError("Ladefehler");
     }
 
@@ -64,10 +81,31 @@ function setActive(id) {
     document.getElementById(id).classList.add("active");
 }
 
+function setActivePage(id) {
+    var pages = document.getElementsByClassName("activePage");
+    if (pages.length != 0) {
+        pages[0].classList.remove("activePage");
+    }
+    document.getElementById(id).classList.add("activePage");
+}
+
 function ClearSubBox() {
     var divs = document.getElementById("contentBox").childNodes;
-    while (divs.length > 4) {
-        divs[4].parentNode.removeChild(divs[4]);
+    if (rpSection) {
+        while (divs.length > 4) {
+            divs[4].parentNode.removeChild(divs[4]);
+        }
+    } else {
+        while (divs.length > 0) {
+            divs[0].parentNode.removeChild(divs[0]);
+        }
+    }
+}
+
+function ClearPageBox() {
+    var divs = document.getElementById("pageBox").childNodes;
+    while (divs.length > 0) {
+        divs[0].parentNode.removeChild(divs[0]);
     }
 }
 
@@ -97,7 +135,7 @@ function newElement(url, name, highlight, index, text, profile) {
     document.getElementById(index).appendChild(t).id = "text" + index;
 
     document.getElementById("img" + index).src = url;
-    document.getElementById("img" + index).addEventListener('click', function(event) {
+    document.getElementById("img" + index).addEventListener('click', function() {
         OpenURL(profile);
     });
     if (highlight) {
@@ -105,9 +143,54 @@ function newElement(url, name, highlight, index, text, profile) {
     }
 }
 
+function createPageNav(pages) {
+    for (let index = 0; index < pages; index++) {
+
+        var box = document.getElementById("pageBox");
+        var div = document.createElement("div");
+        div.addEventListener('click', function() {
+            ClearSubBox(rpSection);
+            let curPage = this.id.substring(1);
+            setActivePage(this.id);
+            for (let i = maxEntrys * curPage; i < maxEntrys * curPage + maxEntrys; i++) {
+                if (i < curMembers.members.length) {
+                    newElement(curMembers.members[i].picture, curMembers.members[i].name,
+                        curMembers.members[i].highlight, i, curMembers.members[i].rank,
+                        curMembers.members[i].profile);
+                }
+
+            }
+        });;
+        var text = document.createTextNode(index + 1);
+        div.appendChild(text);
+        box.appendChild(div).id = "p" + index;
+
+    }
+    setActivePage("p0");
+    for (let i = 0; i < maxEntrys; i++) {
+        if (i <= curMembers.members.length) {
+            newElement(curMembers.members[i].picture, curMembers.members[i].name,
+                curMembers.members[i].highlight, i, curMembers.members[i].rank,
+                curMembers.members[i].profile);
+        }
+
+    }
+}
+
 function processData(value) {
-    for (let i = 0; i < value.members.length; i++) {
-        newElement(value.members[i].picture, value.members[i].name, value.members[i].highlight, i, value.members[i].rank, value.members[i].profile);
+    curMembers = value;
+    if (curMembers.members.length > maxEntrys) {
+        //createPageNav(parseInt(curMembers.members.length / maxEntrys) + 1);
+        let pages = curMembers.members.length / maxEntrys;
+        if (pages === parseInt(pages, 10)) {
+            createPageNav(pages);
+        } else {
+            createPageNav(parseInt(pages) + 1);
+        }
+    } else {
+        for (let i = 0; i < value.members.length; i++) {
+            newElement(value.members[i].picture, value.members[i].name, value.members[i].highlight, i, value.members[i].rank, value.members[i].profile);
+        }
     }
 }
 
