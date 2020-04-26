@@ -4,7 +4,7 @@ const rpids = {
     9: "feu",
     10: "far"
 }
-const maxEntrys = 7;
+const maxEntrys = 10;
 var curMembers;
 var rpSection;
 
