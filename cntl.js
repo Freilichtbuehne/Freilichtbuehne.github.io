@@ -2,7 +2,8 @@ const rpids = {
     7: "pol",
     8: "med",
     9: "feu",
-    10: "far"
+    10: "far",
+    11: "sek"
 }
 const maxEntrys = 10;
 var curMembers;
