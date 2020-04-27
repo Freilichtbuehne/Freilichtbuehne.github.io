@@ -1,24 +1,39 @@
 {
-    "members": [{
+    "members": [
+        {
+            "name": "[GPX]Leon",
+            "rank": "Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/90/5127-90c1d03894004d2f51ec5ca9e6bcf120e6c7012c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon//"
+        },
+        {
             "name": "Luca11013 -GPX-",
-            "rank": "Mitglied",
-            "highlight": false,
+            "rank": "Stv. Leitung",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/5189-7a94abb4dd45a1c07603747fea79e5be352b5dc8.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
         },
         {
-            "name": "jannik",
+            "name": "Blaubeere",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/4289-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/19/5171-19ad213494c3872f863ca4e53cc8d130480bcffe.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
         },
         {
-            "name": "GrinningBlack",
+            "name": "Simon",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/37/4988-37cf1a000a965019eb85f5db95a583ea84ebf7d7.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1530-grinningblack/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6a/4938-6a35b113c24463bee49aab62e5dd11ebb67e771b.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/975-simon/"
+        },
+        {
+            "name": "Rimidal",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/5176-0d1b37e230307be10d785aa4ed40381e872a5ffa.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
         }
     ]
 }
