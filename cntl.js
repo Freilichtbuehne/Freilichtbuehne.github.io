@@ -60,6 +60,13 @@ function load(page) {
             ClearPageBox();
             setActive(rpids[page]);
             break;
+        case 11:
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/sek.json";
+            rpSection = true;
+            ClearSubBox();
+            ClearPageBox();
+            setActive(rpids[page]);
+            break;
         default:
             ClearPageBox();
             loadingError("Ladefehler");
