@@ -201,6 +201,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f6/4889-f6459059373f1b8af35de551998d0e7826793eab.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
+        },
+        {
+            "name": "Miguel Phoenix",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/4841-6937f431c67fd9b1b122de3ea23e7c142473fa25.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-miguel-phoenix/"
+        },
+        {
+            "name": "Dome Freeze",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/947-freeze/"
         }
     ]
 }
