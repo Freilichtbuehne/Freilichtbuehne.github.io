@@ -28,6 +28,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
         },
         {
+            "name": "Justin Varox",
+            "rank": "Ausbildungsleiter / Polizeidirektor",
+            "highlight": false,
+            "picture": "https://i.ibb.co/Fz4gdg8/Justin-Varox-59.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
+        },
+        {
             "name": "Fabian Varox",
             "rank": "Polizeirat",
             "highlight": false,
@@ -63,13 +70,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1436-affe134/"
         },
         {
-            "name": "Justin Varox",
-            "rank": "Ausbildungsleiter / Polizeirat",
-            "highlight": false,
-            "picture": "https://i.ibb.co/Fz4gdg8/Justin-Varox-59.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
-        },
-        {
             "name": "Bernd Herrlich",
             "rank": "Polizeirat",
             "highlight": false,
@@ -89,13 +89,6 @@
             "highlight": false,
             "picture": "https://i.ibb.co/grN6VYS/lukas-blaubeere.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
-        },
-        {
-            "name": "Justin Varox",
-            "rank": "Ausbildungsleiter / Polizeirat",
-            "highlight": false,
-            "picture": "https://i.ibb.co/Fz4gdg8/Justin-Varox-59.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
         }
     ]
 }
