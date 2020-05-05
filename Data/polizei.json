@@ -15,7 +15,7 @@
         },
         {
             "name": "Benny Herrlich",
-            "rank": "Mitarbeiter der Personalabteilungen / Polizeidirektor",
+            "rank": "Stellv. Personabteilungleiter / Polizeidirektor",
             "highlight": false,
             "picture": "https://i.ibb.co/XtWCTzG/Benny-Polizeidirektor.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
@@ -24,7 +24,7 @@
             "name": "Justin Varox",
             "rank": "Ausbildungsleiter / Polizeidirektor",
             "highlight": false,
-            "picture": "https://i.ibb.co/Fz4gdg8/Justin-Varox-59.png",
+            "picture": "https://i.ibb.co/7rB5DJc/justins-1.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
         },
         {
@@ -63,22 +63,15 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1436-affe134/"
         },
         {
-            "name": "Bernd Herrlich",
-            "rank": "Polizeirat",
-            "highlight": false,
-            "picture": "https://i.ibb.co/LYwy30R/bernd.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
-        },
-        {
             "name": "Mike Field",
-            "rank": "Stv. Ausbildungsleiter / Polizeirat",
+            "rank": "Stellv. Ausbildungsleiter / Polizeirat",
             "highlight": false,
             "picture": "https://i.ibb.co/0qCXnzQ/Mike-Field.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1380-deadnated/"
         },
         {
             "name": "Lukas Blaubeere",
-            "rank": "Mitarbeiter der Ausbildungsabteilung / Polizeirat",
+            "rank": "Mitarbeiter der Personalabteilung / Polizeirat",
             "highlight": false,
             "picture": "https://i.ibb.co/grN6VYS/lukas-blaubeere.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
@@ -87,8 +80,22 @@
             "name": "Khabib Nurmagomedow",
             "rank": "Polizeirat",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/5101-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
+            "picture": "https://i.ibb.co/gRBGJHR/badge.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedow/"
+        },
+        {
+            "name": "Lucas Wolf",
+            "rank": "Mitarbeiter der Beschwerdeabteilung / Polizeirat",
+            "highlight": false,
+            "picture": "https://i.ibb.co/02Bbc8K/lucas.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1620-lucas-wolf/"
+        },
+        {
+            "name": "Leon Nice",
+            "rank": "Polizeirat",
+            "highlight": false,
+            "picture": "https://i.ibb.co/2K0v733/leon-nice.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/780-leon-nice/"
         }
     ]
 }
