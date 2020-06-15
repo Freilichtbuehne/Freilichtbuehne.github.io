@@ -175,13 +175,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/947-freeze/"
         },
         {
-            "name": "Intrace",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/05/5253-053e2ae538f2348ebbfe1372e337c847d88277ab.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-arktzos/"
-        },
-        {
             "name": "Milki",
             "rank": "Supporter",
             "highlight": false,
@@ -222,6 +215,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/5215-20df846ceec3e32d0d940aa60c9beaf0e54a967d.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-koile-hd/"
-        }
+        },
+        {
+            "name": "Lucas Wolf",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/5166-a0af4bfc20ed3894d4fd0cd01beaf25f8d3e1dbf.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1620-lucas-wolf/"
+        },
     ]
 }
