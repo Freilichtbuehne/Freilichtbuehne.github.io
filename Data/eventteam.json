@@ -8,6 +8,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1147-alynexyt/"
         },
         {
+            "name": "Hugo Boss",
+            "rank": "Stv. Leitung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7b/4277-7b61675293a0f978d834aae4543a17978dd311e2.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1243-garono/"
+        },
+        {
             "name": "Kazuto White",
             "rank": "Text-Writer",
             "highlight": false,
@@ -48,13 +55,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/90/5204-90d986cb82e11862fc474d552e5dd81ac6eb2e92.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/964-raneox/"
-        },
-        {
-            "name": "Hugo Boss",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7b/4277-7b61675293a0f978d834aae4543a17978dd311e2.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1243-garono/"
         }
     ]
 }
