@@ -77,13 +77,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1530-grinningblack/"
         },
         {
-            "name": "Alexander Ulf",
-            "rank": "Moderator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8f/4842-8ffa439929d28dabd3b8fed0aa17510e87a38936.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/928-alexander-ulf/"
-        },
-        {
             "name": "Rimidal",
             "rank": "Moderator I",
             "highlight": false,
@@ -215,6 +208,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/5166-a0af4bfc20ed3894d4fd0cd01beaf25f8d3e1dbf.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1620-lucas-wolf/"
+        },
+        {
+            "name": "Tony Elpatron",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e5/4609-e5b4a5dc3c7a86ab07e787b1fe9fe9fceeb872a8.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1350-stefan/"
+        },
+        {
+            "name": "Nico Uchiha",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/5342-0a2ea7fc9cc0bd1a9bd0f2f4e252046db6a920c0.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/948-nico-uchiha/"
         }
     ]
 }
