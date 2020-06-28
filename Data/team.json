@@ -84,15 +84,8 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
         },
         {
-            "name": "Blaubeere",
-            "rank": "Moderator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/19/5171-19ad213494c3872f863ca4e53cc8d130480bcffe.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
-        },
-        {
             "name": "Silent_Wolf",
-            "rank": "Moderator III",
+            "rank": "Moderator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d4/4884-d41b8ce34fec80ea30a314b796ce8550e7f1b549.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/953-silent-wolf/"
@@ -148,21 +141,14 @@
         },
         {
             "name": "zMarkus",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f6/4889-f6459059373f1b8af35de551998d0e7826793eab.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
         },
         {
-            "name": "Dome Freeze",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/947-freeze/"
-        },
-        {
             "name": "Milki",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/4514-2b57762df5f99dca03d6b9f6fa99dc2186124ab9.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1169-milki/"
@@ -176,7 +162,7 @@
         },
         {
             "name": "Khabib Nurmagomedow",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ca/5141-cacfad03aae6cc0d924f94e577a6bb9bc0247fd2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedow/"
