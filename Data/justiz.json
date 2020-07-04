@@ -1,1 +1,39 @@
-
+{
+    "members": [{
+            "name": "Prof Dr Justin Varox",
+            "rank": "Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/be/5097-bebc17830f97d22370f3012b2207f9867380e2ac.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
+        },
+        {
+            "name": "Jeremy Varox",
+            "rank": "Stellv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f6/4889-f6459059373f1b8af35de551998d0e7826793eab.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-varox/"
+        },
+        {
+            "name": "Alex Varox",
+            "rank": "Justizoberinspektor, Justizrat",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8a/5390-8a503bb88f7957cd3ec3b2dd89b43b41ce9b9ab8.jpg",
+            "profile": "https://www.goldphoenix.de/"
+        },
+        {
+            "name": "Mika Varox",
+            "rank": "Justizamtsinspektor, Justizrat, Ausbildungabteilungsleiter",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/5197-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
+        },
+ 
+        {
+            "name": "Lucas Pinkie",
+            "rank": "VIP-Escorteleiter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/4514-2b57762df5f99dca03d6b9f6fa99dc2186124ab9.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1169-milki/#about"
+        }
+    ]
+}
