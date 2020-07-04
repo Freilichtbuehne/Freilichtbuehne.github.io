@@ -68,6 +68,13 @@ function load(page) {
             ClearPageBox();
             setActive(rpids[page]);
             break;
+         case 12:
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/justiz.json";
+            rpSection = true;
+            ClearSubBox();
+            ClearPageBox();
+            setActive(rpids[page]);
+            break;
         default:
             ClearPageBox();
             loadingError("Ladefehler");
