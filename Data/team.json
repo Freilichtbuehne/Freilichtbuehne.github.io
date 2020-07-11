@@ -63,6 +63,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
         },
         {
+            "name": "Rimidal",
+            "rank": "Operator II",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/5176-0d1b37e230307be10d785aa4ed40381e872a5ffa.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
+        },
+        {
             "name": "Firemarcel112",
             "rank": "Moderator II",
             "highlight": false,
@@ -77,13 +84,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1530-grinningblack/"
         },
         {
-            "name": "Rimidal",
-            "rank": "Moderator I",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/5176-0d1b37e230307be10d785aa4ed40381e872a5ffa.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
-        },
-        {
             "name": "Silent_Wolf",
             "rank": "Moderator II",
             "highlight": false,
@@ -96,6 +96,27 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/5260-ffe147c613c680c63be605bc2400ad796ac2cdff.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
+        },      
+        {
+            "name": "Leon Nice",
+            "rank": "Moderator II",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/5249-e42e87366dd342e40c58db30f46f8efdce4c796a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/780-leon-nice/"
+        },
+        {
+            "name": "Miguel Phoenix",
+            "rank": "Moderator II",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/5248-3cdb9001533240070b58f6beac9ecf1d2b48237c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-miguel-phoenix/"
+        },
+        {
+            "name": "zMarkus",
+            "rank": "Moderator II",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5364-76b2948f4a664ee3545b8a0f5454416e5256ba7d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
         },
         {
             "name": "jannik",
@@ -103,20 +124,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/4289-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
-        },
-        {
-            "name": "Leon Nice",
-            "rank": "Moderator III",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/5249-e42e87366dd342e40c58db30f46f8efdce4c796a.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/780-leon-nice/"
-        },
-        {
-            "name": "Miguel Phoenix",
-            "rank": "Moderator III",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/5248-3cdb9001533240070b58f6beac9ecf1d2b48237c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-miguel-phoenix/"
         },
         {
             "name": "KuchenPlays",
@@ -138,13 +145,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/fa/5385-fa4cafc7d75600352a079346b2689ac97aa531bd.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
-        },
-        {
-            "name": "zMarkus",
-            "rank": "Moderator III",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5364-76b2948f4a664ee3545b8a0f5454416e5256ba7d.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
         },
         {
             "name": "Milki",
@@ -169,7 +169,7 @@
         },
         {
             "name": "Adrian Monk",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/03/5397-032fd30951841d46a5d839d661678eb975f1d590.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
@@ -183,7 +183,7 @@
         },
         {
             "name": "Koile HD",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/5215-20df846ceec3e32d0d940aa60c9beaf0e54a967d.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-koile-hd/"
@@ -204,7 +204,7 @@
         },
         {
             "name": "Nico Uchiha",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/5342-0a2ea7fc9cc0bd1a9bd0f2f4e252046db6a920c0.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/948-nico-uchiha/"
