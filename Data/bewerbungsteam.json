@@ -1,18 +1,19 @@
 {
-    "members": [{
-            "name": "Jahseh",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
-            "profile": "https: //www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
-        },
+    "members": [
         {
             "name": "Garono",
-            "rank": "Stv. Leitung",
+            "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7b/4277-7b61675293a0f978d834aae4543a17978dd311e2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1243-garono/"
         },
+        {
+            "name": "Jahseh",
+            "rank": "Stv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
+            "profile": "https: //www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
+        },        
         {
             "name": "Rimidal",
             "rank": "Mitglied",
@@ -33,6 +34,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d4/4884-d41b8ce34fec80ea30a314b796ce8550e7f1b549.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/953-silent-wolf/"
+        },
+        {
+            "name": "Koile HD",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/5215-20df846ceec3e32d0d940aa60c9beaf0e54a967d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-koile-hd/"
         }
     ]
 }
