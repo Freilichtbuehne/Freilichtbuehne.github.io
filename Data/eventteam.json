@@ -22,13 +22,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/581-playinggun/"
         },
         {
-            "name": "Alexander Ulf",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8f/4842-8ffa439929d28dabd3b8fed0aa17510e87a38936.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/928-alexander-ulf/"
-        },
-        {
             "name": "Miguel Phoenix",
             "rank": "Mitglied",
             "highlight": false,
@@ -43,18 +36,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
         },
         {
-            "name": "Lucas Phoenix",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/62/5358-62df89c0bec88b11b190ceeb18e8306f6e119513.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/964-raneox/"
-        },
-        {
-            "name": "Koile HD",
+            "name": "Oliver Holz",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/5215-20df846ceec3e32d0d940aa60c9beaf0e54a967d.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-koile-hd/"
+        },
+        {
+            "name": "Benny Herrlich",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fa/5385-fa4cafc7d75600352a079346b2689ac97aa531bd.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
+        },
+        {
+            "name": "Paul Wolf",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ed/5257-ed6b09c176d188fa4beb4c7cc1054d9ee038c8e2.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1436-affe134/"
+        },
+        {
+            "name": "Rimi Dal",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/5176-0d1b37e230307be10d785aa4ed40381e872a5ffa.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
         }
     ]
 }
