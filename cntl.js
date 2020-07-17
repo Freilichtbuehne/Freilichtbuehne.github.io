@@ -9,6 +9,8 @@ const rpids = {
 const maxEntrys = 10;
 var curMembers;
 var rpSection;
+var membersOnSite = 0;
+
 
 function load(page) {
     let url;
@@ -87,6 +89,7 @@ function load(page) {
             processData(data);
         })
         .catch(error => loadingError(error))
+    
 }
 
 function setActive(id) {
@@ -157,6 +160,7 @@ function newElement(url, name, highlight, index, text, profile) {
     if (highlight) {
         document.getElementById(index).classList.add("highlight");
     }
+    membersOnSite++;
 }
 
 function createPageNav(pages) {
@@ -194,9 +198,10 @@ function createPageNav(pages) {
 }
 
 function processData(value) {
+    document.getElementById('scrollUp').style.visibility = 'hidden';
+    membersOnSite = 0;
     curMembers = value;
     if (curMembers.members.length > maxEntrys) {
-        //createPageNav(parseInt(curMembers.members.length / maxEntrys) + 1);
         let pages = curMembers.members.length / maxEntrys;
         if (pages === parseInt(pages, 10)) {
             createPageNav(pages);
@@ -208,6 +213,14 @@ function processData(value) {
             newElement(value.members[i].picture, value.members[i].name, value.members[i].highlight, i, value.members[i].rank, value.members[i].profile);
         }
     }
+    if(membersOnSite > 4){
+       document.getElementById('scrollUp').style.visibility = 'visible';
+    }
+}
+
+function ScrollToTop(){
+    let topElement = document.getElementsByClassName("menuBox");
+    topElement[0].scrollIntoView();
 }
 
 function OpenURL(url) {
@@ -222,4 +235,5 @@ NodeList.prototype.remove = HTMLCollection.prototype.remove = function() {
 }
 window.addEventListener("load", function(event) {
     document.getElementsByClassName("loader").remove();
+    document.getElementById("scrollUp").onclick = function() {ScrollToTop()};
 });

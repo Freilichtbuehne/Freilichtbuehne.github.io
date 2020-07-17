@@ -198,6 +198,24 @@ img {
     animation: borealisBar 3s linear infinite;
     box-shadow: 0px 0px 5px 1px rgb(255, 243, 77);
 }
+button{
+    border-style: none;
+    font-size: 17px;
+    background-color: #212121;
+    color: #a1a1a1;
+    margin-top: 5px;
+    padding: 8px;   
+    box-shadow: 0px 3px 0px 0px rgba(255, 60, 0);
+}
+button:hover{
+    background-color: rgb(53, 53, 53);
+    color: black;
+    cursor: pointer;
+    box-shadow: 0px 3px 0px 0px rgba(255, 60, 0);
+}
+button:focus{
+    outline:0;
+}
 
 @keyframes borealisBar {
     0% {
