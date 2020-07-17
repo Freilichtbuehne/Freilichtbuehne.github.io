@@ -219,8 +219,7 @@ function processData(value) {
 }
 
 function ScrollToTop(){
-    let topElement = document.getElementsByClassName("menuBox");
-    topElement[0].scrollIntoView();
+    window.scrollTo(0,0);
 }
 
 function OpenURL(url) {
