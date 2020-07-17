@@ -219,7 +219,7 @@ function processData(value) {
 }
 
 function ScrollToTop(){
-    window.scrollTo(0,0);
+    document.getElementById("top").scrollIntoView();
 }
 
 function OpenURL(url) {
