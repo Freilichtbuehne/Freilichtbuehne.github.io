@@ -7,9 +7,9 @@ const rpids = {
     12: "jus"
 }
 const maxEntrys = 10;
+const showPageUpEntrys = 4;
 var curMembers;
 var rpSection;
-var membersOnSite = 0;
 
 
 function load(page) {
@@ -160,12 +160,11 @@ function newElement(url, name, highlight, index, text, profile) {
     if (highlight) {
         document.getElementById(index).classList.add("highlight");
     }
-    membersOnSite++;
 }
 
 function createPageNav(pages) {
+    ShowScrollToTop(true);
     for (let index = 0; index < pages; index++) {
-
         var box = document.getElementById("pageBox");
         var div = document.createElement("div");
         div.addEventListener('click', function() {
@@ -178,7 +177,12 @@ function createPageNav(pages) {
                         curMembers.members[i].highlight, i, curMembers.members[i].rank,
                         curMembers.members[i].profile);
                 }
-
+                if((curMembers.members.length - (maxEntrys * curPage + maxEntrys)) +10 >= showPageUpEntrys){
+                    ShowScrollToTop(true);
+                }
+                else{
+                    ShowScrollToTop(false);
+                }
             }
         });;
         var text = document.createTextNode(index + 1);
@@ -198,8 +202,7 @@ function createPageNav(pages) {
 }
 
 function processData(value) {
-    document.getElementById('scrollUp').style.visibility = 'hidden';
-    membersOnSite = 0;
+    ShowScrollToTop(false);
     curMembers = value;
     if (curMembers.members.length > maxEntrys) {
         let pages = curMembers.members.length / maxEntrys;
@@ -212,12 +215,15 @@ function processData(value) {
         for (let i = 0; i < value.members.length; i++) {
             newElement(value.members[i].picture, value.members[i].name, value.members[i].highlight, i, value.members[i].rank, value.members[i].profile);
         }
-    }
-    if(membersOnSite > 4){
-       document.getElementById('scrollUp').style.visibility = 'visible';
+        if(curMembers.members.length >= showPageUpEntrys){
+            ShowScrollToTop(true);          
+        }
     }
 }
-
+//document.getElementById('scrollUp').style.visibility = 'visible';
+function ShowScrollToTop(show){
+    show ? document.getElementById('scrollUp').style.visibility = 'visible':document.getElementById('scrollUp').style.visibility = 'hidden';
+}
 function ScrollToTop(){
     document.getElementById("top").scrollIntoView();
 }
