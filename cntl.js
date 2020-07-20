@@ -7,7 +7,7 @@ const rpids = {
     12: "jus"
 }
 const maxEntrys = 10;
-const showPageUpEntrys = 4;
+const showPageUpEntrys = 5;
 var curMembers;
 var rpSection;
 
