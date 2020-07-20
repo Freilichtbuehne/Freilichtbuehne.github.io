@@ -17,7 +17,7 @@ function load(page) {
 
     switch (page) {
         case 1:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/team.json";
+            url = "https://bit.ly/32ANsqN";
             rpSection = false;
             break;
         case 2:
