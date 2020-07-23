@@ -1,5 +1,13 @@
 {
-    "members": [{
+    "members": [
+        {
+            "name": "Samuel",
+            "rank": "none",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/19/5368-195538187349e621d752cc7ee6aa594220a4ed43.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/358-samuel-ulf/"
+        },
+        {
             "name": "Garono",
             "rank": "none",
             "highlight": false,
@@ -21,11 +29,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
         },
         {
-            "name": "Samuel",
+            "name": "Leon Nice",
             "rank": "none",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/19/5368-195538187349e621d752cc7ee6aa594220a4ed43.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/358-samuel-ulf/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/5249-e42e87366dd342e40c58db30f46f8efdce4c796a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/780-leon-nice/"
         }
     ]
 }
