@@ -6,8 +6,9 @@ const rpids = {
     11: "sek",
     12: "jus"
 }
+
 const maxEntrys = 10;
-const showPageUpEntrys = 5;
+const showPageUpEntrys = 6;
 var curMembers;
 var rpSection;
 
@@ -71,7 +72,7 @@ function load(page) {
             ClearPageBox();
             setActive(rpids[page]);
             break;
-         case 12:
+        case 12:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/justiz.json";
             rpSection = true;
             ClearSubBox();
@@ -89,7 +90,6 @@ function load(page) {
             processData(data);
         })
         .catch(error => loadingError(error))
-    
 }
 
 function setActive(id) {
@@ -154,7 +154,7 @@ function newElement(url, name, highlight, index, text, profile) {
     document.getElementById(index).appendChild(t).id = "text" + index;
 
     document.getElementById("img" + index).src = url;
-    document.getElementById("img" + index).addEventListener('click', function() {
+    document.getElementById("img" + index).addEventListener('click', function () {
         OpenURL(profile);
     });
     if (highlight) {
@@ -167,20 +167,20 @@ function createPageNav(pages) {
     for (let index = 0; index < pages; index++) {
         var box = document.getElementById("pageBox");
         var div = document.createElement("div");
-        div.addEventListener('click', function() {
+        div.addEventListener('click', function () {
             ClearSubBox(rpSection);
             let curPage = this.id.substring(1);
             setActivePage(this.id);
+            console.log((curMembers.members.length - (maxEntrys * curPage + maxEntrys)) + maxEntrys)
             for (let i = maxEntrys * curPage; i < maxEntrys * curPage + maxEntrys; i++) {
                 if (i < curMembers.members.length) {
                     newElement(curMembers.members[i].picture, curMembers.members[i].name,
                         curMembers.members[i].highlight, i, curMembers.members[i].rank,
                         curMembers.members[i].profile);
                 }
-                if((curMembers.members.length - (maxEntrys * curPage + maxEntrys)) +10 >= showPageUpEntrys){
+                if ((curMembers.members.length - (maxEntrys * curPage + maxEntrys)) + maxEntrys >= showPageUpEntrys) {
                     ShowScrollToTop(true);
-                }
-                else{
+                } else {
                     ShowScrollToTop(false);
                 }
             }
@@ -188,7 +188,6 @@ function createPageNav(pages) {
         var text = document.createTextNode(index + 1);
         div.appendChild(text);
         box.appendChild(div).id = "p" + index;
-
     }
     setActivePage("p0");
     for (let i = 0; i < maxEntrys; i++) {
@@ -197,7 +196,6 @@ function createPageNav(pages) {
                 curMembers.members[i].highlight, i, curMembers.members[i].rank,
                 curMembers.members[i].profile);
         }
-
     }
 }
 
@@ -215,30 +213,33 @@ function processData(value) {
         for (let i = 0; i < value.members.length; i++) {
             newElement(value.members[i].picture, value.members[i].name, value.members[i].highlight, i, value.members[i].rank, value.members[i].profile);
         }
-        if(curMembers.members.length >= showPageUpEntrys){
-            ShowScrollToTop(true);          
+        if (curMembers.members.length >= showPageUpEntrys) {
+            ShowScrollToTop(true);
         }
     }
 }
-//document.getElementById('scrollUp').style.visibility = 'visible';
-function ShowScrollToTop(show){
-    show ? document.getElementById('scrollUp').style.visibility = 'visible':document.getElementById('scrollUp').style.visibility = 'hidden';
+
+function ShowScrollToTop(show) {
+    show ? document.getElementById('scrollUp').style.visibility = 'visible' : document.getElementById('scrollUp').style.visibility = 'hidden';
 }
-function ScrollToTop(){
+
+function ScrollToTop() {
     document.getElementById("top").scrollIntoView();
 }
 
 function OpenURL(url) {
     window.open(url, '_blank');
 }
-NodeList.prototype.remove = HTMLCollection.prototype.remove = function() {
+NodeList.prototype.remove = HTMLCollection.prototype.remove = function () {
     for (var i = this.length - 1; i >= 0; i--) {
         if (this[i] && this[i].parentElement) {
             this[i].parentElement.removeChild(this[i]);
         }
     }
 }
-window.addEventListener("load", function(event) {
+window.addEventListener("load", function (event) {
     document.getElementsByClassName("loader").remove();
-    document.getElementById("scrollUp").onclick = function() {ScrollToTop()};
+    document.getElementById("scrollUp").onclick = function () {
+        ScrollToTop()
+    };
 });
