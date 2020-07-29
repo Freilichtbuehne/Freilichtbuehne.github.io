@@ -163,7 +163,6 @@ function createPageNav(pages) {
             ClearSubBox(rpSection);
             let curPage = this.id.substring(1);
             setActivePage(this.id);
-            console.log((curMembers.members.length - (maxEntrys * curPage + maxEntrys)) + maxEntrys)
             for (let i = maxEntrys * curPage; i < maxEntrys * curPage + maxEntrys; i++) {
                 if (i < curMembers.members.length) {
                     newElement(curMembers.members[i].picture, curMembers.members[i].name,
