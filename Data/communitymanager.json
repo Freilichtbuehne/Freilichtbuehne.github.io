@@ -20,20 +20,20 @@
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/5260-ffe147c613c680c63be605bc2400ad796ac2cdff.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
-        },       
-        {
-            "name": "Rimidal",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/5176-0d1b37e230307be10d785aa4ed40381e872a5ffa.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
-        },
+        },      
         {
             "name": "GZUZ",
             "rank": "Teamverwaltung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ca/5141-cacfad03aae6cc0d924f94e577a6bb9bc0247fd2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedow/"
+        },
+        {
+            "name": "Rimidal",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/5176-0d1b37e230307be10d785aa4ed40381e872a5ffa.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
         },
         {
             "name": "Markus",
