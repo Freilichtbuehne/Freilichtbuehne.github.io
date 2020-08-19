@@ -12,6 +12,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
             "profile": "https://www.goldphoenix.de/index.php?thread/4021-bewerbung-zum-fahrlehrer/"
-        }    
+        },
+        {
+            "name": "Fabian Jauch",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/5193-4c5949cb52a863b17c64ddc0180d864714fd0af2.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1147-alynexyt/"
+        },        
+        {
+            "name": "Justin Varox",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/be/5097-bebc17830f97d22370f3012b2207f9867380e2ac.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
+        }   
     ]
 }
