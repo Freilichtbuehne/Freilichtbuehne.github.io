@@ -1,32 +1,32 @@
 {
     "members": [
         {
-        "name": "Luca Jauch",
-        "rank": "Oberbrandadmiral | Leitung",
-        "highlight": true,
-        "picture": "https://i.ibb.co/kSpnyYz/badge-6.png",
-        "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
-        },
-        {
-            "name": "Marly Ulf",
-            "rank": "Oberbrandadmiral | Stv. Leitung",
+            "name": "Luca Jauch",
+            "rank": "Leitender Branddirektor | Leitung",
             "highlight": true,
-            "picture": "https://i.ibb.co/nwyKW5H/badge-8.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/536-marly/"
-        },
-        {
-            "name": "Bernd Herrlich",
-            "rank": "Oberbrandadmiral | Stv. Leitung",
-            "highlight": true,
-            "picture": "https://i.ibb.co/WHdSrSP/badge-7.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
+            "picture": "https://i.ibb.co/pwY6n7L/image.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
         },
         {
             "name": "Alexander Ulf",
-            "rank": "Ausbildungsleitung",
+            "rank": "Brandrat | Ausbildungs Leitung",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/4289-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
+            "picture": "https://i.ibb.co/nDKYrBj/image.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/928-alexander-ulf/"
+        },
+        {
+            "name": "Felix Schiro Eckert",
+            "rank": "Brandreferendar",
+            "highlight": false,
+            "picture": "https://i.ibb.co/VtQT6HS/image.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
+        },
+        {
+            "name": "Marlon Varox",
+            "rank": "Brandreferendar",
+            "highlight": false,
+            "picture": "https://i.ibb.co/cxQJVMW/image.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-feuerwehrmann-marlon/"
         }
     ]
 }
