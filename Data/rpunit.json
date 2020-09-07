@@ -1,0 +1,67 @@
+{
+    "members": [
+        {
+            "name": "Nico Uchiha",
+            "rank": "Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/de/5468-def6c14a9aa094458a6d5a561024c35118e3d3c5.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/948-nico-uchiha/"
+        },
+        {
+            "name": "Leon Nice",
+            "rank": "Stv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/5249-e42e87366dd342e40c58db30f46f8efdce4c796a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/780-leon-nice/"
+        },
+        {
+            "name": "Jeremy Herrlich",
+            "rank": "Moderator",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/5485-40fe469814bf9e2a5bead28fd49d542e4f175805.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-varox/"
+        },
+        {
+            "name": "Phelios Fries",
+            "rank": "Moderator",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
+        },
+        {
+            "name": "Maik Herrlich",
+            "rank": "Moderator",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/33/5256-33c393bd3ae7792cbf023a9762d81eab5dbddf90.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1650-maik-voight/"
+        },
+        {
+            "name": "Joonas Royal",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/cc/5427-ccd14f9d444627df800ad05fb7ac61c7eb0d27ae.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-arktzos/"
+        },
+        {
+            "name": "Markus Albendorf",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5364-76b2948f4a664ee3545b8a0f5454416e5256ba7d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
+        },
+        {
+            "name": "Oliver Herrlich",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/5215-20df846ceec3e32d0d940aa60c9beaf0e54a967d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-koile-hd/"
+        },
+        {
+            "name": "Miguel Herrlich",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/5248-3cdb9001533240070b58f6beac9ecf1d2b48237c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-miguel-phoenix/"
+        }
+    ]
+}
