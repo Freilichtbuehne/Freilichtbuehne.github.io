@@ -3,8 +3,7 @@ const rpids = {
     8: "med",
     9: "feu",
     10: "far",
-    11: "sek",
-    12: "rpu"
+    11: "sek"
 }
 
 const maxEntrys = 10;
@@ -74,10 +73,7 @@ function load(page) {
             break;
         case 12:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/rpunit.json";
-            rpSection = true;
-            ClearSubBox();
-            ClearPageBox();
-            setActive(rpids[page]);
+            rpSection = false;
             break;
         default:
             ClearPageBox();
@@ -93,7 +89,7 @@ function load(page) {
 }
 
 function setActive(id) {
-    var ids = ["pol", "med", "feu", "far", "sek", "rpu"];
+    var ids = ["pol", "med", "feu", "far", "sek"];
     for (let i = 0; i < ids.length; i++) {
         document.getElementById(ids[i]).classList.remove("active");
     }
