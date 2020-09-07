@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="de">
+<div id="top"></div>
 
 <head>
     <meta charset="UTF-8">
@@ -20,14 +21,24 @@
         <a href="Page4.html">Teammanagement</a>
         <a href="Page5.html">Communityorganizer</a>
         <a href="Page6.html">RP-Unit</a>
-        <a href="Page7.html">RP-Leitungen</a>
-        <a class="active" href="Page0.html">Info</a>
+        <a class="active" href="Page7.html">RP-Leitungen</a>
+        <a href="Page0.html">Info</a>
     </div>
-    <div id="infoBox">
-        <p>Diese Seite soll einen schnellen und kompakten Überblick über alle Teams unserer Community ermöglichen. Sollte hier etwas falsch abgebildet sein, oder es funktioniert nicht, wie es sollte, darfst du es gerne <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6xysVWeoDaYhz4byVHfOE6CX2HIsbmWSpw8BrtUGs27RVJA/viewform?usp=sf_link"
-                target="_blank" style="color: rgb(26, 26, 26);"> hier </a> melden. </p>
-
-        <a href="https://www.goldphoenix.de/wcf/index.php?user/358-samuel-ulf/" target="_blank" style="color: rgb(165, 165, 165); text-decoration: none;">Erstellt von Samuel</a>
+    <div id="pageBox">
     </div>
+    <div id="contentBox">
+        <div class="subBox">
+            <a onclick="load(7)" id="pol">Polizei</a>
+            <a onclick="load(8)" id="med">Rettungsdienst</a>
+            <a onclick="load(9)" id="feu">Feuerwehr</a>
+            <a onclick="load(10)" id="far">Fahrschule</a>
+            <a onclick="load(11)" id="sek">SEK</a>
+        </div>
+        <div class="loader">
+            <div class="loaderBar"></div>
+        </div>
+    </div>
+    <button id="scrollUp" style="visibility: hidden;">nach Oben</button>
+</body>
 
 </html>

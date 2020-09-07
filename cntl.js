@@ -36,6 +36,10 @@ function load(page) {
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/communitymanager.json";
             rpSection = false;
             break;
+        case 6:
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/rpunit.json";
+            rpSection = false;
+            break;
         case 7:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/polizei.json";
             rpSection = true;
@@ -70,10 +74,6 @@ function load(page) {
             ClearSubBox();
             ClearPageBox();
             setActive(rpids[page]);
-            break;
-        case 12:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/rpunit.json";
-            rpSection = false;
             break;
         default:
             ClearPageBox();
@@ -150,7 +150,7 @@ function newElement(url, name, highlight, index, text, profile) {
     document.getElementById(index).appendChild(t).id = "text" + index;
 
     document.getElementById("img" + index).src = url;
-    document.getElementById("img" + index).addEventListener('click', function () {
+    document.getElementById("img" + index).addEventListener('click', function() {
         OpenURL(profile);
     });
     if (highlight) {
@@ -163,7 +163,7 @@ function createPageNav(pages) {
     for (let index = 0; index < pages; index++) {
         var box = document.getElementById("pageBox");
         var div = document.createElement("div");
-        div.addEventListener('click', function () {
+        div.addEventListener('click', function() {
             ClearSubBox(rpSection);
             let curPage = this.id.substring(1);
             setActivePage(this.id);
@@ -225,16 +225,16 @@ function ScrollToTop() {
 function OpenURL(url) {
     window.open(url, '_blank');
 }
-NodeList.prototype.remove = HTMLCollection.prototype.remove = function () {
+NodeList.prototype.remove = HTMLCollection.prototype.remove = function() {
     for (var i = this.length - 1; i >= 0; i--) {
         if (this[i] && this[i].parentElement) {
             this[i].parentElement.removeChild(this[i]);
         }
     }
 }
-window.addEventListener("load", function (event) {
+window.addEventListener("load", function(event) {
     document.getElementsByClassName("loader").remove();
-    document.getElementById("scrollUp").onclick = function () {
+    document.getElementById("scrollUp").onclick = function() {
         ScrollToTop()
     };
 });
