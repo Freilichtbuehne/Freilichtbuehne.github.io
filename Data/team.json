@@ -91,6 +91,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/780-leon-nice/"
         },
         {
+            "name": "Jeremy Herrlich",
+            "rank": "Operator II",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/5485-40fe469814bf9e2a5bead28fd49d542e4f175805.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-varox/"
+        },
+        {
             "name": "Miguel Herrlich",
             "rank": "Moderator II",
             "highlight": false,
@@ -119,13 +126,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1169-milki/"
         },
         {
-            "name": "Jeremy Herrlich",
-            "rank": "Moderator I",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/5485-40fe469814bf9e2a5bead28fd49d542e4f175805.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-varox/"
-        },
-        {
             "name": "Khabib Nurmagomedow",
             "rank": "Moderator I",
             "highlight": false,
@@ -148,7 +148,7 @@
         },
         {
             "name": "Koile HD",
-            "rank": "Moderator III",
+            "rank": "Moderator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/5215-20df846ceec3e32d0d940aa60c9beaf0e54a967d.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-koile-hd/"
@@ -176,14 +176,14 @@
         },
         {
             "name": "Maik Herrlich",
-            "rank": "Moderator III",
+            "rank": "Moderator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/33/5256-33c393bd3ae7792cbf023a9762d81eab5dbddf90.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1650-maik-voight/"
         },
         {
             "name": "Salzi",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
