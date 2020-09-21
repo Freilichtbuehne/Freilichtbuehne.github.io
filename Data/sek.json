@@ -1,42 +1,27 @@
 {
     "members": [
-        
-        {
-            "name": "Ghost 2",
-            "rank": "Leitung/Ausbilder",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d4/4884-d41b8ce34fec80ea30a314b796ce8550e7f1b549.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/953-silent-wolf/"
-        },
-        {
-            "name": "Steel 26",
-            "rank": "Stellv. Leitung/Ausbilder",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5364-76b2948f4a664ee3545b8a0f5454416e5256ba7d.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
-        },
-        {
-            "name": "Thunder 08",
-            "rank": "Major/Ausbilder",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/88/5123-88211656319b0928e508fd530af5894511daa014.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1380-deadnated/"
-        },
+ 
         {
             "name": "Refox 53",
-            "rank": "Major/Ausbilder",
+            "rank": "Leitung/Ausbilder",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/33/5256-33c393bd3ae7792cbf023a9762d81eab5dbddf90.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1650-maik-voight/"
         },
         {
+            "name": "Thunder 08",
+            "rank": "Stellv. Leitung/Ausbilder",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/88/5123-88211656319b0928e508fd530af5894511daa014.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1380-deadnated/"
+        },
+        {
             "name": "Rox 49",
-            "rank": "Offizier",
-            "highlight": false,
+            "rank": "Major",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/8a/5462-8a503bb88f7957cd3ec3b2dd89b43b41ce9b9ab8.jpg",
             "profile": ""
         },
- 
         {
             "name": "Buck 33",
             "rank": "Leutnant",
@@ -44,13 +29,12 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/8a/5462-8a503bb88f7957cd3ec3b2dd89b43b41ce9b9ab8.jpg",
             "profile": ""
         },
- 
         {
-            "name": "Wolf 07",
+            "name": "Bulldog 11",
             "rank": "Leutnant",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6e/5012-6e0396efb349648f8b4483b4e3a92ab24d2f35f2.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1544-xwolfy/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/5260-ffe147c613c680c63be605bc2400ad796ac2cdff.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
         },
         {
             "name": "Sigma 80",
@@ -58,13 +42,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/25/5117-259a4381fbec9f254e696d54b5fdd6151279f7b5.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1602-notakyo/"
-        },
-        {
-            "name": "Bulldog 11",
-            "rank": "Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/5260-ffe147c613c680c63be605bc2400ad796ac2cdff.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
         },
         {
             "name": "Charlie 19",
@@ -79,6 +56,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a6/4078-a6a7b847937270919d62f5e92b25a839153f50f6.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1115-fraeggl"
+        },
+        {
+            "name": "Bravo 78",
+            "rank": "Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/53/4799-5367ffddc560aa9b2b2111a28f54688cda6c6c2e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1462-kuchenplays/"
+        },
+        {
+            "name": "Blackbeard 20",
+            "rank": "Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/5268-86edfc5f1ac15a1bd7065df5a9a7d5826a364676.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1657-hank-voight/"
         }
     ]
 }
