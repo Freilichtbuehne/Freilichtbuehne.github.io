@@ -36,10 +36,17 @@
         },
         {
             "name": "Garono",
-            "rank": "Operator I",
-            "highlight": false,
+            "rank": "Admin",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7b/4277-7b61675293a0f978d834aae4543a17978dd311e2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1243-garono/"
+        },
+        {
+            "name": "Rimidal",
+            "rank": "Admin",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/5176-0d1b37e230307be10d785aa4ed40381e872a5ffa.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
         },
         {
             "name": "AlynexYT",
@@ -54,14 +61,7 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
-        },
-        {
-            "name": "Rimidal",
-            "rank": "Operator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/5176-0d1b37e230307be10d785aa4ed40381e872a5ffa.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
-        },
+        },  
         {
             "name": "Firemarcel112",
             "rank": "Moderator II",
