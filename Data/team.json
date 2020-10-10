@@ -201,7 +201,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/5569-73ca38f5ab1d705840237d029736b419a29462d5.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1800-justin-ausserkontrolle/"
+        },
+        {
+            "name": "Justin Bob",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e8/5654-e8ee034f0207b0fb2de5c5a40b935cc187506d94.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-justin-bob/"
         }
-        
     ]
 }
