@@ -2,31 +2,10 @@
     "members": [
         {
             "name": "Luca Jauch",
-            "rank": "Leitender Branddirektor | Leitung",
-            "highlight": true,
-            "picture": "https://i.ibb.co/pwY6n7L/image.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
-        },
-        {
-            "name": "Alexander Ulf",
-            "rank": "Brandrat | Ausbildungs Leitung",
+            "rank": "none",
             "highlight": false,
-            "picture": "https://i.ibb.co/nDKYrBj/image.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/928-alexander-ulf/"
-        },
-        {
-            "name": "Felix Schiro Eckert",
-            "rank": "Brandreferendar",
-            "highlight": false,
-            "picture": "https://i.ibb.co/VtQT6HS/image.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
-        },
-        {
-            "name": "Marlon Varox",
-            "rank": "Brandreferendar",
-            "highlight": false,
-            "picture": "https://i.ibb.co/cxQJVMW/image.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-feuerwehrmann-marlon/"
+            "picture": "https://www.stuttgarter-nachrichten.de/media.media.23badd13-d5ae-4b61-8974-a4a4480dfcb4.original1024.jpg",
+            "profile": "https://www.goldphoenix.de/"
         }
     ]
 }
