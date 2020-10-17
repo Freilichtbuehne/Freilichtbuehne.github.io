@@ -63,19 +63,12 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
         },  
         {
-            "name": "Luca11013 -GPX-",
-            "rank": "Moderator III",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/5260-ffe147c613c680c63be605bc2400ad796ac2cdff.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
-        },      
-        {
             "name": "Jeremy Herrlich",
             "rank": "Operator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/24/5661-24cfa7f62bf4d8cc7e59e974b89a6473a27300e5.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-varox/"
-        },
+        },     
         {
             "name": "Miguel Herrlich",
             "rank": "Moderator I",
@@ -91,6 +84,41 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
         },
         {
+            "name": "Khabib Nurmagomedow",
+            "rank": "Moderator I",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fa/5542-fa525bafe5ad7494429a02e033013e0a12d81064.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedow/"
+        },
+        {
+            "name": "Oliver Herrlich",
+            "rank": "Moderator II",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/5581-a0c420e05ca56b6433581185388f384d30c1a77d.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-koile-hd/"
+        },
+        {
+            "name": "Maik Herrlich",
+            "rank": "Moderator II",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/33/5256-33c393bd3ae7792cbf023a9762d81eab5dbddf90.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1650-maik-voight/"
+        },
+        {
+            "name": "Luke",
+            "rank": "Moderator II",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
+        },
+        {
+            "name": "Luca11013 -GPX-",
+            "rank": "Moderator III",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/5260-ffe147c613c680c63be605bc2400ad796ac2cdff.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
+        }, 
+        {
             "name": "KuchenPlays",
             "rank": "Moderator III",
             "highlight": false,
@@ -103,13 +131,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/4514-2b57762df5f99dca03d6b9f6fa99dc2186124ab9.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1169-milki/"
-        },
-        {
-            "name": "Khabib Nurmagomedow",
-            "rank": "Moderator I",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fa/5542-fa525bafe5ad7494429a02e033013e0a12d81064.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedow/"
         },
         {
             "name": "Adrian Monk",
@@ -126,27 +147,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1380-deadnated/"
         },
         {
-            "name": "Oliver Herrlich",
-            "rank": "Moderator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/5581-a0c420e05ca56b6433581185388f384d30c1a77d.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-koile-hd/"
-        },
-        {
-            "name": "Lucas Wolf",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/5166-a0af4bfc20ed3894d4fd0cd01beaf25f8d3e1dbf.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1620-lucas-wolf/"
-        },
-        {
-            "name": "Maik Herrlich",
-            "rank": "Moderator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/33/5256-33c393bd3ae7792cbf023a9762d81eab5dbddf90.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1650-maik-voight/"
-        },
-        {
             "name": "Salzi",
             "rank": "Moderator III",
             "highlight": false,
@@ -154,11 +154,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         },
         {
-            "name": "Luke",
-            "rank": "Moderator II",
+            "name": "Lucas Wolf",
+            "rank": "Supporter",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/5166-a0af4bfc20ed3894d4fd0cd01beaf25f8d3e1dbf.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1620-lucas-wolf/"
         },
         {
             "name": "Intrace",
@@ -197,7 +197,7 @@
         },
         {
             "name": "Justin Bob",
-            "rank": "Mitglied",
+            "rank": "Supporter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e8/5654-e8ee034f0207b0fb2de5c5a40b935cc187506d94.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-justin-bob/"
