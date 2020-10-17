@@ -50,14 +50,14 @@
         },
         {
             "name": "AlynexYT",
-            "rank": "Operator II",
+            "rank": "Operator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/5193-4c5949cb52a863b17c64ddc0180d864714fd0af2.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1147-alynexyt/"
         },
         {
             "name": "Jahseh",
-            "rank": "Operator II",
+            "rank": "Operator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
@@ -78,7 +78,7 @@
         },
         {
             "name": "Miguel Herrlich",
-            "rank": "Moderator II",
+            "rank": "Moderator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/5248-3cdb9001533240070b58f6beac9ecf1d2b48237c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-miguel-phoenix/"
@@ -140,13 +140,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1620-lucas-wolf/"
         },
         {
-            "name": "Tony Elpatron",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e5/4609-e5b4a5dc3c7a86ab07e787b1fe9fe9fceeb872a8.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1350-stefan/"
-        },
-        {
             "name": "Maik Herrlich",
             "rank": "Moderator II",
             "highlight": false,
@@ -162,7 +155,7 @@
         },
         {
             "name": "Luke",
-            "rank": "Moderator III",
+            "rank": "Moderator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
