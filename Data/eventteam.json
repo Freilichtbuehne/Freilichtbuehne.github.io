@@ -8,13 +8,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1147-alynexyt/"
         },
         {
-            "name": "Jahseh",
-            "rank": "Stv. Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
-            "profile": "https: //www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
-        },
-        {
             "name": "Kazuto White",
             "rank": "Text-Writer",
             "highlight": false,
@@ -50,18 +43,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
         },
         {
-            "name": "zMarkus",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5364-76b2948f4a664ee3545b8a0f5454416e5256ba7d.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
-        },
-        {
             "name": "Rimidal",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/5176-0d1b37e230307be10d785aa4ed40381e872a5ffa.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
+        },
+        {
+            "name": "zMarkus",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5364-76b2948f4a664ee3545b8a0f5454416e5256ba7d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
         }
     ]
 }
