@@ -1,11 +1,11 @@
 {
     "members": [
         {
-            "name": "Norbert Hellmann",
-            "rank": "Leitd. Branddirektor",
-            "highlight": true,
-            "picture": "https://i.ibb.co/Zhdbr5J/LEITENDER-BRANDDIREKTOR.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1802-ron/"
+            "name": "Justin Isetta",
+            "rank": "Brandoberinspektor",
+            "highlight": false,
+            "picture": "https://i.ibb.co/y5KMZ1X/Brandoberinspekto.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
         },
         {
             "name": "Dietrich Hellmann",
@@ -13,6 +13,13 @@
             "highlight": true,
             "picture": "https://i.ibb.co/YtRTv1w/Branddirektor.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
+        },
+        {
+            "name": "Justin Isetta",
+            "rank": "Brandoberinspektor",
+            "highlight": false,
+            "picture": "https://i.ibb.co/y5KMZ1X/Brandoberinspekto.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
         }
     ]
 }
