@@ -1,14 +1,8 @@
 {
     "members": [{
-            "name": "Levis Royal",
-            "rank": "Beauftragter für Abteilungen / Polizeipräsident",
-            "highlight": true,
-            "picture": "https://i.ibb.co/zngD6gw/Royal-neu-1.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1043-crazyjason/"
-        },
         {
             "name": "Miguel Herrlich",
-            "rank": "Beauftragter für Abteilungen / Polizeivizepräsident",
+            "rank": "Polizeipräsident",
             "highlight": true,
             "picture": "https://i.ibb.co/FYxkwRr/Miguel.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-miguel-phoenix/"
