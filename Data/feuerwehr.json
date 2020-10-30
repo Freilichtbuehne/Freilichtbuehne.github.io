@@ -16,10 +16,25 @@
         },
         {
             "name": "Justin Isetta",
+            "rank": "Brandreferandar",
+            "highlight": false,
+            "picture": "https://i.ibb.co/c6LFtX3/Brandreferandar.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
+        },
+        {
+            "name": "Marlon Varox",
             "rank": "Brandoberinspektor",
             "highlight": false,
             "picture": "https://i.ibb.co/y5KMZ1X/Brandoberinspekto.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-feuerwehrmann-marlon/"
+        },
+        {
+            "name": "Felix Shiro Eckert",
+            "rank": "Brandoberinspektor",
+            "highlight": false,
+            "picture": "https://i.ibb.co/y5KMZ1X/Brandoberinspekto.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
         }
+
     ]
 }
