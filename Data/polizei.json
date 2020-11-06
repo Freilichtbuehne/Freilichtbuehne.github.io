@@ -29,38 +29,31 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
         },
         {
-            "name": "Joonas Royal",
-            "rank": "Polizeirat | Personalabteilung",
+            "name": "Rony Wolf",
+            "rank": "Polizei Oberrat | Ausbildungsabteilung",
             "highlight": false,
-            "picture": "https://i.ibb.co/DQPN0Vv/joonas.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
+            "picture": "https://i.ibb.co/t2DPz3q/wolf.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
+        },
+        {
+            "name": "Rosnof Wolf",
+            "rank": "Polizei Oberrat | Ausbildungsabteilung",
+            "highlight": false,
+            "picture": "https://i.ibb.co/DztYC53/ro.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1699-rosnof-wolf/"
         },
         {
             "name": "Ren Wheeler",
-            "rank": "Polizeirat",
+            "rank": "Polizei Oberrat | Ausbildungsabteilung",
             "highlight": false,
-            "picture": "https://i.ibb.co/fN5r9cv/Wheeler.jpg",
-            "profile": "https://www.goldphoenix.de"
+            "picture": "https://i.ibb.co/3M1Rmwg/Wheeler.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         },
-        {
+        {    
             "name": "Justin Isetta",
             "rank": "Polizeirat",
             "highlight": false,
-            "picture": "https://i.ibb.co/rFCyYqF/isetta.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
-        },
-        {
-            "name": "Rony Fux",
-            "rank": "Polizeirat | Ausbildungsabteilung",
-            "highlight": false,
-            "picture": "https://i.ibb.co/9HTSBXN/Fux.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
-        {    
-            "name": "Rosnof Wolf",
-            "rank": "Polizeirat | Ausbildungsabteilung",
-            "highlight": false,
-            "picture": "https://i.ibb.co/3yHwqGY/Rosnof.jpg",
+            "picture": "https://i.ibb.co/6ws7jfS/isetta.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1699-rosnof-wolf/"
         }
     ]
