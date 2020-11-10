@@ -61,13 +61,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
-        },  
-        {
-            "name": "Jeremy Herrlich",
-            "rank": "Operator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/24/5661-24cfa7f62bf4d8cc7e59e974b89a6473a27300e5.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-varox/"
         },     
         {
             "name": "Khabib Nurmagomedow",
@@ -201,6 +194,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e8/5654-e8ee034f0207b0fb2de5c5a40b935cc187506d94.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-justin-bob/"
+        },
+        {
+            "name": "xx-.Niklas.-xx",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/5697-af874485dd30e34a814b3381437c86d1de669d96.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1837-xx-niklas-xx/"
         }
     ]
 }
