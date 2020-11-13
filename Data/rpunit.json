@@ -1,46 +1,47 @@
 {
-    "members": [
-        {
-            "name": "Jeremy Herrlich",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/24/5661-24cfa7f62bf4d8cc7e59e974b89a6473a27300e5.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-varox/"
-        },
+    "members": [{
         {
             "name": "Miguel Herrlich",
-            "rank": "Stv. Leitung",
+            "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/5248-3cdb9001533240070b58f6beac9ecf1d2b48237c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-miguel-phoenix/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-gpx-miguel/"
         },
         {
-            "name": "Phelios Fries",
+            "name": "Joonas Royal",
+            "rank": "Stv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/5652-c8db63028a7d3d4ddab3f99c50cb0b9ed331ab0b.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
+        },
+        {
+            "name": "Ben Bernado",
             "rank": "Moderator",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/53/4799-5367ffddc560aa9b2b2111a28f54688cda6c6c2e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1462-kuchenplays/"
         },
         {
-            "name": "Maik Herrlich",
+            "name": "Khabib Nurmagomedow",
             "rank": "Moderator",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/33/5256-33c393bd3ae7792cbf023a9762d81eab5dbddf90.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1650-maik-voight/"
-        },
-        {
-            "name": "Markus Albendorf",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5364-76b2948f4a664ee3545b8a0f5454416e5256ba7d.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/5710-9cd21d0834641bcf636d7b406cdc7c018b1c5092.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedov/"
         },
         {
             "name": "Oliver Herrlich",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/5581-a0c420e05ca56b6433581185388f384d30c1a77d.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-koile-hd/"
-        }
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-herrlich/"
+        },
+        {
+            "name": "Phelios Fries",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
+                         }
+
     ]
 }
