@@ -15,13 +15,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
         },
         {
-            "name": "Ben Bernado",
-            "rank": "Moderator",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/53/4799-5367ffddc560aa9b2b2111a28f54688cda6c6c2e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1462-kuchenplays/"
-        },
-        {
             "name": "Khabib Nurmagomedow",
             "rank": "Moderator",
             "highlight": false,
@@ -29,18 +22,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedov/"
         },
         {
-            "name": "Oliver Herrlich",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/5581-a0c420e05ca56b6433581185388f384d30c1a77d.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-herrlich/"
-        },
-        {
             "name": "Phelios Fries",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
-        }       
+        },
+        {
+            "name": "Dietrich Hellmann",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/5640-1d70088e43d57a9b830def7c7bbada2419c9e13f.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
+        }      
     ]
 }
