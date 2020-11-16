@@ -1,10 +1,17 @@
 {
     "members": [{
             "name": "Chrisskross",
-            "rank": "Inhaber | Fahrlehrer",
+            "rank": "Fahrlehrer | Inhaber",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
+        },
+        {
+            "name": "Justin Varox",
+            "rank": "Fahrlehrer | Manager",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/be/5097-bebc17830f97d22370f3012b2207f9867380e2ac.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
         },
         {
             "name": "Jahseh",
@@ -19,13 +26,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/5193-4c5949cb52a863b17c64ddc0180d864714fd0af2.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1147-alynexyt/"
-        },        
-        {
-            "name": "Justin Varox",
-            "rank": "Fahrlehrer",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/be/5097-bebc17830f97d22370f3012b2207f9867380e2ac.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
-        }   
+        }  
     ]
 }
