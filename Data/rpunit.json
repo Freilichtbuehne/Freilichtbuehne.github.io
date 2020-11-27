@@ -14,26 +14,19 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/5652-c8db63028a7d3d4ddab3f99c50cb0b9ed331ab0b.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
         },
-        {
-            "name": "Khabib Nurmagomedow",
-            "rank": "Moderator",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/5710-9cd21d0834641bcf636d7b406cdc7c018b1c5092.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedov/"
-        },
-        {
-            "name": "Phelios Fries",
+     {
+            "name": "Haze",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/be/5721-be13a89ac6561cee38a0bce26910c75eb10585d6.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-haze/"
         },
         {
-            "name": "Dietrich Hellmann",
+            "name": "HammerLP",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/5640-1d70088e43d57a9b830def7c7bbada2419c9e13f.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
+            "https://www.goldphoenix.de/wcf/images/avatars/76/5095-76ddab725572892a44293dc93c9bf4d46e522641.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1584-hammerlp/"
         },
         {
             "name": "Rony Wolf",
@@ -41,6 +34,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/43/5745-43c927871b43f50b7dee2f0762b87a3e2bc72d58.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        }
+        },
     ]
 }
