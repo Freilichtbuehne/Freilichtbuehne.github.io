@@ -21,12 +21,12 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
         },
         {
-            "name": "Max™️",
+            "name": "Max",
             "rank": "Supervisor",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/5738-1d70088e43d57a9b830def7c7bbada2419c9e13f.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
-        },
+        }
         {
             "name": "Salzi",
             "rank": "Mitglied",
@@ -54,6 +54,13 @@
             "highlight": false,
             "https://www.goldphoenix.de/wcf/images/avatars/76/5095-76ddab725572892a44293dc93c9bf4d46e522641.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1584-hammerlp/"
-        }
+        },
+        {
+            "name": "Rony Wolf",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/43/5745-43c927871b43f50b7dee2f0762b87a3e2bc72d58.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
+        },
     ]
 }
