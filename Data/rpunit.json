@@ -8,7 +8,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-gpx-miguel/"
         },
         {
-            "name": "Joonas Royal",
+            "name": "Joonas Herrlich",
             "rank": "Stv. Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/5652-c8db63028a7d3d4ddab3f99c50cb0b9ed331ab0b.gif",
@@ -23,10 +23,17 @@
         },   
         {
             "name": "Phelios Fries",
-            "rank": "Mitglied",
+            "rank": "Moderator",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
+        },
+       {
+            "name": "Manuel Herrlich",
+            "rank": "Moderator",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/75/5741-7505bbfbacec7627395e1ec51d5d1f9c84597e0c.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1228-g0xar/"
         },
         {
             "name": "Haze Kush",
