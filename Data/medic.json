@@ -1,23 +1,17 @@
 {
-    "members": [{
-            "name": "Manuel Herrlich",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e1/5405-e14e932de119a1c5cb36315f4e8d19d6c9a663d2.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1228-g0xar/"
-        },
+    "members": [
         {
             "name": "Mas Tyranus",
             "rank": "Leitung (Personalabteilung)",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/5176-0d1b37e230307be10d785aa4ed40381e872a5ffa.png",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/03/5771-03221e517235a7da504fe0b20bdc6fc7774d3c60.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
         },
         {
             "name": "Nils Lombax",
             "rank": "Organisatorische Leitung Rettungsdienst",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/5101-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/5767-6856ebdd65d7ac999e470f63a90f370a8cc278fd.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
         },
         {
@@ -31,7 +25,7 @@
             "name": "Veronica Thompson",
             "rank": "Notarzt",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1a/5173-1a17c906f4ae77b1ae14df7a4e7b1057ec13f684.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a8/5769-a8f5b4eec0c22b680362fa3b5a80818ae3f68afc.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1623-mindofveronica/"
         },
         {
@@ -59,7 +53,7 @@
             "name": "Dr. Marvin Dienstag",
             "rank": "Notfallsanitäter",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e9/5230-e986fc6bd309b502efb67b3dc5419b26eef24824.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/5663-7c1e9cc45050602362b33e6ea219814538bd1890.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1577-putzl4pp3n2015/"
         }
     ]
