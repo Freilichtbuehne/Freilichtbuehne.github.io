@@ -1,18 +1,25 @@
 {
     "members": [
-                {
-            "name": "Samuel",
-            "rank": "Temporäre Leitung (neue gesucht)",
+        {
+            "name": "Luke",
+            "rank": "Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/5504-ac36c371ac6f7459a469709370e36ba093cc01df.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/358-samuel-ulf/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
         },
         {
-            "name": "Garono",
-            "rank": "Temporäre Leitung (neue gesucht)",
+            "name": "zMarkus",
+            "rank": "Stv. Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7b/4277-7b61675293a0f978d834aae4543a17978dd311e2.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1243-garono/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5364-76b2948f4a664ee3545b8a0f5454416e5256ba7d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
+        },
+        {
+            "name": "Samuel",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/5504-ac36c371ac6f7459a469709370e36ba093cc01df.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/358-samuel-ulf/"
         },
         {
             "name": "Kazuto White",
@@ -20,14 +27,7 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c3/3194-c341be8fcbd282677674bf833dadb5727a80f7df.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/581-playinggun/"
-        },
-        {
-            "name": "Luke",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
-        },
+        },       
         {
             "name": "Jeremy Herrlich",
             "rank": "Mitglied",
@@ -48,13 +48,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/03/5771-03221e517235a7da504fe0b20bdc6fc7774d3c60.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
-        },
-        {
-            "name": "zMarkus",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5364-76b2948f4a664ee3545b8a0f5454416e5256ba7d.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
         },
         {
             "name": "Intrace",
