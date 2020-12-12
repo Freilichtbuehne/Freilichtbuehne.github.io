@@ -141,7 +141,7 @@
         },
         {
             "name": "MaxTM",
-            "rank": "Moderator III",
+            "rank": "Moderator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/5738-1d70088e43d57a9b830def7c7bbada2419c9e13f.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
@@ -157,7 +157,7 @@
             "name": "Intrace",
             "rank": "Moderator II",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/5652-c8db63028a7d3d4ddab3f99c50cb0b9ed331ab0b.gif",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0c/5801-0c718d94c7b27aa783e50b8ff3e01c4901a4cf7a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-arktzos/"
         },
         {
@@ -166,6 +166,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/5544-7481fde1fda6816d5f93b6beae57249a1304740a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/453-herrstendertime/"
+        },
+        {
+            "name": "Mika",
+            "rank": "Moderator III",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/28/5421-28d74a05b6b2af6539563c2379cd98c985defca0.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
         },
         {
             "name": "xx-.Niklas.-xx",
@@ -187,13 +194,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5095-76ddab725572892a44293dc93c9bf4d46e522641.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1584-hammerlp/"
-        },
-        {
-            "name": "Mika",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/28/5421-28d74a05b6b2af6539563c2379cd98c985defca0.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
         },
         {
             "name": "BigLazy03",
