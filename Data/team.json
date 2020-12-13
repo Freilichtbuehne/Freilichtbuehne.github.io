@@ -35,13 +35,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1043-crazyjason/"
         },
         {
-            "name": "Garono",
-            "rank": "Admin",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7b/4277-7b61675293a0f978d834aae4543a17978dd311e2.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1243-garono/"
-        },
-        {
             "name": "Rimidal",
             "rank": "Admin",
             "highlight": true,
@@ -54,14 +47,7 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/5193-4c5949cb52a863b17c64ddc0180d864714fd0af2.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1147-alynexyt/"
-        },   
-        {
-            "name": "Jahseh",
-            "rank": "Operator I",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
-        },     
+        },        
         {
             "name": "Khabib Nurmagomedow",
             "rank": "Operator II",
