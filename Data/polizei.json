@@ -1,54 +1,97 @@
 {
     "members": [
-        {
-            "name": "Khabib Nurmagomedow",
-            "rank": "Polizeipräsident | Personalabteilung",
-            "highlight": true,
-            "picture": "https://i.imgur.com/zHKNXN0.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedow/"
-        },
-        {
-            "name": "Miguel Herrlich",
-            "rank": "Polizeivizepräsident | Presseabteilung",
-            "highlight": true,
-            "picture": "https://i.ibb.co/7z0Nd1H/Herrlich.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-gpx-miguel/"
-        },
+        
+       {
+           "name": "Khabib Nurmagomedov 67",
+           "rank": "Polizeipräsident | Personalabteilung",
+           "highlight": true,
+           "picture": "https://i.imgur.com/aVjCq70.jpeg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedov/"
+       },
+       {
+           "name": "Miguel Herrlich 13",
+           "rank": "Polizeivizepräsident | Presseabteilung",
+           "highlight": true,
+           "picture": "https://i.imgur.com/Dh6hPdg.jpeg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-gpx-miguel/"
+       },
+       {
+           "name": "Phelios Fries 93",
+           "rank": " Polizeidirektor | Personalabteiling",
+           "highlight": false,
+           "picture": "https://i.imgur.com/knL6ZSe.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
+       },
+       {
+           "name": "Ronny Wolf 04",
+           "rank": "Polizeidirektor | Ausbildungsabteilung",
+           "highlight": false,
+           "picture": "https://i.imgur.com/G5PrzVB.jpeg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
+       },
+       {
+           "name": "Rosnof Wolf 94",
+           "rank": "Polizeidirektor | Ausbildungsabteilung",
+           "highlight": false,
+           "picture": "https://i.imgur.com/gdcsAIY.jpeg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1699-rosnof-wolf/"
+       },
+       {
+           "name": "Ediumz Wolf 48",
+           "rank": "Polizeioberrat | Ausbildungsabteilung",
+           "highlight": false,
+           "picture": "https://i.imgur.com/f5ixeZ8.jpeg",
+           "https://www.goldphoenix.de/wcf/index.php?user/1785-ediumz/"
+       },
+       {   
+           "name": "Mika Varox 55",
+           "rank": "Polizeioberrat",
+           "highlight": false,
+           "picture": "https://i.imgur.com/FLTlJD2.jpeg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
+       },
+       {
+           "name": "Ren Wheeler 14",
+           "rank": "Polizeirat | Personalabteilung",
+           "highlight": false,
+           "picture": "https://i.imgur.com/Gvba4TP.jpeg",
+           "https://www.goldphoenix.de/"
+       },
+       {
+           "name": "Justin Isetta 36",
+           "rank": "Polizeirat | Keine Abteilung",
+           "highlight": false,
+           "picture": "https://i.imgur.com/XRW58Jx.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
+       },
+       {
+           "name": "Marek Kowlaski 58",
+           "rank": "Polizeirat | Presseabteilung",
+           "highlight": false,
+           "picture": "https://i.imgur.com/CW6vKZM.jpeg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/247-marek-kowalski/"
+       },
+       {
+           "name": "Fabian Jauch 82",
+           "rank": "Polizeirat | Keine Abteilung",
+           "highlight": false,
+           "picture": "https://i.imgur.com/88J8qvk.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1147-alynexyt/"
+       },
+       {
+           "name": "Dennis Zoe 01",
+           "rank": "Polizeirat | Keine Abteilung",
+           "highlight": false,
+           "picture": "https://i.imgur.com/6Lf0bls.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1319-dennis-denok/"
+       },
+       {
+           "name": "Nico Uchiha 69",
+           "rank": "Polizeirat |Keine Abteilung",
+           "highlight": false,
+           "picture": "https://i.imgur.com/n3OWfmb.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1883-nico-uchiha/"
+       }
 
-        {
-            "name": "Phelios Fries",
-            "rank": " Polizei Oberrat | Personalabteiling",
-            "highlight": false,
-            "picture": "https://i.ibb.co/bWZ7gkR/Fries.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
-        },
-        {
-            "name": "Rony Wolf",
-            "rank": "Polizei Oberrat | Ausbildungsabteilung",
-            "highlight": false,
-            "picture": "https://i.ibb.co/t2DPz3q/wolf.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
-        {
-            "name": "Rosnof Wolf",
-            "rank": "Polizei Oberrat | Ausbildungsabteilung",
-            "highlight": false,
-            "picture": "https://i.ibb.co/DztYC53/ro.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1699-rosnof-wolf/"
-        },
-        {
-            "name": "Ren Wheeler",
-            "rank": "Polizeirat | Ausbildungsabteilung",
-            "highlight": false,
-            "picture": "https://i.ibb.co/3M1Rmwg/Wheeler.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
-        },
-        {    
-            "name": "Justin Isetta",
-            "rank": "Polizeirat",
-            "highlight": false,
-            "picture": "https://i.ibb.co/6ws7jfS/isetta.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
-        }
     ]
 }
