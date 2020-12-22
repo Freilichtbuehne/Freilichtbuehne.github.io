@@ -1,46 +1,39 @@
 {
-    "members": [
-        {
-            "name": "Chrisskross",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
-        },
-        {
-            "name": "Khabib Nurmagomedow",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/5710-9cd21d0834641bcf636d7b406cdc7c018b1c5092.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedow/"
-        },
-        {
-            "name": "Koile HD",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/5581-a0c420e05ca56b6433581185388f384d30c1a77d.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-koile-hd/"
-        },
-        {
-            "name": "Fabian Jauch",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/5193-4c5949cb52a863b17c64ddc0180d864714fd0af2.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1147-alynexyt/"
-        },
-        {
-            "name": "Nico Uchiha",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/de/5468-def6c14a9aa094458a6d5a561024c35118e3d3c5.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/948-nico-uchiha/"
-        },
-        {
-            "name": "Intrace",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0c/5801-0c718d94c7b27aa783e50b8ff3e01c4901a4cf7a.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-arktzos/"
-        }
-    ]
+   "members":[
+   {
+      "name":"Chrisskross",
+      "rank":"Leitung",
+      "highlight":true,
+      "picture":"https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
+      "profile":"https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
+   },
+   {
+      "name":"Khabib Nurmagomedow",
+      "rank":"Mitglied",
+      "highlight":false,
+      "picture":"https://www.goldphoenix.de/wcf/images/avatars/9c/5710-9cd21d0834641bcf636d7b406cdc7c018b1c5092.jpg",
+      "profile":"https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedow/"
+   },
+   {
+      "name":"Intrace",
+      "rank":"Mitglied",
+      "highlight":false,
+      "picture":"https://www.goldphoenix.de/wcf/images/avatars/0c/5801-0c718d94c7b27aa783e50b8ff3e01c4901a4cf7a.jpg",
+      "profile":"https://www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
+   },
+   {
+      "name":"Haze",
+      "rank":"Mitglied",
+      "highlight":false,
+      "picture":"https://www.goldphoenix.de/wcf/images/avatars/fc/5809-fc8a1d90dc8315b790ec3d13e2814b029564d7b4.png",
+      "profile":"https://www.goldphoenix.de/wcf/index.php?user/1849-haze/"
+   },
+   {
+      "name":"Mika",
+      "rank":"Mitglied",
+      "highlight":false,
+      "picture":"https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
+      "profile":"https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
+   }
+]
 }
