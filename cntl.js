@@ -136,11 +136,9 @@ function loadingError(error) {
 }
 
 function newElement(url, name, highlight, index, text, profile) {
-    if (text == "none") {
-        text = "";
-    } else {
-        text = " (" + text + ")";
-    }
+    text = (text == "none") ? "" : " (" + text + ")";
+    url = (url == "?") ? "https://i.ibb.co/8cqjd0m/image.png" : url;
+    
     var div = document.createElement("div");
 
     var t = document.createTextNode(name + text);
