@@ -1,19 +1,46 @@
 {
     "members": [
         {
-            "name": "Refox 53",
-            "rank": "Stellv. Leitung/Ausbilder",
+            "name": "Rust 78",
+            "rank": "Leitung / Ausbilder / Personalwesen",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/33/5256-33c393bd3ae7792cbf023a9762d81eab5dbddf90.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1650-maik-voight/"
+            "picture": "https/www.goldphoenix.de/wcf/images/avatars/a6/4078-a6a7b847937270919d62f5e92b25a839153f50f6.jpg",
+            "profile": "https/www.goldphoenix.de/wcf/index.php?user/1115-fraeggl/"
         },
         {
-            "name": "Blackbeard 20",
-            "rank": "Major/Ausbilder",
+            "name": "Refox 53",
+            "rank": "Stellv. Leitung / Ausbilder / Overwatch",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/5609-b5f6d9d2cd14c0e688b0429047004a97cc8c984c.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1657-hank-voight/"
+            "picture": "https/www.goldphoenix.de/wcf/images/avatars/33/5256-33c393bd3ae7792cbf023a9762d81eab5dbddf90.jpg",
+            "profile": "https/www.goldphoenix.de/wcf/index.php?user/1650-maik-voight/"
+        },
+        {
+            "name": "Intrace 27",
+            "rank": "Erster Leutnant / Ausbilder / Personalwesen",
+            "highlight": false,
+            "picture": "https/www.goldphoenix.de/wcf/images/avatars/0c/5801-0c718d94c7b27aa783e50b8ff3e01c4901a4cf7a.jpg",
+            "profile": "https/www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
+        },
+        {
+            "name": "Bum 04",
+            "rank": "Zweiter Leutnant",
+            "highlight": false,
+            "picture": "https/www.goldphoenix.de/wcf/images/avatars/2b/5821-2baf7d8bd6986331ec0f91f3418f28231d5c3903.jpg",
+            "profile": "https/www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
+        },
+        {
+            "name": "Rox 49",
+            "rank": "Zweiter Leutnant",
+            "highlight": false,
+            "picture": "https/i.ibb.co/8cqjd0m/image.png",
+            "profile": "https/www.goldphoenix.de"
+        },
+        {
+            "name": "Tox 36",
+            "rank": "Zweiter Leutnant",
+            "highlight": false,
+            "picture": "https/www.goldphoenix.de/wcf/images/avatars/d3/5805-d33e9ab2fc9dcf4ed83c5391ce6026551a4ffe0c.jpg",
+            "profile": "https/www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
         }
- 
     ]
 }
