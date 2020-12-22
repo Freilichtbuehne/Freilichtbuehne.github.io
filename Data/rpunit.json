@@ -37,17 +37,10 @@
         },
         {
             "name": "Haze Kush",
-            "rank": "Mitglied",
+            "rank": "Moderator",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/fc/5809-fc8a1d90dc8315b790ec3d13e2814b029564d7b4.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-haze/"
-        },
-        {
-            "name": "Kevin Saxa",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5095-76ddab725572892a44293dc93c9bf4d46e522641.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1584-hammerlp/"
         },
         {
             "name": "Rony Wolf",
@@ -56,5 +49,12 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/5821-2baf7d8bd6986331ec0f91f3418f28231d5c3903.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         }
+        {
+            "name": "Hans Boschinski",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
+        },
     ]
 }
