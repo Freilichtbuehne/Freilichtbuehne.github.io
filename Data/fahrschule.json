@@ -1,5 +1,6 @@
 {
-    "members": [{
+    "members": [
+        {
             "name": "Chrisskross",
             "rank": "Fahrlehrer | Inhaber",
             "highlight": true,
@@ -14,18 +15,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
         },
         {
-            "name": "Jahseh",
+            "name": "zMarkus",
             "rank": "Fahrlehrer",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
-            "profile": "https://www.goldphoenix.de/index.php?thread/4021-bewerbung-zum-fahrlehrer/"
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5364-76b2948f4a664ee3545b8a0f5454416e5256ba7d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
         },
         {
-            "name": "Fabian Jauch",
+            "name": "Justin Varox",
             "rank": "Fahrlehrer",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/5193-4c5949cb52a863b17c64ddc0180d864714fd0af2.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1147-alynexyt/"
-        }  
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
+        }
     ]
 }
