@@ -17,14 +17,14 @@
         {
             "name": "zMarkus",
             "rank": "Fahrlehrer",
-            "highlight": true,
+            "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5364-76b2948f4a664ee3545b8a0f5454416e5256ba7d.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
         },
         {
-            "name": "Justin Varox",
+            "name": "Salzi",
             "rank": "Fahrlehrer",
-            "highlight": true,
+            "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         }
