@@ -1,18 +1,46 @@
 {
     "members": [
         {
-            "name": "Mitglieder Gesucht (Only Team)",
-            "rank": "none",
-            "highlight": false,
-            "picture": "https://i.ibb.co/6ZS7fNt/Bewerbung.png",
-            "profile": "https://www.goldphoenix.de/"
-        },
-        {
             "name": "Samuel",
             "rank": "none",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/5504-ac36c371ac6f7459a469709370e36ba093cc01df.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/358-samuel-ulf/"
-        }    
+        },
+        {
+            "name": "Jason",
+            "rank": "none",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7e/5822-7efafbcb49d5e33dca4f9dc5b9b769e80f4111fc.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1043-crazyjason/"
+        },
+        {
+            "name": "Luke",
+            "rank": "none",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
+        },
+        {
+            "name": "Ju$tin",
+            "rank": "none",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/5805-d33e9ab2fc9dcf4ed83c5391ce6026551a4ffe0c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-justin-bob/"
+        },
+        {
+            "name": "Ron",
+            "rank": "none",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/cf/5572-cf790d956aae793f9c429be001aecece55635cd5.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1802-ron/"
+        },
+        {
+            "name": "Max",
+            "rank": "none",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/5738-1d70088e43d57a9b830def7c7bbada2419c9e13f.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
+        }
     ]
 }
