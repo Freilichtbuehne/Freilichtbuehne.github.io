@@ -22,13 +22,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
         },   
         {
-            "name": "Phelios Fries",
-            "rank": "Moderator",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
-        },
-        {
             "name": "Manuel Herrlich",
             "rank": "Moderator",
             "highlight": false,
@@ -36,10 +29,10 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1228-g0xar/"
         },
         {
-            "name": "Haze Kush",
+            "name": "Haze Kusch",
             "rank": "Moderator",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fc/5809-fc8a1d90dc8315b790ec3d13e2814b029564d7b4.png",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fe/5853-fe7ecf004cfc9838fc5dfd1f78be41d2794489d9.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-haze/"
         },
         {
@@ -55,6 +48,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
+        },
+        {
+            "name": "Phelios Fries",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
         },
         {
             "name": "Nico Uchiha",
