@@ -35,19 +35,26 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1043-crazyjason/"
         },
         {
+            "name": "Luke",
+            "rank": "Admin",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
+        },       
+        {
+            "name": "Khabib Nurmagomedow",
+            "rank": "Admin",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/5851-9cd21d0834641bcf636d7b406cdc7c018b1c5092.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedow/"
+        },
+        {
             "name": "Fabian Jauch",
             "rank": "Operator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/5193-4c5949cb52a863b17c64ddc0180d864714fd0af2.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1147-alynexyt/"
-        },        
-        {
-            "name": "Khabib Nurmagomedow",
-            "rank": "Operator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/5851-9cd21d0834641bcf636d7b406cdc7c018b1c5092.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedow/"
-        },
+        }, 
         {
             "name": "Miguel Herrlich",
             "rank": "Operator II",
@@ -63,8 +70,15 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1228-g0xar/"
         },
         {
+            "name": "Jeremy Herrlich",
+            "rank": "Operator II",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/24/5661-24cfa7f62bf4d8cc7e59e974b89a6473a27300e5.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-herrlich/"
+        }, 
+        {
             "name": "zMarkus",
-            "rank": "Moderator I",
+            "rank": "Operator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5364-76b2948f4a664ee3545b8a0f5454416e5256ba7d.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1496-zmarkus/"
@@ -84,26 +98,12 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1650-maik-voight/"
         },
         {
-            "name": "Luke",
-            "rank": "Operator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/5478-a1638f9fcd1bf8b3f46b553ea99f1eb7f23f3fc9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
-        },
-        {
             "name": "Ju$tin",
             "rank": "Moderator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/5805-d33e9ab2fc9dcf4ed83c5391ce6026551a4ffe0c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-justin-bob/"
         },
-        {
-            "name": "Jeremy Herrlich",
-            "rank": "Moderator I",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/24/5661-24cfa7f62bf4d8cc7e59e974b89a6473a27300e5.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-herrlich/"
-        }, 
         {
             "name": "D e z z y",
             "rank": "Moderator I",
@@ -155,10 +155,17 @@
         },
         {
             "name": "Mika",
-            "rank": "Moderator III",
+            "rank": "Moderator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
+        },
+        {
+            "name": "Haze",
+            "rank": "Moderator III",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fe/5853-fe7ecf004cfc9838fc5dfd1f78be41d2794489d9.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-haze/"
         },
         {
             "name": "xx-.Niklas.-xx",
@@ -187,13 +194,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/5821-2baf7d8bd6986331ec0f91f3418f28231d5c3903.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
-        {
-            "name": "Haze",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fe/5853-fe7ecf004cfc9838fc5dfd1f78be41d2794489d9.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-haze/"
         },
         {
             "name": "jannik",
