@@ -43,12 +43,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1883-nico-uchiha/"
         },
         {
-      
-      "name":"Bernhardt Kruse",
-      "rank":"Mitglied",
-      "highlight":false,
-      "picture":"https://www.goldphoenix.de/wcf/images/avatars/98/5705-98f5ec0dc1b06d9b00755b78950badbf2541d2de.jpg",
-      "profile":"https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
+             "name":"Bernhardt Kruse",
+             "rank":"Mitglied",
+             "highlight":false,
+             "picture":"https://www.goldphoenix.de/wcf/images/avatars/98/5705-98f5ec0dc1b06d9b00755b78950badbf2541d2de.jpg",
+            "profile":"https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         }
 ]
 }
