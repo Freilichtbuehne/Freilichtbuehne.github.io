@@ -1,39 +1,25 @@
 {
     "members": [
-        {
-            "name": "Intrace",
+           
+            "name": "Haze",
             "rank": "Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/46/5885-46be780bb7aa9f5858ac49628c88e8e878bed7b6.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-arktzos/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fe/5853-fe7ecf004cfc9838fc5dfd1f78be41d2794489d9.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-haze/"
         },
         {
-            "name": "Miguel",
+            "name": "Rony Wolf",
             "rank": "Stv. Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/5248-3cdb9001533240070b58f6beac9ecf1d2b48237c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-gpx-miguel/"
-        },
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/5884-2baf7d8bd6986331ec0f91f3418f28231d5c3903.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
+        }
         {
             "name": "Salzi",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
-        },
-        {
-            "name": "Haze",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fe/5853-fe7ecf004cfc9838fc5dfd1f78be41d2794489d9.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-haze/"
-        },
-        {
-            "name": "Rony Wolf",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/5884-2baf7d8bd6986331ec0f91f3418f28231d5c3903.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         }
     ]
 }
