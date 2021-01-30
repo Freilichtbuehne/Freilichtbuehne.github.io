@@ -70,6 +70,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-herrlich/"
         },
         {
+            "name": "Mika",
+            "rank": "Operator II",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
+        },
+        {
             "name": "Leon Nice",
             "rank": "Moderator I",
             "highlight": false,
@@ -85,7 +92,7 @@
         },
         {
             "name": "Ju$tin",
-            "rank": "Moderator II",
+            "rank": "Moderator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/5805-d33e9ab2fc9dcf4ed83c5391ce6026551a4ffe0c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-justin-bob/"
@@ -99,7 +106,7 @@
         }, 
         {
             "name": "Luca11013 -GPX-",
-            "rank": "Moderator III",
+            "rank": "Moderator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/aa/5908-aa401cd07818cd7ac457f6e64a0f65fb3b0f800e.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
@@ -131,13 +138,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/5544-7481fde1fda6816d5f93b6beae57249a1304740a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/453-herrstendertime/"
-        },
-        {
-            "name": "Mika",
-            "rank": "Moderator I",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
         },
         {
             "name": "Haze",
@@ -204,7 +204,7 @@
         },
         {
             "name": "N3verDark/Dr Jack Bright",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/743-n3verdark-dr-jack-bright/"
