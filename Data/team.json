@@ -119,13 +119,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
         },
         {
-            "name": "HerrStendertime",
-            "rank": "Moderator III",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/5544-7481fde1fda6816d5f93b6beae57249a1304740a.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/453-herrstendertime/"
-        },
-        {
             "name": "Haze",
             "rank": "Moderator II",
             "highlight": false,
@@ -138,13 +131,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/5697-af874485dd30e34a814b3381437c86d1de669d96.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1837-xx-niklas-xx/"
-        },
-        {
-            "name": "Ollum",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6f/5713-6f4558b228a0b339e180d73fa90417a76ba0cc1c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1843-ollum/"
         },
         {
             "name": "HammerLP",
@@ -208,6 +194,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/5884-2baf7d8bd6986331ec0f91f3418f28231d5c3903.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
+        },
+        {
+            "name": "Markus Fischer",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5510-d7783ecd3a2b5d3aaec2154c4b37024ceb2a71ed.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1780-markus-fischer//"
+        }, 
+        {  
+            "name": "Raymond Shawn",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/37/5878-379a3659a062be7a28feb73c785ebff9ec799432.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1352-raymond-shawn/"
         }
     ]
 }
