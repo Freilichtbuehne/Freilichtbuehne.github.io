@@ -9,15 +9,8 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1115-fraeggl/"
         },
         {
-            "name": "Refox 53",
-            "rank": "Stellv. Leitung | Ausbilder | Overwatch",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/33/5256-33c393bd3ae7792cbf023a9762d81eab5dbddf90.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1650-maik-voight/"
-        },
-        {
             "name": "Intrace 27",
-            "rank": "Major | Ausbilder | Entwicklungsabteilung",
+            "rank": "Stv. Leitung | Ausbilder | Overwatch",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/46/5885-46be780bb7aa9f5858ac49628c88e8e878bed7b6.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
@@ -31,17 +24,24 @@
         },
         {
             "name": "Tox 36",
-            "rank": "Erster Leutnant | Presseabteilung",
+            "rank": "Hauptmann | Presseabteilung | Ausbilder",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/5805-d33e9ab2fc9dcf4ed83c5391ce6026551a4ffe0c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
         },
         {
             "name": "Bum 04",
-            "rank": "Zweiter Leutnant",
+            "rank": "Erster Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/5884-2baf7d8bd6986331ec0f91f3418f28231d5c3903.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
+        },
+       {
+            "name": "Mars 48",
+            "rank": "Erster Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/5519-0a41b612c9dc43068e25a37e4e468606aaf37868.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1785-ediumz/"
         },
         {
             "name": "Rox 49",
