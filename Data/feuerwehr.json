@@ -1,32 +1,18 @@
 {
     "members": [
         {
-            "name": "Norbert Hellmann",
+            "name": "Thommy Smith",
             "rank": "Leitd. Branddirektor",
             "highlight": true,
-            "picture": "https://i.ibb.co/Zhdbr5J/LEITENDER-BRANDDIREKTOR.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1802-ron/"
-        },
-        {
-            "name": "Dietrich Hellmann",
-            "rank": "Branddirektor",
-            "highlight": true,
-            "picture": "https://i.ibb.co/YtRTv1w/Branddirektor.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
+            "picture": "https://i.ibb.co/c6LFtX3/Brandreferandar.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {
             "name": "Justin Isetta",
-            "rank": "Brandrat",
-            "highlight": false,
+            "rank": "Branddirektor",
+            "highlight": true,
             "picture": "https://i.ibb.co/StX33BS/Brandrat.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
-        },        
-    {
-            "name": "Thommy Smith",
-            "rank": "Brandrat",
-            "highlight": false,
-            "picture": "https://i.ibb.co/c6LFtX3/Brandreferandar.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {
             "name": "Marlon Varox",
