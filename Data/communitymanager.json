@@ -1,18 +1,18 @@
 {
     "members": [
-         {
-            "name": "Rony Wolf",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/5884-2baf7d8bd6986331ec0f91f3418f28231d5c3903.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
         {
             "name": "Salzi",
-            "rank": "Stv. Leitung",
+            "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
+        },
+        {
+            "name": "Ronny Wolf",
+            "rank": "Stv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/5884-2baf7d8bd6986331ec0f91f3418f28231d5c3903.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {
             "name": "Haze",
@@ -21,20 +21,20 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/5911-3c64de79d5966b3aff04d240358ac2af9f35a7cb.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-haze/"
         },
+        {    
+            "name": "Lukas Kusch",
+            "rank": "Operator",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/5599-b8a68c147a330c78b356cf5ff1a1644cd9c4bb2e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
+        },
         {
             "name": "Manfred Glouh",
             "rank": "Moderator",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d9/5947-d92db055445ac9e13cf3eb8c3755e3ec8c601550.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1775-manfred-glouh/"
-        },
-        {    
-            "name": "Lk_drbaer",
-            "rank": "Moderator",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/5599-b8a68c147a330c78b356cf5ff1a1644cd9c4bb2e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
-        },
+        },       
         {    
             "name": "ediumz",
             "rank": "Mitglied",
@@ -62,6 +62,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5510-d7783ecd3a2b5d3aaec2154c4b37024ceb2a71ed.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1780-markus-fischer/"
+        },
+        {    
+            "name": "Raymond Shawn",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/37/5878-379a3659a062be7a28feb73c785ebff9ec799432.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1352-raymond-shawn/"
         }
     ]
 }
