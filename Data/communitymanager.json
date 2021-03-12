@@ -15,26 +15,12 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {
-            "name": "Haze",
-            "rank": "Admin",
+            "name": "Intrace",
+            "rank": "Superadmin",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/5911-3c64de79d5966b3aff04d240358ac2af9f35a7cb.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-haze/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/6005-45fa7c24aa629f2a0c0cc481614fac6fc3463b05.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-i-n-t-r-a-c-e/"
         },
-        {    
-            "name": "Lukas Kusch",
-            "rank": "Operator",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/5599-b8a68c147a330c78b356cf5ff1a1644cd9c4bb2e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
-        },
-        {
-            "name": "Manfred Glouh",
-            "rank": "Moderator",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d9/5947-d92db055445ac9e13cf3eb8c3755e3ec8c601550.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1775-manfred-glouh/"
-        },       
         {    
             "name": "ediumz",
             "rank": "Mitglied",
@@ -43,32 +29,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1785-ediumz/"
         }, 
         {    
-            "name": "MR.iks",
+            "name": "AlynexYT",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/78/5861-785c5e1bbaccb7b7fb88200207425c5d5e5720c4.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1147-alynexyt/"
         }, 
         {    
-            "name": "vlToZy",
+            "name": "Luca Jauch",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/90/5819-90d22bf3b2d471c4a69d4a734248a8591159f3c2.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1866-vltozy/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bd/5931-bdbd9a0d844cc633c409d6a9fd01ad4b27d08184.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
         },
         {    
-            "name": "Markus Fischer",
+            "name": "Marlon Brand",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5510-d7783ecd3a2b5d3aaec2154c4b37024ceb2a71ed.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1780-markus-fischer/"
-        },
-        {    
-            "name": "Raymond Shawn",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/37/5878-379a3659a062be7a28feb73c785ebff9ec799432.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1352-raymond-shawn/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/10/5961-1068c629b435bf8c0dc5d1ed7f5a89349251bc80.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-feuerwehrmann-marlon/"
         }
     ]
 }
