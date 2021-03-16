@@ -168,13 +168,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/743-n3verdark-dr-jack-bright/"
         },            
         {
-            "name": "Joaka113",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/53/5858-53d9d178b3de942fc571f3928cbe5995a4eadbfa.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1857-joaka113/"
-        },
-        {
             "name": "BigLazy03",
             "rank": "Moderator II",
             "highlight": false,
@@ -215,6 +208,14 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/78/5861-785c5e1bbaccb7b7fb88200207425c5d5e5720c4.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
-        }
+        },
+        {
+            "name": "Blaubeere3",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/25/5982-2549f4a26d307f730980afc53862678fd8dbedcd.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
+        },
+
     ]
 }
