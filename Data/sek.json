@@ -1,24 +1,16 @@
 {
     "members": [
         {
-     
-            "name": "Rust 78",
-            "rank": "Leitung | Ausbilder | Personalwesen",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a6/4078-a6a7b847937270919d62f5e92b25a839153f50f6.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1115-fraeggl/"
-        },
-        {
             "name": "Intrace 27",
-            "rank": "Stv. Leitung | Ausbilder | Overwatch",
+            "rank": "Leitung | Ausbilder | Overwatch",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/6005-45fa7c24aa629f2a0c0cc481614fac6fc3463b05.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
         },
         {
             "name": "Tox 36",
-            "rank": "Hauptmann | Presseabteilung | Ausbilder",
-            "highlight": false,
+            "rank": "Leitung | Presseabteilung | Ausbilder",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/5805-d33e9ab2fc9dcf4ed83c5391ce6026551a4ffe0c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
         },
