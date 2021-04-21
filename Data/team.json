@@ -87,15 +87,15 @@
             "name": "MaxTM",
             "rank": "Operator I",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/5738-1d70088e43d57a9b830def7c7bbada2419c9e13f.png",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/6034-747d3b4e3d46b7c037e425b71de948eac4c6d77a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
         },
         {
-            "name": "Haze",
+            "name": "Shoto",
             "rank": "Moderator I",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f6/6017-f65ba40fb8418ba80c732bfb97c8524f777810c4.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-haze/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/80/6069-80eda97017461b5618d8e6c0c4f2a9e2b0a91555.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-shoto/"
         },
         {
             "name": "xx-.Niklas.-xx",
@@ -136,7 +136,7 @@
             "name": "Markus Fischer",
             "rank": "Moderator III",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5510-d7783ecd3a2b5d3aaec2154c4b37024ceb2a71ed.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/98/6051-982589f9f4179b0e2eddf5a2428b346cab7bdd02.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1780-markus-fischer//"
         }, 
         {  
@@ -155,17 +155,24 @@
         },
         {
             "name": "MR.iks",
-            "rank": "Moderator II",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/78/5861-785c5e1bbaccb7b7fb88200207425c5d5e5720c4.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
         },
         {
-            "name": "Blaubeere3",
+            "name": "Blaubeere",
             "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/25/5982-2549f4a26d307f730980afc53862678fd8dbedcd.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
+        },
+        {
+            "name": "Toya Todoroki",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/08/6068-08dd6d4869d143899fe90216b432dae9c9a27fc5.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1497-shoto-todoroki-timo/"
         }
     ]
 }
