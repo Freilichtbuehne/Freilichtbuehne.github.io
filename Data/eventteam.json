@@ -13,13 +13,6 @@
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6030-607276e9d6a9833c30f1dca198b0f671626d5dd2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },    
-        {
-            "name": "Mika",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
         },
         {
             "name": "Intrace",
@@ -29,7 +22,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
         },
         {
-            "name": "Feuerwehrmann Marlon",
+            "name": "Marlon",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
@@ -43,18 +36,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         },
         {
-            "name": "Ahmed",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ad/4446-ad9f2837e9f939f7ec73024749281099b99f6876.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/895-ahmed/"
-        },
-        {
-            "name": "Blaubeere3",
+            "name": "Blaubeere",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/25/5982-2549f4a26d307f730980afc53862678fd8dbedcd.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
+        },
+         {
+            "name": "Ediumz",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/5519-0a41b612c9dc43068e25a37e4e468606aaf37868.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1785-ediumz/"
         }
     ]
 }
