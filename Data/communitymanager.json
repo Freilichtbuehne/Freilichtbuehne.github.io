@@ -7,12 +7,12 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         },
-        {
-            "name": "Ronny Wolf",
+        {    
+            "name": "BlackShadowKing",
             "rank": "Stv. Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6030-607276e9d6a9833c30f1dca198b0f671626d5dd2.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/6006-9f6f45909c9f5cdb0b9f56f654c5d9a6a71bc835.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1900-blackshadowking/"
         },
         {
             "name": "Intrace",
@@ -21,33 +21,12 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/6005-45fa7c24aa629f2a0c0cc481614fac6fc3463b05.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-i-n-t-r-a-c-e/"
         },
-        {    
-            "name": "ediumz",
-            "rank": "Mitglied",
+        {
+            "name": "Ronny Wolf",
+            "rank": "Admin",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/5519-0a41b612c9dc43068e25a37e4e468606aaf37868.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1785-ediumz/"
-        }, 
-        {    
-            "name": "AlynexYT",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/5193-4c5949cb52a863b17c64ddc0180d864714fd0af2.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1147-alynexyt/"
-        }, 
-        {    
-            "name": "Luca Jauch",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bd/5931-bdbd9a0d844cc633c409d6a9fd01ad4b27d08184.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
-        },
-        {    
-            "name": "BlackShadowKing",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/6006-9f6f45909c9f5cdb0b9f56f654c5d9a6a71bc835.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1900-blackshadowking/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6030-607276e9d6a9833c30f1dca198b0f671626d5dd2.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {    
             "name": "Marlon Brand",
