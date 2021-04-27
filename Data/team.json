@@ -35,11 +35,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
         },       
         {
-            "name": "Khabib Nurmagomedow",
+            "name": "Khabib Nurmagomedov",
             "rank": "Admin",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c0/6004-c01bfcfb1d4e924aa3258ea5f9eb5bed2d987330.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedow/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c0/6088-c01bfcfb1d4e924aa3258ea5f9eb5bed2d987330.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedov/"
         },
         {
             "name": "Miguel Herrlich",
@@ -66,7 +66,7 @@
             "name": "Luca11013 -GPX-",
             "rank": "Moderator I",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bd/5931-bdbd9a0d844cc633c409d6a9fd01ad4b27d08184.gif",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c1/6079-c1ff6521636090722431d8cfe2709c672c780f1a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
         }, 
         {
@@ -157,22 +157,29 @@
             "name": "MR.iks",
             "rank": "Moderator III",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/78/5861-785c5e1bbaccb7b7fb88200207425c5d5e5720c4.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6075-c8c2cf17f8c5dc7562da23cccb7df8aaa9851054.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
         },
         {
             "name": "Blaubeere",
             "rank": "Moderator III",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/25/5982-2549f4a26d307f730980afc53862678fd8dbedcd.gif",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/81/6086-8124e0e61ec814347797d10dd61ca6c65aee5267.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
         },
         {
             "name": "Kenma",
             "rank": "Supporter",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/08/6068-08dd6d4869d143899fe90216b432dae9c9a27fc5.png",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/14/6094-14c3aa7ca95f1553062ee9557f6148cfcd87b31d.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1497-shoto-todoroki-timo/"
+        }
+        {
+            "name": "Lk_drbaer",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/5599-b8a68c147a330c78b356cf5ff1a1644cd9c4bb2e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
         }
     ]
 }
