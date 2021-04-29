@@ -1,102 +1,46 @@
 {
     "members": [
         {
-            "name": "Mika Varox",
-            "rank": "Leitung (Personalabteilung)",
+            "name": "Bernhardt Kruse",
+            "rank": "Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/98/5705-98f5ec0dc1b06d9b00755b78950badbf2541d2de.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },
         {
             "name": "Nils Lombax",
-            "rank": "OrgLRD (Ausbildungsabteilung)",
-            "highlight": false,
+            "rank": "OrgL",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/5767-6856ebdd65d7ac999e470f63a90f370a8cc278fd.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
         },
         {
-            "name": "Jeremy Varox",
-            "rank": "ELRD (Personalabteilung)",
+            "name": "Herbert Protz",
+            "rank": "ELRD",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/24/5661-24cfa7f62bf4d8cc7e59e974b89a6473a27300e5.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-herrlich/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/15/6050-15f3bb76c34b88c42c604d5540c7b922a291d021.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
         },
         {
-            "name": "Bernhardt Kruse",
-            "rank": "ELRD (Personalabteilung)",
+            "name": "Thommy Smith",
+            "rank": "ELRD",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/98/5705-98f5ec0dc1b06d9b00755b78950badbf2541d2de.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/5949-6d38be040109b3ac9c30ed39df94df7e017896c3.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },     
         {
-            "name": "Jahseh Malocher",
+            "name": "Marlon Brand",
             "rank": "Notarzt",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
-        },
-        {
-            "name": "Marvin Dienstag",
-            "rank": "Notarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/5663-7c1e9cc45050602362b33e6ea219814538bd1890.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1577-captain-aura/"
-        },
-        {
-            "name": "Felix Shiro Eckert",
-            "rank": "Notfallsanitäter (Ausbildungsabteilung)",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/db/3699-dbf1ca4fc95e2ef071a806036a59d2638e61a921.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
-        },
-        {
-            "name": "Maik Herrlich",
-            "rank": "Notfallsanitäter (Ausbildungsabteilung)",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/33/5256-33c393bd3ae7792cbf023a9762d81eab5dbddf90.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1650-maik-voight/"
-        },
-        {
-            "name": "Justin Isetta",
-            "rank": "Notfallsanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/5805-d33e9ab2fc9dcf4ed83c5391ce6026551a4ffe0c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
-        },
-        {
-            "name": "Shiro Meinige",
-            "rank": "Notfallsanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/95/5473-953d6ac6c70150c0fbddb70e828abb63c261db6b.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1763-fischi-seeart/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {
             "name": "Maximilian Koch",
-            "rank": "Notfallsanitäter (Ausbildungsabteilung)",
+            "rank": "Notfallsanitäter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f1/3795-f1783c820fc56f34a5a34f329c39e592f0539bc8.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/902-crazyamxilp102/"
-        },
-        {
-            "name": "Dirk Matthies",
-            "rank": "Notfallsanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c2/5680-c20bc1e10bde526207cc5eeb568c552bb11e8223.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1830-dirk-matthies/"
-        },
-        {
-            "name": "Garfield Freitag",
-            "rank": "LNA",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/46/5560-46aa663aff153ebfe8c23619adbde0ee404b80c8.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1381-garfield-freitag/"
-        },
-        {
-            "name": "Bernd Deutschmann",
-            "rank": "Notarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/4289-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/" 
         }
     ]
 }
