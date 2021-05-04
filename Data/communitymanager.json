@@ -55,6 +55,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
+        },
+        {    
+            "name": "Heinrich Leckmann",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6075-c8c2cf17f8c5dc7562da23cccb7df8aaa9851054.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
+        },
+        {    
+            "name": "Lukas Kusch",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/6100-4960d5ed7cce6d6b86993816b3ed73d73780ca8b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-sensei/"
         }
     ]
 }
