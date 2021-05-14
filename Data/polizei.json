@@ -23,6 +23,20 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
        },
        {
+           "name": "Niklas Jonson",
+           "rank": "Polizeidirektor | Presseabteilung",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/5697-af874485dd30e34a814b3381437c86d1de669d96.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1837-xx-niklas-xx/"
+       },
+       {
+           "name": "Heinrich Leckmann",
+           "rank": "Polizeidirektor | Personalabteilung",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6075-c8c2cf17f8c5dc7562da23cccb7df8aaa9851054.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
+       },
+       {
            "name": "Markus Fischer",
            "rank": "Polizeioberrat | Personalabteilung",
            "highlight": false,
@@ -30,39 +44,11 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1780-markus-fischer//"
        },
        {
-           "name": "Niklas Jonson",
-           "rank": "Polizeioberrat | Presseabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/5697-af874485dd30e34a814b3381437c86d1de669d96.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1837-xx-niklas-xx/"
-       },
-       {
            "name": "Kira Ackermann",
            "rank": "Polizeirat | Ausbildungsabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/5548-5a001c90d5f45cef6913e910c7ce388284264490.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1794-popcorn-uwu/"
-       },
-       {   
-           "name": "Manfred Protz",
-           "rank": "Polizeirat | Personalabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/d9/5947-d92db055445ac9e13cf3eb8c3755e3ec8c601550.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1775-manfred-protz/"
-       },
-       {
-           "name": "Heinrich Leckmann",
-           "rank": "Polizeirat | Personalabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6075-c8c2cf17f8c5dc7562da23cccb7df8aaa9851054.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
-       },
-       {
-           "name": "Carter Pewterschmidt",
-           "rank": "Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/cf/5996-cfd83b40d63b839cb6b4d281e8986fd9dd8b64d7.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/670-error/"
        },
        {
            "name": "Harald Knusper",
@@ -75,7 +61,7 @@
            "name": "Fabian König",
            "rank": "Polizeirat",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/33/3666-3323bd1bf74c2c9b46ade2f7e2bd9351b3b91419.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/6108-a12e1a678d27d69ea2a1cfd082bcdcf6ec8c6018.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/873-fabian/"
        },
        {
@@ -84,13 +70,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/4858-5ebfd1f7e1284294bdee43aa2aa664352ef1e081.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1481-frank-herrlich/#wall"
-       },
-       {
-           "name": "Brain Johnson",
-           "rank": "Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/6057-d12d850857e711546e88c98d00f9f6cdfe44b715.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1985-brian-johnson/"
-       }
+       }  
     ]
 }
