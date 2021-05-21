@@ -1,5 +1,6 @@
  {
-    "members": [{
+    "members": [
+         {
             "name": "Demo",
             "rank": "Owner",
             "highlight": true,
@@ -166,7 +167,7 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d9/5947-d92db055445ac9e13cf3eb8c3755e3ec8c601550.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1775-manfred-protz/"
-        }
+        },
         {
             "name": "Kenma",
             "rank": "Supporter",
@@ -187,28 +188,28 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a2/6083-a24f0a5522bc0003aae39c4e68b9a5e6b8cb1521.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1376-mxrt-46/"
-        }
+        },
         {
             "name": "Happy",
             "rank": "Supporter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/aa/3833-aa67465593bc97e1934d0b4f22fc1ffcadedfcbe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/456-happy/"
-        }
+        },
         {
             "name": "Daniel",
             "rank": "Supporter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/63/5044-636c91da9bad05ae126006cb4b8f36fbc11cedad.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1563-daniel/"
-        }
+        },
         {
             "name": "Mika",
             "rank": "Moderator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
-        }
+        },
         {
             "name": "LeqitDonut",
             "rank": "Supporter",
