@@ -87,7 +87,7 @@
             "name": "MaxTM",
             "rank": "Operator I",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/6034-747d3b4e3d46b7c037e425b71de948eac4c6d77a.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/6123-747d3b4e3d46b7c037e425b71de948eac4c6d77a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
         },
         {
@@ -105,13 +105,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1837-xx-niklas-xx/"
         },
         {
-            "name": "jannik",
-            "rank": "Moderator III",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/4289-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
-        },
-        {
             "name": "Marly",
             "rank": "Moderator III",
             "highlight": false,
@@ -122,7 +115,7 @@
             "name": "Bernhardt Kruse",
             "rank": "Operator II",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/98/5705-98f5ec0dc1b06d9b00755b78950badbf2541d2de.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/6105-5f3ef8925ff13ae70e7fa8dc4019e3d0269747af.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },         
         {
@@ -147,7 +140,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {  
-            "name": "BlackShadowKing",
+            "name": "Zero_Two",
             "rank": "Supporter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/6006-9f6f45909c9f5cdb0b9f56f654c5d9a6a71bc835.png",
@@ -168,6 +161,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
         },
         {
+            "name": "Manfred Protz",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d9/5947-d92db055445ac9e13cf3eb8c3755e3ec8c601550.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1775-manfred-protz/"
+        }
+        {
             "name": "Kenma",
             "rank": "Supporter",
             "highlight": false,
@@ -175,10 +175,10 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1497-shoto-todoroki-timo/"
         },
         {
-            "name": "Lk_drbaer",
+            "name": "Lk_Sensei",
             "rank": "Supporter",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/5599-b8a68c147a330c78b356cf5ff1a1644cd9c4bb2e.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/6100-4960d5ed7cce6d6b86993816b3ed73d73780ca8b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
         },
         {
@@ -187,20 +187,34 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a2/6083-a24f0a5522bc0003aae39c4e68b9a5e6b8cb1521.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1376-mxrt-46/"
-        },
-        {
-            "name": "Marlon",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
-        },
+        }
         {
             "name": "Happy",
             "rank": "Supporter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/aa/3833-aa67465593bc97e1934d0b4f22fc1ffcadedfcbe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/456-happy/"
+        }
+        {
+            "name": "Daniel",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/63/5044-636c91da9bad05ae126006cb4b8f36fbc11cedad.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1563-daniel/"
+        }
+        {
+            "name": "Mika",
+            "rank": "Moderator I",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
+        }
+        {
+            "name": "LeqitDonut",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/6024-422f6cfd00948f6e4f8cba1feaca0c8f05f205d1.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
         }
     ]
 }
