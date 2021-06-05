@@ -36,13 +36,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedov/"
         },
         {
-            "name": "Miguel Herrlich",
-            "rank": "Operator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/5248-3cdb9001533240070b58f6beac9ecf1d2b48237c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-miguel-phoenix/"
-        },
-        {
             "name": "Ju$tin",
             "rank": "Operator II",
             "highlight": false,
@@ -141,13 +134,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
         },
         {
-            "name": "Blaubeere",
-            "rank": "Moderator III",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/81/6086-8124e0e61ec814347797d10dd61ca6c65aee5267.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
-        },
-        {
             "name": "Manfred Protz",
             "rank": "Supporter",
             "highlight": false,
@@ -177,7 +163,7 @@
         },
         {
             "name": "Happy",
-            "rank": "Moderator III",
+            "rank": "Moderator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/aa/3833-aa67465593bc97e1934d0b4f22fc1ffcadedfcbe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/456-happy/"
@@ -191,14 +177,14 @@
         },
         {
             "name": "Mika",
-            "rank": "Moderator I",
+            "rank": "Operator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
         },
         {
             "name": "LeqitDonut",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/6024-422f6cfd00948f6e4f8cba1feaca0c8f05f205d1.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
