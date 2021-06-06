@@ -4,7 +4,7 @@
             "name": "Max",
             "rank": "Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/6034-747d3b4e3d46b7c037e425b71de948eac4c6d77a.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/6123-747d3b4e3d46b7c037e425b71de948eac4c6d77a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
         },
         {
@@ -28,26 +28,33 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-feuerwehrmann-marlon/"
         },
-        {
-            "name": "Salzi",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
-        },
-        {
-            "name": "Blaubeere",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/81/6086-8124e0e61ec814347797d10dd61ca6c65aee5267.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
-        },
          {
             "name": "Ediumz",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/5519-0a41b612c9dc43068e25a37e4e468606aaf37868.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1785-ediumz/"
+        },
+         {
+            "name": "Nino",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/aa/3833-aa67465593bc97e1934d0b4f22fc1ffcadedfcbe.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/456-happy/"
+        },
+         {
+            "name": "Daniel",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/63/5044-636c91da9bad05ae126006cb4b8f36fbc11cedad.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1563-daniel/"
+        },
+         {
+            "name": "Mika",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
         }
     ]
 }
