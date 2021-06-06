@@ -51,7 +51,7 @@
         }, 
         {
             "name": "Salzi",
-            "rank": "Moderator II",
+            "rank": "Moderator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
@@ -78,13 +78,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-shoto/"
         },
         {
-            "name": "xx-.Niklas.-xx",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/5697-af874485dd30e34a814b3381437c86d1de669d96.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1837-xx-niklas-xx/"
-        },
-        {
             "name": "Marly",
             "rank": "Moderator III",
             "highlight": false,
@@ -104,19 +97,12 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6030-607276e9d6a9833c30f1dca198b0f671626d5dd2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
-        {
-            "name": "Markus Fischer",
-            "rank": "Moderator III",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/98/6051-982589f9f4179b0e2eddf5a2428b346cab7bdd02.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1780-markus-fischer//"
         }, 
         {  
             "name": "[GER] D34D_W01F",
             "rank": "Moderator II",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/5949-6d38be040109b3ac9c30ed39df94df7e017896c3.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6e/6139-6e96a5084ceb071cb8125a093aea6ed135a9f7ae.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {  
@@ -141,15 +127,8 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1775-manfred-protz/"
         },
         {
-            "name": "Kenma",
-            "rank": "Moderator III",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/14/6094-14c3aa7ca95f1553062ee9557f6148cfcd87b31d.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1497-shoto-todoroki-timo/"
-        },
-        {
             "name": "Lk_Sensei",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/6100-4960d5ed7cce6d6b86993816b3ed73d73780ca8b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
@@ -169,13 +148,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/456-happy/"
         },
         {
-            "name": "Daniel",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/63/5044-636c91da9bad05ae126006cb4b8f36fbc11cedad.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1563-daniel/"
-        },
-        {
             "name": "Mika",
             "rank": "Operator II",
             "highlight": false,
@@ -188,6 +160,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/6024-422f6cfd00948f6e4f8cba1feaca0c8f05f205d1.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
+        },
+        {
+            "name": "PATISTO",
+            "rank": "Moderator III",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/08/6134-0884e70fccdfab73bb2a30273c4d6fd3949ba17a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2016-patisto//"
+        },
+        {
+            "name": "Durum",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8a/6113-8a503bb88f7957cd3ec3b2dd89b43b41ce9b9ab8.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2005-durum/"
         }
     ]
 }
