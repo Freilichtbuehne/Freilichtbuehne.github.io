@@ -29,13 +29,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
         },
        {
-            "name": "Dark 21",
-            "rank": "Erster Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/14/6094-14c3aa7ca95f1553062ee9557f6148cfcd87b31d.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1497-kenma/"
-        },
-       {
             "name": "Mars 48",
             "rank": "Zweiter Leutnant | Personalwesen",
             "highlight": false,
@@ -48,6 +41,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/5548-5a001c90d5f45cef6913e910c7ce388284264490.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1794-popcorn-uwu/"
+        },
+         {
+            "name": "Blackout 72",
+            "rank": "Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6157-b54976d241a644186b2b5bc8a569cf5343dc2b35.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
+        },
+        {
+            "name": "Hardcase 32",
+            "rank": "Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/17/6115-170e36066ae82bae32b4bcd61c19bc49896979a1.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2007-cape1216/"
         }
     ]
 }
