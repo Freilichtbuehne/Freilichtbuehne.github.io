@@ -35,26 +35,26 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/5519-0a41b612c9dc43068e25a37e4e468606aaf37868.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1785-ediumz/"
         },
-       {
-            "name": "Jäger 28",
-            "rank": "Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/5548-5a001c90d5f45cef6913e910c7ce388284264490.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1794-popcorn-uwu/"
-        },
          {
             "name": "Blackout 72",
-            "rank": "Unteroffizier",
+            "rank": "Zweiter Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6157-b54976d241a644186b2b5bc8a569cf5343dc2b35.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
         },
         {
             "name": "Hardcase 32",
-            "rank": "Unteroffizier",
+            "rank": "Zweiter Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/17/6115-170e36066ae82bae32b4bcd61c19bc49896979a1.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2007-cape1216/"
+        },
+         {
+            "name": "Jäger 28",
+            "rank": "Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/5548-5a001c90d5f45cef6913e910c7ce388284264490.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1794-popcorn-uwu/"
         }
     ]
 }
