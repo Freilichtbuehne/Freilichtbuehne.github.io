@@ -27,7 +27,7 @@
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/88/6059-88f2bf5921d64162b1b3e7c041974cadb7eb4430.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
-        },       
+        },     
         {
             "name": "Khabib Nurmagomedov",
             "rank": "Admin",
@@ -35,6 +35,13 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c0/6088-c01bfcfb1d4e924aa3258ea5f9eb5bed2d987330.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedov/"
         },
+        {
+            "name": "MaxTM",
+            "rank": "Admin",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/6123-747d3b4e3d46b7c037e425b71de948eac4c6d77a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
+        },  
         {
             "name": "Ju$tin",
             "rank": "Operator II",
@@ -62,13 +69,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/cf/5572-cf790d956aae793f9c429be001aecece55635cd5.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1802-ron/"
-        },
-        {
-            "name": "MaxTM",
-            "rank": "Operator I",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/6123-747d3b4e3d46b7c037e425b71de948eac4c6d77a.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
         },
         {
             "name": "Shoto",
