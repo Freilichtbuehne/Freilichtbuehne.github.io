@@ -64,23 +64,33 @@
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/4858-5ebfd1f7e1284294bdee43aa2aa664352ef1e081.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1481-frank-herrlich/#wall"
        }, 
-        { "name": "Bastian Ausserkontrolle",
+       {   
+           "name": "Bastian Ausserkontrolle",
            "rank": "Polizeirat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8a/6118-8a503bb88f7957cd3ec3b2dd89b43b41ce9b9ab8.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1777-platoon1986/"
        }, 
-        { "name": "Herbert Protz",
+       {   
+           "name": "Herbert Protz",
            "rank": "Polizeirat",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/15/6050-15f3bb76c34b88c42c604d5540c7b922a291d021.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/6177-6d4b56ea7aa5b48188292e0388bdb79022d99cef.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
        }, 
-        { "name": "Marlon Brand",
+       { 
+           "name": "Marlon Brand",
            "rank": "Polizeirat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
-       }    
+       },  
+       { 
+           "name": "Anton Horvat",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6153-b59a58d6b048a5a59ab15440950123263ae35993.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1697-anton-horvath/"
+       }
     ]
 }
