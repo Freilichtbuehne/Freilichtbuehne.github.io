@@ -29,7 +29,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
         },     
         {
-            "name": "Khabib Nurmagomedov",
+            "name": "Khabib",
             "rank": "Admin",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c0/6088-c01bfcfb1d4e924aa3258ea5f9eb5bed2d987330.jpg",
@@ -181,6 +181,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/5249-e42e87366dd342e40c58db30f46f8efdce4c796a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/780-leon-nice/"
+        },
+        {
+            "name": "Kaiserschmarrn",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/6177-6d4b56ea7aa5b48188292e0388bdb79022d99cef.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
         }
     ]
 }
