@@ -65,13 +65,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1481-frank-herrlich/#wall"
        }, 
        {   
-           "name": "Bastian Ausserkontrolle",
-           "rank": "Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/8a/6118-8a503bb88f7957cd3ec3b2dd89b43b41ce9b9ab8.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1777-platoon1986/"
-       }, 
-       {   
            "name": "Herbert Protz",
            "rank": "Polizeirat",
            "highlight": false,
@@ -91,6 +84,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6153-b59a58d6b048a5a59ab15440950123263ae35993.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1697-anton-horvath/"
-       }
+       },  
+       { 
+           "name": "Sir Leon Nice",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/5249-e42e87366dd342e40c58db30f46f8efdce4c796a.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/780-leon-nice/"
+}
     ]
 }
