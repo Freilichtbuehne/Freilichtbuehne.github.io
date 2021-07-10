@@ -23,13 +23,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
        },
        {
-           "name": "Niklas Jonson",
-           "rank": "Polizeidirektor | Presseabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/5697-af874485dd30e34a814b3381437c86d1de669d96.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1837-xx-niklas-xx/"
-       },
-       {
            "name": "Heinrich Leckmann",
            "rank": "Polizeidirektor | Personalabteilung",
            "highlight": false,
@@ -37,25 +30,11 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
        },
        {
-           "name": "Markus Fischer",
-           "rank": "Polizeioberrat | Personalabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/98/6051-982589f9f4179b0e2eddf5a2428b346cab7bdd02.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1780-markus-fischer//"
-       },
-       {
            "name": "Harald Knusper",
            "rank": "Polizeirat | Personalabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8a/3335-8a7e70b8b0c9e58972a552d0c9d42557a1c50ff2.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/401-stormboy55/"
-       },
-       {
-           "name": "Fabian König",
-           "rank": "Polizeioberrat | Ausbildungsabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/6108-a12e1a678d27d69ea2a1cfd082bcdcf6ec8c6018.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/873-fabian/"
        },
        {
            "name": "Frank Herrlich",
@@ -91,6 +70,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/5249-e42e87366dd342e40c58db30f46f8efdce4c796a.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/780-leon-nice/"
+       },  
+       { 
+           "name": "Alex Ingame",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/5249-e42e87366dd342e40c58db30f46f8efdce4c796a.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1377-alex-ingame/"
 }
     ]
 }
