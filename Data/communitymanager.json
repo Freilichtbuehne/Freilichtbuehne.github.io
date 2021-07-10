@@ -36,20 +36,26 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/aa/3833-aa67465593bc97e1934d0b4f22fc1ffcadedfcbe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/456-happy/"
         },
-        {    
-            "name": "Daniel",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/63/5044-636c91da9bad05ae126006cb4b8f36fbc11cedad.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1563-daniel/"
-        },
-       
         {
             "name": "Lennard",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/08/6134-0884e70fccdfab73bb2a30273c4d6fd3949ba17a.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2016-patisto/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2016-patisto/",
+        {,
+        {    
+            "name": "Anton Horvath",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6153-b59a58d6b048a5a59ab15440950123263ae35993.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1697-anton-horvath/"
+        },
+        {    
+            "name": "Kaiserschmarrn",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/6200-6d4b56ea7aa5b48188292e0388bdb79022d99cef.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
         }
     ]
 }
