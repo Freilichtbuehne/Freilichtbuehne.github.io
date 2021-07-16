@@ -23,7 +23,7 @@
         },
          {
             "name": "Lux 98",
-            "rank": "Hauptmann | Ausbilder| Entwicklungsabteilung",
+            "rank": "Hauptmann | Ausbilder | Entwicklungsabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/6100-4960d5ed7cce6d6b86993816b3ed73d73780ca8b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
@@ -39,15 +39,8 @@
             "name": "Bandit 72",
             "rank": "Hauptmann | Ausbilder | Entwicklungsabteilung",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8b/6207-8bf71cd073f2a5c129ec321441f464aa648aa13a.png",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/6229-7a044a204eafb5e08dd55e083ff420a443640742.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
-        },
-       {
-            "name": "Mars 48",
-            "rank": "Zweiter Leutnant | Personalwesen",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/5519-0a41b612c9dc43068e25a37e4e468606aaf37868.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1785-ediumz/"
         },
          {
             "name": "Falcon 69",
@@ -57,18 +50,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-franz/"
         },
          {
+            "name": "Storm 18",
+            "rank": "Zweiter Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
+        },
+         {
             "name": "Jäger 28",
             "rank": "Unteroffizier",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/5548-5a001c90d5f45cef6913e910c7ce388284264490.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1794-popcorn-uwu/"
         },
-         {
-            "name": "Storm 18",
-            "rank": "Unteroffizier",
+       {
+            "name": "Mars 48",
+            "rank": "Unteroffizier | Personalwesen",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/5519-0a41b612c9dc43068e25a37e4e468606aaf37868.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1785-ediumz/"
         }
     ]
 }
