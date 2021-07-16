@@ -71,13 +71,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1802-ron/"
         },
         {
-            "name": "Shoto",
-            "rank": "Moderator I",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/80/6069-80eda97017461b5618d8e6c0c4f2a9e2b0a91555.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-shoto/"
-        },
-        {
             "name": "Marly",
             "rank": "Moderator III",
             "highlight": false,
@@ -102,7 +95,7 @@
             "name": "[GER] D34D_W01F",
             "rank": "Moderator I",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6e/6139-6e96a5084ceb071cb8125a093aea6ed135a9f7ae.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4e/6180-4ee17938fdfc87362955305631bc04a4563da5bb.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {  
@@ -123,12 +116,12 @@
             "name": "Manfred Protz",
             "rank": "Supporter",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d9/5947-d92db055445ac9e13cf3eb8c3755e3ec8c601550.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9a/6209-9ab4ab90e019b39b3652a8cc4a3d2dfd3814d1bc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1775-manfred-protz/"
         },
         {
             "name": "Lk_Sensei",
-            "rank": "Moderator III",
+            "rank": "Moderator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/6100-4960d5ed7cce6d6b86993816b3ed73d73780ca8b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
@@ -156,7 +149,7 @@
         },
         {
             "name": "LeqitDonut",
-            "rank": "Moderator II",
+            "rank": "Moderator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/6024-422f6cfd00948f6e4f8cba1feaca0c8f05f205d1.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
@@ -186,8 +179,50 @@
             "name": "Kaiserschmarrn",
             "rank": "Supporter",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/6177-6d4b56ea7aa5b48188292e0388bdb79022d99cef.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/37/6224-37410d565ec377ae903b3619ece6dcbfc6b1a37d.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
+        },
+        {
+            "name": "Anton Horvat",
+            "rank": "Moderator III",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6153-b59a58d6b048a5a59ab15440950123263ae35993.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1697-anton-horvath/"
+        },
+        {
+            "name": "Alex Ingame",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e3/5937-e3cf496ec3b09c1bf7a7a2e0cc9c1ad9910a0804.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1377-alex-ingame/"
+        },
+        {
+            "name": "Nagisa Shiota",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/58/4347-58dd8825907d1bf81758c9fab59ed10dad71a61e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1291-nagisa-shiota/"
+        },
+        {
+            "name": "Tristano",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8c/6192-8cdfc0edf2224f34afed3a9ca6556bf6c77e4b91.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
+        },
+        {
+            "name": "N1gh1m4r3",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
+        },
+        {
+            "name": "TheLOLman_HD",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c4/5656-c4235e5fb999d77c818f4144921b742d0790274b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-thelolman-hd/"
         }
     ]
 }
