@@ -30,13 +30,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
        },
        {
-           "name": "Harald Knusper",
-           "rank": "Polizeirat | Personalabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/8a/3335-8a7e70b8b0c9e58972a552d0c9d42557a1c50ff2.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/401-stormboy55/"
-       },
-       {
            "name": "Frank Herrlich",
            "rank": "Polizeirat | Presseabteilung",
            "highlight": false,
@@ -45,9 +38,9 @@
        }, 
        {   
            "name": "Herbert Protz",
-           "rank": "Polizeirat",
+           "rank": "Polizeioberrat",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/6177-6d4b56ea7aa5b48188292e0388bdb79022d99cef.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/37/6224-37410d565ec377ae903b3619ece6dcbfc6b1a37d.gif",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
        }, 
        { 
@@ -59,7 +52,7 @@
        },  
        { 
            "name": "Anton Horvat",
-           "rank": "Polizeirat",
+           "rank": "Polizeioberrat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6153-b59a58d6b048a5a59ab15440950123263ae35993.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1697-anton-horvath/"
@@ -75,7 +68,7 @@
            "name": "Alex Ingame",
            "rank": "Polizeirat",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/5249-e42e87366dd342e40c58db30f46f8efdce4c796a.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/e3/5937-e3cf496ec3b09c1bf7a7a2e0cc9c1ad9910a0804.jpeg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1377-alex-ingame/"
 },  
        { 
