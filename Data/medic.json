@@ -4,7 +4,7 @@
             "name": "Bernhardt Kruse",
             "rank": "Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/98/5705-98f5ec0dc1b06d9b00755b78950badbf2541d2de.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/6105-5f3ef8925ff13ae70e7fa8dc4019e3d0269747af.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },
         {
@@ -18,22 +18,15 @@
             "name": "Herbert Protz",
             "rank": "ELRD",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/15/6050-15f3bb76c34b88c42c604d5540c7b922a291d021.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4e/6180-4ee17938fdfc87362955305631bc04a4563da5bb.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
         },
         {
             "name": "Thommy Smith",
             "rank": "ELRD",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/5949-6d38be040109b3ac9c30ed39df94df7e017896c3.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4e/6180-4ee17938fdfc87362955305631bc04a4563da5bb.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
-        },     
-        {
-            "name": "Michael Melone",
-            "rank": "Notfallsanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#about"
         },
         {
             "name": "Felix Shiro Eckert",
@@ -55,6 +48,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/5886-b0b458f10b58d644d9c5fb82090cd0a9202a41cc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-franz/"
+        },     
+        {
+            "name": "Michael Melone",
+            "rank": "Notfallsanitäter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#about"
         }
     ]
 }
