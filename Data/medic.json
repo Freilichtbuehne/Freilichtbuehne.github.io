@@ -29,18 +29,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },     
         {
-            "name": "Marlon Brand",
-            "rank": "Notarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
-        },
-        {
-            "name": "Maximilian Koch",
+            "name": "Michael Melone",
             "rank": "Notfallsanitäter",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f1/3795-f1783c820fc56f34a5a34f329c39e592f0539bc8.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/902-crazyamxilp102/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#about"
+        },
+        {
+            "name": "Felix Shiro Eckert",
+            "rank": "Notarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/db/3699-dbf1ca4fc95e2ef071a806036a59d2638e61a921.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/#about"
+        },
+        {
+            "name": "Issei Hyoudou",
+            "rank": "Notarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/5663-7c1e9cc45050602362b33e6ea219814538bd1890.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1577-captain-aura/#about"
+        },
+        {
+            "name": "Luke Harrison",
+            "rank": "Notarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/5886-b0b458f10b58d644d9c5fb82090cd0a9202a41cc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-franz/"
         }
     ]
 }
