@@ -38,21 +38,21 @@
        }, 
        {   
            "name": "Herbert Protz",
-           "rank": "Polizeioberrat",
+           "rank": "Polizeioberrat | Personalabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/37/6224-37410d565ec377ae903b3619ece6dcbfc6b1a37d.gif",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
        }, 
        { 
            "name": "Marlon Brand",
-           "rank": "Polizeirat",
+           "rank": "Polizeirat | Personalabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
        },  
        { 
            "name": "Anton Horvat",
-           "rank": "Polizeioberrat",
+           "rank": "Polizeioberrat | Ausbildungsabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6153-b59a58d6b048a5a59ab15440950123263ae35993.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1697-anton-horvath/"
@@ -66,17 +66,38 @@
        },  
        { 
            "name": "Alex Ingame",
-           "rank": "Polizeirat",
+           "rank": "Polizeirat | Ausbildungsabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e3/5937-e3cf496ec3b09c1bf7a7a2e0cc9c1ad9910a0804.jpeg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1377-alex-ingame/"
-},  
+       },  
        { 
            "name": "Lukas Danger",
            "rank": "Polizeirat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
-}
+       }, 
+       { 
+           "name": "Sandro Brisgau",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/17/6115-170e36066ae82bae32b4bcd61c19bc49896979a1.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2007-cape1216/#about"
+       }, 
+       { 
+           "name": "Dietrich Hellmann",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/6123-747d3b4e3d46b7c037e425b71de948eac4c6d77a.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
+       },  
+       { 
+           "name": "Norbert Hellmann",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/cf/5572-cf790d956aae793f9c429be001aecece55635cd5.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1802-ron/"
+       }  
     ]
 }
