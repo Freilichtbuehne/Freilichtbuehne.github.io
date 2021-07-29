@@ -16,17 +16,24 @@
         },
         {
             "name": "Sky 04",
-            "rank": "Major | Ausbilder",
+            "rank": "Generalmajor | Ausbilder",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6030-607276e9d6a9833c30f1dca198b0f671626d5dd2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
          {
             "name": "Lux 98",
-            "rank": "Hauptmann | Ausbilder | Entwicklungsabteilung",
+            "rank": "Major | Ausbilder | Entwicklungsabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/6100-4960d5ed7cce6d6b86993816b3ed73d73780ca8b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
+        },
+         {
+            "name": "Bandit 72",
+            "rank": "Major | Ausbilder | Entwicklungsabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/6256-bb0764dc47d9ec0e72bb3a221310ff913d60fd28.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
         },
          {
             "name": "Rex 32",
@@ -34,13 +41,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/17/6115-170e36066ae82bae32b4bcd61c19bc49896979a1.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2007-cape1216/"
-        },
-         {
-            "name": "Bandit 72",
-            "rank": "Hauptmann | Ausbilder | Entwicklungsabteilung",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/6256-bb0764dc47d9ec0e72bb3a221310ff913d60fd28.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
         },
          {
             "name": "Falcon 69",
@@ -63,7 +63,7 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/5548-5a001c90d5f45cef6913e910c7ce388284264490.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1794-popcorn-uwu/"
         },
-        {
+         {
             "name": "Kaiserschmarrn 45",
             "rank": "Unteroffizier | Personalabteilung",
             "highlight": false,
