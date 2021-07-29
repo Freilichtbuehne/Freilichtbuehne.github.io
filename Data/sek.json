@@ -39,19 +39,19 @@
             "name": "Bandit 72",
             "rank": "Hauptmann | Ausbilder | Entwicklungsabteilung",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/6229-7a044a204eafb5e08dd55e083ff420a443640742.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/6256-bb0764dc47d9ec0e72bb3a221310ff913d60fd28.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
         },
          {
             "name": "Falcon 69",
-            "rank": "Zweiter Leutnant | Entwicklungsabteilung",
+            "rank": "Erster Leutnant | Entwicklungsabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/5886-b0b458f10b58d644d9c5fb82090cd0a9202a41cc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-franz/"
         },
          {
             "name": "Storm 18",
-            "rank": "Zweiter Leutnant",
+            "rank": "Erster Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
@@ -63,12 +63,12 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/5548-5a001c90d5f45cef6913e910c7ce388284264490.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1794-popcorn-uwu/"
         },
-        {   
-           "name": "Kaiserschmarrn 48",
-           "rank": "Unteroffizier",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/cc/6250-cce134d1ef8cf3ebb18310c5a53e991ed7d19f0a.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
-       }, 
+        {
+            "name": "Kaiserschmarrn 45",
+            "rank": "Unteroffizier | Personalabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/30/6261-3071f34fde1e2c34cb120f2a3aa56e8afb9b788f.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
+        }
     ]
 }
