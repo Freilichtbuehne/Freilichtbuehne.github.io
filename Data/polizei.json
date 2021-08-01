@@ -28,6 +28,20 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6075-c8c2cf17f8c5dc7562da23cccb7df8aaa9851054.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
+       }, 
+       {   
+           "name": "Herbert Protz",
+           "rank": "Polizeidirektor | Personalabteilung",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/37/6224-37410d565ec377ae903b3619ece6dcbfc6b1a37d.gif",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
+       }, 
+       {   
+           "name": "Tristen Harrison",
+           "rank": "Polizeidirektor",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/8c/6192-8cdfc0edf2224f34afed3a9ca6556bf6c77e4b91.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
        },
        {
            "name": "Frank Herrlich",
@@ -35,13 +49,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/4858-5ebfd1f7e1284294bdee43aa2aa664352ef1e081.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1481-frank-herrlich/#wall"
-       }, 
-       {   
-           "name": "Herbert Protz",
-           "rank": "Polizeioberrat | Personalabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/37/6224-37410d565ec377ae903b3619ece6dcbfc6b1a37d.gif",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
        }, 
        { 
            "name": "Marlon Brand",
@@ -59,7 +66,7 @@
        },  
        { 
            "name": "Sir Leon Nice",
-           "rank": "Polizeirat",
+           "rank": "Polizeirat | Ausbildungsabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/5249-e42e87366dd342e40c58db30f46f8efdce4c796a.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/780-leon-nice/"
