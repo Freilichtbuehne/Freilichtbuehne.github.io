@@ -95,7 +95,7 @@
             "name": "BigLazy03",
             "rank": "Operator I",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6030-607276e9d6a9833c30f1dca198b0f671626d5dd2.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6272-607276e9d6a9833c30f1dca198b0f671626d5dd2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         }, 
         {  
@@ -116,7 +116,7 @@
             "name": "MR.iks",
             "rank": "Moderator II",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6075-c8c2cf17f8c5dc7562da23cccb7df8aaa9851054.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6264-c8c2cf17f8c5dc7562da23cccb7df8aaa9851054.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
         },
         {
@@ -130,7 +130,7 @@
             "name": "Lk_Sensei",
             "rank": "Moderator II",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/6100-4960d5ed7cce6d6b86993816b3ed73d73780ca8b.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/6263-4960d5ed7cce6d6b86993816b3ed73d73780ca8b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
         },
         {
@@ -223,6 +223,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c4/5656-c4235e5fb999d77c818f4144921b742d0790274b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-thelolman-hd/"
+        },
+        {
+            "name": "Heinrich Danger",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6186-b5584a062d9c3db8746c78fa026dac213ccb0ae9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
         }
     ]
 }
