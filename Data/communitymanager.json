@@ -30,31 +30,52 @@
         },
         {    
             "name": "Marlon Brand",
-            "rank": "Mitglied",
+            "rank": "Manager",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {    
-            "name": "Happy",
+            "name": "Luke Harrison",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/aa/3833-aa67465593bc97e1934d0b4f22fc1ffcadedfcbe.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/456-happy/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/5886-b0b458f10b58d644d9c5fb82090cd0a9202a41cc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-franz/"
         },
-        {
-            "name": "Lennard",
+        {    
+            "name": "Julian Zagler",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/08/6134-0884e70fccdfab73bb2a30273c4d6fd3949ba17a.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2016-patisto/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/de/6283-de4e2f9715fc931f2a63ac48764dc7a375e10d46.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1979-reko/"
         },
-         {
+       {    
+            "name": "Noah Land",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c4/5656-c4235e5fb999d77c818f4144921b742d0790274b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-thelolman-hd/"
+        },
+       {    
             "name": "Heinrich Leckmann",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6264-c8c2cf17f8c5dc7562da23cccb7df8aaa9851054.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
+        },
+         {    
+            "name": "Mukki Herrmann",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/09/6282-0979d1524615f5dc56971790babb6d9d84bf5455.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1882-emil/"
+        }, 
+         {    
+            "name": "Luca Herrmann",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e6/6194-e6475c66bfdf74951786ce9c8d3966e7e0f3aa64.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1885-luca/"
         }
     ]
 }
