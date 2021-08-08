@@ -14,13 +14,7 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6186-b5584a062d9c3db8746c78fa026dac213ccb0ae9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
         },
-        {
-            "name": "Justin Isetta",
-            "rank": "Brandrat",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/5805-d33e9ab2fc9dcf4ed83c5391ce6026551a4ffe0c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
-        },
+       
         {
             "name": "Dr. med. Bernhardt Kruse",
             "rank": "Brandrat",
@@ -37,10 +31,26 @@
         },
         {
             "name": "Lukas Danger",
-            "rank": "Brandoberinspektor",
+            "rank": "Brandreferendar",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
+        },
+        {
+            "name": "Mani Mayer",
+            "rank": "Brandreferendar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e7/5862-e7f895aede359bbc69afa24f51ec4b901d7beada.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1908-exxtrem-gamer/"
+        },
+        {
+            "name": "Brain McCaffrey",
+            "rank": "Brandoberinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/95/6191-9527d6b2034c923890d36b3c8b3d4139ea9447c3.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/717-shadow-san/"
         }
+
+        
     ]
 }
