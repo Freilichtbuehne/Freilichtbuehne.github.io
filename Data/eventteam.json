@@ -28,34 +28,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-feuerwehrmann-marlon/"
-        },
-         {
-            "name": "Ediumz",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/5519-0a41b612c9dc43068e25a37e4e468606aaf37868.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1785-ediumz/"
-        },
-         {
-            "name": "Nino",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/aa/3833-aa67465593bc97e1934d0b4f22fc1ffcadedfcbe.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/456-happy/"
-        },
+         },
          {
             "name": "LeqitDonut",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/6024-422f6cfd00948f6e4f8cba1feaca0c8f05f205d1.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
-        },
-         {
-            "name": "Durum",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8a/6113-8a503bb88f7957cd3ec3b2dd89b43b41ce9b9ab8.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2005-durum/"
         },
          {
             "name": "Kaiserschmarrn",
@@ -98,6 +77,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6186-b5584a062d9c3db8746c78fa026dac213ccb0ae9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
+        },
+         {
+            "name": "[GER] D34D_W01F",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4e/6180-4ee17938fdfc87362955305631bc04a4563da5bb.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
+        },
+         {
+            "name": "Lk_Sensei",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/6263-4960d5ed7cce6d6b86993816b3ed73d73780ca8b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-sensei/"
         }
     ]
 }
