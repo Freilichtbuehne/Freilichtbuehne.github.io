@@ -49,6 +49,13 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
         },
+                {
+            "name": "Charlie 19",
+            "rank": "Erster Leutnant | Ausbilder",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e1/6268-e1294a1c033a11baa975dc46a9bc90cd7c50eca2.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
+        },  
          {
             "name": "Kaiserschmarrn 45",
             "rank": "Unteroffizier | Personalabteilung",
@@ -63,13 +70,5 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e3/5937-e3cf496ec3b09c1bf7a7a2e0cc9c1ad9910a0804.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1377-alex-ingame/"
         },
-        {
-            "name": "Charlie 19",
-            "rank": "Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e1/6268-e1294a1c033a11baa975dc46a9bc90cd7c50eca2.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
-        } 
-      
     ]
 }
