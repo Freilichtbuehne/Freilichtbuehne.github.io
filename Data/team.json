@@ -50,13 +50,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
         }, 
         {
-            "name": "Ju$tin",
-            "rank": "Operator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/5805-d33e9ab2fc9dcf4ed83c5391ce6026551a4ffe0c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-justin-bob/"
-        },
-        {
             "name": "Luca11013 -GPX-",
             "rank": "Moderator I",
             "highlight": false,
@@ -81,7 +74,7 @@
             "name": "Bernhardt Kruse",
             "rank": "Operator II",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/6105-5f3ef8925ff13ae70e7fa8dc4019e3d0269747af.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/6308-20c7ebcf323327607c7384ed545842475cad676c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },         
         {
@@ -158,7 +151,7 @@
             "name": "Tristano",
             "rank": "Moderator III",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8c/6192-8cdfc0edf2224f34afed3a9ca6556bf6c77e4b91.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/6285-2dadc4cbb0f240853fee6640a3035ee59a1e5a89.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
         {
@@ -189,6 +182,27 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e1/6268-e1294a1c033a11baa975dc46a9bc90cd7c50eca2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
+        },
+        {
+            "name": "Raptic",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/6256-bb0764dc47d9ec0e72bb3a221310ff913d60fd28.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
+        },
+        {
+            "name": "Grinningblack",
+            "rank": "Moderator III",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fc/6314-fc2e2adec938ea020e2c618fb982c4b1e99a5af4.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1530-grinningblack/"
+        },
+        {
+            "name": "McCord",
+            "rank": "Operator II",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ee/6319-eede8158b0c3252456aa57cf84c5159dbf061fc7.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1043-mccord/"
         }
     ]
 }
