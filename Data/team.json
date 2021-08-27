@@ -50,13 +50,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
         }, 
         {
-            "name": "Ju$tin",
-            "rank": "Operator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/5805-d33e9ab2fc9dcf4ed83c5391ce6026551a4ffe0c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-justin-bob/"
-        },
-        {
             "name": "Luca11013 -GPX-",
             "rank": "Moderator I",
             "highlight": false,
@@ -106,13 +99,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
         },
         {
-            "name": "Mxrt_46",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a2/6083-a24f0a5522bc0003aae39c4e68b9a5e6b8cb1521.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1376-mxrt-46/"
-        },
-        {
             "name": "LeqitDonut",
             "rank": "Moderator I",
             "highlight": false,
@@ -148,13 +134,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1377-alex-ingame/"
         },
         {
-            "name": "Nagisa Shiota",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/58/4347-58dd8825907d1bf81758c9fab59ed10dad71a61e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1291-nagisa-shiota/"
-        },
-        {
             "name": "Tristano",
             "rank": "Moderator III",
             "highlight": false,
@@ -177,7 +156,7 @@
         },
         {
             "name": "Heinrich Danger",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6186-b5584a062d9c3db8746c78fa026dac213ccb0ae9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
@@ -189,6 +168,14 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e1/6268-e1294a1c033a11baa975dc46a9bc90cd7c50eca2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
+        },
+        {
+     
+            "name": "Sir Helmut Nice",
+            "rank": "Moderator III",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fc/6314-fc2e2adec938ea020e2c618fb982c4b1e99a5af4.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1530-grinningblack/"
         }
     ]
 }
