@@ -14,16 +14,9 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/6263-4960d5ed7cce6d6b86993816b3ed73d73780ca8b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
         },
-        {
-            "name": "Sky 04",
-            "rank": "Generalmajor | Ausbilder | Personalabteilung",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6272-607276e9d6a9833c30f1dca198b0f671626d5dd2.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
          {
             "name": "Bandit 72",
-            "rank": "Major | Ausbilder | Entwicklungsabteilung",
+            "rank": "General | Ausbilder | Entwicklungsabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/6256-bb0764dc47d9ec0e72bb3a221310ff913d60fd28.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
@@ -51,7 +44,7 @@
         },
          {
             "name": "Charlie 19",
-            "rank": "Erster Leutnant | Ausbilder",
+            "rank": "Oberstleutnant | Ausbilder",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e1/6268-e1294a1c033a11baa975dc46a9bc90cd7c50eca2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
