@@ -74,7 +74,7 @@
             "name": "Bernhardt Kruse",
             "rank": "Operator II",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/6105-5f3ef8925ff13ae70e7fa8dc4019e3d0269747af.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/6308-20c7ebcf323327607c7384ed545842475cad676c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },         
         {
@@ -142,7 +142,7 @@
         },
         {
             "name": "N1gh1m4r3",
-            "rank": "Moderator II",
+            "rank": "Moderator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
@@ -171,11 +171,35 @@
         },
         {
      
+            "name": "Raptic",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/6256-bb0764dc47d9ec0e72bb3a221310ff913d60fd28.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
+        },
+        {
+     
             "name": "Sir Helmut Nice",
             "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/fc/6314-fc2e2adec938ea020e2c618fb982c4b1e99a5af4.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1530-grinningblack/"
+        },
+        {
+     
+            "name": "McCord",
+            "rank": "Operator II",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ee/6319-eede8158b0c3252456aa57cf84c5159dbf061fc7.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1043-mccord/"
+        },
+        {
+     
+            "name": "Lennard.",
+            "rank": "Moderator I",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/6315-1d3b106588316c3c2b0ede766a600ff512a7a64b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-lennard/"
         }
     ]
 }
