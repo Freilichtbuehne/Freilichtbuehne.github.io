@@ -33,12 +33,12 @@
            "name": "Herbert Protz",
            "rank": "Polizeidirektor | Personalabteilung",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/30/6261-3071f34fde1e2c34cb120f2a3aa56e8afb9b788f.gif",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/53/6304-53515174fcc2c54ce3cb9f071508926a560d8988.jpeg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
        }, 
        {   
            "name": "Tristen Harrison",
-           "rank": "Polizeidirektor",
+           "rank": "Polizeidirektor | Ausbildungsabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/6285-2dadc4cbb0f240853fee6640a3035ee59a1e5a89.jpeg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
@@ -61,12 +61,12 @@
            "name": "Anton Horvat",
            "rank": "Polizeioberrat | Ausbildungsabteilung",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/6273-0d2525a8e40758c21995b90d6c610f28615f765c.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/bd/6302-bd2044bed5089f95b76bddcfb2b47dc0592e7dac.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1697-anton-horvath/"
        },  
        { 
            "name": "Sir Leon Nice",
-           "rank": "Polizeirat | Ausbildungsabteilung",
+           "rank": "Polizeioberrat | Ausbildungsabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/5249-e42e87366dd342e40c58db30f46f8efdce4c796a.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/780-leon-nice/"
@@ -80,7 +80,7 @@
        },  
        { 
            "name": "Lukas Danger",
-           "rank": "Polizeirat",
+           "rank": "Polizeioberrat | Ausbildungsabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
@@ -112,6 +112,20 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/6256-bb0764dc47d9ec0e72bb3a221310ff913d60fd28.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
-       }  
+       },
+       {
+           "name": "Chris Mara",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/6279-8604035d8f59b9f39aef2c9311d70cf21b52882b.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/"
+       } ,
+       {
+           "name": "Felix Harrison",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6324-b54be8cb8ebcf2f7c540ab3bb0d92a16b06e34e7.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
+       }   
     ]
 }
