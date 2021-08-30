@@ -15,17 +15,10 @@
       "profile":"https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedov/"
    },
    {
-      "name":"Shoto Todoroki",
-      "rank":"Mitglied",
-      "highlight":false,
-      "picture":"https://www.goldphoenix.de/wcf/images/avatars/80/6069-80eda97017461b5618d8e6c0c4f2a9e2b0a91555.jpg",
-      "profile":"https://www.goldphoenix.de/wcf/index.php?user/1849-shoto/"
-   },
-   {
       "name":"BigLazy03",
       "rank":"Mitglied",
       "highlight":false,
-      "picture":"https://www.goldphoenix.de/wcf/images/avatars/60/6030-607276e9d6a9833c30f1dca198b0f671626d5dd2.jpg",
+      "picture":"https://www.goldphoenix.de/wcf/images/avatars/60/6272-607276e9d6a9833c30f1dca198b0f671626d5dd2.jpg",
       "profile":"https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
    },
    {
@@ -45,27 +38,43 @@
    },
    {
       
-      "name":"Marly",
-      "rank":"Mitglied",
-      "highlight":false,
-      "picture":"https://www.goldphoenix.de/wcf/images/avatars/c7/5860-c7d5581146ec37d8e44548f54f8eccf494d37a83.jpg",
-      "profile":"https://www.goldphoenix.de/wcf/index.php?user/536-marly/"
-   },
-   {
-      
       "name":"Bernhardt Kruse",
       "rank":"Mitglied",
       "highlight":false,
-      "picture":"https://www.goldphoenix.de/wcf/images/avatars/98/5705-98f5ec0dc1b06d9b00755b78950badbf2541d2de.jpg",
+      "picture":"https://www.goldphoenix.de/wcf/images/avatars/20/6308-20c7ebcf323327607c7384ed545842475cad676c.jpg",
       "profile":"https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
    },
    {
       
-      "name":"PATISTO",
+      "name":"Mika",
       "rank":"Mitglied",
       "highlight":false,
-      "picture":"https://www.goldphoenix.de/wcf/images/avatars/08/6134-0884e70fccdfab73bb2a30273c4d6fd3949ba17a.jpg",
-      "profile":"https://www.goldphoenix.de/wcf/index.php?user/2016-patisto//"
+      "picture":"https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
+      "profile":"https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
+   },
+   {
+      
+      "name":"LeqitDonut",
+      "rank":"Mitglied",
+      "highlight":false,
+      "picture":"https://www.goldphoenix.de/wcf/images/avatars/42/6024-422f6cfd00948f6e4f8cba1feaca0c8f05f205d1.jpg",
+      "profile":"https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
+   },
+   {
+      
+      "name":"N1gh1m4r3",
+      "rank":"Mitglied",
+      "highlight":false,
+      "picture":"https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
+      "profile":"https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
+   },
+   {
+      
+      "name":"Heinrich Danger",
+      "rank":"Mitglied",
+      "highlight":false,
+      "picture":"https://www.goldphoenix.de/wcf/images/avatars/b5/6186-b5584a062d9c3db8746c78fa026dac213ccb0ae9.jpg",
+      "profile":"https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
    }
 ]
 }
