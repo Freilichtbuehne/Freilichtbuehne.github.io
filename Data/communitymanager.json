@@ -4,22 +4,15 @@
             "name": "Kaiserschmarrn",
             "rank": "Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/30/6261-3071f34fde1e2c34cb120f2a3aa56e8afb9b788f.gif",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/53/6304-53515174fcc2c54ce3cb9f071508926a560d8988.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
         },
         {    
             "name": "Anton Horvath",
             "rank": "Stv. Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/6273-0d2525a8e40758c21995b90d6c610f28615f765c.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bd/6302-bd2044bed5089f95b76bddcfb2b47dc0592e7dac.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1697-anton-horvath/"
-        },
-         {    
-            "name": "Lukas Kusch",
-            "rank": "Manager",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/6263-4960d5ed7cce6d6b86993816b3ed73d73780ca8b.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-sensei/"
         },
         {    
             "name": "Chrisskross",
@@ -36,18 +29,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {    
+            "name": "Intrace",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/6274-ef186c20f4117a6af1ef8b093f8a65d2fa8c01aa.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
+        },
+        {    
             "name": "Luke Harrison",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/5886-b0b458f10b58d644d9c5fb82090cd0a9202a41cc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-franz/"
-        },
-        {    
-            "name": "Julian Zagler",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/de/6283-de4e2f9715fc931f2a63ac48764dc7a375e10d46.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1979-reko/"
         },
        {    
             "name": "Noah Land",
@@ -56,18 +49,11 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c4/5656-c4235e5fb999d77c818f4144921b742d0790274b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-thelolman-hd/"
         },
-       {    
-            "name": "Heinrich Leckmann",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6264-c8c2cf17f8c5dc7562da23cccb7df8aaa9851054.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
-        },
          {    
             "name": "Mukki Herrmann",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/09/6282-0979d1524615f5dc56971790babb6d9d84bf5455.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/6313-74fdfb7f7605096689fe647323089f876aa005f2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1882-emil/"
         }, 
          {    
