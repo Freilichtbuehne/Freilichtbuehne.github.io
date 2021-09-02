@@ -28,19 +28,19 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
+          {    
+            "name": "Luke Harrison",
+            "rank": "Manager",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/5886-b0b458f10b58d644d9c5fb82090cd0a9202a41cc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-franz/"
+        },
         {    
             "name": "Intrace",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/6274-ef186c20f4117a6af1ef8b093f8a65d2fa8c01aa.jpeg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/6339-2b8d88e590d20fb9707c35fd2cf3fe7ce90a6ecc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
-        },
-        {    
-            "name": "Luke Harrison",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/5886-b0b458f10b58d644d9c5fb82090cd0a9202a41cc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-franz/"
         },
        {    
             "name": "Noah Land",
@@ -56,13 +56,6 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/6313-74fdfb7f7605096689fe647323089f876aa005f2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1882-emil/"
         }, 
-         {    
-            "name": "Luca Herrmann",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d6/6307-d6197a9590f998cf68ed32a0d77bc0c4afe414f9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1885-luca/"
-        },
          {    
             "name": "Tristen Harrison",
             "rank": "Mitglied",
