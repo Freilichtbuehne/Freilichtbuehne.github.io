@@ -4,33 +4,40 @@
             "name": "Bernhardt Kruse",
             "rank": "Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/6105-5f3ef8925ff13ae70e7fa8dc4019e3d0269747af.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/6308-20c7ebcf323327607c7384ed545842475cad676c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },
         {
             "name": "Nils Lombax",
-            "rank": "OrgL",
+            "rank": "Org. Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/5767-6856ebdd65d7ac999e470f63a90f370a8cc278fd.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
         },
         {
             "name": "Herbert Protz",
-            "rank": "OrgL",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4e/6180-4ee17938fdfc87362955305631bc04a4563da5bb.png",
+            "rank": "Org. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/53/6304-53515174fcc2c54ce3cb9f071508926a560d8988.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
         },
         {
             "name": "Thommy Smith",
-            "rank": "ELRD",
+            "rank": "Einsatleitung Rettungsdienst",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/4e/6180-4ee17938fdfc87362955305631bc04a4563da5bb.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
+        }, 
+        {
+            "name": "Michael Melone",
+            "rank": "Einsatleitung Rettungsdienst",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/5292-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#about"
         },
         {
             "name": "Felix Shiro Eckert",
-            "rank": "Notarzt",
+            "rank": "Einsatleitung Rettungsdienst",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/db/3699-dbf1ca4fc95e2ef071a806036a59d2638e61a921.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/#about"
@@ -44,17 +51,31 @@
         },
         {
             "name": "Luke Harrison",
-            "rank": "Notarzt",
+            "rank": " Leitender Notarzt",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/5886-b0b458f10b58d644d9c5fb82090cd0a9202a41cc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-franz/"
         },     
         {
-            "name": "Michael Melone",
+            "name": "Tristen Harrison",
+            "rank": "Notarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/6285-2dadc4cbb0f240853fee6640a3035ee59a1e5a89.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
+        },     
+        {
+            "name": "Anton Horvat",
             "rank": "Notfallsanitäter",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#about"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bd/6302-bd2044bed5089f95b76bddcfb2b47dc0592e7dac.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1697-anton-horvath/"
+        },     
+        {
+            "name": "Uwe Klax",
+            "rank": "Notfallsanitäter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/6024-422f6cfd00948f6e4f8cba1feaca0c8f05f205d1.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
         }
     ]
 }
