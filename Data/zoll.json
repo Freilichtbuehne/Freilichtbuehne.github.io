@@ -1,25 +1,46 @@
 {
     "members": [
         {
-            "name": "Chriss Kross",
-            "rank": "Fahrlehrer | Inhaber",
+            "name": "Frank Steinmeier",
+            "rank": "Präsident der Generalzolldirektion",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ee/6319-eede8158b0c3252456aa57cf84c5159dbf061fc7.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1043-mccord/"
         },
         {
-            "name": "Prof. Dr. Ing. Justin Varox",
-            "rank": "Fahrlehrer | Manager",
+            "name": "Winfried Kretchmann",
+            "rank": "Vizepräsident der Generalzolldirektion",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/cb/6064-cb35c1545c2f6236044395aafe0a78a9aaaa81c1.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/6315-1d3b106588316c3c2b0ede766a600ff512a7a64b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-lennard/"
         },
         {
-            "name": "Jessy Salzbergwerk",
-            "rank": "Fahrlehrer",
+            "name": "Herbert Protz",
+            "rank": "Direktionspräsident",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/53/6304-53515174fcc2c54ce3cb9f071508926a560d8988.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
+        },
+         {
+            "name": "Tristen Harrison",
+            "rank": "Leitender Regierungsdirektor",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/6285-2dadc4cbb0f240853fee6640a3035ee59a1e5a89.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
+        },
+        {
+            "name": "Marlon Brand",
+            "rank": "Zolloberinspektor",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
+        },
+        {
+            "name": "Dietrich Hellmann",
+            "rank": "Zolloberinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/6297-1d70088e43d57a9b830def7c7bbada2419c9e13f.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
         }
     ]
 }
