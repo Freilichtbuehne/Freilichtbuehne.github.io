@@ -97,7 +97,7 @@ function load(page) {
 }
 
 function setActive(id) {
-    var ids = ["pol", "med", "feu", "far", "sek"];
+    var ids = ["pol", "med", "feu", "far", "sek", "zoll"];
     for (let i = 0; i < ids.length; i++) {
         document.getElementById(ids[i]).classList.remove("active");
     }
