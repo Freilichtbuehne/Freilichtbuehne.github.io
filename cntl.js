@@ -3,7 +3,8 @@ const rpids = {
     8: "med",
     9: "feu",
     10: "far",
-    11: "sek"
+    11: "sek",
+    12: "zoll"
 }
 
 const maxEntrys = 10;
@@ -70,6 +71,13 @@ function load(page) {
             break;
         case 11:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/sek.json";
+            rpSection = true;
+            ClearSubBox();
+            ClearPageBox();
+            setActive(rpids[page]);
+            break;
+        case 12:
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/zoll.json";
             rpSection = true;
             ClearSubBox();
             ClearPageBox();
