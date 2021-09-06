@@ -1,0 +1,25 @@
+{
+    "members": [
+        {
+            "name": "Chriss Kross",
+            "rank": "Fahrlehrer | Inhaber",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
+        },
+        {
+            "name": "Prof. Dr. Ing. Justin Varox",
+            "rank": "Fahrlehrer | Manager",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/cb/6064-cb35c1545c2f6236044395aafe0a78a9aaaa81c1.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
+        },
+        {
+            "name": "Jessy Salzbergwerk",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
+        }
+    ]
+}
