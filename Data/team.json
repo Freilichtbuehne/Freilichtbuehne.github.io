@@ -127,15 +127,8 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1697-anton-horvath/"
         },
         {
-            "name": "Alex Ingame",
-            "rank": "Moderator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e3/5937-e3cf496ec3b09c1bf7a7a2e0cc9c1ad9910a0804.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1377-alex-ingame/"
-        },
-        {
             "name": "Tristano",
-            "rank": "Moderator II",
+            "rank": "Moderator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/6285-2dadc4cbb0f240853fee6640a3035ee59a1e5a89.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
@@ -146,10 +139,17 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
-        },
+        },,
+        {
+            "name": "Nagisa Shiota",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4e/6374-4ee1a4e6cfb713079c60e84079561c1ae962bbe4.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1291-nagisa-shiota/"
+        }
         {
             "name": "TheLOLman_HD",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c4/5656-c4235e5fb999d77c818f4144921b742d0790274b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-thelolman-hd/"
@@ -172,7 +172,7 @@
         {
      
             "name": "Raptic",
-            "rank": "Moderator III",
+            "rank": "Moderator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/6256-bb0764dc47d9ec0e72bb3a221310ff913d60fd28.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
@@ -216,6 +216,15 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/6346-180369b4a1aeb5d589bb35e2ffc34eca8c51ab26.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
+        },
+        {
+     
+            "name": "Skinwalker",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0b/6373-0b7e3cd563ce980b900b3cb2bb0c2f1379e3698e.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1294-skinwalker/#about"
         }
+
     ]
 }
