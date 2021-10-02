@@ -19,7 +19,7 @@
             "name": "Dr. med. Bernhardt Kruse",
             "rank": "Brandrat",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/6105-5f3ef8925ff13ae70e7fa8dc4019e3d0269747af.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/6308-20c7ebcf323327607c7384ed545842475cad676c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },
         {
@@ -49,7 +49,21 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/95/6191-9527d6b2034c923890d36b3c8b3d4139ea9447c3.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/717-shadow-san/"
-        }
+        },
+        {
+            "name": "John Alzheimer",
+            "rank": "Brandoberinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6326-6070e39aa41506ac985fccbf71c8b16a4361375b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2067-timeofoneway/"
+        },
+        {
+            "name": "Luke Harrison",
+            "rank": "Brandreferendar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/5886-b0b458f10b58d644d9c5fb82090cd0a9202a41cc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+        },
 
         
     ]
