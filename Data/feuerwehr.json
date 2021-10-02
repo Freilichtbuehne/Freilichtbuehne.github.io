@@ -14,7 +14,6 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6186-b5584a062d9c3db8746c78fa026dac213ccb0ae9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
         },
-       
         {
             "name": "Dr. med. Bernhardt Kruse",
             "rank": "Brandrat",
@@ -63,7 +62,7 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/5886-b0b458f10b58d644d9c5fb82090cd0a9202a41cc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
-        },
+        }
 
         
     ]
