@@ -58,7 +58,7 @@
         }, 
         {
             "name": "Salzi",
-            "rank": "Moderator I",
+            "rank": "Operator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
@@ -69,13 +69,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/cf/5572-cf790d956aae793f9c429be001aecece55635cd5.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1802-ron/"
-        },
-        {
-            "name": "Bernhardt Kruse",
-            "rank": "Operator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/6308-20c7ebcf323327607c7384ed545842475cad676c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },         
         {
             "name": "BigLazy03",
@@ -156,7 +149,7 @@
         },
         {
             "name": "Heinrich Danger",
-            "rank": "Moderator II",
+            "rank": "Moderator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6186-b5584a062d9c3db8746c78fa026dac213ccb0ae9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
@@ -164,7 +157,7 @@
         {
      
             "name": "Oliver Holz",
-            "rank": "Moderator II",
+            "rank": "Moderator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e1/6268-e1294a1c033a11baa975dc46a9bc90cd7c50eca2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
@@ -172,7 +165,7 @@
         {
      
             "name": "Raptic",
-            "rank": "Moderator II",
+            "rank": "Moderator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/6256-bb0764dc47d9ec0e72bb3a221310ff913d60fd28.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
@@ -182,16 +175,8 @@
             "name": "Sir Helmut Nice",
             "rank": "Moderator III",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fc/6314-fc2e2adec938ea020e2c618fb982c4b1e99a5af4.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1530-grinningblack/"
-        },
-        {
-     
-            "name": "McCord",
-            "rank": "Operator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6362-acc3ee68b36f27f8e44e5f4e0790e0a2a46382b5.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1043-mccord/"
         },
         {
      
