@@ -2,14 +2,14 @@
     "members": [
         {
             "name": "Intrace 27",
-            "rank": "General | Ausbilder | Personalabteilung",
+            "rank": "General | Ausbilder | Personalabteilung | Scharfschütze",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/3e/6397-3e9a4fe002638db77c3a84c8e605d8c5d331bf8c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
         },
           {
             "name": "Lux 98",
-            "rank": "Generalleutnant | Ausbilder | Entwicklungsabteilung",
+            "rank": "Generalleutnant | Ausbilder | Entwicklungsabteilung | Scharfschütze"",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/6263-4960d5ed7cce6d6b86993816b3ed73d73780ca8b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
@@ -53,8 +53,22 @@
             "name": "Kristall 33",
             "rank": "Unteroffizier",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/5292-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
+        },
+        {
+            "name": "Monster 16",
+            "rank": "Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8a/6329-8a503bb88f7957cd3ec3b2dd89b43b41ce9b9ab8.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-linomann/"
+        },
+           {
+            "name": "Street 44",
+            "rank": "Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/6421-9fe719891f1b82f287bfc3bba6165161e8312cc8.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-dernetteflo/"
         }
     ]
 }
