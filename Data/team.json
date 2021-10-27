@@ -15,13 +15,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/358-samuel-ulf/"
         },
         {
-            "name": "Chrisskross",
-            "rank": "Admin",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
-        },
-        {
             "name": "Luke",
             "rank": "Admin",
             "highlight": true,
@@ -50,6 +43,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
         }, 
         {
+            "name": "Chrisskross",
+            "rank": "Operator I",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
+        },
+        {
             "name": "Luca11013 -GPX-",
             "rank": "Moderator I",
             "highlight": false,
@@ -67,7 +67,7 @@
             "name": "BigLazy03",
             "rank": "Operator I",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6272-607276e9d6a9833c30f1dca198b0f671626d5dd2.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b3/6459-b38a84b5b3f73ad5dfbabdc0728543c02d7e99fe.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         }, 
         {  
@@ -78,17 +78,10 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {
-            "name": "Lk_Sensei",
-            "rank": "Moderator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/6263-4960d5ed7cce6d6b86993816b3ed73d73780ca8b.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1804-lk-drbaer/"
-        },
-        {
             "name": "LeqitDonut",
             "rank": "Moderator I",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d5/6356-d5831b2ee655eb29822655322a8b1e8ed36df232.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ca/6462-ca28fb0f9e5566c5f72a2cf6164d547378ebda8d.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
         },
         {
@@ -102,14 +95,14 @@
             "name": "Kaiserschmarrn",
             "rank": "Moderator II",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/6426-76f31112a0bd201512d89007767af1b69886ebe9.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2f/6457-2fff4480d41b9f56961083571fdef8cff4e423e0.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
         },
         {
             "name": "Anton Horvat",
             "rank": "Moderator II",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e0/6378-e09cad112fb78b1966134fdebc04e582f86c1093.gif",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ec/6472-eca6f284c56727059274397e02fba5324b0c9df8.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1697-anton-horvath/"
         },
         {
@@ -184,7 +177,7 @@
             "name": "Fake Luke",
             "rank": "Supporter",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/5886-b0b458f10b58d644d9c5fb82090cd0a9202a41cc.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2f/6456-2fff4480d41b9f56961083571fdef8cff4e423e0.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
@@ -205,11 +198,25 @@
         },
         {
      
-            "name": "ALex Ingame",
+            "name": "Alex Ingame",
             "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e3/5937-e3cf496ec3b09c1bf7a7a2e0cc9c1ad9910a0804.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1377-alex-ingame/"
+        },
+        {
+            "name": "Paul Wolf",
+            "rank": "Supporter,
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9e/6215-9e0408e044e7aa495f6c02891aa3c46ffc40f41f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1436-affe134/"
+        }
+        {
+            "name": "Dr.med. Felix Shiro Eckert",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/38/6470-381dd18d716129d5ab1c6597470710479f1e7fb8.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
         }
 
     ]
