@@ -1,46 +1,60 @@
 {
     "members": [
         {
-            "name": "Frank Steinmeier",
+            "name": "Tristen Harrison",
             "rank": "Präsident der Generalzolldirektion",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6362-acc3ee68b36f27f8e44e5f4e0790e0a2a46382b5.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1043-mccord/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/6285-2dadc4cbb0f240853fee6640a3035ee59a1e5a89.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
         {
-            "name": "Winfried Kretchmann",
+            "name": "Felix Harrison",
             "rank": "Vizepräsident der Generalzolldirektion",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6422-b54be8cb8ebcf2f7c540ab3bb0d92a16b06e34e7.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/#wall"
+        },
+        {
+            "name": "Luke Harrison",
+            "rank": "Direktionspräsident",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2f/6456-2fff4480d41b9f56961083571fdef8cff4e423e0.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+        },
+         {
+            "name": "Winfried Kretschmann",
+            "rank": "Leitender Regierungsdirektor",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/6315-1d3b106588316c3c2b0ede766a600ff512a7a64b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-lennard/"
         },
         {
             "name": "Herbert Protz",
-            "rank": "Direktionspräsident",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2e/6391-2e2a222b83387e4e1e3305ff0c6dc3d52df20dab.jpeg",
+            "rank": "Regierungsdirektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2f/6457-2fff4480d41b9f56961083571fdef8cff4e423e0.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
-        },
-         {
-            "name": "Tristen Harrison",
-            "rank": "Leitender Regierungsdirektor",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/6285-2dadc4cbb0f240853fee6640a3035ee59a1e5a89.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
         {
             "name": "Marlon Brand",
-            "rank": "Zollamtsmann",
+            "rank": "Zollamtsrat",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {
-            "name": "Dietrich Hellmann",
+            "name": "Rüdiger Schmitz",
             "rank": "Zolloberinspektor",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/6297-1d70088e43d57a9b830def7c7bbada2419c9e13f.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/38/6357-382c2b2268b23caabf163dc5581593547c6a3310.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2071-jimmy/"
+        },
+        {
+            "name": "Helmut Mueller",
+            "rank": "Zollinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1530-white/"
         }
     ]
 }
