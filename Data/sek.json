@@ -1,18 +1,19 @@
 {
     "members": [
-        {
-            "name": "Intrace 27",
-            "rank": "General | Ausbilder | Personalabteilung | Scharfschütze",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/6432-456df940fee79b13e4f27b52c5d21ff5b6f6325d.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
-        },
+       
          {
             "name": "Bandit 72",
             "rank": "General | Ausbilder | Entwicklungsabteilung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6447-601d80b80e1b90f76ac83f2250751c66f3bfc419.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
+        },
+         {
+            "name": "Storm 18",
+            "rank": "Generalleutnant | Ausbilder | Personalabteilung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
         },
          {
             "name": "Rex 32",
@@ -23,17 +24,10 @@
         },
          {
             "name": "Ghost 36",
-            "rank": "Major | Personalabteilung",
+            "rank": "Zweiter Leutnant | Personalabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/46/6392-46788e5ba01e9ae5bf83d474175755dde5c9a034.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1882-emil/"
-        },
-         {
-            "name": "Storm 18",
-            "rank": "Stabshauptmann | Ausbilder | Personalabteilung",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1882-emil/" 
         },
         {
             "name": "Monster 16",
