@@ -3,7 +3,7 @@
        
          {
             "name": "Bandit 72",
-            "rank": "General | Ausbilder | Entwicklungsabteilung",
+            "rank": "General | Ausbilder | Presseabteilung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6447-601d80b80e1b90f76ac83f2250751c66f3bfc419.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
@@ -17,19 +17,33 @@
         },
          {
             "name": "Rex 32",
-            "rank": "Major | Ausbilder | Personalabteilung",
+            "rank": "Brigadegeneral | Ausbilder | Presseabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/17/6115-170e36066ae82bae32b4bcd61c19bc49896979a1.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2007-cape1216/"
         },
          {
             "name": "Ghost 36",
-            "rank": "Zweiter Leutnant | Personalabteilung",
+            "rank": "Major | Personalabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/46/6392-46788e5ba01e9ae5bf83d474175755dde5c9a034.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1882-emil/" 
         },
         {
+            "name": "Charlie 19",
+            "rank": "Erster Leutnant | Ausbilder | Personalabteilung,
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/be/6418-beea1fb74ee33bf0d135557e14a61f6c55c9e445.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
+        },
+         {
+            "name": "Kristall 33",
+            "rank": "Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
+         },
+         {
             "name": "Monster 16",
             "rank": "Unteroffizier",
             "highlight": false,
