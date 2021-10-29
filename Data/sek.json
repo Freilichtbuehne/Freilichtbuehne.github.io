@@ -21,6 +21,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/17/6115-170e36066ae82bae32b4bcd61c19bc49896979a1.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2007-cape1216/"
+         },
+         {
+            "name": "Sky 04",
+            "rank": "Major | Ausbilder",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b3/6459-b38a84b5b3f73ad5dfbabdc0728543c02d7e99fe.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
          {
             "name": "Ghost 36",
@@ -31,10 +38,17 @@
         },
         {
             "name": "Charlie 19",
-            "rank": "Erster Leutnant | Ausbilder | Personalabteilung,
+            "rank": "Erster Leutnant | Ausbilder | Personalabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/be/6418-beea1fb74ee33bf0d135557e14a61f6c55c9e445.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
+        },
+        {
+            "name": "Street 44",
+            "rank": "Zweiter Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/6421-9fe719891f1b82f287bfc3bba6165161e8312cc8.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-dernetteflo/"
         },
          {
             "name": "Kristall 33",
@@ -51,11 +65,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-linomann/"
         },
            {
-            "name": "Street 44",
-            "rank": "Unteroffizier",
+            "name": "Thunder 92",
+            "rank": "Unteroffizier | Presseabteilung",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/6421-9fe719891f1b82f287bfc3bba6165161e8312cc8.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-dernetteflo/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/6414-4cc756661e268b543d6246cc0f347911a6979505.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
+           },
+        {
+            "name": "Knight 64",
+            "rank": "Unteroffizier | Personalabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/6409-31945349ace9f1d979d0a5402c7d7ffce66fa903.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2088-herrfloppy-gpx/"
         }
     ]
 }
