@@ -35,8 +35,22 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/46/6392-46788e5ba01e9ae5bf83d474175755dde5c9a034.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1882-emil/" 
+         },
+           {
+            "name": "Thunder 92",
+            "rank": "Oberstleutnant | Presseabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/6414-4cc756661e268b543d6246cc0f347911a6979505.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/
+       },
+         {
+            "name": "Falcon 77",
+            "rank": "Erster Leutnant | Ausbilder",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2f/6456-2fff4480d41b9f56961083571fdef8cff4e423e0.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
-        {
+         {
             "name": "Charlie 19",
             "rank": "Erster Leutnant | Ausbilder | Personalabteilung",
             "highlight": false,
@@ -52,7 +66,7 @@
         },
          {
             "name": "Kristall 33",
-            "rank": "Unteroffizier",
+            "rank": "Zweiter Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
@@ -64,14 +78,7 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/9d/6455-9d356520ac1567f54ea6db1060cc81ee56595dab.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-linomann/"
         },
-           {
-            "name": "Thunder 92",
-            "rank": "Unteroffizier | Presseabteilung",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/6414-4cc756661e268b543d6246cc0f347911a6979505.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
-           },
-        {
+         {
             "name": "Knight 64",
             "rank": "Unteroffizier | Personalabteilung",
             "highlight": false,
