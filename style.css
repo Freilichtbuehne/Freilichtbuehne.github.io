@@ -1,5 +1,5 @@
 .menuBox {
-    background-color: #212121;
+    background-color: #2a2e32;
     overflow: hidden;
     padding-left: 10px;
     padding-right: 10px;
@@ -17,14 +17,14 @@
 }
 
 .menuBox a:hover {
-    background-color: rgb(53, 53, 53);
+    background-color: #383f48;
     color: black;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
 
 .menuBox a.active {
-    background-color: rgb(53, 53, 53);
+    background-color: #383f48;
     color: #a1a1a1;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -37,7 +37,7 @@
 }
 
 #pageBox div {
-    background-color: #212121;
+    background-color: #2a2e32;
     color: #a1a1a1;
     float: left;
     margin-right: 5px;
@@ -47,13 +47,13 @@
 }
 
 #pageBox div:hover {
-    background-color: rgb(53, 53, 53);
+    background-color: #383f48;
     color: black;
     cursor: pointer
 }
 
 #pageBox div.activePage {
-    background-color: rgb(53, 53, 53);
+    background-color: #383f48;
     color: #a1a1a1;
     box-shadow: 0px 3px 0px 0px rgba(255, 60, 0);
 }
@@ -77,7 +77,7 @@
 }
 
 .subBox a:hover {
-    background-color: rgb(53, 53, 53);
+    background-color: #383f48;
     color: black;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -85,7 +85,7 @@
 }
 
 .subBox a.active {
-    background-color: rgb(53, 53, 53);
+    background-color: #383f48;
     color: #a1a1a1;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -93,7 +93,7 @@
 }
 
 html {
-    background-color: #151515;
+    background-color: #1f2225;
     font-family: 'Open Sans', sans-serif;
     font-size: 120%;
     font-weight: normal;
@@ -111,7 +111,7 @@ html {
 }
 
 #contentBox {
-    background-color: #212121;
+    background-color: #2a2e32;
     overflow: hidden;
     padding-top: 10px;
     padding-left: 10px;
@@ -202,14 +202,14 @@ button{
     float: right;
     border-style: none;
     font-size: 17px;
-    background-color: #212121;
+    background-color: #2a2e32;
     color: #a1a1a1;
     margin-top: 5px;
     padding: 8px;   
     box-shadow: 0px 3px 0px 0px rgba(255, 60, 0);
 }
 button:hover{
-    background-color: rgb(53, 53, 53);
+    background-color: #383f48;
     color: black;
     cursor: pointer;
     box-shadow: 0px 3px 0px 0px rgba(255, 60, 0);
