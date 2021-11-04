@@ -21,23 +21,9 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/2f/6456-2fff4480d41b9f56961083571fdef8cff4e423e0.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
-         {
-            "name": "Winfried Kretschmann",
-            "rank": "Leitender Regierungsdirektor",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/6315-1d3b106588316c3c2b0ede766a600ff512a7a64b.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-lennard/"
-        },
-        {
-            "name": "Herbert Protz",
-            "rank": "Regierungsdirektor",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2f/6457-2fff4480d41b9f56961083571fdef8cff4e423e0.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
-        },
         {
             "name": "Marlon Brand",
-            "rank": "Zollamtsrat",
+            "rank": "Regierungsrat",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
