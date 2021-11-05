@@ -55,7 +55,7 @@
 #pageBox div.activePage {
     background-color: #383f48;
     color: #a1a1a1;
-    box-shadow: 0px 3px 0px 0px rgba(255, 60, 0);
+    box-shadow: 0px 3px 0px 0px #349ae4;
 }
 
 .subBox {
@@ -148,7 +148,7 @@ img {
 }
 
 .highlight {
-    color: rgb(226, 44, 44);
+    color: #349ae4;
     font-weight: bold;
 }
 
