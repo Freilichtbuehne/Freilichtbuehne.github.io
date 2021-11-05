@@ -4,16 +4,16 @@
             "name": "Kaiserschmarrn",
             "rank": "Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2f/6497-2fff4480d41b9f56961083571fdef8cff4e423e0.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a6/6503-a69a070c3fc1d003a004ab55db9fb1956617a729.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
         },
-        {    
-            "name": "Luke Harrison",
+                  {    
+            "name": "Uwe Klax",
             "rank": "Stv. Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2f/6456-2fff4480d41b9f56961083571fdef8cff4e423e0.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-franz/"
-        },
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ca/6462-ca28fb0f9e5566c5f72a2cf6164d547378ebda8d.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
+        }, 
         {    
             "name": "Chrisskross",
             "rank": "Manager",
@@ -48,14 +48,7 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/6315-1d3b106588316c3c2b0ede766a600ff512a7a64b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-lennard/"
-        },
-          {    
-            "name": "Uwe Klax",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ca/6462-ca28fb0f9e5566c5f72a2cf6164d547378ebda8d.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
-        },  
+        }, 
           {
             "name": "Felix Harrison",
             "rank": "Mitglied",
