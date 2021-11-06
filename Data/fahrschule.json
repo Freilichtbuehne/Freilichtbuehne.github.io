@@ -9,10 +9,17 @@
         },
         {
             "name": "Prof. Dr. Ing. Justin Varox",
-            "rank": "Fahrlehrer | Manager",
+            "rank": "Fahrlehrer | Geschäftsführung ",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a3/6452-a3e0665ad7b8ee9539633ec988b1b2db93073778.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
+        },
+                 {
+            "name": "Dr. med. Gero von Ranzberger",
+            "rank": "Fahrlehrer | Stellv. Geschäftsführung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6f/6504-6f263bda1c7c5174db742f8b0f1287d558c10651.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
         },
         {
             "name": "Jessy Salzbergwerk",
@@ -55,13 +62,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/4809-6d28b9824c6d28eebe64865acfe202e85f4c3b5a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
-        }, 
-         {
-            "name": "Dr. med. Gero von Ranzberger",
-            "rank": "Fahrlehrer",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6f/6504-6f263bda1c7c5174db742f8b0f1287d558c10651.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
         }
     ]
 }
