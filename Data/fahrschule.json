@@ -16,7 +16,7 @@
         },
                  {
             "name": "Dr. med. Gero von Ranzberger",
-            "rank": "Fahrlehrer | Stellv. Geschäftsführung",
+            "rank": "Fahrlehrer | Stellv. Geschäftsführung | Personal- und Fortbildungsabteilung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/6f/6504-6f263bda1c7c5174db742f8b0f1287d558c10651.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
@@ -58,10 +58,24 @@
         },      
              {
             "name": "Michael Deutschmann",
-            "rank": "Fahrlehrer",
+            "rank": "Fahrlehrer | Personal- und Fortbildungsabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/4809-6d28b9824c6d28eebe64865acfe202e85f4c3b5a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
-        }
+        },
+                  {
+            "name": "Joonas Herrlich",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/6432-456df940fee79b13e4f27b52c5d21ff5b6f6325d.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1585-intrace/"
+        },    
+                  {
+            "name": "Bernd Deutschmann",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/4289-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
+        } 
     ]
 }
