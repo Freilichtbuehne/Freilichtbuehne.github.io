@@ -23,11 +23,18 @@
          },
          {
             "name": "Sky 04",
-            "rank": "Major | Ausbilder",
+            "rank": "Brigadegeneral | Ausbilder",
             "highlight": false,
             "picture": "https://i.imgur.com/N5OaIjO.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
+         {
+            "name": "Thunder 92",
+            "rank": "Brigadegeneral | Presseabteilung",
+            "highlight": false,
+            "picture": "https://i.imgur.com/kRTEQ1q.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
+       },
          {
             "name": "Ghost 36",
             "rank": "Major | Personalabteilung",
@@ -35,13 +42,6 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/61/6481-61a4d092ab0b5aa57a451442dd42e39c5c998ead.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1882-emil/" 
          },
-           {
-            "name": "Thunder 92",
-            "rank": "Oberstleutnant | Presseabteilung",
-            "highlight": false,
-            "picture": "https://i.imgur.com/kRTEQ1q.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
-       },
          {
             "name": "Falcon 77",
             "rank": "Erster Leutnant | Ausbilder",
@@ -83,6 +83,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/6409-31945349ace9f1d979d0a5402c7d7ffce66fa903.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2088-herrfloppy-gpx/"
+        },
+                 {
+            "name": "Yuumi 96",
+            "rank": "Unteroffizier | Personalabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/6297-1d70088e43d57a9b830def7c7bbada2419c9e13f.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
+        },
+                         {
+            "name": "Rammus 93",
+            "rank": "Unteroffizier | Personalabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/88/6343-88f2bf5921d64162b1b3e7c041974cadb7eb4430.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
         }
     ]
 }
