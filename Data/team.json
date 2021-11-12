@@ -99,13 +99,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
         },
         {
-            "name": "Anton Horvat",
-            "rank": "Moderator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c0/6485-c0ef4ced4fb9bf6e243b0864d6a95bac4808b151.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1697-anton-horvath/"
-        },
-        {
             "name": "Tristano",
             "rank": "Moderator I",
             "highlight": false,
@@ -128,7 +121,7 @@
         },
         {
             "name": "Noah",
-            "rank": "Moderator III",
+            "rank": "Moderator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6364-7052f31a7dbade6f94b9267a86eb087ce1ea29bc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-thelolman-hd/"
@@ -153,7 +146,7 @@
             "name": "Raptic",
             "rank": "Moderator I",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6447-601d80b80e1b90f76ac83f2250751c66f3bfc419.jpg",
+            "picture": "https://i.imgur.com/YcJQbSt.png"",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
         },
         {
@@ -175,15 +168,15 @@
         {
      
             "name": "Fake Luke",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2f/6456-2fff4480d41b9f56961083571fdef8cff4e423e0.jpg",
+            "picture": "https://cdn.discordapp.com/attachments/844591680342196255/908703884766249022/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
      
             "name": "Safari_Felix",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6422-b54be8cb8ebcf2f7c540ab3bb0d92a16b06e34e7.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
@@ -205,18 +198,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1377-alex-ingame/"
         },
         {
-            "name": "Paul Wolf",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9e/6215-9e0408e044e7aa495f6c02891aa3c46ffc40f41f.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1436-affe134/"
-        },
-        {
             "name": "Dr.med. Felix Shiro Eckert",
             "rank": "Supporter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/38/6470-381dd18d716129d5ab1c6597470710479f1e7fb8.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
+        },
+             {
+            "name": "[GPX]Leon",
+            "rank": "Moderator III",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fa/5385-fa4cafc7d75600352a079346b2689ac97aa531bd.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
+        },
+            {
+            "name": "HammerLP",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2c/6534-2c1fc787972878e340d837aceef6b79cecdd617c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1584-hammerlp/"
+        },
+            {
+            "name": "Faxslp",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/cb/6480-cb466b175318c19abd8c9d15904c90ef5c924e45.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1598-faxslp/"
         }
     ]
 }
