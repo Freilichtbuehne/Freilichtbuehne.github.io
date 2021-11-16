@@ -29,6 +29,20 @@
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/6285-2dadc4cbb0f240853fee6640a3035ee59a1e5a89.jpeg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
        },  
+               {
+           "name": "Chris Mara",
+           "rank": "Polizeidirektor | Ausbildungsabteilng",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/6279-8604035d8f59b9f39aef2c9311d70cf21b52882b.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/"
+       },
+               {
+           "name": "Felix Harrison",
+           "rank": "Polizeidirektor",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6422-b54be8cb8ebcf2f7c540ab3bb0d92a16b06e34e7.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
+       },
        { 
            "name": "Sir Leon Nice",
            "rank": "Polizeioberrat | Ausbildungsabteilung",
@@ -44,25 +58,11 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
        }, 
        {
-           "name": "Felix Harrison",
-           "rank": "Polizeioberrat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6422-b54be8cb8ebcf2f7c540ab3bb0d92a16b06e34e7.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
-       },
-       {
            "name": "Michael Brunsmeier",
            "rank": "Polizeirat | Presseabteilung",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6447-601d80b80e1b90f76ac83f2250751c66f3bfc419.jpg",
+           "picture": "https://i.imgur.com/YcJQbSt.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
-       },
-       {
-           "name": "Chris Mara",
-           "rank": "Polizeioberrat | Ausbildungsabteilng",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/6279-8604035d8f59b9f39aef2c9311d70cf21b52882b.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/"
        },
        {
            "name": "Manel Mara",
@@ -75,7 +75,7 @@
            "name": "Oliver Danger",
            "rank": "Polizeirat | Personalabteilung",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/be/6418-beea1fb74ee33bf0d135557e14a61f6c55c9e445.png",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/a9/6521-a929fe85d3b0d1c6486c15522dd87079321c5f99.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
        },
        {
