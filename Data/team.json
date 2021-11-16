@@ -23,14 +23,14 @@
         },     
         {
             "name": "Khabib",
-            "rank": "Admin",
+            "rank": "Admin | Teamspeak-Admin",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c0/6088-c01bfcfb1d4e924aa3258ea5f9eb5bed2d987330.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedov/"
         },
         {
             "name": "MaxTM",
-            "rank": "Admin",
+            "rank": "Admin | Forum-Admin",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/6297-1d70088e43d57a9b830def7c7bbada2419c9e13f.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
@@ -49,12 +49,12 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
         },
-        {
-            "name": "Luca11013 -GPX-",
-            "rank": "Moderator I",
+             {
+            "name": "BigLazy03",
+            "rank": "Operator I",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c1/6079-c1ff6521636090722431d8cfe2709c672c780f1a.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
+            "picture": "https://i.imgur.com/N5OaIjO.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         }, 
         {
             "name": "Salzi",
@@ -63,19 +63,48 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         },         
-        {
-            "name": "BigLazy03",
-            "rank": "Operator I",
-            "highlight": false,
-            "picture": "https://i.imgur.com/N5OaIjO.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        }, 
         {  
             "name": "[GER] D34D_W01F",
             "rank": "Operator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/6482-5a980102edbb51b2c7928c94663261498fa679fd.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
+        },
+             {
+            "name": "N1gh1m4r3",
+            "rank": "Operator II",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
+        },
+             {
+            "name": "Heinrich Danger",
+            "rank": "Operator II",
+            "highlight": false,
+            "picture": "https://i.imgur.com/kRTEQ1q.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
+        },
+             {
+     
+            "name": "Oliver Holz",
+            "rank": "Operator II | Task-Manager",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/be/6418-beea1fb74ee33bf0d135557e14a61f6c55c9e445.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
+        },
+             {
+            "name": "Luca11013 -GPX-",
+            "rank": "Moderator I",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c1/6079-c1ff6521636090722431d8cfe2709c672c780f1a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
+        }, 
+             {
+            "name": "ZeldrisDarkRose",
+            "rank": "Moderator I",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a4/6437-a44fc1ef95055b4e7f14419d2b17625f92dc98f3.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2089-zeldrisdarkrose/"
         },
         {
             "name": "LeqitDonut",
@@ -84,12 +113,26 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ca/6462-ca28fb0f9e5566c5f72a2cf6164d547378ebda8d.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
         },
-        {
-            "name": "ZeldrisDarkRose",
+             {
+            "name": "Lennard.",
             "rank": "Moderator I",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a4/6437-a44fc1ef95055b4e7f14419d2b17625f92dc98f3.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2089-zeldrisdarkrose/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/6315-1d3b106588316c3c2b0ede766a600ff512a7a64b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-lennard/"
+        },
+             {
+            "name": "Tristano",
+            "rank": "Moderator I",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/6285-2dadc4cbb0f240853fee6640a3035ee59a1e5a89.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
+        },
+             {
+            "name": "Raptic",
+            "rank": "Moderator I",
+            "highlight": false,
+            "picture": "https://i.imgur.com/YcJQbSt.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
         },
         {
             "name": "Kaiserschmarrn",
@@ -98,19 +141,12 @@
             "picture": "https://i.imgur.com/LNaNY4x.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
         },
-        {
-            "name": "Tristano",
-            "rank": "Moderator I",
+             {
+            "name": "Noah",
+            "rank": "Moderator II",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/6285-2dadc4cbb0f240853fee6640a3035ee59a1e5a89.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
-        },
-        {
-            "name": "N1gh1m4r3",
-            "rank": "Operator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6364-7052f31a7dbade6f94b9267a86eb087ce1ea29bc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-thelolman-hd/"
         },
         {
             "name": "Nagisa Shiota",
@@ -120,53 +156,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1291-nagisa-shiota/"
         },
         {
-            "name": "Noah",
-            "rank": "Moderator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6364-7052f31a7dbade6f94b9267a86eb087ce1ea29bc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-thelolman-hd/"
-        },
-        {
-            "name": "Heinrich Danger",
-            "rank": "Operator II",
-            "highlight": false,
-            "picture": "https://i.imgur.com/kRTEQ1q.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
-        },
-        {
-     
-            "name": "Oliver Holz",
-            "rank": "Operator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/be/6418-beea1fb74ee33bf0d135557e14a61f6c55c9e445.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
-        },
-        {
-     
-            "name": "Raptic",
-            "rank": "Moderator I",
-            "highlight": false,
-            "picture": "https://i.imgur.com/YcJQbSt.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
-        },
-        {
-     
             "name": "White",
-            "rank": "Moderator II",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1530-grinningblack/"
         },
         {
-     
-            "name": "Lennard.",
-            "rank": "Moderator I",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/6315-1d3b106588316c3c2b0ede766a600ff512a7a64b.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-lennard/"
-        },
-        {
-     
             "name": "Fake Luke",
             "rank": "Moderator III",
             "highlight": false,
@@ -174,12 +170,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
-     
             "name": "Safari_Felix",
             "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6422-b54be8cb8ebcf2f7c540ab3bb0d92a16b06e34e7.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
+        },
+             {
+            "name": "Alex Ingame",
+            "rank": "Moderator III",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e3/5937-e3cf496ec3b09c1bf7a7a2e0cc9c1ad9910a0804.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1377-alex-ingame/"
+        },
+         {
+            "name": "[GPX]Leon",
+            "rank": "Moderator III",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fa/5385-fa4cafc7d75600352a079346b2689ac97aa531bd.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
         },
         {
      
@@ -190,26 +199,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1294-skinwalker/#about"
         },
         {
-     
-            "name": "Alex Ingame",
-            "rank": "Moderator III",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e3/5937-e3cf496ec3b09c1bf7a7a2e0cc9c1ad9910a0804.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1377-alex-ingame/"
-        },
-        {
             "name": "Dr.med. Felix Shiro Eckert",
             "rank": "Supporter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/38/6470-381dd18d716129d5ab1c6597470710479f1e7fb8.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
-        },
-             {
-            "name": "[GPX]Leon",
-            "rank": "Moderator III",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fa/5385-fa4cafc7d75600352a079346b2689ac97aa531bd.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
         },
             {
             "name": "HammerLP",
@@ -231,6 +225,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/4809-6d28b9824c6d28eebe64865acfe202e85f4c3b5a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
+        },
+                      {
+            "name": "TheChris",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/6279-8604035d8f59b9f39aef2c9311d70cf21b52882b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/"
+        },
+                      {
+            "name": "chef.eggdog",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6464-966a3384357d03d904be3c8b372f0d16b50347c6.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2101-chef-eggdog/"
         }
     ]
 }
