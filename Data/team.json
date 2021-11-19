@@ -114,13 +114,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
         },
              {
-            "name": "Lennard.",
-            "rank": "Moderator I",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/6315-1d3b106588316c3c2b0ede766a600ff512a7a64b.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1226-lennard/"
-        },
-             {
             "name": "Tristano",
             "rank": "Moderator I",
             "highlight": false,
@@ -238,6 +231,13 @@
             "rank": "Supporter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6464-966a3384357d03d904be3c8b372f0d16b50347c6.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2101-chef-eggdog/"
+        },
+                           {
+            "name": "Impulsives.Pony",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/index.php?user/2002-impulsives-pony/",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2101-chef-eggdog/"
         }
     ]
