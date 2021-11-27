@@ -20,13 +20,6 @@
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/88/6343-88f2bf5921d64162b1b3e7c041974cadb7eb4430.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
-        },     
-        {
-            "name": "Khabib",
-            "rank": "Admin | Teamspeak-Admin",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c0/6088-c01bfcfb1d4e924aa3258ea5f9eb5bed2d987330.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedov/"
         },
         {
             "name": "MaxTM",
@@ -48,6 +41,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
+        },
+        {
+            "name": "Khabib",
+            "rank": "Operator I",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c0/6088-c01bfcfb1d4e924aa3258ea5f9eb5bed2d987330.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedov/"
         },
         {
             "name": "BigLazy03",
