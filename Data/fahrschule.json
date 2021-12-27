@@ -9,7 +9,7 @@
         },
         {
             "name": "Prof. Dr. Ing. Justin Varox",
-            "rank": "Fahrlehrer | Geschäftsführung ",
+            "rank": "Fahrlehrer | 2. Geschäftsführung ",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a3/6452-a3e0665ad7b8ee9539633ec988b1b2db93073778.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
@@ -50,8 +50,8 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
         },  
              {
-            "name": "Michael Deutschmann",
-            "rank": "Fahrlehrer | Personal- und Fortbildungsabteilung",
+            "name": "Michael von Frischbier",
+            "rank": "Fahrlehrer | Aus- und Fortbildungsabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/4809-6d28b9824c6d28eebe64865acfe202e85f4c3b5a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
@@ -60,11 +60,11 @@
             "name": "Bernd Deutschmann",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/4289-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/6601-6d0901e796d76efcdc33c739a0539bb922f08c10.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
         },
         {
-            "name": "Florian Ranzberger",
+            "name": "Florian Ranzberger | Personalabteilung",
             "rank": "Fahrlehrer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/6421-9fe719891f1b82f287bfc3bba6165161e8312cc8.jpg",
@@ -81,8 +81,36 @@
             "name": "Lino Ranzberger",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/46/6539-46c583908ed5240e62c22f3005b648796c38ac8a.png",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6556-601aa0e92834c1a327ec6ac895033aeabe3d13cb.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-linomann/"
+        },
+                   {
+            "name": "Chris Mara",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/6279-8604035d8f59b9f39aef2c9311d70cf21b52882b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/"
+        },
+        {
+            "name": "Helmut Müller",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d5/2857-d51a7e45bcb646db584b4fb0b3f0d890cd06ddcb.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1530-white/"
+        },
+                {
+            "name": "Dr. med. Herbert Protz",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/93/6548-938a1a0d1cfa38b5ccfeac8d815694faafc5471f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
+        },
+        {
+            "name": "Marlon Brand",
+            "rank": "Fahrlehrer | Personalabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         }
     ]
 }
