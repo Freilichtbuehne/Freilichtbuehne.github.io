@@ -1,28 +1,28 @@
 {
     "members": [      
          {
-            "name": "Bandit 72",
-            "rank": "General | Ausbilder | Presseabteilung",
+            "name": "Warthog 72",
+            "rank": "General | Ausbilder",
             "highlight": true,
             "picture": "https://i.imgur.com/YcJQbSt.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
         },
          {
-            "name": "Storm 18",
+            "name": "Nighthawk 18",
             "rank": "Generalleutnant | Ausbilder | Personalabteilung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
         },
          {
-            "name": "Thunder 92",
-            "rank": "Generalmajor | Presseabteilung",
+            "name": "Ace 92",
+            "rank": "Generalmajor",
             "highlight": false,
             "picture": "https://i.imgur.com/kRTEQ1q.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
          },
          {
-            "name": "Sky 04",
+            "name": "Lazy 04",
             "rank": "Brigadegeneral | Ausbilder",
             "highlight": false,
             "picture": "https://i.imgur.com/N5OaIjO.png",
@@ -34,56 +34,63 @@
             "highlight": false,
             "picture": "https://cdn.discordapp.com/attachments/844591680342196255/908703884766249022/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
-        },
-         {
-            "name": "Charlie 19",
-            "rank": "Oberstleutnant | Ausbilder | Personalabteilung",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a9/6521-a929fe85d3b0d1c6486c15522dd87079321c5f99.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
          },
          {
             
             "name": "Yuumi 96",
-            "rank": "Oberstleutnant | Personalabteilung",
+            "rank": "Hauptmann | Personalabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/6533-8279e0d0653cca8b6124e43c59523a080a2f853d.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
          },
          {
             "name": "Kristall 33",
-            "rank": "Erster Leutnant",
+            "rank": "Oberstleutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"         
+         },
+         {
+            "name": "Ghost 10",
+            "rank": "Oberstleutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6464-966a3384357d03d904be3c8b372f0d16b50347c6.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2101-chef-eggdog/"         
+         },
+         {
+            "name": "Vigil 74",
+            "rank": "Erster Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/6449-7a7b7059ec1ae7ac6e7de4cc64e887b5dcda76bc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2098-reapzz/"
         },
         {
             "name": "Rammus 93",
-            "rank": "Erster Leutnant | Personalabteilung",
+            "rank": "Erster Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/88/6343-88f2bf5921d64162b1b3e7c041974cadb7eb4430.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
-        },
-        {
-            "name": "Street 44",
-            "rank": "Zweiter Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/6421-9fe719891f1b82f287bfc3bba6165161e8312cc8.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-dernetteflo/"
         },
          {
             "name": "Cerberus 30",
             "rank": "Zweiter Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/04/6523-044d8dbdab9a6fdc70efdcf9add15c9f2081074e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2109-xx-navyzeal-xx/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2109-xx-navyzeal-xx/"        
          },
          {
-            "name": "Monster 16",
+            "name": "Guru 34",
             "rank": "Unteroffizier",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6556-601aa0e92834c1a327ec6ac895033aeabe3d13cb.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-linomann/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/38/6470-381dd18d716129d5ab1c6597470710479f1e7fb8.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"        
+         },
+         {
+            "name": "Alpha 63",
+            "rank": "Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6c/6681-6c56ec6d5377911c6ba43fd4626ee8fe52352618.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-feinstaub/"
         },
          {
             "name": "Knight 64",
