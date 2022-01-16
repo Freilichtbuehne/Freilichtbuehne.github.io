@@ -31,38 +31,24 @@
        },  
                {
            "name": "Chris Mara",
-           "rank": "Polizeidirektor | Ausbildungsabteilng",
+           "rank": "Polizeidirektor",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/6279-8604035d8f59b9f39aef2c9311d70cf21b52882b.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/"
        },
                {
            "name": "Felix Harrison",
-           "rank": "Polizeidirektor",
+           "rank": "Polizeidirektor | Ausbildungsabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/51/6599-51bcb4630cfc73118a1b093fcb7d3520989445e3.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
-       },
-       { 
-           "name": "Sir Leon Nice",
-           "rank": "Polizeioberrat | Ausbildungsabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/6584-f91a27670a91ee18b51eceb150c35b435255e81e.jpeg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2089-zeldrisdarkrose/#wall"
        },  
        { 
            "name": "Lukas Danger",
-           "rank": "Polizeioberrat | Ausbildungsabteilung",
+           "rank": "Polizeirat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
-       }, 
-       {
-           "name": "Michael Brunsmeier",
-           "rank": "Polizeirat | Presseabteilung",
-           "highlight": false,
-           "picture": "https://i.imgur.com/YcJQbSt.png",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
        },
        {
            "name": "Manel Mara",
@@ -70,27 +56,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/30/6375-3052dbd236d0efa8a90cf5067d9833ff65df0e93.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2077-rainzzq/"
-       },    
-       {
-           "name": "Oliver Danger",
-           "rank": "Polizeirat | Personalabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/a9/6521-a929fe85d3b0d1c6486c15522dd87079321c5f99.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
        },
        {
            "name": "Michael Melone",
-           "rank": "Polizeirat",
+           "rank": "Polizeioberrat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#about"
-       },
-       {
-           "name": "Alex Ingame",
-           "rank": "Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/e3/5937-e3cf496ec3b09c1bf7a7a2e0cc9c1ad9910a0804.jpeg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1377-alex-ingame/"
        },
        {
            "name": "Bernd Deutschmann",
@@ -98,13 +70,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/6601-6d0901e796d76efcdc33c739a0539bb922f08c10.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
-       },
-       {
-           "name": "Helmut Mueller",
-           "rank": "Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1530-white/"
        },
        {
            "name": "Frank Herrlich",
@@ -119,6 +84,64 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/6108-a12e1a678d27d69ea2a1cfd082bcdcf6ec8c6018.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/873-fabian/"
+       },
+       {
+           "name": "Benny Benson",
+           "rank": "Polizeioberrat | Personalabteilung",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/fa/5385-fa4cafc7d75600352a079346b2689ac97aa531bd.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/873-fabian/"
+       },
+       {
+           "name": "Luke Harrison",
+           "rank": "Polizeioberrat | Personalabteilung",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+       },
+       {
+           "name": "Exo Blum",
+           "rank": "Polizeioberrat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/4b/5847-4b9b9ec43f9e9c6f06fa67df7ccf1f03f586f0ba.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1902-exo-lp/"
+       },
+       {
+           "name": "Luca Feinstaub",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/6c/6681-6c56ec6d5377911c6ba43fd4626ee8fe52352618.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-feinstaub/"
+       },
+       {
+           "name": "Vanila Lombax",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/98/6593-98e707db1a8b523fe11a15000621d9fc3cb371d3.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1560-lombax/"
+       },
+       {
+           "name": "Alexander Mara",
+           "rank": "Polizeirat | Ausbildungsabteilung",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6464-966a3384357d03d904be3c8b372f0d16b50347c6.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2101-chef-eggdog/"
+       },
+       {
+           "name": "Thommy Smith",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/6108-a12e1a678d27d69ea2a1cfd082bcdcf6ec8c6018.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
+       },
+       {
+           "name": "Nico Clinton",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/6684-4f57033419aec7630099c4d6becd4b19ab9ad2bb.png",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2148-pilz/"
+       }
+      
        }
     ]
 }
