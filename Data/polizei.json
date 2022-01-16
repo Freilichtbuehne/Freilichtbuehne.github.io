@@ -2,25 +2,18 @@
     "members": [
         
        {
-           "name": "Khabib Sokolow",
+           "name": "Ronny Danger",
            "rank": "Polizeipräsident | Personalabteilung",
            "highlight": true,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/6596-a074df72266742cfbcfec7a1989d37a740f3222e.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib-nurmagomedov/"
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/63/6683-6346e5b86ccaac7d66a3aa05c1b9245a46b6b313.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
        },
        {
-           "name": "Ronny Ronberg",
+           "name": "Benny Benson",
            "rank": "Polizeivizepräsident | Ausbildungsabteilung",
            "highlight": true,
-           "picture": "https://i.imgur.com/N5OaIjO.png",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-       }, 
-       {   
-           "name": "Herbert Protz",
-           "rank": "Polizeidirektor | Personalabteilung",
-           "highlight": false,
-           "picture": "https://i.imgur.com/LNaNY4x.png",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/fa/5385-fa4cafc7d75600352a079346b2689ac97aa531bd.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
        }, 
        {   
            "name": "Tristen Harrison",
@@ -35,17 +28,10 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/6279-8604035d8f59b9f39aef2c9311d70cf21b52882b.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/"
-       },
-               {
-           "name": "Felix Harrison",
-           "rank": "Polizeidirektor | Ausbildungsabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/51/6599-51bcb4630cfc73118a1b093fcb7d3520989445e3.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
        },  
        { 
            "name": "Lukas Danger",
-           "rank": "Polizeirat",
+           "rank": "Polizeioberrat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
@@ -72,26 +58,12 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
        },
        {
-           "name": "Frank Herrlich",
-           "rank": "Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/4858-5ebfd1f7e1284294bdee43aa2aa664352ef1e081.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1481-frank-herrlich/"   
-       },
-       {
            "name": "Fabian König",
            "rank": "Polizeirat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/6108-a12e1a678d27d69ea2a1cfd082bcdcf6ec8c6018.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/873-fabian/"
-       },
-       {
-           "name": "Benny Benson",
-           "rank": "Polizeioberrat | Personalabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/fa/5385-fa4cafc7d75600352a079346b2689ac97aa531bd.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/873-fabian/"
-       },
+       }},
        {
            "name": "Luke Harrison",
            "rank": "Polizeioberrat | Personalabteilung",
