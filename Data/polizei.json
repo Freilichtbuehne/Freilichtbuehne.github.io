@@ -14,34 +14,41 @@
            "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fa/5385-fa4cafc7d75600352a079346b2689ac97aa531bd.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
-       }, 
-       {   
-           "name": "Tristen Harrison",
-           "rank": "Polizeidirektor | Ausbildungsabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/6588-d2e63f66d1354d1c231ddbe53ffa899bb109f7df.gif",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
        },  
        {
            "name": "Chris Mara",
-           "rank": "Polizeidirektor",
-           "highlight": false,
+           "rank": "Leitender Polizeidirektor | Personalabteilung | Polizeisprecher",
+           "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/6279-8604035d8f59b9f39aef2c9311d70cf21b52882b.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/"
-       },  
+       },
+       {
+           "name": "Manel Mara",
+           "rank": "Polizeidirektor | Ausbildungsabteilung",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/30/6375-3052dbd236d0efa8a90cf5067d9833ff65df0e93.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2077-rainzzq/"
+       },
+       {
+           "name": "Luke Harrison",
+           "rank": "Polizeioberrat | Personalabteilung",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+       },
+       {
+           "name": "Alexander Mara",
+           "rank": "Polizeidirektor | Ausbildungsabteilung",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6464-966a3384357d03d904be3c8b372f0d16b50347c6.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2101-chef-eggdog/"
+       },
        { 
            "name": "Lukas Danger",
            "rank": "Polizeioberrat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
-       },
-       {
-           "name": "Manel Mara",
-           "rank": "Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/30/6375-3052dbd236d0efa8a90cf5067d9833ff65df0e93.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2077-rainzzq/"
        },
        {
            "name": "Michael Melone",
@@ -58,20 +65,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
        },
        {
-           "name": "Fabian König",
-           "rank": "Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/6108-a12e1a678d27d69ea2a1cfd082bcdcf6ec8c6018.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/873-fabian/"
-       },
-       {
-           "name": "Luke Harrison",
-           "rank": "Polizeioberrat | Personalabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
-       },
-       {
            "name": "Exo Blum",
            "rank": "Polizeioberrat",
            "highlight": false,
@@ -80,24 +73,17 @@
        },
        {
            "name": "Luca Feinstaub",
-           "rank": "Polizeirat",
+           "rank": "Polizeioberrat",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/fb/6737-fbef849abb1af174c237513818791f81263d3525.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/1b/6738-1bd7665e62a1dd7ad92f74c4d491b38dc0e7842f.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-feinstaub/"
        },
        {
            "name": "Vanila Lombax",
            "rank": "Polizeirat",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/6732-d16490ad6194bac5929fffa42fe01b9c1387ffc7.png",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/ec/6739-ec309c45bb1fbd2375f9ef441a22c8bcc19b44b4.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1560-lombax/"
-       },
-       {
-           "name": "Alexander Mara",
-           "rank": "Polizeirat | Ausbildungsabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6464-966a3384357d03d904be3c8b372f0d16b50347c6.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2101-chef-eggdog/"
        },
        {
            "name": "Thommy Smith",
@@ -112,6 +98,27 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/6684-4f57033419aec7630099c4d6becd4b19ab9ad2bb.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2148-pilz/"
+       },
+       {
+           "name": "Dietrich Stammtisch",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/6533-8279e0d0653cca8b6124e43c59523a080a2f853d.png",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
+       },
+       {
+           "name": "Phelios Fries",
+           "rank": "Polizeioberrat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/88/6343-88f2bf5921d64162b1b3e7c041974cadb7eb4430.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
+       },
+       {
+           "name": "Dr. Mika Varox",
+           "rank": "Polizeioberrat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6562-7074f9c16264df584e532ab9bf07a0b9af324256.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
        }
       
     ]
