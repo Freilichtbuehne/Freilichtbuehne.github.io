@@ -8,25 +8,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {
-            "name": "Dr. med. Bernhardt Kruse",
-            "rank": "Brandrat",
+            "name": "John Alzheimer",
+            "rank": "Brandoberinspektor",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/6308-20c7ebcf323327607c7384ed545842475cad676c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
-        },
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6326-6070e39aa41506ac985fccbf71c8b16a4361375b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2067-timeofoneway/"
+        },        
         {
-            "name": "Marlon Brand",
+            "name": "Heinrich Danger",
             "rank": "Brandreferendar",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-feuerwehrmann-marlon/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/6502-4c8e40c56eb556128a0ec0bf4e7925bc1b4ff4e2.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
         },
         {
-            "name": "Lukas Danger",
+            "name": "Luke Harrison",
             "rank": "Brandreferendar",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/6176-c7a6f60025ae06771269524a27ab7d9028d371aa.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
             "name": "Mani Mayer",
@@ -36,27 +36,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1908-exxtrem-gamer/"
         },
         {
-            "name": "Brain McCaffrey",
-            "rank": "Brandoberinspektor",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/95/6191-9527d6b2034c923890d36b3c8b3d4139ea9447c3.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/717-shadow-san/"
-        },
-        {
-            "name": "John Alzheimer",
-            "rank": "Brandoberinspektor",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6326-6070e39aa41506ac985fccbf71c8b16a4361375b.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2067-timeofoneway/"
-        },
-        {
-            "name": "Luke Harrison",
+              "name": "Marlon Brand",
             "rank": "Brandreferendar",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-feuerwehrmann-marlon/"
         }
-
-        
     ]
 }
