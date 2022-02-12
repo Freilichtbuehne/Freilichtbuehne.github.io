@@ -2,8 +2,8 @@
     "members": [
         {
             "name": "Luke",
-            "rank": "Leitung",
-            "highlight": true,
+            "rank": "none",
+            "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/88/6343-88f2bf5921d64162b1b3e7c041974cadb7eb4430.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
         },
