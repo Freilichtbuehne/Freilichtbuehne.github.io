@@ -99,13 +99,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
         {
-            "name": "White",
-            "rank": "Moderator I",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1530-grinningblack/"
-        },
-        {
             "name": "Fake Luke",
             "rank": "Moderator I",
             "highlight": false,
@@ -169,26 +162,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1902-exo-lp/"
         },
         {
-     
-            "name": "Skinwalker",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b9/6448-b933ef79ca616c1ed1efcc82e1ee1adedafdeaf9.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1294-skinwalker/#about"
-        },
-        {
             "name": "TheChris",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/6279-8604035d8f59b9f39aef2c9311d70cf21b52882b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/"
         },
         {
             "name": "rainzzQ",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/30/6375-3052dbd236d0efa8a90cf5067d9833ff65df0e93.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2077-rainzzq/"
+        },
+        {
+            "name": "Jeremy Varox",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/6461-6618f659137e790145cc6d63a462dffcd9852b4f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-varox/"
+        },
+        {
+            "name": "[GPX] Luca",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/30/6375-3052dbd236d0efa8a90cf5067d9833ff65df0e93.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1515-gpx-luca/"
         }
     ]
 }
