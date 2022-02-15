@@ -45,7 +45,7 @@
          },
          {
             "name": "Smoke 55",
-            "rank": "Hauptmann | Ausbilder",
+            "rank": "Stabshauptmann | Ausbilder",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6562-7074f9c16264df584e532ab9bf07a0b9af324256.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"  
@@ -59,7 +59,7 @@
         },
         {
             "name": "Wolf 40",
-            "rank": "Oberstleutnant",
+            "rank": "Erster Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/6482-5a980102edbb51b2c7928c94663261498fa679fd.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"        
@@ -72,11 +72,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2098-reapzz/"
         },
          {
-            "name": "Wolf 40",
+            "name": "Hit 36",
             "rank": "Erster Leutnant",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/6482-5a980102edbb51b2c7928c94663261498fa679fd.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"    
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/11/6529-11797608c5eaaa3e55151d6db9df4dfc98f86747.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1882-emil/"
+        },
+         {
+            "name": "Redux 51",
+            "rank": "Zweiter Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/6279-8604035d8f59b9f39aef2c9311d70cf21b52882b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/" 
+        },
+         {
+            "name": "Charlie 19",
+            "rank": "Zweiter Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a9/6521-a929fe85d3b0d1c6486c15522dd87079321c5f99.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-gpx-oliver/"   
          },
          {
             "name": "Alpha 63",
@@ -86,11 +100,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-feinstaub/"
          },
          {
+            "name": "Rain 22",
+            "rank": "Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/30/6375-3052dbd236d0efa8a90cf5067d9833ff65df0e93.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2077-rainzz/"   
+         },
+         {
             "name": "Guru 34",
             "rank": "Unteroffizier",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/38/6470-381dd18d716129d5ab1c6597470710479f1e7fb8.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"        
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/" 
+        },
+         {
+            "name": "Knife 07",
+            "rank": "Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/64/6781-6442f55efb0e924bb0dc741909c59e52920ee78c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
+        },
+         {
+            "name": "Arc 09",
+            "rank": "Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4b/6785-4b10376998f09c05536cc151992a2594b227a4e8.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
         }
     ]
 }
