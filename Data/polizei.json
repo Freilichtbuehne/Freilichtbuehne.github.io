@@ -10,7 +10,7 @@
        },
        {
            "name": "Benny Benson",
-           "rank": "Polizeivizepräsident | Ausbildungsabteilung",
+           "rank": "Polizeivizepräsident | Personalabteilung",
            "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4b/6785-4b10376998f09c05536cc151992a2594b227a4e8.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
@@ -52,31 +52,10 @@
        },
        {
            "name": "Phelios Fries",
-           "rank": "Polizeidirektor",
+           "rank": "Polizeidirektor | Personalabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/88/6343-88f2bf5921d64162b1b3e7c041974cadb7eb4430.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
-       },
-       {
-           "name": "Exo Blum",
-           "rank": "Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/4b/5847-4b9b9ec43f9e9c6f06fa67df7ccf1f03f586f0ba.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1902-exo-lp/"
-       },
-       {
-           "name": "Vanila Lombax",
-           "rank": "Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/dd/6829-dd84e73bedefedca005c9aa836b1cebc5f70fea2.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1560-lombax/"
-       },
-       {
-           "name": "Thommy Smith",
-           "rank": "Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/6108-a12e1a678d27d69ea2a1cfd082bcdcf6ec8c6018.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
        },
        {
            "name": "Mika Stammtisch",
@@ -87,17 +66,10 @@
        },
        {
            "name": "Nico Clinton",
-           "rank": "Polizeioberrat",
+           "rank": "Polizeioberrat | Presseabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/6684-4f57033419aec7630099c4d6becd4b19ab9ad2bb.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2148-pilz/"
-       },
-       {
-           "name": "Michael Brunsmeier",
-           "rank": "Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/e7/6826-e7033756f075b6b6298d010798723b40cfeb8826.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
        },
        {
            "name": "Michael von Frischbier",
@@ -112,6 +84,27 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/6825-5292f2c86da0cfd66b2658826fe843a643e70013.jpeg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
+       },
+       {
+           "name": "Vanila Lombax",
+           "rank": "Polizeirat | Ausbildungsabteilung",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/dd/6829-dd84e73bedefedca005c9aa836b1cebc5f70fea2.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1560-lombax/"
+       },
+       {
+           "name": "Thommy Smith",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/6108-a12e1a678d27d69ea2a1cfd082bcdcf6ec8c6018.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
+       },
+       {
+           "name": "Michael Brunsmeier",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/e7/6826-e7033756f075b6b6298d010798723b40cfeb8826.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
        },
        {
            "name": "Frank Herrlich",
