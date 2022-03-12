@@ -1,0 +1,7 @@
+- name: json-syntax-check
+  # You may pin to the exact commit or the version.
+  # uses: limitusus/json-syntax-check@2505a77aa5181d0d0f5b94cf5aaaf3abb07a2cb5
+  uses: limitusus/json-syntax-check@v1.0.3
+  with:
+    # File regex pattern to check syntax
+    pattern: # default is \\.json$
