@@ -1,25 +1,18 @@
 {
     "members": [
-        {
-            "name": "Mika Varox",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6562-7074f9c16264df584e532ab9bf07a0b9af324256.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
-        },
-        {
-            "name": "Herbert Protz",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://i.imgur.com/LNaNY4x.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
-        },
           {
             "name": "Michael Melone",
-            "rank": "Organisatorische-Leitung | Sanitäter",
+            "rank": "Leitung | Sanitäter",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#about"
+        },
+        {
+            "name": "Luca Feinstaub",
+            "rank": "Organisatorische-Leitung",
+            "highlight": true,
+            "picture": "https://cdn.discordapp.com/attachments/879580897886744607/935467114989486110/6741-1be640d30d479fd39c7c3d67682f54b3cdf7e412.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-skipes123/"
         },
         {
             "name": "Nils Lombax",
@@ -29,20 +22,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
         },
         {
-            "name": "Thommy Smith",
-            "rank": "Einsatzleitung Rettungsdienst | Sanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/6482-5a980102edbb51b2c7928c94663261498fa679fd.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
-        }, 
-        {
-            "name": "Michael Melone",
-            "rank": "Einsatzleitung Rettungsdienst | Sanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#about"
-        },
-        {
             "name": "Felix Shiro Eckert",
             "rank": "Einsatzleitung Rettungsdienst | Sanitäter",
             "highlight": false,
@@ -50,88 +29,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/#about"
         },       
         {
-            "name": "Tristen Harrison",
-            "rank": "Einsatzleitung Rettungsdienst | Sanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/6588-d2e63f66d1354d1c231ddbe53ffa899bb109f7df.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
-        },     
-        {
-            "name": "Luke Harrison",
-            "rank": "Chefarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-franz/"
-        },  
-                {
-            "name": "Ronny Danger",
-            "rank": "Leitender Notarzt",
-            "highlight": false,
-            "picture": "https://i.imgur.com/N5OaIjO.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
-         {
-            "name": "Helmut von Richthofen",
-            "rank": "Leitender Notarzt | Notarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a3/6452-a3e0665ad7b8ee9539633ec988b1b2db93073778.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-helmut-von-richthofen/"
-        },  
-         {
-            "name": "Luca Feinstaub",
-            "rank": "Notarzt",
-            "highlight": false,
-            "picture": "https://cdn.discordapp.com/attachments/879580897886744607/935467114989486110/6741-1be640d30d479fd39c7c3d67682f54b3cdf7e412.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-skipes123/"
-        },
-        {
-            "name": "Uwe Klax",
-            "rank": "Notfallsanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ca/6462-ca28fb0f9e5566c5f72a2cf6164d547378ebda8d.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
-        },     
-        {
-            "name": "Heinrich Danger",
-            "rank": "Notfallsanitäter",
-            "highlight": false,
-            "picture": "https://i.imgur.com/kRTEQ1q.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
-        },     
-        {
-            "name": "Luca von Jauch",
-            "rank": "Notarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c1/6079-c1ff6521636090722431d8cfe2709c672c780f1a.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
-        },             
-        {
-            "name": "Oliver Danger",
-            "rank": "Notfallsanitäter | Notarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a9/6521-a929fe85d3b0d1c6486c15522dd87079321c5f99.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-oliver-holz/"
-        },      
-        {
-            "name": "Thomas Mara",
-            "rank": "Notfallsanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/6110-69bb918fcd3d0075cd7a541dbf0a3dce22832f34.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2002-impulsives-pony/"
-        },   
-        {
             "name": "Marlon Brand",
             "rank": "Notfallsanitäter ",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
-        },
-        {
-            "name": "Florian Ranzberger",
-            "rank": "Notarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/6664-20ab414c06cb7289244520d152152729864fe24f.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-dernetteflo/"
         }
     ]
 }
