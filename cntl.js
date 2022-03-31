@@ -3,7 +3,8 @@ const rpids = {
     8: "med",
     9: "feu",
     10: "far",
-    11: "sek"
+    11: "sek",
+    12: "blood"
 }
 
 const maxEntrys = 10;
@@ -75,6 +76,13 @@ function load(page) {
             ClearPageBox();
             setActive(rpids[page]);
             break;
+        case 12:
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/bloods.json";
+            rpSection = true;
+            ClearSubBox();
+            ClearPageBox();
+            setActive(rpids[page]);
+            break;
         default:
             ClearPageBox();
             loadingError("Ladefehler");
@@ -89,7 +97,7 @@ function load(page) {
 }
 
 function setActive(id) {
-    var ids = ["pol", "med", "feu", "far", "sek"];
+    var ids = ["pol", "med", "feu", "far", "sek", "blood"];
     for (let i = 0; i < ids.length; i++) {
         document.getElementById(ids[i]).classList.remove("active");
     }
