@@ -135,17 +135,24 @@
         },
         {
             "name": "Dr.med. Felix Shiro Eckert",
-            "rank": "Moderator III",
+            "rank": "Moderator II",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/6806-d194b5c09c3864b330f9408b0f84f2dc3c48b2b9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
         },
         {
             "name": "Jeremy Varox",
-            "rank": "Supporter",
+            "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/6461-6618f659137e790145cc6d63a462dffcd9852b4f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-varox/"
+        },
+        {
+            "name": "Pilz",
+            "rank": "Moderator III",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/6684-4f57033419aec7630099c4d6becd4b19ab9ad2bb.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2148-pilz/"
         },
         {
             "name": "[GPX] Luca",
@@ -155,11 +162,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1515-gpx-luca/"
         },
         {
-            "name": "Pilz",
+            "name": "Vince Vega",
             "rank": "Supporter",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/6684-4f57033419aec7630099c4d6becd4b19ab9ad2bb.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2148-pilz/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/6865-5f4be897e482e77251b28ec0515904f6bc662dbc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2177-vince-vega/"
         },
         {
             "name": "Julien11509[GER]",
@@ -167,6 +174,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d5/3677-d515ee2fa4609cdc2be758905721a16827b71bac.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/880-julien11509-ger/"
+        },
+        {
+            "name": "Gero",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/cd/6886-cd8a37b948773eb856a4bdd0af797ab6d6823aa7.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
         }
     ]
 }
