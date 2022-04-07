@@ -53,73 +53,66 @@
        },
        {
            "name": "Mika Stammtisch",
-           "rank": "Polizeioberrat",
+           "rank": "Erster Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6562-7074f9c16264df584e532ab9bf07a0b9af324256.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
        },
        {
            "name": "Nico Clinton",
-           "rank": "Polizeioberrat | Presseabteilung",
+           "rank": "Erster Polizeihauptkommissar | Presseabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/6684-4f57033419aec7630099c4d6becd4b19ab9ad2bb.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2148-pilz/"
        },
        {
            "name": "Michael von Frischbier",
-           "rank": "Polizeioberrat",
+           "rank": "Erster Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
        },
        {
            "name": "Gero Ranzberger",
-           "rank": "Polizeioberrat | Ausbildungsabteilung",
+           "rank": "Erster Polizeihauptkommissar | Ausbildungsabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/6825-5292f2c86da0cfd66b2658826fe843a643e70013.jpeg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
        },
        {
            "name": "Vanila Lombax",
-           "rank": "Polizeirat | Ausbildungsabteilung",
+           "rank": "Polizeihauptkommissar | Ausbildungsabteilung",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/dd/6829-dd84e73bedefedca005c9aa836b1cebc5f70fea2.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1560-lombax/"
        },
        {
            "name": "Thommy Smith",
-           "rank": "Polizeirat",
+           "rank": "Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/6108-a12e1a678d27d69ea2a1cfd082bcdcf6ec8c6018.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
        },
        {
            "name": "Michael Brunsmeier",
-           "rank": "Polizeirat",
+           "rank": "Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e7/6826-e7033756f075b6b6298d010798723b40cfeb8826.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
        },
        {
-           "name": "Frank Herrlich",
-           "rank": "Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/4858-5ebfd1f7e1284294bdee43aa2aa664352ef1e081.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1481-frank-herrlich/"
-       },
-       {
            "name": "Heinrich Danger",
-           "rank": "Polizeirat",
+           "rank": "Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/6502-4c8e40c56eb556128a0ec0bf4e7925bc1b4ff4e2.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
        },
        {
-           "name": "Lino Ranzberger",
-           "rank": "Polizeirat",
+           "name": "Julien Defrost",
+           "rank": "Polizeihauptkommissar",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/71/6766-71e739e6899f3f3fb11716f212e02c934e492689.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/d5/3677-d515ee2fa4609cdc2be758905721a16827b71bac.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/880-julien11509-ger/"
        }
 
     ]
