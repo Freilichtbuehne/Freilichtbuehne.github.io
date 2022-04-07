@@ -22,18 +22,39 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
         },
         {
-            "name": "Felix Shiro Eckert",
+            "name": "Marlon Brand",
             "rank": "Einsatzleitung Rettungsdienst | Sanitäter",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/38/6470-381dd18d716129d5ab1c6597470710479f1e7fb8.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/#about"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },       
         {
-            "name": "Marlon Brand",
-            "rank": "Notfallsanitäter ",
+            "name": "Jessy Salzbergwerk",
+            "rank": "Notarzt",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
+        },
+        {
+            "name": "Kira Ackermann",
+            "rank": "Notarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/5548-5a001c90d5f45cef6913e910c7ce388284264490.jpg",
+            "profile": "https://www.goldphoenix.de/index.php?thread/6171-bewerbung-zum-teammitglied/"
+        },
+        {
+            "name": "Leon Lombax",
+            "rank": "Notarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/4956-82d5d312b4f033561c7b31c737333a31da45f943.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1515-gpx-luca/"
+        },
+        {
+            "name": "Fabian König",
+            "rank": "Notfallsanitäter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a1/6108-a12e1a678d27d69ea2a1cfd082bcdcf6ec8c6018.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/873-fabian/"
         }
     ]
 }
