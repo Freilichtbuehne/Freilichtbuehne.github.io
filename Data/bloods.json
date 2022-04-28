@@ -22,30 +22,23 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
        },
         {
-           "name": "Michael Brunsmeier",
-           "rank": "OG",
-           "highlight": true,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/21/6895-21003d7f604effd192401bd274e018024e602116.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
-       },
-        {
            "name": "Benny Benson",
            "rank": "OG",
            "highlight": true,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/4b/6785-4b10376998f09c05536cc151992a2594b227a4e8.png",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/4b/6992-4b10376998f09c05536cc151992a2594b227a4e8.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
        },
         {
            "name": "Phelios Stammtisch",
            "rank": "Baller",
-           "highlight": true,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/88/6343-88f2bf5921d64162b1b3e7c041974cadb7eb4430.jpg",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/6918-67367e1d77cfa29207f26b553ac59fa01806818e.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
        },
         {
            "name": "Thommy Smith",
            "rank": "Baller",
-           "highlight": true,
+           "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/47/6833-47fdcc882ae12c898afd980c0940651ef787037c.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
        }
