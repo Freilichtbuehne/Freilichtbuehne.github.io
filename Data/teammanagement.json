@@ -4,7 +4,7 @@
             "name": "Luke",
             "rank": "none",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/88/6343-88f2bf5921d64162b1b3e7c041974cadb7eb4430.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/6918-67367e1d77cfa29207f26b553ac59fa01806818e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
         },
         {
@@ -14,14 +14,7 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/6533-8279e0d0653cca8b6124e43c59523a080a2f853d.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
         },
-         {
-            "name": "[GPX]Leon",
-            "rank": "none",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4b/6785-4b10376998f09c05536cc151992a2594b227a4e8.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
-        },
-          {
+        {
             "name": "chef.eggdog",
             "rank": "none",
             "highlight": false,
@@ -29,11 +22,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2101-chef-eggdog/"
         },
         {
-            "name": "Chrisskross",
+            "name": "TheChris",
             "rank": "none",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/6279-8604035d8f59b9f39aef2c9311d70cf21b52882b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/"
+        },
+        {
+            "name": "Vince Vega",
+            "rank": "none",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/6865-5f4be897e482e77251b28ec0515904f6bc662dbc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2177-vince-vega/"
         }
     ]
 }
