@@ -1,18 +1,18 @@
 {
     "members": [
           {
-            "name": "Michael Melone",
-            "rank": "Leitung | Sanitäter",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#about"
-        },
-        {
             "name": "Luca Feinstaub",
-            "rank": "Organisatorische-Leitung",
+            "rank": "Leitung | Sanitäter",
             "highlight": true,
             "picture": "https://cdn.discordapp.com/attachments/879580897886744607/935467114989486110/6741-1be640d30d479fd39c7c3d67682f54b3cdf7e412.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-skipes123/"
+        },
+        {
+            "name": "Felix Shiro Eckert",
+            "rank": "Organisatorische-Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/6806-d194b5c09c3864b330f9408b0f84f2dc3c48b2b9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
         },
         {
             "name": "Nils Lombax",
@@ -20,17 +20,10 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/5767-6856ebdd65d7ac999e470f63a90f370a8cc278fd.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
-        },
-        {
-            "name": "Marlon Brand",
-            "rank": "Einsatzleitung Rettungsdienst | Sanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
-        },       
+        },    
         {
             "name": "Jessy Salzbergwerk",
-            "rank": "Notarzt",
+            "rank": "Ltd. Notarzt",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
@@ -43,18 +36,18 @@
             "profile": "https://www.goldphoenix.de/index.php?thread/6171-bewerbung-zum-teammitglied/"
         },
         {
-            "name": "Leon Lombax",
-            "rank": "Notarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/4956-82d5d312b4f033561c7b31c737333a31da45f943.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1515-gpx-luca/"
-        },
-        {
             "name": "Fabian König",
             "rank": "Notfallsanitäter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/6911-0d9ce2dc2811e0f4bb62e0b28f0d568d18f4e30a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/873-fabian/"
+        },
+        {
+            "name": "Alexander Ulf ",
+            "rank": "Notfallsanitäter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/95/6323-95fb83bbc1e0efd2238b380edefb313a60bf6586.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/928-alexander-ulf/"
         }
     ]
 }
