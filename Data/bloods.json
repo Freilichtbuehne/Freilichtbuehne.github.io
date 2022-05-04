@@ -18,7 +18,7 @@
            "name": "Michael Brunsmeier",
            "rank": "OG",
            "highlight": true,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/21/6895-21003d7f604effd192401bd274e018024e602116.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/36/7001-3631bb8783bf8005ccd9d04846368f468d92d7e8.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
        },
         {
@@ -41,6 +41,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/6918-67367e1d77cfa29207f26b553ac59fa01806818e.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
+       },
+       {
+           "name": "Cracky Koksberg",
+           "rank": "Hood Instructor",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2240-peppschnueffler/"
        }
     ]
 }
