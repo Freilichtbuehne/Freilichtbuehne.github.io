@@ -71,13 +71,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"                
         },
         {
-            "name": "Charlie 19",
-            "rank": "Hauptmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/6913-f9ef5e7aa09fe8f388e1bed1ce1b55a0cbe9b377.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1574-gpx-oliver/"   
-        },
-        {
             "name": "Alpha 633",
             "rank": "Hauptmann",
             "highlight": false,
@@ -92,11 +85,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2077-rainzz/"   
         },
         {
-            "name": "Arc 420",
-            "rank": "Oberleutnant | Personalabteilung",
+            "name": "Eco 120",
+            "rank": "Hauptmann",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4b/6992-4b10376998f09c05536cc151992a2594b227a4e8.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/7044-ff1df1ed5df33976995cebdd6dfb582067216b74.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2177-gypsyking/" 
         },
         {
             "name": "Prime 182",
@@ -132,6 +125,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6946-96d90af3adef87d2c011677b0a5ac75402b4b460.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/" 
-        }   
+        },
+        {
+            "name": "Arc 420",
+            "rank": "Leutnant | Personalabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4b/6992-4b10376998f09c05536cc151992a2594b227a4e8.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
+        }
     ]
 }
