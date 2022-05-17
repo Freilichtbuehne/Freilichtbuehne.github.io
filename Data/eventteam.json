@@ -1,18 +1,11 @@
 {
     "members": [
          {
-            "name": "Mika",
+            "name": "Gero",
             "rank": "Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6562-7074f9c16264df584e532ab9bf07a0b9af324256.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
-        },
-        {
-            "name": "[GER] D34D_W01F",
-            "rank": "Stv. Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/47/6833-47fdcc882ae12c898afd980c0940651ef787037c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6915-849ebee955144d593748e15426eea5c54cf9df26.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
         },
         {
             "name": "Fake Luke",
@@ -36,18 +29,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-linomann/"
         },
         {
-            "name": "HammerLP",
+            "name": "Luca Feinstaub",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2c/6534-2c1fc787972878e340d837aceef6b79cecdd617c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1584-hammerlp/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/7006-7aea1fd4cfa5284d6f10c94b2834f789f6ce8e46.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-feinstaub/"
         },
         {
-            "name": "Faxslp",
+            "name": "BigLazy03",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/cb/6480-cb466b175318c19abd8c9d15904c90ef5c924e45.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1598-faxslp/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/6930-5dd358b662998914c385f05f1c27785abd368fd3.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {
             "name": "Noah",
@@ -55,6 +48,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6364-7052f31a7dbade6f94b9267a86eb087ce1ea29bc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-noah/"
+        },
+        {
+            "name": "Yurix44",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/7010-d1584c555ac72995d12b5ebf18bfe67e2a8c32fa.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2213-yurix44/"
         }
     ]
 }
