@@ -9,28 +9,49 @@
         },
         {
             "name": "John Alzheimer",
-            "rank": "Brandoberinspektor",
-            "highlight": false,
+            "rank": "Stadtbrandinspektor",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6326-6070e39aa41506ac985fccbf71c8b16a4361375b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2067-timeofoneway/"
-        },        
+        },
         {
-            "name": "Heinrich Danger",
-            "rank": "Brandreferendar",
+            "name": "Bernhardt Kruse",
+            "rank": "Stv. Stadtbrandinspektor",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/6502-4c8e40c56eb556128a0ec0bf4e7925bc1b4ff4e2.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3f/6796-3fda4f6d771e5284eec19716be91c2903a1eea39.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },
         {
             "name": "Luke Harrison",
-            "rank": "Brandreferendar",
+            "rank": "Stv. Stadtbrandinspektor",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
+            "name": "hpguru",
+            "rank": "Hauptlöschmeister",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/6806-d194b5c09c3864b330f9408b0f84f2dc3c48b2b9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
+        },
+        {
+            "name": "Heinrich Danger",
+            "rank": "Löschmeister",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/6502-4c8e40c56eb556128a0ec0bf4e7925bc1b4ff4e2.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
+        },
+        {
+            "name": "Julien DeFrost",
+            "rank": "Löschmeister",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d5/3677-d515ee2fa4609cdc2be758905721a16827b71bac.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/880-julien11509/"
+        },
+        {
               "name": "Marlon Brand",
-            "rank": "Brandreferendar",
+            "rank": "Löschmeister",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-feuerwehrmann-marlon/"
