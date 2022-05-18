@@ -3,18 +3,18 @@
         
       
        {
-           "name": "Benny Benson",
-           "rank": "Polizeipräsident | Personalabteilung",
-           "highlight": true,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/4b/6992-4b10376998f09c05536cc151992a2594b227a4e8.png",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
-       },  
-       {
            "name": "Chris Mara",
-           "rank": "Polizeivizepräsident | Personalabteilung | Polizeisprecher",
+           "rank": "Polizeipräsident | Personalabteilung | Polizeisprecher",
            "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/6279-8604035d8f59b9f39aef2c9311d70cf21b52882b.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/"
+       },
+       {
+           "name": "Vince V. Mara ",
+           "rank": "Polizeivizepräsident",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/7044-ff1df1ed5df33976995cebdd6dfb582067216b74.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2177-gypsyking/"
        },
        { 
            "name": "Lukas Danger",
@@ -38,18 +38,25 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2101-chef-eggdog/"
        },
        {
-           "name": "Dietrich Stammtisch",
-           "rank": "Polizeidirektor | Personalabteilung",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/6533-8279e0d0653cca8b6124e43c59523a080a2f853d.png",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
-       },
-       {
            "name": "Mika Stammtisch",
-           "rank": "Erster Polizeihauptkommissar",
+           "rank": "Polizeidirektor",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6562-7074f9c16264df584e532ab9bf07a0b9af324256.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
+       },
+       {
+           "name": "Michael von Frischbier",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
+       },
+       {
+           "name": "Marian Mara",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/6110-69bb918fcd3d0075cd7a541dbf0a3dce22832f34.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2002-impulsives-pony/"
        },
        {
            "name": "Nico Clinton",
@@ -57,13 +64,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/6684-4f57033419aec7630099c4d6becd4b19ab9ad2bb.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2148-pilz/"
-       },
-       {
-           "name": "Michael von Frischbier",
-           "rank": "Erster Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
        },
        {
            "name": "Gero Ranzberger",
@@ -80,27 +80,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
        },
        {
-           "name": "Michael Brunsmeier",
-           "rank": "Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/36/7001-3631bb8783bf8005ccd9d04846368f468d92d7e8.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
-       },
-       {
-           "name": "Heinrich Danger",
-           "rank": "Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/6502-4c8e40c56eb556128a0ec0bf4e7925bc1b4ff4e2.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
-       },
-       {
-           "name": "Thomas Mara",
-           "rank": "Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/6110-69bb918fcd3d0075cd7a541dbf0a3dce22832f34.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2002-impulsives-pony/"
-       },
-       {
            "name": "Ben Krieg",
            "rank": "Polizeihauptkommissar",
            "highlight": false,
@@ -111,15 +90,8 @@
            "name": "Amon Gus",
            "rank": "Polizeihauptkommissar",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/6449-7a7b7059ec1ae7ac6e7de4cc64e887b5dcda76bc.jpg",
+           "picture": "https://cdn.discordapp.com/attachments/902984405482618913/976272214850678834/7039-5c2fb58bfe120c5439d595e229fb80c1776a909a.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2098-reapzz/"
-       },
-       {
-           "name": "Vince V. Mara ",
-           "rank": "Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/6865-5f4be897e482e77251b28ec0515904f6bc662dbc.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2177-vince-vega/"
        },
        {
            "name": "Julien Defrost",
@@ -127,13 +99,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d5/3677-d515ee2fa4609cdc2be758905721a16827b71bac.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/880-julien11509-ger/"
-       },
-       {
-           "name": "Wolfgang Groß",
-           "rank": "Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/12/6898-1273d03e0c9a5b44a1667460428bf9c264222a1c.png",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2198-price/#wall"
        }
 
     ]
