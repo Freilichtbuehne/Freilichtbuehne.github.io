@@ -8,18 +8,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
         },
         {
-            "name": "Dr. med. Gero von Ranzberger",
-            "rank": "Fahrlehrer | Stellv. Geschäftsführung | Personal- und Fortbildungsabteilung",
+            "name": "Michael von Frischbier",
+            "rank": "Stellv. Geschäftsführung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6915-849ebee955144d593748e15426eea5c54cf9df26.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
-        },
-        {
-            "name": "Jessy Salzbergwerk",
-            "rank": "Fahrlehrer",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
         },
         {
             "name": "Ronny Danger",
@@ -28,20 +21,6 @@
             "picture": "https://i.imgur.com/N5OaIjO.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },  
-        {
-            "name": "Michael Deutschmann",
-            "rank": "Fahrlehrer | Personal- und Fortbildungsabteilung",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
-        },
-        {
-            "name": "Bernd Deutschmann",
-            "rank": "Fahrlehrer",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/6601-6d0901e796d76efcdc33c739a0539bb922f08c10.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
-        },
         {
             "name": "Florian Ranzberger",
             "rank": "Fahrlehrer",
@@ -57,11 +36,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
-            "name": "Lino Ranzberger",
+            "name": " Luca Feinstaub",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6965-0f469b4ec62122ae5dd6cb39744d9914ad32ebde.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-linomann/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/7006-7aea1fd4cfa5284d6f10c94b2834f789f6ce8e46.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-feinstaub/"
         }
     ]
 }
