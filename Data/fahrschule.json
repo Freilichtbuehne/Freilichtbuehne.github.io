@@ -9,35 +9,28 @@
         },
         {
             "name": "Michael von Frischbier",
-            "rank": "Stellv. Geschäftsführung",
+            "rank": "Fahrleher | Stellv. Geschäftsführung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
         },
         {
             "name": "Ronny Danger",
-            "rank": "Fahrlehrer",
+            "rank": "Fahrlehrer | Prüfungsverwalter",
             "highlight": false,
             "picture": "https://i.imgur.com/N5OaIjO.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },  
-        {
-            "name": "Florian Ranzberger",
-            "rank": "Fahrlehrer",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6946-96d90af3adef87d2c011677b0a5ac75402b4b460.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-dernetteflo/"
         },
         {
             "name": "Sebastian Ranzberger",
-            "rank": "Fahrlehrer",
+            "rank": "Fahrlehrer | Prüfungsverwalter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
             "name": " Luca Feinstaub",
-            "rank": "Fahrlehrer",
+            "rank": "Fahrlehrer | Prüfungsassistent",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/7006-7aea1fd4cfa5284d6f10c94b2834f789f6ce8e46.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-feinstaub/"
