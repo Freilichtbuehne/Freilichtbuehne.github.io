@@ -2,13 +2,13 @@
     "members": [
           {
             "name": "Felix Shiro Eckert",
-            "rank": "Leitung | Sanitäter",
+            "rank": "Leitung | Rettungsdienst",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/6806-d194b5c09c3864b330f9408b0f84f2dc3c48b2b9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
         },
         {
-            "name": "Nils Lombanx",
+            "name": "Nils Lombax",
             "rank": "Organisatorische-Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/5767-6856ebdd65d7ac999e470f63a90f370a8cc278fd.jpg",
@@ -23,14 +23,14 @@
         },    
         {
             "name": "Michael Melone",
-            "rank": "Einsatzleitung RD",
+            "rank": "Einsatzleitung Rettungsdienst",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
         },
         {
             "name": "Jonny Winter",
-            "rank": "Einatzleitung RD",
+            "rank": "Einatzleitung Rettungsdienst",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/6600-f99c30653e4b3fc8ae4e3e3c55c7bbd078fc89c6.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2132-jonny/"
