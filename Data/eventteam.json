@@ -1,53 +1,53 @@
 {
     "members": [
          {
-            "name": "Gero Stammtisch",
+            "name": "Gero[GPX]",
             "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6915-849ebee955144d593748e15426eea5c54cf9df26.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
         },
         {
-            "name": "Florian Feinstaub",
+            "name": "Flo[GPX]",
             "rank": "Stellv. Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6946-96d90af3adef87d2c011677b0a5ac75402b4b460.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/"
         },
         {
-            "name": "Felix Shiro Eckert",
+            "name": "Hpguru",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/6806-d194b5c09c3864b330f9408b0f84f2dc3c48b2b9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
         },
         {
-            "name": "Noah Land",
+            "name": "Noah",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6364-7052f31a7dbade6f94b9267a86eb087ce1ea29bc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-noah/"
         },
         {
-            "name": "Sebastian Feinstaub",
+            "name": "Opklinik",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
-            "name": "Johann Baum",
+            "name": "ReapzZ",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/7010-d1584c555ac72995d12b5ebf18bfe67e2a8c32fa.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2213-yurix44/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/7039-5c2fb58bfe120c5439d595e229fb80c1776a909a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2098-reapzz/"
         },
         {
-            "name": "Jonah Kampfzwerg",
+            "name": "_Potato",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/94/6939-94fe975604cf308d9c1457ff2ab9576e3c1181d6.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1854-knvff1ges/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/7012-ef2373e92ca1d67be178a1a1ddcf3d4d2bc7f077.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2136-potato/"
         }
     ]
 }
