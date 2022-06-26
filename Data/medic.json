@@ -16,11 +16,18 @@
         },
         {
             "name": "Luke Haribo",
-            "rank": "Organisatorische-Leitung",
+            "rank": "OrgL-Rettungsdienst",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
-        },    
+        }, 
+        {
+            "name": "Shiro Meinige",
+            "rank": "OrgL-Medizin",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/95/5473-953d6ac6c70150c0fbddb70e828abb63c261db6b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1763-fischi-seeart/"
+        },
         {
             "name": "Michael Melone",
             "rank": "Einsatzleitung Rettungsdienst",
@@ -36,18 +43,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2132-jonny/"
         },
         {
+            "name": "Sebastian Feinstaub",
+            "rank": "Cheafarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
+        {
             "name": "Jessy Salzbergwerk",
             "rank": "Leitender Notarzt",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
-        },
-        {
-            "name": "Shiro Meinige",
-            "rank": "Notarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/95/5473-953d6ac6c70150c0fbddb70e828abb63c261db6b.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1763-fischi-seeart/"
         },
         {
             "name": "Bernhardt Kruse",
@@ -62,6 +69,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/5548-5a001c90d5f45cef6913e910c7ce388284264490.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1794-popcorn-uwu/"
+        },
+        {
+            "name": "Lino Ranzberger",
+            "rank": "Oberarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/7065-ef19643f85e5674de26c3eefc71ecc79260dc7b3.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
+        },
+        {
+            "name": "Florian Feinstaub",
+            "rank": "Oberarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6946-96d90af3adef87d2c011677b0a5ac75402b4b460.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/"
         },
         {
             "name": "Alexander Ulf",
