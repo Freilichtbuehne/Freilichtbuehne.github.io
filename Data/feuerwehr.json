@@ -2,7 +2,7 @@
     "members": [
         {
             "name": "Thommy Smith",
-            "rank": "Leitd. Branddirektor",
+            "rank": "Kreisbrandrat",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/47/6833-47fdcc882ae12c898afd980c0940651ef787037c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
@@ -29,7 +29,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
-            "name": "hpguru",
+            "name": "Felix Shiro Eckert",
             "rank": "Hauptlöschmeister",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/6806-d194b5c09c3864b330f9408b0f84f2dc3c48b2b9.jpg",
@@ -39,7 +39,7 @@
             "name": "Heinrich Danger",
             "rank": "Löschmeister",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4c/6502-4c8e40c56eb556128a0ec0bf4e7925bc1b4ff4e2.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/7112-455432cab2533ac182966778a886c510f9224f75.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
         },
         {
@@ -55,6 +55,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-feuerwehrmann-marlon/"
+        },
+        {
+            "name": "Jessy Salzbergwerk",
+            "rank": "Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         }
     ]
 }
