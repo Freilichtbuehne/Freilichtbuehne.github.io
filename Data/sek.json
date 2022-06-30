@@ -1,31 +1,10 @@
 {
     "members": [
         {
-            "name": "Bandit 361",
-            "rank": "General | Ausbilder",
-            "highlight": true,
-            "picture": "https://cdn.discordapp.com/attachments/902984405482618913/964286239832424448/Waptik.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2010-raptic/"
-        },
-        {
-            "name": "Storm 187",
-            "rank": "Generalleutnant | Ausbilder | Personalabteilung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/6810-5f2ef5e2eb6b18ef2087eb4509d3f3fad25a0275.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
-        },
-        {
-            "name": "Ace 92",
-            "rank": "Generalmajor",
-            "highlight": false,
-            "picture": "https://i.imgur.com/kRTEQ1q.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
-        },
-        {
             "name": "Ghost 204",
-            "rank": "Brigadegeneral | Ausbilder | Personalabteilung",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6464-966a3384357d03d904be3c8b372f0d16b50347c6.jpg",
+            "rank": "General | Ausbilder | Personalabteilung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/7088-9c340d321ab7f6b6b933fad9e6f5bb470c6c075c.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2101-chef-eggdog/"
         },
         {
@@ -36,11 +15,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
         },
         {
-            "name": "Smoke 55",
-            "rank": "Oberstleutnant | Ausbilder",
+            "name": "Vigil 74",
+            "rank": "Brigadegeneral | Ausbilder",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6562-7074f9c16264df584e532ab9bf07a0b9af324256.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"  
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/7039-5c2fb58bfe120c5439d595e229fb80c1776a909a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2098-reapzz/"
+        },
+        {
+            "name": "Rain 22",
+            "rank": "Brigadegeneral | Ausbilder | Personalabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/75/7082-7524be9eeda617a29b05e5566326a3a440a0aaa8.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2077-rainzz/"
+        },
+        {
+            "name": "Wolf 911",
+            "rank": "Oberst | Ausbilder",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/47/6833-47fdcc882ae12c898afd980c0940651ef787037c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {
             "name": "Redux 51",
@@ -50,88 +43,39 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/" 
         },
         {
-            "name": "Wolf 911",
-            "rank": "Stabshauptmann | Ausbilder",
+            "name": "Prime 182",
+            "rank": "Stabshauptmann | Ausbilder | Personalabteilung",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/47/6833-47fdcc882ae12c898afd980c0940651ef787037c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"        
-        },
-        {
-            "name": "Vigil 74",
-            "rank": "Stabshauptmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/6449-7a7b7059ec1ae7ac6e7de4cc64e887b5dcda76bc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2098-reapzz/"
-        },
-        {
-            "name": "Kristall 33",
-            "rank": "Hauptmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"                
-        },
-        {
-            "name": "Alpha 633",
-            "rank": "Hauptmann",
-            "highlight": false,
-            "picture": "https://cdn.discordapp.com/attachments/879580897886744607/935467114989486110/6741-1be640d30d479fd39c7c3d67682f54b3cdf7e412.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-feinstaub/"
-        },
-        {
-            "name": "Rain 22",
-            "rank": "Hauptmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/61/7032-61084584e2e71e8bb3e53115d72c2cf60450f9a5.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2077-rainzz/"   
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6915-849ebee955144d593748e15426eea5c54cf9df26.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"        
         },
         {
             "name": "Eco 120",
-            "rank": "Hauptmann",
+            "rank": "Stabshauptmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/7044-ff1df1ed5df33976995cebdd6dfb582067216b74.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2177-gypsyking/" 
-        },
-        {
-            "name": "Prime 182",
-            "rank": "Hauptmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6915-849ebee955144d593748e15426eea5c54cf9df26.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2177-gypsyking/"
         },
         {
             "name": "Guru 34",
-            "rank": "Oberleutnant",
+            "rank": "Hauptmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/6806-d194b5c09c3864b330f9408b0f84f2dc3c48b2b9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/" 
-        },
-        {
-            "name": "Eco 120",
-            "rank": "Oberleutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/6865-5f4be897e482e77251b28ec0515904f6bc662dbc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2177-vince-vega/" 
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"                
         },
         {
             "name": "Castle 12",
-            "rank": "Leutnant",
+            "rank": "Oberleutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/7012-ef2373e92ca1d67be178a1a1ddcf3d4d2bc7f077.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2136-potato/" 
-        },
-        {
-            "name": "Street 411",
-            "rank": "Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6946-96d90af3adef87d2c011677b0a5ac75402b4b460.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/" 
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2136-potato/"
         },
         {
             "name": "Arc 420",
             "rank": "Leutnant | Personalabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/4b/6992-4b10376998f09c05536cc151992a2594b227a4e8.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"   
         }
     ]
 }
