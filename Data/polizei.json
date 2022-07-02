@@ -3,18 +3,11 @@
         
       
        {
-           "name": "Chris Mara 51",
-           "rank": "Polizeipräsident | Polizeisprecher",
-           "highlight": true,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/86/6279-8604035d8f59b9f39aef2c9311d70cf21b52882b.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1995-thechris/"
-       },
-       {
-           "name": "Vince V. Mara 369",
-           "rank": "Polizeivizepräsident",
-           "highlight": true,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/7044-ff1df1ed5df33976995cebdd6dfb582067216b74.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2177-gypsyking/"
+           "name": "Michael von Frischbier 123",
+           "rank": "Polizeipräsident",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
        },
        { 
            "name": "Manel Mara 22",
@@ -29,13 +22,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/7088-9c340d321ab7f6b6b933fad9e6f5bb470c6c075c.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2101-chef-eggdog/"
-       },
-       {
-           "name": "Michael von Frischbier 123",
-           "rank": "Polizeidirektor",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
        },
        {
            "name": "Marian Mara 69",
