@@ -27,7 +27,7 @@
            "name": "Alexander Mara 10",
            "rank": "Polizeidirektor",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6464-966a3384357d03d904be3c8b372f0d16b50347c6.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/7088-9c340d321ab7f6b6b933fad9e6f5bb470c6c075c.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2101-chef-eggdog/"
        },
        {
@@ -85,6 +85,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4a/7042-4a7ad91548508ca2f8bdc4dece7841b2e0a74ba8.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1351-vincent/"
-       }
+       },
+       {
+           "name": "Tristen Harrison 11",
+           "rank": "Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/6588-d2e63f66d1354d1c231ddbe53ffa899bb109f7df.gif",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
+        }
     ]
 }
