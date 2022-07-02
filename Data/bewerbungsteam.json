@@ -9,14 +9,6 @@
       },
       {
 
-         "name":"Atomic",
-         "rank":"Stellv.. Leitung",
-         "highlight":true,
-         "picture":"https://www.goldphoenix.de/wcf/images/avatars/9c/7087-9c340d321ab7f6b6b933fad9e6f5bb470c6c075c.png",
-         "profile":"https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
-      },
-      {
-
          "name":"[GPX]Leon",
          "rank":"Mitglied",
          "highlight":false,
@@ -46,6 +38,13 @@
          "highlight":false,
          "picture":"https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
          "profile":"https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
-      }
+      },
+      {
+            "name": "GypsyKing",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/7044-ff1df1ed5df33976995cebdd6dfb582067216b74.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2177-gypsyking/"
+        }
    ]
 }
