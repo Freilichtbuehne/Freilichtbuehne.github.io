@@ -7,6 +7,13 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6915-849ebee955144d593748e15426eea5c54cf9df26.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
         },
+                {
+            "name": "Feinstaub",
+            "rank": "Stv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/7006-7aea1fd4cfa5284d6f10c94b2834f789f6ce8e46.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-feinstaub/"
+        },
         {
             "name": "Flo [GPX]",
             "rank": "Mitglied",
@@ -27,13 +34,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/7039-5c2fb58bfe120c5439d595e229fb80c1776a909a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2098-reapzz/"
-        },
-        {
-            "name": "Feinstaub",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/7006-7aea1fd4cfa5284d6f10c94b2834f789f6ce8e46.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-feinstaub/"
         }
     ]
 }
