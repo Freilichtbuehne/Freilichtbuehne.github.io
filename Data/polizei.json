@@ -5,14 +5,14 @@
        {
            "name": "Michael von Frischbier 123",
            "rank": "Polizeipräsident",
-           "highlight": false,
+           "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
        },
        { 
            "name": "Manel Mara 22",
            "rank": "Ltd. Polizeidirektor",
-           "highlight": true,
+           "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/75/7082-7524be9eeda617a29b05e5566326a3a440a0aaa8.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2077-rainzz/"
        },
@@ -78,6 +78,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/6588-d2e63f66d1354d1c231ddbe53ffa899bb109f7df.gif",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
-        }
+        },
+               {
+           "name": "Klaus Gunner-Sunami 55",
+           "rank": "Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/aa/7089-aa53bb68ec284cfdad21c75c2357482c70afc9b9.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
+         }
     ]
 }
