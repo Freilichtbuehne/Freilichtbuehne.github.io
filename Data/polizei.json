@@ -18,8 +18,8 @@
        },
        {
            "name": "Marian Mara 69",
-           "rank": "Polizeidirektor",
-           "highlight": false,
+           "rank": "Leitender Polizeidirektor",
+           "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/6110-69bb918fcd3d0075cd7a541dbf0a3dce22832f34.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2002-impulsives-pony/"
        },
@@ -45,18 +45,18 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/880-julien11509/"
        },
        {
+           "name": "Klaus Gunner-Sunami 55",
+           "rank": "Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/aa/7089-aa53bb68ec284cfdad21c75c2357482c70afc9b9.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
+       },
+       {
            "name": "Soul Goodman 33",
            "rank": "Erster Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/62/7125-627de9c6bcafa66f6c0503d898b03fe9ce82bc4c.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2249-soul-goodman/"
-       },
-       {
-           "name": "Michael Möller 17",
-           "rank": "Erster Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/dc/6919-dcb504a006a8c696def24780eeccbf2df2b8061f.png",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1700-ryckz/"
        },
        {
            "name": "Vincent Nirvalen 21",
@@ -71,13 +71,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/6588-d2e63f66d1354d1c231ddbe53ffa899bb109f7df.gif",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
-        },
-               {
-           "name": "Klaus Gunner-Sunami 55",
-           "rank": "Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/aa/7089-aa53bb68ec284cfdad21c75c2357482c70afc9b9.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
-         }
+        }
     ]
 }
