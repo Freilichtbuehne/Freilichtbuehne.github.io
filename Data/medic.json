@@ -2,14 +2,14 @@
     "members": [
           {
             "name": "Felix Shiro Eckert",
-            "rank": "Leitung | Rettungsdienst",
+            "rank": "Leitung | Personalabteilung | Psychologie",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/6806-d194b5c09c3864b330f9408b0f84f2dc3c48b2b9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
         },
         {
             "name": "Nils Lombax",
-            "rank": "Organisatorische-Leitung",
+            "rank": "Organisatorische-Leitung | Personalabteilung | Psychologie",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/5767-6856ebdd65d7ac999e470f63a90f370a8cc278fd.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
@@ -23,14 +23,14 @@
         }, 
         {
             "name": "Shiro Meinige",
-            "rank": "OrgL-Medizin",
+            "rank": "OrgL-Medizin | Psychologie",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/95/5473-953d6ac6c70150c0fbddb70e828abb63c261db6b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1763-fischi-seeart/"
         },
         {
             "name": "Michael Melone",
-            "rank": "Einsatzleitung Rettungsdienst",
+            "rank": "Einsatzleitung Rettungsdienst | Personalabteilung | Ausbildungsabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
@@ -44,14 +44,14 @@
         },
         {
             "name": "Sebastian Feinstaub",
-            "rank": "Chefarzt",
+            "rank": "Chefarzt | Personalabteilung | Ausbildungsabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
             "name": "Jessy Salzbergwerk",
-            "rank": "Leitender Notarzt",
+            "rank": "Leitender Notarzt | Personalabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
@@ -72,14 +72,14 @@
         },
         {
             "name": "Lino Ranzberger",
-            "rank": "Oberarzt",
+            "rank": "Oberarzt | Personalabteilung | Ausbildungsabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/7065-ef19643f85e5674de26c3eefc71ecc79260dc7b3.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
         },
         {
             "name": "Florian Feinstaub",
-            "rank": "Oberarzt",
+            "rank": "Oberarzt | Personalabteilung",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6946-96d90af3adef87d2c011677b0a5ac75402b4b460.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/"
