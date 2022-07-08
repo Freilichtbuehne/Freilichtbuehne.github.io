@@ -15,13 +15,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/"
         },
         {
-            "name": "Opklinik",
-            "rank": "Stv. Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
-        },
-        {
             "name": "Hpguru",
             "rank": "Mitglied",
             "highlight": false,
@@ -34,6 +27,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6364-7052f31a7dbade6f94b9267a86eb087ce1ea29bc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-noah/"
+        },
+        {
+            "name": "Opklinik",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
             "name": "ReapzZ",
