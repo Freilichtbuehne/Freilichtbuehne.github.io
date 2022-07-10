@@ -24,18 +24,39 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2002-impulsives-pony/"
        },
        {
+           "name": "Luca Feinstaub 633",
+           "rank": "Polizeidirektor",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/7006-7aea1fd4cfa5284d6f10c94b2834f789f6ce8e46.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-feinstaub/"
+       },
+       {
+           "name": "Ben Krieg 12",
+           "rank": "Polizeidirektor",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/7012-ef2373e92ca1d67be178a1a1ddcf3d4d2bc7f077.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2136-potato/"
+       },
+       {
+           "name": "Tristen Harrison 11",
+           "rank": "Polizeidirektor",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/6588-d2e63f66d1354d1c231ddbe53ffa899bb109f7df.gif",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
+       },
+       {
+           "name": "Soul Goodman 33",
+           "rank": "Polizeidirektor",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/62/7125-627de9c6bcafa66f6c0503d898b03fe9ce82bc4c.png",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2249-soul-goodman/"
+       },
+       {
            "name": "Amon Gus 74",
            "rank": "Polizeioberrat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/7039-5c2fb58bfe120c5439d595e229fb80c1776a909a.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2098-reapzz/"
-       },
-       {
-           "name": "Ben Krieg 12",
-           "rank": "Polizeioberrat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/7012-ef2373e92ca1d67be178a1a1ddcf3d4d2bc7f077.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2136-potato/"
        },
        {
            "name": "Julien Defrost 257",
@@ -50,13 +71,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/aa/7089-aa53bb68ec284cfdad21c75c2357482c70afc9b9.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
-       },
-       {
-           "name": "Soul Goodman 33",
-           "rank": "Erster Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/62/7125-627de9c6bcafa66f6c0503d898b03fe9ce82bc4c.png",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2249-soul-goodman/"
        },
        {
            "name": "Ronny Danger 04",
@@ -92,13 +106,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4a/7042-4a7ad91548508ca2f8bdc4dece7841b2e0a74ba8.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1351-vincent/"
-       },
-       {
-           "name": "Tristen Harrison 11",
-           "rank": "Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/6588-d2e63f66d1354d1c231ddbe53ffa899bb109f7df.gif",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
         {
            "name": "Lucas Camo 06",
