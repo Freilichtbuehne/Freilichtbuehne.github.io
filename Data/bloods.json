@@ -1,7 +1,7 @@
 {
     "members": [
  {
-           "name": "Lukas Steammtisch",
+           "name": "Lukas Stammtisch",
            "rank": "Real-OG",
            "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/6810-5f2ef5e2eb6b18ef2087eb4509d3f3fad25a0275.jpg",
@@ -16,21 +16,21 @@
        },
        {
            "name": "Cracky Koksberg",
-           "rank": "Instruktor",
+           "rank": "Hood Instruktor",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7017-52483b107c648ab9fb3d06d3d6c9847a0bd34664.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2240-peppschnueffler/"
        },
        {
            "name": "Leon Van Kliev",
-           "rank": "Watcher",
+           "rank": "Instruktor",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/53/4632-53858877edcc8a9ab8fede8ecfb4435afa09fcec.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1396-halo-i-bims-1-rotzbengel/"
        },
        {
            "name": "Maxi Goldberg",
-           "rank": "Executer",
+           "rank": "Watcher",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c3/6983-c3f5d1de1557659bddd04fed9603d74a68bf7597.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1537-maxi-esser/"
@@ -41,6 +41,20 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/dc/6919-dcb504a006a8c696def24780eeccbf2df2b8061f.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1700-ryckz/"
+       },
+       {
+           "name": "Apple Ace",
+           "rank": "Baller",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/bd/7137-bde195d817431958b5dcb5c0040da141dac97e56.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple-ace/"
+       },
+       {
+           "name": "Dino Röhrchen",
+           "rank": "Baller",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/2a/7106-2ad884fcb334ecf36ecb20ca6073bc77ff7f2f73.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2259-dino/"
        }
     ]
 }
