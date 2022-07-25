@@ -15,16 +15,9 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
         },
         {
-            "name": "Luke Haribo",
-            "rank": "OrgL-Rettungsdienst",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
-        }, 
-        {
             "name": "Shiro Meinige",
             "rank": "OrgL-Medizin | Psychologie",
-            "highlight": false,
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/95/5473-953d6ac6c70150c0fbddb70e828abb63c261db6b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1763-fischi-seeart/"
         },
