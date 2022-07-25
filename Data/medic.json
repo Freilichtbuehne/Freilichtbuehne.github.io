@@ -2,14 +2,14 @@
     "members": [
           {
             "name": "Felix Shiro Eckert",
-            "rank": "Leitung | Personalabteilung | Psychologie",
+            "rank": "Leitung Rettungsdienst | Personalabteilung | Psychologie",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/6806-d194b5c09c3864b330f9408b0f84f2dc3c48b2b9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
         },
         {
             "name": "Nils Lombax",
-            "rank": "Organisatorische-Leitung | Personalabteilung | Psychologie",
+            "rank": "Leitung Rettungsdienst | Personalabteilung | Psychologie",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/5767-6856ebdd65d7ac999e470f63a90f370a8cc278fd.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
@@ -57,7 +57,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },
         {
-            "name": "Kira Ackermann",
+            "name": "Kira Ackerman",
             "rank": "Notarzt",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/5548-5a001c90d5f45cef6913e910c7ce388284264490.jpg",
@@ -67,7 +67,7 @@
             "name": "Lino Ranzberger",
             "rank": "Oberarzt | Personalabteilung | Ausbildungsabteilung",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/7065-ef19643f85e5674de26c3eefc71ecc79260dc7b3.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/7174-b5a65f2fe0c515f2807847d6a42746cf794ead44.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
         },
         {
