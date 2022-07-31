@@ -43,25 +43,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
+            "name": "Jessy Salzbergwerk",
+            "rank": "Leitender Notarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
+        },
+        {
             "name": "Kira Ackerman",
             "rank": "Notarzt",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/5548-5a001c90d5f45cef6913e910c7ce388284264490.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1794-popcorn-uwu/"
-        },
-        {
-            "name": "Lino Ranzberger",
-            "rank": "Oberarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/7174-b5a65f2fe0c515f2807847d6a42746cf794ead44.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
-        },
-        {
-            "name": "Florian Feinstaub",
-            "rank": "Oberarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6946-96d90af3adef87d2c011677b0a5ac75402b4b460.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/"
         },
         {
             "name": "Emre Smith",
@@ -71,11 +64,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2245-emre3000/"
         },
         {
-            "name": "Brian Ackerman",
-            "rank": "Notfallsanitäter",
+            "name": "Andreas Smidt 06",
+            "rank": "Facharzt",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/03/5771-03221e517235a7da504fe0b20bdc6fc7774d3c60.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/93/6039-93d272dcb1fa20eb625f779eee76e91cfce243a3.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1695-jonas-peterson/"
         },
         {
             "name": "Albert Reznov",
@@ -90,13 +83,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/12/6107-12180316fcc568ae67d1d88470b967cdcb88f10c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2000-raku/"
-        },
-        {
-            "name": "Gero Stammtisch 182",
-            "rank": "Notfallsanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3f/7164-3f2b7852369eb7b35b0259917ad83171de159ad1.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
         }
     ]
 }
