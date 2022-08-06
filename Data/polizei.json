@@ -3,7 +3,7 @@
         
       
        {
-           "name": "Michael von Frischbier 123",
+           "name": "Jerry Frischbier 123",
            "rank": "Polizeipräsident",
            "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
@@ -106,6 +106,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d5/4103-d51a7e45bcb646db584b4fb0b3f0d890cd06ddcb.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1125-bela-sandrock/"
+        },
+        {
+           "name": "Jonny Winter 20",
+           "rank": "Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/6600-f99c30653e4b3fc8ae4e3e3c55c7bbd078fc89c6.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2132-jonny/"
         }
     ]
 }
