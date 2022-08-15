@@ -1,53 +1,18 @@
 {
     "members": [
         {    
-            "name": "Kaiserschmarrn",
+            "name": "Milki",
             "rank": "Leitung",
             "highlight": true,
-            "picture": "https://i.imgur.com/LNaNY4x.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/81/6892-815ce3fcac75042469917c958e6c9fb9fa4a971a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1169-milki/"
         },
-                  {    
-            "name": "Uwe Klax",
+        {    
+            "name": "Marlon",
             "rank": "Stv. Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ca/6462-ca28fb0f9e5566c5f72a2cf6164d547378ebda8d.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
-        }, 
-        {    
-            "name": "Chrisskross",
-            "rank": "Manager",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
-        },
-        {    
-            "name": "Marlon Brand",
-            "rank": "Manager",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
-        },
-       {    
-            "name": "Noah Land",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6364-7052f31a7dbade6f94b9267a86eb087ce1ea29bc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-thelolman-hd/"
-        },
-         {    
-            "name": "Tristen Harrison",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/6285-2dadc4cbb0f240853fee6640a3035ee59a1e5a89.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
-        },       
-          {
-            "name": "Felix Harrison",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6422-b54be8cb8ebcf2f7c540ab3bb0d92a16b06e34e7.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
         }
     ]
 }
