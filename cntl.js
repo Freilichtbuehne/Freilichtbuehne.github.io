@@ -37,6 +37,10 @@ function load(page) {
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/rpunit.json";
             rpSection = false;
             break;
+        case 6:
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/communityorganizer.json";
+            rpSection = false;
+            break;
         case 7:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/polizei.json";
             rpSection = true;
