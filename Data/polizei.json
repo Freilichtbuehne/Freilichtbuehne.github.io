@@ -87,18 +87,18 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
        },
        {
+           "name": "Florian Feinstaub 441",
+           "rank": "Erster Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6946-96d90af3adef87d2c011677b0a5ac75402b4b460.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/"
+        },
+       {
            "name": "Lucas Camo 06",
            "rank": "Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/81/6892-815ce3fcac75042469917c958e6c9fb9fa4a971a.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1169-milki/"
-        },
-        {
-           "name": "Florian Feinstaub 441",
-           "rank": "Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/6946-96d90af3adef87d2c011677b0a5ac75402b4b460.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/"
         },
         {
            "name": "Bela Camo 64",
@@ -127,6 +127,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/6600-f99c30653e4b3fc8ae4e3e3c55c7bbd078fc89c6.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2132-jonny/"
+        },
+        {
+           "name": "Ben Wolf 282",
+           "rank": "Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/9d/7122-9da754ee8fe1e968379eed6713bd6c6d3d2c25d6.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2270-benner/"
         }
     ]
 }
