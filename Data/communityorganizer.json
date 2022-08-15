@@ -12,7 +12,28 @@
             "rank": "Stv. Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"        
+        },
+        {    
+            "name": "Bela",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d5/4103-d51a7e45bcb646db584b4fb0b3f0d890cd06ddcb.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1125-bella/"
+        },
+        {    
+            "name": "Lino",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/7223-ef19643f85e5674de26c3eefc71ecc79260dc7b3.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
+        },
+        {    
+            "name": "Cody",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7d/7161-7debf0c1489485909996b7da339130dee00c9d46.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2261-cody/"
         }
     ]
 }
