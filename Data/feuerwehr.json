@@ -36,18 +36,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
         },
         {
+            "name": "Jessy Salzbergwerk",
+            "rank": "Oberlöschmeister",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
+        },
+        {
             "name": "Dirk Matthies",
             "rank": "Löschmeister",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c2/5680-c20bc1e10bde526207cc5eeb568c552bb11e8223.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1830-dirk-matthies/"
-        },
-        {
-            "name": "Jessy Salzbergwerk",
-            "rank": "Hauptfeuerwehrmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         }
     ]
 }
