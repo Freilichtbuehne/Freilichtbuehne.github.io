@@ -36,13 +36,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1537-maxi-esser/"
        },
        {
-           "name": "Michael Möller",
-           "rank": "Executer",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/dc/6919-dcb504a006a8c696def24780eeccbf2df2b8061f.png",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1700-ryckz/"
-       },
-       {
            "name": "Ben Wolf",
            "rank": "Executer",
            "highlight": false,
@@ -51,17 +44,24 @@
        },
        {
            "name": "Albert Reznov",
-           "rank": "Baller",
+           "rank": "Executer",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2305-stoney/"
        },
        {
            "name": "Apple Ace",
-           "rank": "Baller",
+           "rank": "Executer",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bd/7137-bde195d817431958b5dcb5c0040da141dac97e56.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple-ace/"
+       },
+       {
+           "name": "Michael Möller",
+           "rank": "Baller",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/dc/6919-dcb504a006a8c696def24780eeccbf2df2b8061f.png",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1700-ryckz/"
        },
        {
            "name": "Dino Röhrchen",
