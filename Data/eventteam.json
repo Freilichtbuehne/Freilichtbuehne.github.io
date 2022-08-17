@@ -1,18 +1,18 @@
 {
     "members": [
          {
-            "name": "Hpguru",
+            "name": "Flo[GPX",
             "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/6806-d194b5c09c3864b330f9408b0f84f2dc3c48b2b9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
-        },
-        {
-            "name": "Flo[GPX]",
-            "rank": "Stv. Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a7/7242-a72f352b0361d90f803f86e6b630fea81c09d377.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/"
+        },
+        {
+            "name": "Hpguru",
+            "rank": "Stv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/6806-d194b5c09c3864b330f9408b0f84f2dc3c48b2b9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"
         },
         {
             "name": "Noah",
@@ -64,11 +64,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {
+            "name": "Benner",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9d/7122-9da754ee8fe1e968379eed6713bd6c6d3d2c25d6.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2270-benner/"
+        },
+        {
             "name": "Apple Ace",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/bd/7137-bde195d817431958b5dcb5c0040da141dac97e56.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple-ace/"
-        }   
+        },
+        {
+            "name": "ToasterBeule945 (Adermann)",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2331-toasterbeule945/"
+        },
+        {
+            "name": "Santos",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/13/7191-132522c9cfd86d5643b616dbc086dd1499ab6575.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
+        }
     ]
 }
