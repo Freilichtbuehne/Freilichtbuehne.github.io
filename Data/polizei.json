@@ -4,126 +4,126 @@
       
        {
            "name": "Jerry Frischbier 123",
-           "rank": "Polizeipräsident",
+           "rank": "15★ Polizeipräsident",
            "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
        },
        { 
            "name": "Manel Danger 22",
-           "rank": "Polizeivizepräsident",
+           "rank": "14★ Polizeivizepräsident",
            "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/75/7082-7524be9eeda617a29b05e5566326a3a440a0aaa8.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2077-rainzz/"
        },
        {
            "name": "Marian Mara 69",
-           "rank": "Leitender Polizeidirektor",
+           "rank": "13★ Leitender Polizeidirektor",
            "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/6110-69bb918fcd3d0075cd7a541dbf0a3dce22832f34.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2002-impulsives-pony/"
        },
        {
            "name": "Luca Feinstaub 633",
-           "rank": "Polizeidirektor",
+           "rank": "12★ Polizeidirektor",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f0/7233-f0461682abb9e9775933f8ce18d8457defff6592.jpeg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-feinstaub/"
        },
        {
            "name": "Ben Krieg 12",
-           "rank": "Polizeidirektor",
+           "rank": "12★ Polizeidirektor",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/7012-ef2373e92ca1d67be178a1a1ddcf3d4d2bc7f077.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2136-potato/"
        },
        {
            "name": "Tristen Harrison 11",
-           "rank": "Polizeidirektor",
+           "rank": "12★ Polizeidirektor",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/6588-d2e63f66d1354d1c231ddbe53ffa899bb109f7df.gif",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
        },
        {
            "name": "Amon Gus 74",
-           "rank": "Polizeioberrat",
+           "rank": "11★ Polizeioberrat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/7039-5c2fb58bfe120c5439d595e229fb80c1776a909a.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2098-reapzz/"
        },
        {
+           "name": "Lukas Danger 187",
+           "rank": "10★ Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/10/7217-10a9982a25c2ea803b9dd18409a036deea01f922.gif",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
+       },
+       {
            "name": "Noah Land 23",
-           "rank": "Polizeirat",
+           "rank": "10★ Polizeirat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6364-7052f31a7dbade6f94b9267a86eb087ce1ea29bc.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-noah/"
        },
        {
-           "name": "Ronny Danger 04",
-           "rank": "Erster Polizeihauptkommissar",
+           "name": "Ronny Heisenberg 04",
+           "rank": "9★ Erster Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3d/7231-3d66311cbfb5dea2fba26fbfda173e7a7fa1ab42.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
        },
        {
            "name": "Gero Stammtisch 182",
-           "rank": "Erster Polizeihauptkommissar",
+           "rank": "9★ Erster Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3f/7164-3f2b7852369eb7b35b0259917ad83171de159ad1.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2065-gero/"
        },
        {
-           "name": "Benny Benson 09",
-           "rank": "Erster Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/4b/6992-4b10376998f09c05536cc151992a2594b227a4e8.png",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
-       },
-       {
            "name": "Florian Feinstaub 441",
-           "rank": "Erster Polizeihauptkommissar",
+           "rank": "9★ Erster Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a7/7242-a72f352b0361d90f803f86e6b630fea81c09d377.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/"
         },
        {
            "name": "Lucas Camo 06",
-           "rank": "Polizeihauptkommissar",
+           "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/81/6892-815ce3fcac75042469917c958e6c9fb9fa4a971a.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1169-milki/"
         },
         {
            "name": "Bela Camo 64",
-           "rank": "Polizeihauptkommissar",
+           "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d5/4103-d51a7e45bcb646db584b4fb0b3f0d890cd06ddcb.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1125-bela-sandrock/"
         },
         {
            "name": "Nick Santos 31",
-           "rank": "Polizeihauptkommissar",
+           "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/7248-5ddf1a14be6a01af55a682ea178727ea320839d1.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
         },
         {
            "name": "Tiffe Adermann 57",
-           "rank": "Polizeihauptkommissar",
+           "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2331-toasterbeule945/"
         },
         {
            "name": "Jonny Winter 20",
-           "rank": "Polizeihauptkommissar",
+           "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/6600-f99c30653e4b3fc8ae4e3e3c55c7bbd078fc89c6.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2132-jonny/"
         },
         {
            "name": "Ben Wolf 282",
-           "rank": "Polizeihauptkommissar",
+           "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9d/7122-9da754ee8fe1e968379eed6713bd6c6d3d2c25d6.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2270-benner/"
