@@ -8,6 +8,20 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-feinstaub/"
         },
         {
+            "name": "Opklinik",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
+        {
+            "name": "Lino",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/7264-ef4494d3c78c7d67b80227b85b5759ab865a6fd2.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
+        },
+        {
             "name": "Hpguru",
             "rank": "Mitglied",
             "highlight": false,
@@ -22,13 +36,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2098-reapzz/"
         },
         {
-            "name": "Lino",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/7223-ef19643f85e5674de26c3eefc71ecc79260dc7b3.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
-        },
-        {
             "name": "Tristano",
             "rank": "Mitglied",
             "highlight": false,
@@ -36,11 +43,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
         {
-            "name": "Opklinik",
+            "name": "Benner",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9d/7122-9da754ee8fe1e968379eed6713bd6c6d3d2c25d6.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2270-benner/"
+        },
+        {
+            "name": "Jerry",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
+        },
+        {
+            "name": "Marlon",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
+        },
+        {
+            "name": "Apple",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bd/7137-bde195d817431958b5dcb5c0040da141dac97e56.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
         },
         {
             "name": "Rainzz",
