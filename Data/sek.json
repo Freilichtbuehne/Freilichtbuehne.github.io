@@ -65,7 +65,7 @@
         },
         {
             "name": "Mute 99",
-            "rank": "7✪ Hauptmann",
+            "rank": "8✪ Stabshauptmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2214-ry-an16/"
@@ -106,6 +106,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/" 
         },
         {
+            "name": "Beta 123",
+            "rank": "6✪ Oberleutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/" 
+        },
+        {
             "name": "Arc 09",
             "rank": "5✪ Leutnant",
             "highlight": false,
@@ -132,20 +139,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/7222-ae2f9af73c3ae2d5ed8af949ac363a5b55009463.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/" 
-        },
-        {
-            "name": "Beta 123",
-            "rank": "5✪ Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/" 
-        },
-        {
-            "name": "Pommes 53",
-            "rank": "5✪ Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2178-deano/" 
         }
     ]
 }
