@@ -8,6 +8,13 @@
          "profile":"https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
       },
       {
+            "name": "Benner",
+            "rank": "Stv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/89/7275-89824ed59616c98d874d92f2bfcff33fb485b6e5.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2270-der-allerechte-b/"
+      },
+      {
 
          "name":"[GPX]Leon",
          "rank":"Mitglied",
@@ -51,13 +58,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/81/6892-815ce3fcac75042469917c958e6c9fb9fa4a971a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1169-milki/"
-      },
-      {
-            "name": "Benner",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/89/7275-89824ed59616c98d874d92f2bfcff33fb485b6e5.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2270-der-allerechte-b/"
       },
       {
             "name": "Sebastian",
