@@ -59,13 +59,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
        },
        {
-           "name": "Ronny Heisenberg 04",
-           "rank": "9★ Erster Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/3d/7231-3d66311cbfb5dea2fba26fbfda173e7a7fa1ab42.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-       },
-       {
            "name": "Florian Feinstaub 441",
            "rank": "9★ Erster Polizeihauptkommissar",
            "highlight": false,
@@ -80,11 +73,25 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2331-toasterbeule945/"
         },
         {
+           "name": "Jonny Winter 20",
+           "rank": "9★ Erster Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/6600-f99c30653e4b3fc8ae4e3e3c55c7bbd078fc89c6.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2132-jonny/"
+        },
+        {
            "name": "Michael Melone 33",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
+        },
+        {
+           "name": "Felix Harrison 15",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/51/6599-51bcb4630cfc73118a1b093fcb7d3520989445e3.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
         }
     ]
 }
