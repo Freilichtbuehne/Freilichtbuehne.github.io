@@ -32,10 +32,24 @@
        },
        {
            "name": "Amon Gus 74",
-           "rank": "11★ Polizeioberrat",
+           "rank": "12★ Polizeidirektor",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/7039-5c2fb58bfe120c5439d595e229fb80c1776a909a.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2098-reapzz/"
+       },
+      {
+           "name": "Nick Santos 31",
+           "rank": "12★ Polizeidirektor",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/7248-5ddf1a14be6a01af55a682ea178727ea320839d1.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
+       },
+       {
+           "name": "Noah Land 23",
+           "rank": "11★ Polizeioberrat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6364-7052f31a7dbade6f94b9267a86eb087ce1ea29bc.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-noah/"
        },
        {
            "name": "Lukas Danger 187",
@@ -43,27 +57,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/7280-31648e61347062b76b2eb1c357f24fdf6b5b4368.png",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
-       },
-       {
-           "name": "Noah Land 23",
-           "rank": "10★ Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6364-7052f31a7dbade6f94b9267a86eb087ce1ea29bc.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-noah/"
-       },
-       {
-           "name": "Nick Santos 31",
-           "rank": "10★ Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/7248-5ddf1a14be6a01af55a682ea178727ea320839d1.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
-       },
-       {
-           "name": "Jonny Winter 20",
-           "rank": "10★ Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/6600-f99c30653e4b3fc8ae4e3e3c55c7bbd078fc89c6.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2132-jonny/"
        },
        {
            "name": "Florian Feinstaub 441",
