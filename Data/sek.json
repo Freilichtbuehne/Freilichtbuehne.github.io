@@ -58,10 +58,17 @@
         },
         {
             "name": "Kristall 33",
-            "rank": "7✪ Hauptmann",
+            "rank": "8✪ Stabshauptmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"   
+        },
+        {
+            "name": "Rocky 17",
+            "rank": "7✪ Hauptmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/dc/6919-dcb504a006a8c696def24780eeccbf2df2b8061f.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1700-ryckz/"   
         },
         {
             "name": "Reaper 26",
@@ -69,13 +76,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/41-reaper/"   
-        },
-        {
-            "name": "Rocky 17",
-            "rank": "6✪ Oberleutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/dc/6919-dcb504a006a8c696def24780eeccbf2df2b8061f.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1700-ryckz/"   
         },
         {
             "name": "Shadow 63",
@@ -97,13 +97,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2299-lie-exe/"   
-        },
-        {
-            "name": "Himiko 24",
-            "rank": "5✪ Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/5513-5fea04a97d0ce9409853d0a3bcca78827f7b6dbc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1338-gpx-nigel/" 
         },
         {
             "name": "Fire 10",
