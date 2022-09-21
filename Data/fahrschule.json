@@ -2,66 +2,87 @@
     "members": [
         {
             "name": "Michael von Frischbier",
-            "rank": "8✦ Geschäftsführung",
+            "rank": "Geschäftsführung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c8/6650-c854a5b9670df7e572311e0195610b4abacca4a9.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/"
         },
         {
+            "name": "Criss Kross",
+            "rank": "Geschäftsführung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
+        },
+        {
             "name": "Jonas Hilton",
-            "rank": "1✦ Fahrlehrer",
+            "rank": "Fahrlehrer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/7085-45c54a3c019c2f6f66e586f7781222aa6e736a73.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2078-black-dx/"
         },
         {
             "name": "Tristen Harrison",
-            "rank": "1✦ Fahrlehrer",
+            "rank": "Fahrlehrer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/6588-d2e63f66d1354d1c231ddbe53ffa899bb109f7df.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
         {
             "name": "Lino Ranzberger",
-            "rank": "1✦ Fahrlehrer",
+            "rank": "Fahrlehrer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ef/7273-ef19643f85e5674de26c3eefc71ecc79260dc7b3.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
         },
         {
             "name": "Sebastian Feinstaub",
-            "rank": "1✦ Fahrlehrer",
+            "rank": "Fahrlehrer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
             "name": "Cody Lombax",
-            "rank": "1✦ Fahrlehrer",
+            "rank": "Fahrlehrer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7d/7161-7debf0c1489485909996b7da339130dee00c9d46.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2261-cody/"
         },
         {
             "name": "Marlon Brand",
-            "rank": "1✦ Fahrlehrer",
+            "rank": "Fahrlehrer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {
             "name": "Jessy Salzbergwerk",
-            "rank": "1✦ Fahrlehrer",
+            "rank": "Fahrlehrer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         },
         {
             "name": "Ben Koksberg",
-            "rank": "1✦ Fahrlehrer",
+            "rank": "Fahrlehrer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/89/7275-89824ed59616c98d874d92f2bfcff33fb485b6e5.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2270-benner/"
+        },
+        {
+            "name": "Core Kampfzwerk",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/7222-ae2f9af73c3ae2d5ed8af949ac363a5b55009463.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/"
+        },
+        {
+            "name": "Ronny Heisenberg",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3d/7231-3d66311cbfb5dea2fba26fbfda173e7a7fa1ab42.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         }
     ]
 }
