@@ -57,10 +57,10 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2270-benner/"
         },
         {
-            "name": "Apple Ace",
+            "name": "Apple",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bd/7137-bde195d817431958b5dcb5c0040da141dac97e56.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/7295-b8a508a2c636d3c0f861f92f601eb2a3e19f73e3.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple-ace/"
         },
         {
@@ -90,6 +90,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/7222-ae2f9af73c3ae2d5ed8af949ac363a5b55009463.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/"
+        },
+        {
+            "name": "Lie.exe",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a3/7296-a38da23cbf8d309cf74e61543c4feaf2a1c43b2e.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2299-lie-exe/"
         }
     ]
 }
