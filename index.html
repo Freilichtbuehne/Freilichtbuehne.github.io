@@ -13,13 +13,13 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
     <script src="cntl.js"></script>
     <script>
-        load(2);
         fetch("https://bit.ly/forumübersicht").catch();
     </script>
 </head>
 
 <body>
     <div class="menuBox">
+        <a class="active" href="index.html">Team</a>
         <a class="active" href="bewerbung.html">Bewerbungsteam</a>
         <a href="eventteam.html">Eventteam</a>
         <a href="teammanagement.html">Teammanagement</a>
@@ -30,10 +30,8 @@
     </div>
     <div id="pageBox">
     </div>
-    <div id="contentBox">
-        <div class="loader" id="loader">
-            <div class="loaderBar"></div>
-        </div>
+    <div id="infoBox">
+        <a href="https://www.goldphoenix.de/wcf/index.php?team/" target="_blank" style="color: rgb(165, 165, 165); text-decoration: none;">Übersicht Teammitglieder</a>
     </div>
     <button id="scrollUp" style="visibility: hidden;">nach Oben</button>
 </body>
