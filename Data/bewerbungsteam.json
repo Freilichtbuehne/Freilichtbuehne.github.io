@@ -8,6 +8,13 @@
          "profile":"https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
       },
       {
+            "name": "Opklinik",
+            "rank": "Stv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+      },
+      {
             "name": "Benner",
             "rank": "Mitglied",
             "highlight": false,
@@ -58,13 +65,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/81/6892-815ce3fcac75042469917c958e6c9fb9fa4a971a.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1169-milki/"
-      },
-      {
-            "name": "Opklinik",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
       },
       {
             "name": "MARC",
