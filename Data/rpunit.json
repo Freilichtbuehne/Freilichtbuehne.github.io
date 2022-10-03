@@ -15,6 +15,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
+            "name": "Apple",
+            "rank": "Manager",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/7295-b8a508a2c636d3c0f861f92f601eb2a3e19f73e3.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
+        },
+        {
             "name": "Lino",
             "rank": "Mitglied",
             "highlight": false,
@@ -48,13 +55,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
-        },
-        {
-            "name": "Apple",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/7295-b8a508a2c636d3c0f861f92f601eb2a3e19f73e3.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
         },
         {
             "name": "Rainzz",
@@ -111,6 +111,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a7/7242-a72f352b0361d90f803f86e6b630fea81c09d377.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/"
+        },
+        {
+           "name": "Lie.exe",
+           "rank": "Mitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/a3/7296-a38da23cbf8d309cf74e61543c4feaf2a1c43b2e.png",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2299-lie-exe/"
         }
     ]
 }
