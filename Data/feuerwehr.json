@@ -30,7 +30,7 @@
         },
         {
             "name": "Dirk Matthies",
-            "rank": "VI Oberlöschmeister",
+            "rank": "VII Hauptlöschmeister",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c2/5680-c20bc1e10bde526207cc5eeb568c552bb11e8223.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1830-dirk-matthies/"
@@ -44,7 +44,7 @@
         },
         {
             "name": "Marlon Brand 10",
-            "rank": "IV Hauptfeuerwehrmann",
+            "rank": "V Löschmeister",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
@@ -62,6 +62,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f8/7298-f8123bf5905f8f7411faf192f4454651ec0f4b9e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
+        },
+        {
+            "name": "Mani Meyer",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e7/5862-e7f895aede359bbc69afa24f51ec4b901d7beada.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1908-exxtrem-gamer/"
+        },
+        {
+            "name": "Core Kampfzwerg",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/7222-ae2f9af73c3ae2d5ed8af949ac363a5b55009463.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/"
         }
     ]
 }
