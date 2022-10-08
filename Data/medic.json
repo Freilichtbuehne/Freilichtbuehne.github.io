@@ -15,13 +15,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
         },
         {
-            "name": "Shiro Meinige",
-            "rank": "12+ Organisatorische Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/95/5473-953d6ac6c70150c0fbddb70e828abb63c261db6b.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1763-fischi-seeart/"
-        },
-        {
             "name": "Jessy Salzbergwerk",
             "rank": "12+ Organisatorische Leitung",
             "highlight": true,
@@ -30,8 +23,8 @@
         },
         {
             "name": "Michael Melone",
-            "rank": "11+ Einsatzleitung Rettungsdienst | Leitender Oberarzt",
-            "highlight": false,
+            "rank": "12+ Organisatorische Leitung",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
         },
@@ -41,6 +34,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/6600-f99c30653e4b3fc8ae4e3e3c55c7bbd078fc89c6.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2132-jonny/"
+        },
+        {
+            "name": "Shiro Meinige",
+            "rank": "11+ Einatzleitung Rettungsdienst",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/95/5473-953d6ac6c70150c0fbddb70e828abb63c261db6b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1763-fischi-seeart/"
         },
         {
             "name": "Sebastian Feinstaub",
