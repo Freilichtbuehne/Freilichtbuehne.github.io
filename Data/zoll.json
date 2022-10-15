@@ -1,46 +1,25 @@
 {
     "members": [
         {
-            "name": "Tristen Harrison",
-            "rank": "Präsident der Generalzolldirektion",
+            "name": "Lino Ranzberger",
+            "rank": "Präsident",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/6588-d2e63f66d1354d1c231ddbe53ffa899bb109f7df.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
-        },
-        {
-            "name": "Felix Harrison",
-            "rank": "Vizepräsident der Generalzolldirektion",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/51/6599-51bcb4630cfc73118a1b093fcb7d3520989445e3.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/#wall"
-        },
-        {
-            "name": "Luke Harrison",
-            "rank": "Direktionspräsident",
-            "highlight": true,
-            "picture": "https://cdn.discordapp.com/attachments/844591680342196255/908703884766249022/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f8/7298-f8123bf5905f8f7411faf192f4454651ec0f4b9e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
         },
         {
             "name": "Marlon Brand",
-            "rank": "Oberregierungsrat",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
+            "rank": "Vizepräsident",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {
-            "name": "Rüdiger Schmitz",
-            "rank": "Zolloberinspektor",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/38/6357-382c2b2268b23caabf163dc5581593547c6a3310.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2071-jimmy/"
-        },
-        {
-            "name": "Helmut Mueller",
-            "rank": "Zollinspektor",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1530-white/"
+            "name": "Sebastian Feinstaub",
+            "rank": "Oberregierungsrat",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         }
     ]
 }
