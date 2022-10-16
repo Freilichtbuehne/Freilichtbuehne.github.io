@@ -8,7 +8,7 @@ const rpids = {
 }
 
 const maxEntrys = 10;
-const showPageUpEntrys = 5;
+const showPageUpEntrys = 6;
 var curMembers;
 var rpSection;
 
