@@ -2,24 +2,45 @@
     "members": [
         {
             "name": "Lino Ranzberger",
-            "rank": "Präsident",
+            "rank": "15★ Präsident",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f8/7298-f8123bf5905f8f7411faf192f4454651ec0f4b9e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
         },
         {
             "name": "Marlon Brand",
-            "rank": "Vizepräsident",
+            "rank": "14★ Vizepräsident",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {
             "name": "Sebastian Feinstaub",
-            "rank": "Oberregierungsrat",
+            "rank": "13★ Oberregierungsrat",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
+        {
+            "name": "Florian Feinstaub",
+            "rank": "7★ Zollinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4a/7312-4a0aa9fbc5cfd771ea08a42c7d6e817bf96c84b6.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-gpx-florian/"
+        },
+        {
+            "name": "Pascal Hobel",
+            "rank": "7★ Zollinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/04/6834-049af10fe6b8c1e25eef30c2dac7c3e67fba1090.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2170-kyola-baazigar/"
+        },
+        {
+            "name": "Amon Gus",
+            "rank": "7★ Zollinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/7039-5c2fb58bfe120c5439d595e229fb80c1776a909a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2098-reapzz/"
         }
     ]
 }
