@@ -1,23 +1,16 @@
 {
     "members": [
-         {
-            "name": "[GPX]Florian",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4a/7312-4a0aa9fbc5cfd771ea08a42c7d6e817bf96c84b6.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-gpx-florian/"
-        },
         {
             "name": "Opklinik",
-            "rank": "Stv. Leitung",
+            "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
             "name": "Lino",
-            "rank": "Manager",
-            "highlight": false,
+            "rank": "Stv. Leitung",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f8/7298-f8123bf5905f8f7411faf192f4454651ec0f4b9e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
         },
