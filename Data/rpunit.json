@@ -15,9 +15,16 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
-            "name": "Apple",
+            "name": "Lino",
             "rank": "Manager",
             "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f8/7298-f8123bf5905f8f7411faf192f4454651ec0f4b9e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
+        },
+        {
+            "name": "Apple",
+            "rank": "Mitglied",
+            "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/7295-b8a508a2c636d3c0f861f92f601eb2a3e19f73e3.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
         },
@@ -62,13 +69,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/75/7082-7524be9eeda617a29b05e5566326a3a440a0aaa8.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2077-rainzz/"
-        },
-        {
-            "name": "Lino",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f8/7298-f8123bf5905f8f7411faf192f4454651ec0f4b9e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
         },
         {
             "name": "MARC",
