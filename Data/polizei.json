@@ -66,6 +66,13 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2331-toasterbeule945/"
         },
         {
+           "name": "Albert Goodman 77",
+           "rank": "10★ Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2305-stoney/"
+        },
+        {
            "name": "Konasso Kolaber 53",
            "rank": "9★ Erster Polizeihauptkommissar",
            "highlight": false,
@@ -78,13 +85,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/7294-2dec4c7c750929dbf1a0783b5811498d19cf1d41.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
-        },
-        {
-           "name": "Günter Meyer 19",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2344-leitwolf0001/"
         },
         {
            "name": "Michael Melone 33",
@@ -127,6 +127,20 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
+        {
+           "name": "Apple Koksberg 21",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/7295-b8a508a2c636d3c0f861f92f601eb2a3e19f73e3.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
+        },
+        {
+           "name": "Hans Schneider 52",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
         }
     ]
 }
