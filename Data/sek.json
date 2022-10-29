@@ -43,18 +43,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/"                
         },
         {
+            "name": "Kristall 33",
+            "rank": "9✪ Major",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"   
+        },
+        {
             "name": "Mute 99",
             "rank": "8✪ Stabshauptmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2214-ry-an16/"
-        },
-        {
-            "name": "Kristall 33",
-            "rank": "7✪ Hauptmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"   
         },
         {
             "name": "Shadow 63",
@@ -71,11 +71,39 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/" 
         },
         {
+            "name": "Sledge 80",
+            "rank": "6✪ Unterleutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/index.php?user/2299-lie-exe/",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1467-jerry/" 
+        },
+        {
             "name": "Fire 10",
             "rank": "5✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/" 
+        },
+        {
+            "name": "Demon 45",
+            "rank": "5✪ Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c3/6983-c3f5d1de1557659bddd04fed9603d74a68bf7597.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1537-maxi-esser/" 
+        },
+        {
+            "name": "Salzi 44",
+            "rank": "5✪ Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/" 
+        },
+        {
+            "name": "Stoney 77",
+            "rank": "5✪ Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2305-stoney/" 
         }
     ]
 }
