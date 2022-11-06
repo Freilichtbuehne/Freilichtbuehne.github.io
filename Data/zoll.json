@@ -16,8 +16,8 @@
         },
         {
             "name": "Hans Schneider",
-            "rank": "12★ Regierungsrat",
-            "highlight": false,
+            "rank": "13★ Oberregierungsrat",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
         },
@@ -48,6 +48,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2305-stoney/"
+        },
+        {
+            "name": "Core Kampfzwerg",
+            "rank": "7★ Zollinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/7222-ae2f9af73c3ae2d5ed8af949ac363a5b55009463.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/"
+        },
+        {
+            "name": "Berry Stone",
+            "rank": "7★ Zollinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/19/7424-197fde0e4f8cbdf585d68e6777d286debb00a324.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-robinator/"
         }
     ]
 }
