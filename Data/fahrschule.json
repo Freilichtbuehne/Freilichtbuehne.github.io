@@ -57,13 +57,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         },
         {
-            "name": "Ben Koksberg",
-            "rank": "Fahrlehrer",
-            "highlight": false,
-            "picture": "https://i.ibb.co/Sw0C4s7/7478-89824ed59616c98d874d92f2bfcff33fb485b6e5.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2270-benner/"
-        },
-        {
             "name": "Core Kampfzwerk",
             "rank": "Fahrlehrer",
             "highlight": false,
@@ -76,6 +69,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/3d/7231-3d66311cbfb5dea2fba26fbfda173e7a7fa1ab42.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
+        },
+        {
+            "name": "Dietrich Stammtisch",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a5/7304-a536bffae76ab22629d05f2f1276d16eeac6b5cb.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
+        },
+        {
+            "name": "Phelios Stammtisch",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/7229-67367e1d77cfa29207f26b553ac59fa01806818e.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
         }
     ]
 }
