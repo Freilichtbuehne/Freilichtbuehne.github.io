@@ -23,7 +23,7 @@
         },
         {
             "name": "Wolf 911",
-            "rank": "10✪ Oberstleutnant",
+            "rank": "11✪ Oberst",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/47/6833-47fdcc882ae12c898afd980c0940651ef787037c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"  
@@ -85,18 +85,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2305-stoney/" 
         },
         {
+            "name": "Delta 40",
+            "rank": "6✪ Unterleutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2429-mutig1306/" 
+        },
+        {
             "name": "Fire 10",
             "rank": "5✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/" 
-        },
-        {
-            "name": "Delta 40",
-            "rank": "5✪ Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2429-mutig1306/" 
         }
     ]
 }
