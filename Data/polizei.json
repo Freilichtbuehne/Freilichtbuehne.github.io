@@ -80,6 +80,13 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2361-agron/"
         },
         {
+           "name": "Hans Schneider 52",
+           "rank": "9★ Erster Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
+        },
+        {
            "name": "Mika Meyer 90",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
@@ -127,13 +134,6 @@
            "highlight": false,
            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
-        },
-        {
-           "name": "Hans Schneider 52",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
         }
     ]
 }
