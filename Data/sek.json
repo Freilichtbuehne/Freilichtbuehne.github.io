@@ -64,18 +64,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/" 
         },
         {
+            "name": "Delta 40",
+            "rank": "7✪ Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2429-mutig1306/" 
+        },
+        {
             "name": "Sledge 80",
             "rank": "6✪ Unterleutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a3/7296-a38da23cbf8d309cf74e61543c4feaf2a1c43b2e.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2299-lie-exe/" 
-        },
-        {
-            "name": "Demon 45",
-            "rank": "6✪ Unterleutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c3/6983-c3f5d1de1557659bddd04fed9603d74a68bf7597.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1537-maxi-esser/" 
         },
         {
             "name": "Stoney 77",
@@ -85,18 +85,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2305-stoney/" 
         },
         {
-            "name": "Delta 40",
-            "rank": "6✪ Unterleutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2429-mutig1306/" 
-        },
-        {
             "name": "Fire 10",
             "rank": "5✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/" 
+        },
+        {
+            "name": "Pulse 90",
+            "rank": "5✪ Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/7294-2dec4c7c750929dbf1a0783b5811498d19cf1d41.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/" 
+        },
+        {
+            "name": "Bugy 11",
+            "rank": "5✪ Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/7222-ae2f9af73c3ae2d5ed8af949ac363a5b55009463.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/" 
         }
     ]
 }
