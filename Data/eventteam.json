@@ -36,7 +36,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
         },
         {
-            "name": "Julian",
+            "name": "Gangster",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
@@ -55,6 +55,13 @@
             "highlight": false,
             "picture": "https://i.ibb.co/pZ56MBF/9132-f2571ec9196e47e119a9c534e55e0b1ef6850e14.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2397-schmooock/"
+        },
+        {
+            "name": "stegano3",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/aa/7089-aa53bb68ec284cfdad21c75c2357482c70afc9b9.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
         }
     ]
 }
