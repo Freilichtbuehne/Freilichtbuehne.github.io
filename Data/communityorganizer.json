@@ -1,15 +1,8 @@
 {
     "members": [
         {    
-            "name": "Milki",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/81/6892-815ce3fcac75042469917c958e6c9fb9fa4a971a.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1169-milki/"
-        },
-        {    
             "name": "Marlon",
-            "rank": "Stv. Leitung",
+            "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"        
