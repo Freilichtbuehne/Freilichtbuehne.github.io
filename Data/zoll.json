@@ -43,6 +43,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-robinator/"
         },
         {
+            "name": "Ben Salzberg",
+            "rank": "8★ Zolloberinspektor",
+            "highlight": false,
+            "picture": "https://i.ibb.co/GTqkH5m/11758-0679d37ab04e36dca5fae169dde8e643e371f92b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
             "name": "Pascal Hobel",
             "rank": "7★ Zollinspektor",
             "highlight": false,
@@ -76,13 +83,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2441-adam-zaki/"
-        },
-        {
-            "name": "Ben Salzberg",
-            "rank": "7★ Zollinspektor",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/11577-0679d37ab04e36dca5fae169dde8e643e371f92b.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         }
     ]
 }
