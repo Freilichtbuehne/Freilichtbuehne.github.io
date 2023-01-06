@@ -22,13 +22,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
         {
-            "name": "Lino Ranzberger",
-            "rank": "Fahrlehrer",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/9555-31836c48b24b91a20d3dbbc6499ae0a568122a01.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
-        },
-        {
             "name": "Sebastian Feinstaub",
             "rank": "Fahrlehrer",
             "highlight": false,
@@ -36,11 +29,53 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
-            "name": "Marlon Brand",
+            "name": "Florian Feinstaub",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d4/12035-d438b2fcf03eb1d5b0371465a8f956967b4ee942.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-gpx-florian/"
+        },
+        {
+            "name": "Dietrich Hellmann",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2a/7891-2aa46ae71f3c9cfe2aafd1c90fd897025e21e23a.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
+        },
+        {
+            "name": "Benny Benson",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c9/7325-c9da42573ff6f959a6bf1ae629f3822036f13c63.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1273-gpx-leon/"
+        },
+        {
+            "name": "Phelios Stammtisch",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fb/11943-fbade8ce90656a43ab64ce67042c9471376ed182.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
+        },
+        {
+            "name": "Lucas Camo",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/81/6892-815ce3fcac75042469917c958e6c9fb9fa4a971a.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1169-milki/"
+        },
+        {
+            "name": "Norbert Hellmann",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/36/10787-36129cae313ee1880ec76c71e9489e2c011b16ae.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1802-ron/"
+        },
+        {
+            "name": "Lino Ranzberger",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/9555-31836c48b24b91a20d3dbbc6499ae0a568122a01.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
         },
         {
             "name": "Jessy Salzbergwerk",
@@ -50,6 +85,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         },
         {
+            "name": "Marlon Brand",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
+        },
+        {
             "name": "Ronny Heisenberg",
             "rank": "Fahrlehrer",
             "highlight": false,
@@ -57,11 +99,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {
-            "name": "Florian Feinstaub",
+            "name": "Core Kampfzwerg",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d4/12035-d438b2fcf03eb1d5b0371465a8f956967b4ee942.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-gpx-florian/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/7222-ae2f9af73c3ae2d5ed8af949ac363a5b55009463.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/"
+        },
+        {
+            "name": "Cody Lombax",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ba/12452-ba395051dfbc3eb2b3fc3d68e8f3eb4c8c35d1d3.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2261-cody/"
         }
     ]
 }
