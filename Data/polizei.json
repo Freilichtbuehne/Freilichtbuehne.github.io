@@ -59,13 +59,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-noah/"
        },
        {
-           "name": "Jonny Winter 20",
-           "rank": "10★ Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/6600-f99c30653e4b3fc8ae4e3e3c55c7bbd078fc89c6.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2132-jonny/"
-       },
-       {
            "name": "Core Kampfzwerg 10",
            "rank": "10★ Polizeirat",
            "highlight": false,
@@ -73,18 +66,18 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/"
         },
         {
+           "name": "Felix Harrison 15",
+           "rank": "10★ Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/51/6599-51bcb4630cfc73118a1b093fcb7d3520989445e3.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
+        },
+        {
            "name": "Hans Schneider 52",
            "rank": "9★ Erster Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
-        },
-        {
-           "name": "Felix Harrison 15",
-           "rank": "9★ Erster Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/51/6599-51bcb4630cfc73118a1b093fcb7d3520989445e3.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
         },
         {
            "name": "Norbert Hellman 84",
@@ -108,6 +101,13 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
+           "name": "Yasin Ali Gholami 47",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/e9/7290-e9fab949c2c17af969a5d5d6e9e37edc8a563c4c.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2394-yasin/"
+        },
+        {
            "name": "Alex Ingame 06",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
@@ -120,6 +120,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8d/13148-8d216673c3bfd3a52f37fd588ec9160acb400218.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2346-luca-daim/"
+        },
+        {
+           "name": "Szyroi Ace 420",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/53/14572-53344dcc009f7476eed76eae5041f02b61de81f0.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/"
         }
     ]
 }
