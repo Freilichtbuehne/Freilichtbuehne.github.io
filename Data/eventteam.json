@@ -22,18 +22,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {
-            "name": "MARC",
+            "name": "Khabib",
+            "rank": "Gehobenes Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/10881-a074df72266742cfbcfec7a1989d37a740f3222e.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
+        },
+        {
+            "name": "Core Kampfzwerg",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/7222-ae2f9af73c3ae2d5ed8af949ac363a5b55009463.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/"
-        },
-        {
-            "name": "Khabib",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/10881-a074df72266742cfbcfec7a1989d37a740f3222e.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
         },
         {
             "name": "Adam Zaki",
@@ -55,6 +55,13 @@
            "highlight": false,
            "picture": "https://i.ibb.co/j5C9WQ0/13538-8d216673c3bfd3a52f37fd588ec9160acb400218.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2346-luca-daim/"
+        },
+        {
+           "name": "Andrew Tate",
+           "rank": "Mitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6151-84bd18b2ab38ffe02df38dfd3eca7f1a394bab02.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
         }
     ]
 }
