@@ -1,11 +1,11 @@
 {
     "members": [
-        {
-            "name": "John Alzheimer",
+       {
+            "name": "Luke Harrison",
             "rank": "XIII Kreisbrandinspektor",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6326-6070e39aa41506ac985fccbf71c8b16a4361375b.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2067-timeofoneway/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
             "name": "Jessy Salzbergwerk",
@@ -15,25 +15,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         },
         {
-            "name": "Luke Harrison",
-            "rank": "XI Stv. Stadtbrandinspektor",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
-        },
-        {
             "name": "Dirk Matthies",
-            "rank": "VII Hauptlöschmeister",
+            "rank": "XI Oberbrandmeister",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/80/11230-804d4db0d179e39f62694fe8542dc893c960ddc3.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1830-dirk-matthies/"
-        },
-        {
-            "name": "Marlon Brand 10",
-            "rank": "VI Oberlöschmeister",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {
             "name": "Nils Lombax",
