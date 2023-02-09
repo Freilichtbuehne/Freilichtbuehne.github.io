@@ -22,11 +22,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1830-dirk-matthies/"
         },
         {
-            "name": "Nils Lombax",
-            "rank": "VI Oberlöschmeister",
+            "name": "Michael Melone",
+            "rank": "V Löschmeister",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/5767-6856ebdd65d7ac999e470f63a90f370a8cc278fd.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
         },
         {
             "name": "Lino Ranzberger",
@@ -50,13 +50,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/"
         },
         {
-            "name": "Michael Melone",
-            "rank": "IV Hauptfeuerwehrmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
-        },
-        {
             "name": "Mika Meyer",
             "rank": "IV Hauptfeuerwehrmann",
             "highlight": false,
@@ -69,6 +62,13 @@
             "highlight": false,
             "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
+        {
+            "name": "Tristen Harrison",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/6588-d2e63f66d1354d1c231ddbe53ffa899bb109f7df.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         }
     ]
 }
