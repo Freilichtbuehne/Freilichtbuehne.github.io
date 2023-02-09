@@ -36,13 +36,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
        },
        {
-           "name": "Jessy Salzbergwerk",
-           "rank": "5♛ Baller",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
-       },
-       {
            "name": "Szyroi Ace",
            "rank": "5♛ Baller",
            "highlight": false,
@@ -69,6 +62,20 @@
            "highlight": false,
            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
+        {
+           "name": "Thommy Smith",
+           "rank": "Ehrenmitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/47/6833-47fdcc882ae12c898afd980c0940651ef787037c.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
+        },
+        {
+           "name": "Lukas Danger",
+           "rank": "Ehrenmitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/7280-31648e61347062b76b2eb1c357f24fdf6b5b4368.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
         }
     ]
 }
