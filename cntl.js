@@ -4,8 +4,8 @@ const rpids = {
     9: "feu",
     10: "far",
     11: "sek",
-    12: "blood"
-    13: "sani"
+    12: "blood",
+    13: "sani",
     14: "arzt"
 }
 
@@ -85,14 +85,14 @@ function load(page) {
             ClearPageBox();
             setActive(rpids[page]);
             break;
-         case 13
+         case 13:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/sani.json";
             rpSection = true;
             ClearSubBox();
             ClearPageBox();
             setActive(rpids[page]);
             break;
-          case 14
+          case 14:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/arzt.json";
             rpSection = true;
             ClearSubBox();
