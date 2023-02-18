@@ -4,8 +4,8 @@ const rpids = {
     9: "feu",
     10: "far",
     11: "sek",
-    12: "blood"
-    13: "sani"
+    12: "blood",
+    13: "sani",
     14: "arzt"
 }
 
