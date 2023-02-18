@@ -5,10 +5,12 @@ const rpids = {
     10: "far",
     11: "sek",
     12: "blood"
+    13: "sani"
+    14: "arzt"
 }
 
 const maxEntrys = 10;
-const showPageUpEntrys = 5;
+const showPageUpEntrys = 8;
 var curMembers;
 var rpSection;
 
@@ -83,6 +85,20 @@ function load(page) {
             ClearPageBox();
             setActive(rpids[page]);
             break;
+         case 13
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/sani.json";
+            rpSection = true;
+            ClearSubBox();
+            ClearPageBox();
+            setActive(rpids[page]);
+            break;
+          case 14
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/arzt.json";
+            rpSection = true;
+            ClearSubBox();
+            ClearPageBox();
+            setActive(rpids[page]);
+            break;
         default:
             ClearPageBox();
             loadingError("Ladefehler");
@@ -97,7 +113,7 @@ function load(page) {
 }
 
 function setActive(id) {
-    var ids = ["pol", "zoll", "feu", "far", "sek", "blood"];
+    var ids = ["pol", "zoll", "feu", "far", "sek", "blood", "sani", "arzt"];
     for (let i = 0; i < ids.length; i++) {
         document.getElementById(ids[i]).classList.remove("active");
     }
