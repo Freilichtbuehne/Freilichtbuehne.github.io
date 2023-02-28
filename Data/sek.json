@@ -9,10 +9,17 @@
         },
         {
             "name": "Kristall 33",
-            "rank": "13✪ Generalleutnant",
+            "rank": "14✪ Generaloberst",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"   
+        },
+        {
+            "name": "Sky 04",
+            "rank": "13✪ Generalleutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1c/8123-1c8cd824ab5adf976c3c4c6a2fe113c68390a370.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {
             "name": "Falcon 07",
@@ -22,20 +29,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
-            "name": "Sky 04",
-            "rank": "12✪ Brigardegeneral",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1c/8123-1c8cd824ab5adf976c3c4c6a2fe113c68390a370.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
-        {
-            "name": "Wolf 911",
-            "rank": "11✪ Oberst",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/47/6833-47fdcc882ae12c898afd980c0940651ef787037c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"  
-        },
-        {
             "name": "Shadow 63",
             "rank": "9✪ Stabshauptmann",
             "highlight": false,
@@ -43,32 +36,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/" 
         },
         {
-            "name": "Sky 04",
-            "rank": "8✪ Oberleutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1c/8123-1c8cd824ab5adf976c3c4c6a2fe113c68390a370.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
-        {
-            "name": "Delta 40",
-            "rank": "8✪ Oberleutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2429-mutig1306/" 
-        },
-        {
             "name": "Demon 45",
-            "rank": "8✪ Oberleutnant",
+            "rank": "9✪ Stabshauptmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c3/6983-c3f5d1de1557659bddd04fed9603d74a68bf7597.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1537-maxi-esser/" 
         },
         {
             "name": "Salzi 44",
-            "rank": "7✪ Leutnant",
+            "rank": "9✪ Stabshauptmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/" 
+        },
+        {
+            "name": "Wolf 911",
+            "rank": "8✪ Oberleutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/47/6833-47fdcc882ae12c898afd980c0940651ef787037c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"  
         },
         {
             "name": "Bugy 11",
@@ -78,18 +64,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/" 
         },
         {
-            "name": "Fire 10",
-            "rank": "5✪ Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/" 
-        },
-        {
             "name": "Pulse 90",
-            "rank": "5✪ Leutnant",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://i.ibb.co/PQ64p8b/17590-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/" 
+        },
+        {
+            "name": "Vodka 420",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/53/17962-53344dcc009f7476eed76eae5041f02b61de81f0.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/" 
         }
     ]
 }
