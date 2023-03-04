@@ -22,6 +22,13 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple-ace/"
        },
        {
+           "name": "Khabib Sokolow",
+           "rank": "9♛ Hood Instruktor",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/10881-a074df72266742cfbcfec7a1989d37a740f3222e.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
+       },
+       {
            "name": "Maxi Reznov",
            "rank": "8♛ Instruktor",
            "highlight": false,
@@ -29,17 +36,24 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1537-maxi-esser/"
        },
        {
-           "name": "Khabib Sokolow",
-           "rank": "8♛ Instruktor",
+           "name": "Olaf Merkel",
+           "rank": "7♛ Watcher",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/10881-a074df72266742cfbcfec7a1989d37a740f3222e.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2477-olaf-merkel/"
+       },
+       {
+           "name": "Gustavo Salz",
+           "rank": "6♛ Executer",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2480-noname-ger/#wall"
        },
        {
            "name": "Szyroi Ace",
-           "rank": "5♛ Baller",
+           "rank": "6♛ Executer",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/53/17962-53344dcc009f7476eed76eae5041f02b61de81f0.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/41/18097-41ccec7352448d9bd4c3b27e98d49b31e66a7dc3.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/"
         },
         {
@@ -53,7 +67,7 @@
            "name": "Tristen Harrison",
            "rank": "5♛ Baller",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/6588-d2e63f66d1354d1c231ddbe53ffa899bb109f7df.gif",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/18098-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
         {
@@ -62,6 +76,13 @@
            "highlight": false,
            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
+        {
+           "name": "Robert Voight",
+           "rank": "5♛ Baller",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de"
         },
         {
            "name": "Thommy Smith",
