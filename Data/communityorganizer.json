@@ -50,18 +50,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2168-xman/"
         },
         {    
-            "name": "Jerry Ranzberger",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fb/12690-fb24a74985d261a813419540e619aa57c7a5a26d.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-robinator/"
-        },
-        {    
             "name": "Yasin Gholami",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/55/15606-559f3756f4c900256fc2c3a2d1af57cf2b6b238c.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2394-yasin/"
+        },
+        {    
+            "name": "Nils Valdez",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/17988-5ca6dd88cae877a1993773faddce7e1fe5e2c64c.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
+        } 
+        {    
+            "name": "Adrian Monk",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/15390-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         } 
     ]
 }
