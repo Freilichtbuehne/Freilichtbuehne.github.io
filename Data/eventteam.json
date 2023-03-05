@@ -1,18 +1,18 @@
 {
     "members": [
         {
-            "name": "Opklinik",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
-        },
-        {
             "name": "Lino",
-            "rank": "Stv. Leitung",
+            "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/9555-31836c48b24b91a20d3dbbc6499ae0a568122a01.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
+        },
+        {
+            "name": "Adrian",
+            "rank": "Stv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/15390-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         },
         {
             "name": "Marlon",
@@ -36,18 +36,11 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
         },
         {
-            "name": "Florian",
+            "name": "Opklinik",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://i.ibb.co/zF3p77p/12593-828752d29ede1e753e8a1b0db54a5cd001d3b6eb.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-gpx-florian/&user%2F2046-%5BGPX%5D="
+            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
-        {
-           "name": "Adrian Monk",
-           "rank": "Mitglied",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/15390-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
-        }
     ]
 }
