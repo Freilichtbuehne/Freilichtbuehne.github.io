@@ -1,24 +1,24 @@
 {
     "members": [
         {
-            "name": "Opklinik",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
-        },
-        {
             "name": "Lino",
-            "rank": "Stv. Leitung",
+            "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/9555-31836c48b24b91a20d3dbbc6499ae0a568122a01.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
         },
         {
+            "name": "Adrian",
+            "rank": "Stv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/15390-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
+        },
+        {
             "name": "Tristano",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/6588-d2e63f66d1354d1c231ddbe53ffa899bb109f7df.gif",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/18098-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
         {
@@ -48,6 +48,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6151-84bd18b2ab38ffe02df38dfd3eca7f1a394bab02.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
-        }
+        },
+        {
+            "name": "Opklinik",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
     ]
 }
