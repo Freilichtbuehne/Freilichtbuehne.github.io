@@ -29,20 +29,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-robinator/"
         },
         {
-            "name": "Ben Salzberg",
-            "rank": "11★ Zolloberamtsrat",
-            "highlight": false,
-            "picture": "https://i.ibb.co/GTqkH5m/11758-0679d37ab04e36dca5fae169dde8e643e371f92b.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
-        },
-        {
-            "name": "Tristen Harrison",
-            "rank": "10★ Zollamtsrat",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/18098-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
-        },
-        {
             "name": "Pascal Hobel",
             "rank": "7★ Zollinspektor",
             "highlight": false,
@@ -76,6 +62,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2441-adam-zaki/"
+        },
+        {    
+            "name": "Paul Hilfinger",
+            "rank": "7★ Zollinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2168-xman/"
         }
     ]
 }
