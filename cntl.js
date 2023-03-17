@@ -1,6 +1,5 @@
 const rpids = {
     7: "pol",
-    8: "zoll",
     9: "feu",
     10: "far",
     11: "sek",
@@ -10,7 +9,7 @@ const rpids = {
 }
 
 const maxEntrys = 10;
-const showPageUpEntrys = 8;
+const showPageUpEntrys = 7;
 var curMembers;
 var rpSection;
 
@@ -45,13 +44,6 @@ function load(page) {
             break;
         case 7:
             url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/polizei.json";
-            rpSection = true;
-            ClearSubBox();
-            ClearPageBox();
-            setActive(rpids[page]);
-            break;
-        case 8:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/zoll.json";
             rpSection = true;
             ClearSubBox();
             ClearPageBox();
@@ -113,7 +105,7 @@ function load(page) {
 }
 
 function setActive(id) {
-    var ids = ["pol", "zoll", "feu", "far", "sek", "blood", "sani", "arzt"];
+    var ids = ["pol", "feu", "far", "sek", "blood", "sani", "arzt"];
     for (let i = 0; i < ids.length; i++) {
         document.getElementById(ids[i]).classList.remove("active");
     }
