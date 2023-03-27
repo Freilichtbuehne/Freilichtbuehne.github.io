@@ -15,13 +15,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         },
         {
-            "name": "Marlon",
-            "rank": "Manager",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
-        },
-        {
             "name": "Khabib",
             "rank": "Mitglied",
             "highlight": false,
@@ -36,18 +29,60 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
         },
         {
-            "name": "Opklinik",
+            "name": "Leo Salzbergwerk",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/21006-23920479375db694229698e58c9a73710879f242.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
-            "name": "Sebastian Salzburg",
+            "name": "Dimitri Kosvlovski",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/91/5926-9147fcfbf894583bb3dcce4b7b65829f5d46371d.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1126-nockray5yt/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/20973-73073e45f515331220049227e5c0b83785a27ec1.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2286-green-muffinn/"
+        },
+        {
+            "name": "Ben Benberger",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/91/21002-91cac71d9af03c58e6ada4cd7fe2be8a35fa8b06.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
+            "name": "Jerry Ranzberger",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fb/12690-fb24a74985d261a813419540e619aa57c7a5a26d.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-robinator/"
+        },
+        {
+            "name": "Vladimir Glied",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/91/17976-91335f99281d0cfec09fa9dd61015b507c4c1c77.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2398-vladimir-glied/"
+        },
+        {
+            "name": "Salzi",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
+        },
+        {
+            "name": "Fake Luke",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+        },
+        {
+            "name": "Nils Valdez",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/17988-5ca6dd88cae877a1993773faddce7e1fe5e2c64c.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
         }
     ]
 }
