@@ -17,7 +17,7 @@
         {
             "name": "Sky 04",
             "rank": "13✪ Generalleutnant",
-            "highlight": false,
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1c/8123-1c8cd824ab5adf976c3c4c6a2fe113c68390a370.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
@@ -57,13 +57,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"  
         },
         {
-            "name": "Bugy 11",
-            "rank": "7✪ Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/7222-ae2f9af73c3ae2d5ed8af949ac363a5b55009463.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/" 
-        },
-        {
             "name": "Pulse 90",
             "rank": "7✪ Leutnant",
             "highlight": false,
@@ -71,11 +64,39 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/" 
         },
         {
+            "name": "Blue 42",
+            "rank": "6✪ Unterleutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/21737-23920479375db694229698e58c9a73710879f242.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/" 
+        },
+        {
+            "name": "Cold 91",
+            "rank": "6✪ Unterleutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/8591-529730b6edfea6faeae3ff062d64fe0ab9aae108.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/873-fabian/" 
+        },
+        {
             "name": "Vodka 420",
             "rank": "5✪ Unterstabsoffizier",
             "highlight": false,
             "picture": "https://i.ibb.co/YR3zk57/18097-41ccec7352448d9bd4c3b27e98d49b31e66a7dc3.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/" 
+        },
+        {
+            "name": "Hangman 725",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://i.ibb.co/YR3zk57/18097-41ccec7352448d9bd4c3b27e98d49b31e66a7dc3.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/" 
+        },
+        {
+            "name": "Frost 54",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/91/21733-91cac71d9af03c58e6ada4cd7fe2be8a35fa8b06.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/" 
         }
     ]
 }
