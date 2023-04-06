@@ -22,25 +22,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
         },
         {    
-            "name": "MARC",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/7222-ae2f9af73c3ae2d5ed8af949ac363a5b55009463.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/"
-        },
-        {    
             "name": "[GPX]Florian",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://i.ibb.co/zF3p77p/12593-828752d29ede1e753e8a1b0db54a5cd001d3b6eb.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-gpx-florian/"
-        },
-        {    
-            "name": "Paul Hilfinger",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2168-xman/"
         },
         {    
             "name": "Yasin Gholami",
@@ -50,18 +36,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2394-yasin/"
         },
         {    
-            "name": "Nils Valdez",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/17988-5ca6dd88cae877a1993773faddce7e1fe5e2c64c.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
-        },
-        {    
             "name": "Adrian Monk",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/15390-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
-        } 
+        },
+        {
+            "name": "Olli Mani",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/22085-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
+        }
     ]
 }
