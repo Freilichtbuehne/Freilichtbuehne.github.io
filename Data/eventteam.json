@@ -1,38 +1,45 @@
 {
     "members": [
         {
-            "name": "Lino",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/9555-31836c48b24b91a20d3dbbc6499ae0a568122a01.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
-        },
-        {
             "name": "Adrian",
-            "rank": "Stv. Leitung",
+            "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/15390-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         },
         {
+            "name": "Sebastian",
+            "rank": "Stv. Leitung",
+            "highlight": true,
+            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
+        {
+            "name": "Lino",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/9555-31836c48b24b91a20d3dbbc6499ae0a568122a01.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
+        },
+        {
             "name": "Leo Salzbergwerk",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/21124-23920479375db694229698e58c9a73710879f242.jpg",
+            "picture": "https://i.ibb.co/bds8ZQ8/22095-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
             "name": "Dimitri Kosvlovski",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/21091-73073e45f515331220049227e5c0b83785a27ec1.jpg",
+            "picture": "https://i.ibb.co/HYBzyrV/22062-73073e45f515331220049227e5c0b83785a27ec1.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2286-green-muffinn/"
         },
         {
             "name": "Ben Benberger",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/91/21120-91cac71d9af03c58e6ada4cd7fe2be8a35fa8b06.jpg",
+            "picture": "https://i.ibb.co/Gc3sK5r/22091-91cac71d9af03c58e6ada4cd7fe2be8a35fa8b06.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
@@ -64,11 +71,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
-            "name": "Nils Valdez",
+            "name": "Rick Rich",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/17988-5ca6dd88cae877a1993773faddce7e1fe5e2c64c.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
+        },
+        {
+            "name": "Olli Mani",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/22085-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
         }
     ]
 }
