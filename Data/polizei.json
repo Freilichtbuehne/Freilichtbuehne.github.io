@@ -51,23 +51,9 @@
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/8203-29b7f985c31fc7a982c555fca4a640bb04dc191c.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2305-stoney/"
        },
-       {
-           "name": "Noah Land 23",
-           "rank": "11★ Polizeioberrat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/7315-f990b01c2f68956d30d8a0f3ff622dad7a358c45.jpeg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-noah/"
-       },
-       {
-           "name": "Core Kampfzwerg 10",
-           "rank": "10★ Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/7222-ae2f9af73c3ae2d5ed8af949ac363a5b55009463.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/"
-        },
         {
            "name": "Felix Harrison 15",
-           "rank": "10★ Polizeirat",
+           "rank": "11★ Polizeioberrat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/51/6599-51bcb4630cfc73118a1b093fcb7d3520989445e3.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
@@ -80,11 +66,11 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
         },
         {
-           "name": "Norbert Hellman 84",
-           "rank": "9★ Erster Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/36/10787-36129cae313ee1880ec76c71e9489e2c011b16ae.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1802-ron/"
+            "name": "Leo Salzbergwerk",
+            "rank": "9★ Erster Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/21124-23920479375db694229698e58c9a73710879f242.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
            "name": "Michael Melone 33",
@@ -108,18 +94,32 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2394-yasin/"
         },
         {
-           "name": "Luca Daim 85",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://i.ibb.co/j5C9WQ0/13538-8d216673c3bfd3a52f37fd588ec9160acb400218.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2346-luca-daim/"
-        },
-        {
            "name": "Szyroi Ace 420",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://i.ibb.co/YR3zk57/18097-41ccec7352448d9bd4c3b27e98d49b31e66a7dc3.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/"
+        },
+        {
+           "name": "Rick Rich 32",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
+        },
+        {
+           "name": "Wowa Dimitrij 7",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/4046-2b61474409a10edb51ae020d09bfc865e5f2e5be.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/752-wowa-mason/"
+        },
+        {
+            "name": "Luke Harrison",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         }
     ]
 }
