@@ -1,18 +1,25 @@
 {
     "members": [
         {
-            "name": "Lino",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/9555-31836c48b24b91a20d3dbbc6499ae0a568122a01.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
-        },
-        {
             "name": "Adrian",
-            "rank": "Stv. Leitung",
+            "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/15390-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
+        },
+        {
+            "name": "Sebastian",
+            "rank": "Stv. Leitung",
+            "highlight": true,
+            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
+        {
+            "name": "Lino",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/9555-31836c48b24b91a20d3dbbc6499ae0a568122a01.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
         },
         {
             "name": "Tristano",
@@ -29,11 +36,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {
-            "name": "MARC",
+            "name": "Leo Salzbergwerk",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/7222-ae2f9af73c3ae2d5ed8af949ac363a5b55009463.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/21124-23920479375db694229698e58c9a73710879f242.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
            "name": "Andrew Tate",
@@ -43,11 +50,18 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
         },
         {
-            "name": "Opklinik",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
-        }
+           "name": "Wowa Dimitrij",
+           "rank": "Mitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/4046-2b61474409a10edb51ae020d09bfc865e5f2e5be.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/752-wowa-mason/"
+        },
+        {
+           "name": "Florian Feinstaub",
+           "rank": "Mitglied",
+           "highlight": false,
+           "picture": "https://i.ibb.co/zF3p77p/12593-828752d29ede1e753e8a1b0db54a5cd001d3b6eb.gif",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/"
+       }
     ]
 }
