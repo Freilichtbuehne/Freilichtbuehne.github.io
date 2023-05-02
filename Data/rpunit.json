@@ -4,7 +4,7 @@
             "name": "Adrian",
             "rank": "Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/15390-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/22719-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         },
         {
@@ -13,13 +13,6 @@
             "highlight": true,
             "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
-        },
-        {
-            "name": "Lino",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/9555-31836c48b24b91a20d3dbbc6499ae0a568122a01.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
         },
         {
             "name": "Tristano",
@@ -57,11 +50,11 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/752-wowa-mason/"
         },
         {
-           "name": "Florian Feinstaub",
+           "name": "Nils Valdez",
            "rank": "Mitglied",
            "highlight": false,
-           "picture": "https://i.ibb.co/zF3p77p/12593-828752d29ede1e753e8a1b0db54a5cd001d3b6eb.gif",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-flo-gpx/"
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/17988-5ca6dd88cae877a1993773faddce7e1fe5e2c64c.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
        }
     ]
 }
