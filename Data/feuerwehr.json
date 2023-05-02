@@ -2,24 +2,38 @@
     "members": [
        {
             "name": "Luke Harrison",
-            "rank": "XIII Kreisbrandinspektor",
+            "rank": "XIV Kreisbrandinspektor",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
             "name": "Jessy Salzbergwerk",
-            "rank": "XII Standbrandinspektor",
+            "rank": "XIII Stellv. Kreisbrandinspektor",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         },
         {
             "name": "Dirk Matthies",
-            "rank": "XI Oberbrandmeister",
+            "rank": "XI Stellv. Stadtbrandinspektor",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/80/11230-804d4db0d179e39f62694fe8542dc893c960ddc3.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1830-dirk-matthies/"
+        },
+        {
+            "name": "Leo Salzbergwerk",
+            "rank": "XI Stellv. Stadtbrandinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/24912-23920479375db694229698e58c9a73710879f242.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
+        },
+        {
+            "name": "Thommy Smith",
+            "rank": "VIII Brandmeister",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/47/6833-47fdcc882ae12c898afd980c0940651ef787037c.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {
             "name": "Michael Melone",
@@ -29,25 +43,74 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
         },
         {
-            "name": "Core Kampfzwerg",
-            "rank": "IV Hauptfeuerwehrmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/7222-ae2f9af73c3ae2d5ed8af949ac363a5b55009463.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2258-marc/"
-        },
-        {
             "name": "Mika Meyer",
-            "rank": "IV Hauptfeuerwehrmann",
+            "rank": "VI Oberlöschmeister",
             "highlight": false,
             "picture": "https://i.ibb.co/PQ64p8b/17590-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
         },
         {
+            "name": "Samuel Saulus",
+            "rank": "VI Oberlöschmeister",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/12594-9c6c2fb22c3ecf245560f576634607cbc882d9a3.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2493-balbonautika/"
+        },
+        {
             "name": "Tristen Harrison",
-            "rank": "IV Hauptfeuerwehrmann",
+            "rank": "V Löschmeister",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/18098-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
+        },
+        {
+            "name": "Jack Salzbergwerk",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c1/7320-c1ce027dfaa9aa88b4b7c9ede4dbe2a386be3683.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2415-kalterkalle-ger/#wall"
+        },
+        {
+            "name": "Andreas Saulus",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
+        },
+        {
+            "name": "Markus Saulus",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
+        },
+        {
+            "name": "Rick Rich",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/25006-35c1ac542ea9025b10d246d7be829056ef973bfc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
+        },
+        {
+            "name": "Luca Daim",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8d/25016-8d216673c3bfd3a52f37fd588ec9160acb400218.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2346-luca-daim/"
+        },
+        {
+            "name": "Alexander Gerst",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
+        },
+        {
+            "name": "Sebastian Salzburg",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/22239-23fce6a01538d08e8e6f3f8f404e7e51c104c961.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1126-nockray5yt/"
         }
     ]
 }
