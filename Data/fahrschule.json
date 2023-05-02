@@ -1,7 +1,7 @@
 {
     "members": [
         {
-            "name": "Criss Kross",
+            "name": "Chriss Kross",
             "rank": "Geschäftsführung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
@@ -34,6 +34,13 @@
             "highlight": false,
             "picture": "https://i.ibb.co/zF3p77p/12593-828752d29ede1e753e8a1b0db54a5cd001d3b6eb.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-gpx-florian/"
+        },
+        {
+            "name": "Marian Mara",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/6110-69bb918fcd3d0075cd7a541dbf0a3dce22832f34.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2002-impulsives-pony/"
         },
         {
             "name": "Dietrich Hellmann",
@@ -71,11 +78,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1802-ron/"
         },
         {
-            "name": "Lino Ranzberger",
+            "name": "Bernhardt Kruse",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/9555-31836c48b24b91a20d3dbbc6499ae0a568122a01.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b2/24964-b25231942326d2c7f065efcb9ecf9821444b8c2a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },
         {
             "name": "Jessy Salzbergwerk",
@@ -125,6 +132,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/03/17978-0323d72a6353e98cb4c20178e3a1add763f7e263.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
+        },
+         {
+            "name": "Andrew Tate",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6151-84bd18b2ab38ffe02df38dfd3eca7f1a394bab02.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
+        },
+         {
+            "name": "Luke Harrison",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         }
     ]
 }
