@@ -2,28 +2,28 @@
     "members": [
           {
             "name": "Obito Tanaka 27",
-            "rank": "13+ Ärztliche Leitung",
+            "rank": "14+ Ärztliche Leitung",
             "highlight": true,
             "picture": "https://i.ibb.co/VLFQRC1/16944-7305c43a839986d25db7a6154976e53bc9d614ab.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
         },
         {
             "name": "Kaguya Tanaka 95",
-            "rank": "12+ OrgL MZ",
+            "rank": "13+ Stvl. Ärtzliche Leitung",
             "highlight": true,
             "picture": "https://i.ibb.co/Lz3D0xY/16945-bc0234fd134ecd5beeba09f65218bf0565e9cd5d.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2368-hatake/"
         },
         {
             "name": "Marlon Brand 10",
-            "rank": "11+ Chefarzt",
+            "rank": "12+ OrgL MZ",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {
             "name": "Kylian Tanaka 95",
-            "rank": "11+ Chefarzt",
+            "rank": "12+ OrgL MZ",
             "highlight": true,
             "picture": "https://i.ibb.co/gMWLbwH/16946-60bb82db28e57a001b09a94d68aeb6efaba1fbd8.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2369-kaonashi03/"
@@ -34,20 +34,6 @@
             "highlight": false,
             "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
-        },
-        {
-            "name": "Lino Ranzberger 16",
-            "rank": "10+ Leitender Oberarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/31/9555-31836c48b24b91a20d3dbbc6499ae0a568122a01.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2070-lino/"
-        },
-        {
-            "name": "Sebastian Salzburg",
-            "rank": "7+ Arzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/91/5926-9147fcfbf894583bb3dcce4b7b65829f5d46371d.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1126-nockray5yt/"
         }
     ]
 }
