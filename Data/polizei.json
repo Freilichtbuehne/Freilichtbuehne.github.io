@@ -27,14 +27,14 @@
            "name": "Tristen Harrison 11",
            "rank": "12★ Polizeidirektor",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/18098-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/26258-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
        },
        {
            "name": "Apple Danger 21",
            "rank": "12★ Polizeidirektor",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/03/17978-0323d72a6353e98cb4c20178e3a1add763f7e263.webp",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/c2/25991-c2721594bb39fe301eff27f79e8a0165b5d1d647.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
        },
        {
@@ -52,10 +52,10 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
         },
         {
-            "name": "Leo Salzbergwerk 42",
+            "name": "Leo Obertoast 42",
             "rank": "10★ Polizeiratt",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/25300-23920479375db694229698e58c9a73710879f242.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/26492-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
@@ -66,7 +66,7 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
         },
         {
-           "name": "Rick Rich 32",
+           "name": "Rick Rich von Tete IV 32",
            "rank": "9★ Erster Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
@@ -94,13 +94,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
-           "name": "Joey Aisaka 22",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/c3/25223-c348d4230c8beb482a83cbef91f3992b74bf3387.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1827-oblivion-void/"
-        },
-        {
            "name": "Olaf Merkel 80",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
@@ -108,11 +101,18 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2477-olaf-merkel/"
         },
         {
-           "name": " Sir Leon Nice 66",
+           "name": "Sir Leon Nice 66",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/24061-b845d10cbb515055baa97ec8e0026268fa0d5b0f.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
+        },
+        {
+           "name": "Heinrich Burns 195",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de"
         }
     ]
 }
