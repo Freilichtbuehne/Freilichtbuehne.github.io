@@ -65,9 +65,9 @@
         },
         {
             "name": "Blue 42",
-            "rank": "6✪ Unterleutnant",
+            "rank": "7✪ Unterleutnant",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/25427-23920479375db694229698e58c9a73710879f242.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/26492-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/" 
         },
         {
@@ -95,7 +95,7 @@
             "name": "Frost 54",
             "rank": "5✪ Unterstabsoffizier",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/91/25423-91cac71d9af03c58e6ada4cd7fe2be8a35fa8b06.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/eb/26488-eb1ee03336b59e4768da43e0532e7708da301766.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/" 
         },
         {
@@ -104,6 +104,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f8/18647-f8e114de4f71d43e82b0f6ffd2d7463f9e60e189.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2265-some-1/" 
+        },
+        {
+            "name": "Thunder 80",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2477-olaf-merkel/" 
         }
     ]
 }
