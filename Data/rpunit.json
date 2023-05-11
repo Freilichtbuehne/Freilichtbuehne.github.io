@@ -15,32 +15,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
+            "name": "Leo Salzbergwerk",
+            "rank": "Management",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/26492-23920479375db694229698e58c9a73710879f242.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
+        },
+        {
             "name": "Tristano",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/18098-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/26258-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
         {
-            "name": "Marlon",
+            "name": "Marlon Brand",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
-        },
-        {
-            "name": "Leo Salzbergwerk",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/21124-23920479375db694229698e58c9a73710879f242.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
-        },
-        {
-           "name": "Andrew Tate",
-           "rank": "Mitglied",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6151-84bd18b2ab38ffe02df38dfd3eca7f1a394bab02.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
         },
         {
            "name": "Wowa Dimitrij",
@@ -50,11 +43,18 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/752-wowa-mason/"
         },
         {
-           "name": "Nils Valdez",
+           "name": "Michael Melone",
            "rank": "Mitglied",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/17988-5ca6dd88cae877a1993773faddce7e1fe5e2c64c.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#wall"
+        },
+        {
+           "name": "Ronny Heisenberg",
+           "rank": "Mitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/1c/8123-1c8cd824ab5adf976c3c4c6a2fe113c68390a370.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
        }
     ]
 }
