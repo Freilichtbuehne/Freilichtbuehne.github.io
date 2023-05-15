@@ -22,32 +22,39 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
         },
         {    
+            "name": "Yasin Gholami",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2394-yasin/"
+        },
+        {    
             "name": "Adrian Monk",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/15390-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/22719-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         },
         {
             "name": "Olli Mani",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/22085-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/26480-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
         },
         {    
             "name": "Rick Walsteen",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9b/24928-9be73ee0f111ad958acb2911322d67ddb51f0ce6.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9b/26508-9be73ee0f111ad958acb2911322d67ddb51f0ce6.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2568-texxxxra-rick-z-walsteen/"
         },
         {    
-            "name": "Rick Z Saulus",
+            "name": "Rick Rich Saulus",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/26457-35c1ac542ea9025b10d246d7be829056ef973bfc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
         }
     ]
 }
