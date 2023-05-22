@@ -29,13 +29,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
-            "name": "Shadow 63",
-            "rank": "9✪ Stabshauptmann",
-            "highlight": false,
-            "picture": "https://i.ibb.co/Kb6Scvn/7441-b25231942326d2c7f065efcb9ecf9821444b8c2a.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/" 
-        },
-        {
             "name": "Demon 45",
             "rank": "9✪ Stabshauptmann",
             "highlight": false,
@@ -67,7 +60,7 @@
             "name": "Blue 42",
             "rank": "7✪ Unterleutnant",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/26492-23920479375db694229698e58c9a73710879f242.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/27994-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/" 
         },
         {
@@ -95,14 +88,14 @@
             "name": "Frost 54",
             "rank": "5✪ Unterstabsoffizier",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/eb/26488-eb1ee03336b59e4768da43e0532e7708da301766.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/27990-2b598f1ba3e930dcb4b47675efda2fc16be63e05.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/" 
         },
         {
             "name": "Mulde 88",
             "rank": "5✪ Unterstabsoffizier",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f8/18647-f8e114de4f71d43e82b0f6ffd2d7463f9e60e189.webp",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/01/27756-0128fa66fc385f20e2f900002861d7e0cd450f7a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2265-some-1/" 
         },
         {
@@ -111,6 +104,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2477-olaf-merkel/" 
+        },
+         {
+            "name": "Echo 23",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/28010-d15683ca912ce109377a8dc75474e149547320a4.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2568-texxxxra-rick-z-walsteen/" 
         }
     ]
 }
