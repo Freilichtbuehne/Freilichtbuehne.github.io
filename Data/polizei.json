@@ -55,7 +55,7 @@
             "name": "Leo Obertoast 42",
             "rank": "10★ Polizeiratt",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/26492-23920479375db694229698e58c9a73710879f242.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/27994-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
@@ -73,6 +73,13 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
         },
         {
+            "name": "Luke Harrison 77",
+            "rank": "9★ Erster Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+        },
+        {
            "name": "Michael Melone 33",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
@@ -85,13 +92,6 @@
            "highlight": false,
            "picture": "https://i.ibb.co/YR3zk57/18097-41ccec7352448d9bd4c3b27e98d49b31e66a7dc3.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/"
-        },
-        {
-            "name": "Luke Harrison 77",
-            "rank": "8★ Polizeihauptkommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
            "name": "Olaf Merkel 80",
@@ -109,6 +109,27 @@
         },
         {
            "name": "Heinrich Burns 195",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de"
+        },
+        {
+           "name": "Harry Potter Saulus 9",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/ba/28026-ba3132ad83326d85abe580c5968e4f6e650abe31.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2627-harry-potter-saulus/"
+        },
+        {
+           "name": "Adam Zaki 47",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2441-adam-zaki/"
+        },
+        {
+           "name": "Steven Camo 800",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
