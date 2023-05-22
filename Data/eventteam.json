@@ -8,11 +8,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         },
         {
-            "name": "Sebastian",
-            "rank": "Stv. Leitung",
+            "name": "Fake Luke",
+            "rank": "Stellv. Leitung",
             "highlight": true,
-            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
             "name": "Leo Salzbergwerk",
@@ -20,13 +20,6 @@
             "highlight": false,
             "picture": "https://i.ibb.co/bds8ZQ8/22095-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
-        },
-        {
-            "name": "Fake Luke",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
             "name": "Marlon Brand",
@@ -40,21 +33,35 @@
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/24878-35c1ac542ea9025b10d246d7be829056ef973bfc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/#wall"
-        },
-        {
-            "name": "Rick Walsteen",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9b/26508-9be73ee0f111ad958acb2911322d67ddb51f0ce6.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2568-texxxxra-rick-z-walsteen/"
+            "profile": "https://www.goldphoenix.de/wcf/images/avatars/35/27959-35c1ac542ea9025b10d246d7be829056ef973bfc.jpg"
         },
         {
             "name": "Olli Mani",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/22085-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/27982-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
+        },
+        {
+            "name": "Siegbert Schnößel",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
+        },
+        {
+            "name": "Hanz Voight",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
+        },
+        {
+            "name": "Sebastian Feinstaub",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         }
     ]
 }
