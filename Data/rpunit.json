@@ -8,17 +8,10 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         },
         {
-            "name": "Sebastian",
-            "rank": "Stv. Leitung",
-            "highlight": true,
-            "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
-        },
-        {
             "name": "Leo Salzbergwerk",
-            "rank": "Management",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/26492-23920479375db694229698e58c9a73710879f242.jpg",
+            "rank": "Stellv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/27994-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
@@ -36,13 +29,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {
-           "name": "Wowa Dimitrij",
-           "rank": "Mitglied",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/4046-2b61474409a10edb51ae020d09bfc865e5f2e5be.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/752-wowa-mason/"
-        },
-        {
            "name": "Michael Melone",
            "rank": "Mitglied",
            "highlight": false,
@@ -55,6 +41,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1c/8123-1c8cd824ab5adf976c3c4c6a2fe113c68390a370.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
+       },
+       {
+           "name": "Sir Leon Nice",
+           "rank": "Mitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/24061-b845d10cbb515055baa97ec8e0026268fa0d5b0f.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
        }
     ]
 }
