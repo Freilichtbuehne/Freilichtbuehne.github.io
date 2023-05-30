@@ -15,13 +15,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
         },
         {    
-            "name": "Santos",
-            "rank": "Manager",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/7248-5ddf1a14be6a01af55a682ea178727ea320839d1.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
-        },
-        {    
             "name": "Yasin Gholami",
             "rank": "Mitglied",
             "highlight": false,
@@ -39,22 +32,50 @@
             "name": "Olli Mani",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/27982-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/29113-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
         },
         {    
             "name": "Rick Walsteen",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d1/28010-d15683ca912ce109377a8dc75474e149547320a4.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/41/28884-41d6955466c6af33ab0a7167a9ffcd2f0d2cc5c7.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2568-texxxxra-rick-z-walsteen/"
         },
         {    
             "name": "Rick Rich Saulus",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/27959-35c1ac542ea9025b10d246d7be829056ef973bfc.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/29090-35c1ac542ea9025b10d246d7be829056ef973bfc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
+        },
+        {    
+            "name": "Tiffe Adermann",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b7/29097-b78664d56668eabb76865c49b6bd55720e458416.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2331-toasterbeule945/"
+        },
+        {    
+            "name": "Abu Aderman",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8d/29101-8d46e41e9fb5c0c686624e46bb61d2281bbebbd4.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2350-oktay/"
+        },
+        {    
+            "name": "Rejesh Krüger",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2385-ichweisja/"
+        },
+        {    
+            "name": "Ben Koslovski",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/71/29121-712e5249f07d1c93b79eadc59b8b4803d74a3302.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         }
     ]
 }
