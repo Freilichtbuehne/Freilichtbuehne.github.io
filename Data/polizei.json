@@ -55,12 +55,12 @@
             "name": "Leo Obertoast 42",
             "rank": "10★ Polizeiratt",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/27994-23920479375db694229698e58c9a73710879f242.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/29125-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
            "name": "Hans Schneider 52",
-           "rank": "9★ Erster Polizeihauptkommissar",
+           "rank": "10★ Polizeirat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
@@ -118,7 +118,7 @@
            "name": "Harry Potter Saulus 9",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/ba/28026-ba3132ad83326d85abe580c5968e4f6e650abe31.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/ba/29156-ba3132ad83326d85abe580c5968e4f6e650abe31.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2627-harry-potter-saulus/"
         },
         {
@@ -134,6 +134,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de"
+        },
+        {
+           "name": "Julian Snow 83",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/4a/29092-4a238e7da09145a482301ec67932e45b0d208d94.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2301-julian-snow/"
         }
     ]
 }
