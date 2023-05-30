@@ -2,108 +2,101 @@
     "members": [
        {
            "name": "Cracky Koksberg",
-           "rank": "13♛ Real-OG",
+           "rank": "15☠ Patron",
            "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/10969-3ca2cb4fa6ac197c2c08efbf8e6c7f78176eca95.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2240-peppschnueffler/"
        },
        {
            "name": "Albert Reznov",
-           "rank": "12♛ OG",
+           "rank": "14☠ Don",
            "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/8203-29b7f985c31fc7a982c555fca4a640bb04dc191c.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2305-stoney/"
        },
        {
            "name": "Apple Danger",
-           "rank": "11♛ Hood-Boss",
+           "rank": "13☠ Mano Derecha",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c2/25991-c2721594bb39fe301eff27f79e8a0165b5d1d647.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple-ace/"
        },
        {
            "name": "Khabib Sokolow",
-           "rank": "10♛ Vize-Hood Boss",
+           "rank": "12☠ El Asesor",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/10881-a074df72266742cfbcfec7a1989d37a740f3222e.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
        },
        {
            "name": "Maxi Reznov",
-           "rank": "8♛ Instruktor",
+           "rank": "7☠ Preferido",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c3/6983-c3f5d1de1557659bddd04fed9603d74a68bf7597.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1537-maxi-esser/"
        },
        {
            "name": "Olaf Merkel",
-           "rank": "7♛ Watcher",
+           "rank": "7☠ Preferido",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2477-olaf-merkel/"
        },
        {
            "name": "Gustavo Salz",
-           "rank": "6♛ Executer",
+           "rank": "6☠ Ascendente",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2480-noname-ger/#wall"
        },
        {
            "name": "Szyroi Ace",
-           "rank": "6♛ Executer",
+           "rank": "6☠ Ascendente",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/99/25201-99896acb7be00c9480bc38db717009ce9b5c861f.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/"
         },
         {
-           "name": "Nick Santos",
-           "rank": "5♛ Baller",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/7248-5ddf1a14be6a01af55a682ea178727ea320839d1.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
-        },
-        {
            "name": "Tristen Harrison",
-           "rank": "5♛ Baller",
+           "rank": "5☠ El Asociado",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/26258-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
         {
-           "name": "Sebastian Feinstaub",
-           "rank": "5♛ Baller",
-           "highlight": false,
-           "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
-        },
-        {
            "name": "Felix Harrison",
-           "rank": "5♛ Baller",
+           "rank": "5☠ El Asociado",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/51/6599-51bcb4630cfc73118a1b093fcb7d3520989445e3.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
         },
         {
            "name": "Luke Harrison",
-           "rank": "5♛ Baller",
+           "rank": "5☠ El Asociado",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
-           "name": "Jessy Salzbergwerk",
-           "rank": "5♛ Baller",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
-        },
-        {
            "name": "Hanz Voight",
-           "rank": "5♛ Baller",
+           "rank": "5☠ El Asociado",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de"
+        },
+        {
+           "name": "Sebastian Feinstaub",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
+        {
+           "name": "Jessy Salzbergwerk",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         },
         {
            "name": "Thommy Smith",
