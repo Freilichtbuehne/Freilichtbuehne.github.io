@@ -11,7 +11,7 @@
             "name": "Leo Salzbergwerk",
             "rank": "Stellv. Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/27994-23920479375db694229698e58c9a73710879f242.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/29125-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
@@ -27,15 +27,15 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
-        },
-        {
+       },
+       {
            "name": "Michael Melone",
            "rank": "Mitglied",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#wall"
-        },
-        {
+       },
+       {
            "name": "Ronny Heisenberg",
            "rank": "Mitglied",
            "highlight": false,
@@ -48,6 +48,20 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/24061-b845d10cbb515055baa97ec8e0026268fa0d5b0f.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
+       },
+       {
+           "name": "Obito Tanaka",
+           "rank": "Mitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/29105-7305c43a839986d25db7a6154976e53bc9d614ab.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
+       },
+       {
+           "name": "Fake Luke",
+           "rank": "Mitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
        }
     ]
 }
