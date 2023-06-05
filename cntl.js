@@ -71,7 +71,7 @@ function load(page) {
             setActive(rpids[page]);
             break;
         case 12:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/bloods.json";
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/bandidos.json";
             rpSection = true;
             ClearSubBox();
             ClearPageBox();
