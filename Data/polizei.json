@@ -55,7 +55,7 @@
             "name": "Leo Obertoast 42",
             "rank": "10★ Polizeiratt",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/29125-23920479375db694229698e58c9a73710879f242.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
@@ -108,17 +108,10 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
         },
         {
-           "name": "Heinrich Burns 195",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de"
-        },
-        {
            "name": "Harry Potter Saulus 9",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/ba/29156-ba3132ad83326d85abe580c5968e4f6e650abe31.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2627-harry-potter-saulus/"
         },
         {
@@ -139,8 +132,15 @@
            "name": "Julian Snow 83",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/4a/29092-4a238e7da09145a482301ec67932e45b0d208d94.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2301-julian-snow/"
+        },
+        {
+           "name": "Walter Forte 17",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         }
     ]
 }
