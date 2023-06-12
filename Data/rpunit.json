@@ -11,7 +11,7 @@
             "name": "Leo Salzbergwerk",
             "rank": "Stellv. Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/29125-23920479375db694229698e58c9a73710879f242.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/30947-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
@@ -53,7 +53,7 @@
            "name": "Obito Tanaka",
            "rank": "Mitglied",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/29105-7305c43a839986d25db7a6154976e53bc9d614ab.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/30926-7305c43a839986d25db7a6154976e53bc9d614ab.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
        },
        {
@@ -62,6 +62,20 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+       },
+       {
+           "name": "Dominik Eichel",
+           "rank": "Mitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/19545-76611e8200ae22ed1a20fc72bd61e2fe5f90e105.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2587-shockwave/"
+       },
+       {
+           "name": "Rick Rich Saulus",
+           "rank": "Mitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/30911-35c1ac542ea9025b10d246d7be829056ef973bfc.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
        }
     ]
 }
