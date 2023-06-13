@@ -3,7 +3,7 @@ const rpids = {
     9: "feu",
     10: "far",
     11: "sek",
-    12: "blood",
+    12: "bandios",
     13: "sani",
     14: "arzt"
 }
@@ -105,7 +105,7 @@ function load(page) {
 }
 
 function setActive(id) {
-    var ids = ["pol", "feu", "far", "sek", "blood", "sani", "arzt"];
+    var ids = ["pol", "feu", "far", "sek", "bandios", "sani", "arzt"];
     for (let i = 0; i < ids.length; i++) {
         document.getElementById(ids[i]).classList.remove("active");
     }
