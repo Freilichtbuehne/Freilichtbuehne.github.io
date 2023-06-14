@@ -18,14 +18,14 @@
 
 .menuBox a:hover {
     background-color: #383f48;
-    color: black;
+    color: white;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
 
 .menuBox a.active {
     background-color: #383f48;
-    color: #a1a1a1;
+    color: #dddddd;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     box-shadow: 0px 3px 0px -1px rgb(255, 196, 0);
@@ -165,6 +165,14 @@ img {
     font-size: 17px;
     padding: 20px;
     margin-top: 10px;
+}
+
+#infoBox p a:hover {
+    text-decoration: underline;
+}
+
+a:-webkit-any-link {
+    text-decoration: none;
 }
 
 .headBox {
