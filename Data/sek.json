@@ -43,13 +43,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/" 
         },
         {
-            "name": "Wolf 911",
-            "rank": "8✪ Oberleuntant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
-        },
-        {
             "name": "Blue 42",
             "rank": "7✪ Leutnant",
             "highlight": false,
@@ -62,14 +55,7 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/8591-529730b6edfea6faeae3ff062d64fe0ab9aae108.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/873-fabian/" 
-        },
-        {
-            "name": "Mulde 88",
-            "rank": "6✪ Unterleutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/01/27756-0128fa66fc385f20e2f900002861d7e0cd450f7a.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2265-some-1/" 
-        },
+        },,
         {
             "name": "Hangman 725",
             "rank": "6✪ Unterleuntant",
@@ -81,7 +67,7 @@
             "name": "Vodka 420",
             "rank": "5✪ Unterstabsoffizier",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/99/25201-99896acb7be00c9480bc38db717009ce9b5c861f.webp",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/56/31989-561212ec930ef2850455e5596eb7126b3e167ddb.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/" 
         },
         {
@@ -114,6 +100,20 @@
         },
         {
             "name": "Mamba 17",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
+        },
+        {
+            "name": "Siggi 99",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/72/32845-7289e6a11c4e64fa38ce16e2953c45d6cbca2e61.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flungymungy/" 
+        },
+        {
+            "name": "Kerberos 52",
             "rank": "5✪ Unterstabsoffizier",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
