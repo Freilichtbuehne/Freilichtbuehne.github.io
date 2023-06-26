@@ -5,11 +5,12 @@ const rpids = {
     11: "sek",
     12: "bandios",
     13: "sani",
-    14: "arzt"
+    14: "arzt",
+    15: "zoll",
 }
 
 const maxEntrys = 10;
-const showPageUpEntrys = 7;
+const showPageUpEntrys = 8;
 var curMembers;
 var rpSection;
 
@@ -91,6 +92,13 @@ function load(page) {
             ClearPageBox();
             setActive(rpids[page]);
             break;
+           case 15:
+            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/zoll.json";
+            rpSection = true;
+            ClearSubBox();
+            ClearPageBox();
+            setActive(rpids[page]);
+            break;
         default:
             ClearPageBox();
             loadingError("Ladefehler");
@@ -105,7 +113,7 @@ function load(page) {
 }
 
 function setActive(id) {
-    var ids = ["pol", "feu", "far", "sek", "bandios", "sani", "arzt"];
+    var ids = ["pol", "feu", "far", "sek", "bandios", "sani", "arzt", "zoll"];
     for (let i = 0; i < ids.length; i++) {
         document.getElementById(ids[i]).classList.remove("active");
     }
