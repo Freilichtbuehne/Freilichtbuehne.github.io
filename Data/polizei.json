@@ -34,7 +34,7 @@
            "name": "Apple Danger 21",
            "rank": "12★ Polizeidirektor",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/c2/25991-c2721594bb39fe301eff27f79e8a0165b5d1d647.webp",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/37/31987-37bcb5d4ddef5bb4317166952be77ec681ee6804.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
        },
        {
@@ -141,6 +141,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
+        },
+        {
+           "name": "Klaus Klops 72",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         }
     ]
 }
