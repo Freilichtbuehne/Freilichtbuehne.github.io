@@ -1,0 +1,32 @@
+{
+    "members": [
+          {
+            "name": "Dominik Eichel",
+            "rank": "15★ Zoll-Präsident",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/19545-76611e8200ae22ed1a20fc72bd61e2fe5f90e105.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2587-shockwave/"
+        },
+        {
+            "name": "Siegbert Schnößel",
+            "rank": "14★ Zoll-Vizepräsident",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/72/32986-7289e6a11c4e64fa38ce16e2953c45d6cbca2e61.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flungymungy/"
+        },
+        {
+            "name": "Adrian Monk",
+            "rank": "14★ Zoll-Vizepräsident",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/22719-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
+        },
+        {
+            "name": "Tristan Eichel",
+            "rank": "13★ Oberregierungsrat",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e2/19431-e2f9b92bd92f13d911d543cb08bd67ea32b7172d.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2580-tristan/"
+        }
+    ]
+}
