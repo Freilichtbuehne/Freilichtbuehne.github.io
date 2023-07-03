@@ -81,7 +81,7 @@
         },
         {
            "name": "Michael Melone 33",
-           "rank": "8★ Polizeihauptkommissar",
+           "rank": "9★ Erster Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
@@ -92,13 +92,6 @@
            "highlight": false,
            "picture": "https://i.ibb.co/YR3zk57/18097-41ccec7352448d9bd4c3b27e98d49b31e66a7dc3.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/"
-        },
-        {
-           "name": "Olaf Merkel 80",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2477-olaf-merkel/"
         },
         {
            "name": "Sir Leon Nice 66",
@@ -148,6 +141,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {
+           "name": "Nick Sack 67",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/#wall"
         }
     ]
 }
