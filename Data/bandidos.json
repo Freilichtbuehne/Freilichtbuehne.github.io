@@ -50,6 +50,13 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/"
         },
         {
+           "name": "Hanz Voight",
+           "rank": "6☠ Ascendente",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de"
+        },
+        {
            "name": "Tristen Harrison",
            "rank": "5☠ El Asociado",
            "highlight": false,
@@ -57,32 +64,11 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
         {
-           "name": "Felix Harrison",
-           "rank": "5☠ El Asociado",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/51/6599-51bcb4630cfc73118a1b093fcb7d3520989445e3.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
-        },
-        {
            "name": "Luke Harrison",
            "rank": "5☠ El Asociado",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
-        },
-        {
-           "name": "Hanz Voight",
-           "rank": "5☠ El Asociado",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de"
-        },
-        {
-           "name": "Sebastian Feinstaub",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
            "name": "Jessy Salzbergwerk",
@@ -97,6 +83,27 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2385-ichweisja/"
+        },
+        {
+           "name": "Nick Sack",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/"
+        },
+        {
+           "name": "Henry Jr",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2621-kaluamax/#wall"
+        },
+        {
+           "name": "Henry Sack",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         }
     ]
 }
