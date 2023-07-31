@@ -21,13 +21,6 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/26258-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
-        {
-            "name": "Marlon Brand",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
-       },
        {
            "name": "Michael Melone",
            "rank": "Mitglied",
@@ -62,13 +55,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
-       },
-       {
-           "name": "Dominik Eichel",
-           "rank": "Mitglied",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/19545-76611e8200ae22ed1a20fc72bd61e2fe5f90e105.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2587-shockwave/"
        },
        {
            "name": "Rick Rich Saulus",
