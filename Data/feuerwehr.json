@@ -49,19 +49,19 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/26258-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
+            {
+            "name": "Sebastian Salzburg",
+            "rank": "V Löschmeister",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/22239-23fce6a01538d08e8e6f3f8f404e7e51c104c961.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1126-nockray5yt/"
+        },
         {
             "name": "Alexander Gerst",
             "rank": "IV Hauptfeuerwehrmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de"
-        },
-        {
-            "name": "Sebastian Salzburg",
-            "rank": "IV Hauptfeuerwehrmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/22239-23fce6a01538d08e8e6f3f8f404e7e51c104c961.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1126-nockray5yt/"
         },
         {
             "name": "Linus Oniel",
