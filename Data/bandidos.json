@@ -8,15 +8,8 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2240-peppschnueffler/"
        },
        {
-           "name": "Albert Reznov",
-           "rank": "14☠ Don",
-           "highlight": true,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/8203-29b7f985c31fc7a982c555fca4a640bb04dc191c.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2305-stoney/"
-       },
-       {
            "name": "Khabib Sokolow",
-           "rank": "12☠ El Asesor",
+           "rank": "14☠ Don",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/10881-a074df72266742cfbcfec7a1989d37a740f3222e.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
@@ -71,6 +64,20 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
+           "name": "Nick Sack",
+           "rank": "5☠ El Asociado",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/"
+        },
+        {
+           "name": "Henry Jr",
+           "rank": "5☠ El Asociado",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2621-kaluamax/#wall"
+        },
+        {
            "name": "Jessy Salzbergwerk",
            "rank": "4☠ Amigo",
            "highlight": false,
@@ -85,25 +92,18 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2385-ichweisja/"
         },
         {
-           "name": "Nick Sack",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/"
-        },
-        {
-           "name": "Henry Jr",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2621-kaluamax/#wall"
-        },
-        {
            "name": "Henry Sack",
            "rank": "4☠ Amigo",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {
+           "name": "Olli Mani",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
         }
     ]
 }
