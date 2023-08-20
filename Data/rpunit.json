@@ -15,13 +15,20 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
+           "name": "Fake Luke",
+           "rank": "Management",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+        },
+        {
             "name": "Tristano",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/26258-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
-       {
+        {
            "name": "Michael Melone",
            "rank": "Mitglied",
            "highlight": false,
@@ -50,13 +57,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
        },
        {
-           "name": "Fake Luke",
-           "rank": "Mitglied",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
-       },
-       {
            "name": "Rick Rich Saulus",
            "rank": "Mitglied",
            "highlight": false,
@@ -69,6 +69,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flungymungy/"
+       },
+       {
+           "name": "Klaus Klops",
+           "rank": "Mitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
        }
     ]
 }
