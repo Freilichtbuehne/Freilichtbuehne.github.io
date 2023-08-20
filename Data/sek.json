@@ -51,14 +51,14 @@
         },
         {
             "name": "Cat 808",
-            "rank": "7✪ Leutnant",
+            "rank": "8✪ Oberleutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
         },
         {
             "name": "Vodka 420",
-            "rank": "7✪ Leutnant",
+            "rank": "8✪ Oberleutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/56/31989-561212ec930ef2850455e5596eb7126b3e167ddb.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/" 
@@ -72,24 +72,17 @@
         },
         {
             "name": "Buck 30",
-            "rank": "6✪ Unterleutnant",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
         },
         {
             "name": "Kerberos 52",
-            "rank": "6✪ Unterleutnant",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
-        },
-        {
-            "name": "Siggi 99",
-            "rank": "5✪ Unterstabsoffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flungymungy/" 
         },
         {
             "name": "Zero 73",
@@ -106,11 +99,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2331-toasterbeule945/" 
         },
         {
-            "name": "Moon 71",
+            "name": "Eagle 24",
             "rank": "5✪ Unterstabsoffizier",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2261-cody/" 
+            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
+        },
+        {
+            "name": "Je´sus 79",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
+        },
+        {
+            "name": "Rox",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
         }
     ]
 }
