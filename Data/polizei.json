@@ -34,22 +34,29 @@
            "name": "Apple Danger 21",
            "rank": "12★ Polizeidirektor",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/37/31987-37bcb5d4ddef5bb4317166952be77ec681ee6804.webp",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/09/41552-0903bbc9571d3edfdc8378137097ad74c04b96cc.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
        },
+       {
+           "name": "Harry Potter 9",
+           "rank": "11★ Polizeioberrat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2627-harry-potter-saulus/"
+        },
+        {
+            "name": "Luke Harrison 77",
+            "rank": "11★ Polizeioberrat",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+        },
         {
            "name": "Felix Harrison 15",
            "rank": "10★ Polizeirat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/51/6599-51bcb4630cfc73118a1b093fcb7d3520989445e3.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2049-safari-felix/"
-        },
-        {
-            "name": "Leo Obertoast 42",
-            "rank": "10★ Polizeirat",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
            "name": "Hans Schneider 52",
@@ -66,11 +73,11 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
         },
         {
-           "name": "Harry Potter 9",
+           "name": "Klaus Klops 72",
            "rank": "10★ Polizeirat",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2627-harry-potter-saulus/"
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/#wall"
         },
         {
            "name": "Rick Rich von Tete IV 32",
@@ -80,18 +87,18 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
         },
         {
-            "name": "Luke Harrison 77",
-            "rank": "9★ Erster Polizeihauptkommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
-        },
-         {
-           "name": "Klaus Klops 72",
+           "name": "Siegbert Schnößel",
            "rank": "9★ Erster Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flufffyy2/"
+        },
+        {
+           "name": "Sir Leon Nice 66",
+           "rank": "9★ Erster Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/24061-b845d10cbb515055baa97ec8e0026268fa0d5b0f.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
         },
         {
            "name": "Szyroi Ace 420",
@@ -99,13 +106,6 @@
            "highlight": false,
            "picture": "https://i.ibb.co/YR3zk57/18097-41ccec7352448d9bd4c3b27e98d49b31e66a7dc3.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/"
-        },
-        {
-           "name": "Sir Leon Nice 66",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/24061-b845d10cbb515055baa97ec8e0026268fa0d5b0f.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
         },
         {
            "name": "Adam Zaki 47",
@@ -122,13 +122,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2301-julian-snow/"
         },
         {
-           "name": "Walter Forte 17",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
-        },
-        {
            "name": "Nick Sack 67",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
@@ -141,13 +134,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
-        },
-        {
-           "name": "Siegbert Schnößel",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flufffyy2/"
         },
         {
            "name": "Felix Black 40",
