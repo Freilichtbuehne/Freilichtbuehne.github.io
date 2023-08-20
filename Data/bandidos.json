@@ -10,7 +10,7 @@
        {
            "name": "Khabib Sokolow",
            "rank": "14☠ Don",
-           "highlight": false,
+           "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a0/10881-a074df72266742cfbcfec7a1989d37a740f3222e.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
        },
@@ -43,6 +43,13 @@
            "profile": "https://www.goldphoenix.de"
         },
         {
+           "name": "Nick Sack",
+           "rank": "6☠ Ascendente",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/"
+        },
+        {
            "name": "Tristen Harrison",
            "rank": "5☠ El Asociado",
            "highlight": false,
@@ -57,18 +64,18 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
-           "name": "Nick Sack",
-           "rank": "5☠ El Asociado",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/"
-        },
-        {
            "name": "Henry Jr",
            "rank": "5☠ El Asociado",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2621-kaluamax/#wall"
+        },
+         {
+           "name": "Olli Mani",
+           "rank": "5☠ El Asociado",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
         },
         {
            "name": "Jessy Salzbergwerk",
@@ -92,11 +99,11 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         },
         {
-           "name": "Olli Mani",
+           "name": "Dr.med. Ben Koslovski",
            "rank": "4☠ Amigo",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/27/41586-274d88915219b56695c3c58575c3cbc7e0b37c06.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         }
     ]
 }
