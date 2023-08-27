@@ -34,7 +34,7 @@
            "name": "Apple Danger 21",
            "rank": "12★ Polizeidirektor",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/09/41552-0903bbc9571d3edfdc8378137097ad74c04b96cc.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/09/42712-0903bbc9571d3edfdc8378137097ad74c04b96cc.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
        },
        {
@@ -101,11 +101,18 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
         },
         {
-           "name": "Szyroi Ace 420",
-           "rank": "8★ Polizeihauptkommissar",
+           "name": "Odin Yildiz 153",
+           "rank": "9★ Erster Polizeihauptkommissar",
            "highlight": false,
-           "picture": "https://i.ibb.co/YR3zk57/18097-41ccec7352448d9bd4c3b27e98d49b31e66a7dc3.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2476-szyroi/"
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {   
+           "name": "Bernd Deutschmann 18",
+           "rank": "9★ Erster Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/6601-6d0901e796d76efcdc33c739a0539bb922f08c10.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
         },
         {
            "name": "Adam Zaki 47",
@@ -148,14 +155,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
-        },
-        {
-           "name": "Odin Yildiz 153",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
-            
         }
     ]
 }
