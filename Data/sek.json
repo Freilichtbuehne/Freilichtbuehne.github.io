@@ -37,7 +37,7 @@
         },
         {
             "name": "Salzi 44",
-            "rank": "10✪ Major",
+            "rank": "11✪ Oberst",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/" 
@@ -65,7 +65,7 @@
         },
         {
             "name": "Mamba 17",
-            "rank": "7✪ Leutnant",
+            "rank": "8✪ Oberleutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
@@ -125,6 +125,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2673-fynnnth13/" 
+        },
+        {
+            "name": "Lenco 15",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
         }
     ]
 }
