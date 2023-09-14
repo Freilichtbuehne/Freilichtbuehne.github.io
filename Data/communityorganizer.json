@@ -48,6 +48,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
+        },
+        {    
+            "name": "Simon Banges",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/gravatars/b7ca0dc97965ad4585b8503d8bd8afed-128.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2740-simon-banges/"
+        },
+        {    
+            "name": "Yannick Schenker",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         }
     ]
 }
