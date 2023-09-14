@@ -36,32 +36,25 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/"
        },
        {
+           "name": "Dieter Gustavo",
+           "rank": "7☠ Preferido",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de"
+       },
+       {
+           "name": "Hanz Voight",
+           "rank": "7☠ Preferido",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de"
+       },
+       {
            "name": "Gustavo Salz",
            "rank": "6☠ Ascendente",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2480-noname-ger/#wall"
-        },
-        {
-           "name": "Hanz Voight",
-           "rank": "6☠ Ascendente",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de"
-        },
-        {
-           "name": "Dieter Gustavo",
-           "rank": "6☠ Ascendente",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de"
-        },
-        {
-           "name": "Luke Harrison",
-           "rank": "5☠ El Asociado",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
            "name": "Henry Jr",
@@ -78,6 +71,13 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
         },
         {
+           "name": "Dr.med. Ben Koslovski",
+           "rank": "5☠ El Asociado",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
            "name": "Jessy Salzbergwerk",
            "rank": "4☠ Amigo",
            "highlight": false,
@@ -92,11 +92,18 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         },
         {
-           "name": "Dr.med. Ben Koslovski",
+           "name": "Peter Mainzberger",
            "rank": "4☠ Amigo",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {
+           "name": "Manuel Heyer",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         }
     ]
 }
