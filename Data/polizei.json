@@ -34,7 +34,7 @@
            "name": "Apple Danger 21",
            "rank": "12★ Polizeidirektor",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/09/42712-0903bbc9571d3edfdc8378137097ad74c04b96cc.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
        },
        {
@@ -80,6 +80,13 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
         },
         {
+           "name": "Odin Yildiz 153",
+           "rank": "10★ Polizeirat",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {
            "name": "Rick Rich von Tete IV 32",
            "rank": "9★ Erster Polizeihauptkommissar",
            "highlight": false,
@@ -99,13 +106,6 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/24061-b845d10cbb515055baa97ec8e0026268fa0d5b0f.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
-        },
-        {
-           "name": "Odin Yildiz 153",
-           "rank": "9★ Erster Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         },
         {   
            "name": "Bernd Deutschmann 18",
@@ -129,7 +129,7 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2301-julian-snow/"
         },
         {
-           "name": "Nick Sack 67",
+           "name": "Nick Sack 68",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
@@ -162,6 +162,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {
+           "name": "Khabib Sokolow 67",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/25/41979-2586dac66b24b2093034efeab81a02a53eea5427.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
         }
     ]
 }
