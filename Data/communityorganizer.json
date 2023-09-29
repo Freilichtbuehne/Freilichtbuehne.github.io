@@ -62,6 +62,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {    
+            "name": "Josef Braun",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/4968-bb35f54203fb1a4a0f217f3623a1a4d2af641945.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1108-grandpajosef/"
+        },
+        {    
+            "name": "Florian Feinstaub",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7d/41983-7d09de8df4d4b5eda6ba9452b5fabd8c859d32fd.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-gpx-florian/"
         }
     ]
 }
