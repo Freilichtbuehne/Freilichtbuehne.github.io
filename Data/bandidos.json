@@ -16,28 +16,21 @@
        },
        {
            "name": "Olaf Merkel",
-           "rank": "8☠ Companero",
+           "rank": "9☠ El Capitan",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2477-olaf-merkel/"
        },
        {
-           "name": "Maxi Reznov",
-           "rank": "7☠ Preferido",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/c3/6983-c3f5d1de1557659bddd04fed9603d74a68bf7597.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1537-maxi-esser/"
-       },
-       {
            "name": "Nick Sack",
-           "rank": "7☠ Preferido",
+           "rank": "8☠ Companero",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/"
        },
        {
            "name": "Dieter Gustavo",
-           "rank": "7☠ Preferido",
+           "rank": "8☠ Companero",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de"
@@ -78,13 +71,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
-           "name": "Jessy Salzbergwerk",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
-        },
-        {
            "name": "Henry Sack",
            "rank": "4☠ Amigo",
            "highlight": false,
@@ -100,6 +86,20 @@
         },
         {
            "name": "Manuel Heyer",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {
+           "name": "Felix Sack",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {
+           "name": "Rüdiger Waldmeier",
            "rank": "4☠ Amigo",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
