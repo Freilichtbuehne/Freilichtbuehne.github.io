@@ -54,7 +54,7 @@
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flufffyy2/"
         },
         {
             "name": "Hanz Voight",
@@ -62,6 +62,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de"
+        },
+        {
+            "name": "Simon Banges",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2740-simon-banges/"
         }
     ]
 }
