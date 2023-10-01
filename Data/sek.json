@@ -25,7 +25,7 @@
             "name": "Blue 42",
             "rank": "12✪ Brigardegeneral",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/48179-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/" 
         },
         {
@@ -53,14 +53,14 @@
             "name": "Mamba 17",
             "rank": "9✪ Stabshauptmann",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/48219-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/" 
         },
         {
             "name": "Cat 808",
             "rank": "8✪ Oberleutnant",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/02/48229-022de1be31e6b1acabf045d3c2f08857a3a85bd8.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/" 
         },
         {
@@ -95,7 +95,7 @@
             "name": "Zero 73",
             "rank": "5✪ Unterstabsoffizier",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8d/48153-8d46e41e9fb5c0c686624e46bb61d2281bbebbd4.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2350-oktay/" 
         },
         {
@@ -109,8 +109,22 @@
             "name": "Speedy 61",
             "rank": "5✪ Unterstabsoffizier",
             "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/4885-6632f706661599de6cef475ab32098f25b809c86.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/511-mickaspeedy/" 
+        },
+        {
+            "name": "Snow 34",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2796-claudia-faller/" 
+        },
+        {
+            "name": "Seal 12",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/12594-9c6c2fb22c3ecf245560f576634607cbc882d9a3.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2493-balbonautika/" 
         }
-    ]
+  
 }
