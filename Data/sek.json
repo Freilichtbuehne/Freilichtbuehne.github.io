@@ -78,25 +78,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/" 
         },
         {
-            "name": "Je´sus 79",
-            "rank": "6✪ Unterleutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/40346-5e2e7eabe0248b6cee294dbffd2e95239f7112e6.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2737-gpx-mogli/" 
-        },
-        {
             "name": "Rox 49",
-            "rank": "6✪ Unterleutnant",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/cb/45194-cb5c19aa9388cd274ed138c8f34cdf554f44dbfe.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1534-rox/" 
         },
         {
-            "name": "Zero 73",
-            "rank": "5✪ Unterstabsoffizier",
+            "name": "Je´sus 79",
+            "rank": "6✪ Unterleutnant",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2350-oktay/" 
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/40346-5e2e7eabe0248b6cee294dbffd2e95239f7112e6.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2737-gpx-mogli/" 
         },
         {
             "name": "Lenco 15",
@@ -107,6 +100,27 @@
         },
         {
             "name": "Speedy 61",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
+        },
+        {
+            "name": "Snow 34",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
+        },
+        {
+            "name": "Seal 12",
+            "rank": "5✪ Unterstabsoffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/" 
+        },
+        {
+            "name": "Quest 72",
             "rank": "5✪ Unterstabsoffizier",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
