@@ -76,6 +76,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7d/41983-7d09de8df4d4b5eda6ba9452b5fabd8c859d32fd.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-gpx-florian/"
+        },
+        {    
+            "name": "Hanz Voight",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         }
     ]
 }
