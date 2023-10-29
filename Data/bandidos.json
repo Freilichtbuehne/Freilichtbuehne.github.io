@@ -37,14 +37,14 @@
        },
        {
            "name": "Hanz Voight",
-           "rank": "7☠ Preferido",
+           "rank": "8☠ Companero",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de"
        },
        {
            "name": "Gustavo Salz",
-           "rank": "6☠ Ascendente",
+           "rank": "7☠ Preferido",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2480-noname-ger/#wall"
@@ -71,6 +71,27 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
         },
         {
+           "name": "Manuel Heyer",
+           "rank": "5☠ El Asociado",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {
+           "name": "Reinhard Rommel",
+           "rank": "5☠ El Asociado",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {
+           "name": "Walter Forte",
+           "rank": "5☠ El Asociado",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
+        },
+        {
            "name": "Henry Sack",
            "rank": "4☠ Amigo",
            "highlight": false,
@@ -79,13 +100,6 @@
         },
         {
            "name": "Peter Mainzberger",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
-        },
-        {
-           "name": "Manuel Heyer",
            "rank": "4☠ Amigo",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
@@ -113,25 +127,11 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         },
         {
-           "name": "Reinhard Rommel",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
-        },
-        {
            "name": "Andrew Tate",
            "rank": "4☠ Amigo",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6151-84bd18b2ab38ffe02df38dfd3eca7f1a394bab02.webp",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/52937-c70409b0f7972bfbd3bdd0159980709ae82d687f.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
-        },
-        {
-           "name": "Walter Forte",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {
            "name": "Daniel Gremory",
@@ -146,6 +146,13 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {
+           "name": "Ben Voight",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/64/52986-64421bfe58a281538bd286c2da9afa1bfb6d8f72.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd/"
         }
     ]
 }
