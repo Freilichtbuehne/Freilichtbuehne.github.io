@@ -28,18 +28,11 @@
             "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
-         {
-            "name": "Florian Feinstaub",
-            "rank": "Fahrlehrer",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-floriangehtpennen/"
-        },
         {
             "name": "Dietrich Hellmann",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/57/30845-57c8591717613c7e8f99cf51a2a9d700779fdf03.gif",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7f/50468-7ff3d41ccb9bbe95aecfedb006b7ffcbd3ec2c6c.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
         },
         {
@@ -88,7 +81,7 @@
             "name": "Andrew Tate",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6151-84bd18b2ab38ffe02df38dfd3eca7f1a394bab02.webp",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/52937-c70409b0f7972bfbd3bdd0159980709ae82d687f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
         },
         {
@@ -97,6 +90,34 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+        },
+         {
+            "name": "Jerry Klops",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+         {
+            "name": "Dieter Gustavo",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c5/53073-c50fd1b8ebc77959d465960413b603bcd9649831.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2673-fynnnth13/"
+        },
+         {
+            "name": "Mika Salzbergwerk",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/52997-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
+        },
+         {
+            "name": "Simon Banges",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/gravatars/b7ca0dc97965ad4585b8503d8bd8afed-128.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2740-simon-banges/"
         }
     ]
 }
