@@ -25,7 +25,7 @@
             "name": "Blue 42",
             "rank": "12✪ Brigardegeneral",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/52144-23920479375db694229698e58c9a73710879f242.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/" 
         },
         {
@@ -46,14 +46,14 @@
             "name": "Mamba 17",
             "rank": "9✪ Stabshauptmann",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/52184-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/" 
         },
         {
             "name": "Cat 808",
             "rank": "8✪ Oberleutnant",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/02/52194-022de1be31e6b1acabf045d3c2f08857a3a85bd8.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/" 
         },
         {
@@ -69,13 +69,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/" 
-        },
-        {
-            "name": "Rox 49",
-            "rank": "7✪ Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/cb/45194-cb5c19aa9388cd274ed138c8f34cdf554f44dbfe.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1534-rox/" 
         },
         {
             "name": "Speedy 666",
@@ -111,13 +104,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/12594-9c6c2fb22c3ecf245560f576634607cbc882d9a3.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2493-balbonautika/" 
-        },
-        {
-            "name": "Kebab 68",
-            "rank": "5✪ Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/89/42809-89b03198c1f7da3d41bcdb41cea0c2b5842df45e.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/#recentActivity" 
         }
     ]
 }
