@@ -30,14 +30,14 @@
         },
         {
             "name": "Michael Melone",
-            "rank": "VI Oberlöschmeister",
+            "rank": "IX Oberbrandmeister",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
         },
         {
             "name": "Mika Meyer",
-            "rank": "VI Oberlöschmeister",
+            "rank": "VIII Brandmeister",
             "highlight": false,
             "picture": "https://i.ibb.co/PQ64p8b/17590-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
@@ -49,12 +49,19 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/26258-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
         },
-            {
+        {
             "name": "Sebastian Salzburg",
             "rank": "V Löschmeister",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/22239-23fce6a01538d08e8e6f3f8f404e7e51c104c961.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1126-nockray5yt/"
+        },
+        {
+            "name": "Sebastian Feinstaub",
+            "rank": "V Löschmeister",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8f/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
             "name": "Alexander Gerst",
@@ -64,25 +71,32 @@
             "profile": "https://www.goldphoenix.de"
         },
         {
-            "name": "Linus Oniel",
-            "rank": "IV Hauptfeuerwehrmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2698-linus/"
-        },
-        {
-            "name": "Michael Danger",
-            "rank": "IV Hauptfeuerwehrmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/dc/6919-dcb504a006a8c696def24780eeccbf2df2b8061f.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1700-ryckz/"
-        },
-        {
             "name": "Samuel Saulus",
             "rank": "IV Hauptfeuerwehrmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/12594-9c6c2fb22c3ecf245560f576634607cbc882d9a3.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2493-balbonautika/"
+        },
+        {
+            "name": "Markus Klops",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": ""
+        },
+        {
+            "name": "Jonathan Toast",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-toast/"
+        },
+        {
+            "name": "Ben Koslovksi",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/55360-ffb1f72e1dfb0d9774919556119beb7682ee5f9d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         }
     ]
 }
