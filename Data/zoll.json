@@ -18,7 +18,7 @@
             "name": "Walter Forte",
             "rank": "12★ Oberregierungsrat",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/53249-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {
@@ -39,14 +39,14 @@
             "name": "Hanz Voight",
             "rank": "9★ Zollamtsrat",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/02/53259-022de1be31e6b1acabf045d3c2f08857a3a85bd8.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
         },
         {
             "name": "Heinz Peters",
             "rank": "9★ Zollamtsrat",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2c/53258-2c1fc787972878e340d837aceef6b79cecdd617c.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2693-colossalcloth79/"
         },
         {
@@ -64,7 +64,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-toast/"
         },
         {
-            "name": "Franz Meier",
+            "name": "Franz Klops",
             "rank": "8★ Zollamtmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
@@ -74,7 +74,7 @@
             "name": "Mark Winkler",
             "rank": "7★ Zolloberinspektor",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/53233-0a0c163777e8d2952c6a65cfa88d6ac0985b6696.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2608-mark-winkler/"
         },
         {
@@ -90,6 +90,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2764-soup-gaming/"
+        },
+        {
+            "name": "Klaus Gunnar",
+            "rank": "6★ Zollinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": ""
         }
     ]
 }
