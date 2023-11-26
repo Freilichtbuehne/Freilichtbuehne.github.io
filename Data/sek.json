@@ -24,8 +24,8 @@
         {
             "name": "Blue 42",
             "rank": "12✪ Brigardegeneral",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/58088-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/" 
         },
         {
@@ -44,9 +44,9 @@
         },
         {
             "name": "Mamba 17",
-            "rank": "9✪ Stabshauptmann",
+            "rank": "10✪ Major",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/58128-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/" 
         },
         {
@@ -85,25 +85,33 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-toast/" 
         },
         {
-            "name": "Je´sus 79",
-            "rank": "6✪ Feldwebel",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/40346-5e2e7eabe0248b6cee294dbffd2e95239f7112e6.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2737-gpx-mogli/" 
-        },
-        {
             "name": "Snow 34",
             "rank": "5✪ Unteroffizier",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2796-claudia-faller/" 
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2796-claudia-faller/"
         },
         {
-            "name": "Seal 12",
+            "name": "Kebab 68",
             "rank": "5✪ Unteroffizier",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/12594-9c6c2fb22c3ecf245560f576634607cbc882d9a3.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2493-balbonautika/" 
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/89/42809-89b03198c1f7da3d41bcdb41cea0c2b5842df45e.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/"
+        },
+        {
+            "name": "Rox 49",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/cb/45194-cb5c19aa9388cd274ed138c8f34cdf554f44dbfe.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1534-rox/"
+        },
+        {
+            "name": "Quest 72",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
+         
         }
     ]
 }
