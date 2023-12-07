@@ -23,7 +23,7 @@
         },
         {
             "name": "Josef Braun",
-            "rank": "10★ Zolloberamtsrat",
+            "rank": "11★ Regierungsrat",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/4968-bb35f54203fb1a4a0f217f3623a1a4d2af641945.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1108-grandpajosef/"
@@ -43,8 +43,8 @@
             "profile": "https://www.goldphoenix.de/wcf/images/avatars/2c/58137-2c1fc787972878e340d837aceef6b79cecdd617c.jpg"
         },
         {
-            "name": "Jonathan Toast",
-            "rank": "8★ Zollamtmann",
+            "name": "Jonathan Klops",
+            "rank": "9★ Zollamtsrat",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-toast/"
@@ -64,6 +64,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2608-mark-winkler/"
         },
         {
+            "name": "Ben Koslovski",
+            "rank": "7★ Zolloberinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/58084-5a379ab4003e4a3f9f872c6bc6decb3cd57ca87c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
             "name": "Luke Harrison",
             "rank": "6★ Zollinspektor",
             "highlight": false,
@@ -76,13 +83,7 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/17988-5ca6dd88cae877a1993773faddce7e1fe5e2c64c.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
-        },
-        {
-            "name": "Ben Koslovski",
-            "rank": "6★ Zollinspektor",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/58084-5a379ab4003e4a3f9f872c6bc6decb3cd57ca87c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        
         }
     ]
 }
