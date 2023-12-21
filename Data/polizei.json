@@ -31,13 +31,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
        },
        {
-            "name": "Luke Harrison 77",
-            "rank": "12★ Polizeidirektor",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
-       },
-       {
            "name": "Klaus Klops 72",
            "rank": "12★ Polizeidirektor",
            "highlight": false,
@@ -46,38 +39,31 @@
        },
        {
            "name": "Odin Yildiz 153",
-           "rank": "11★ Polizeioberrat",
+           "rank": "12★ Polizeidirektor",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {
+           "name": "Chris Klops 16",
+           "rank": "12★ Polizeidirektor",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         },
         {
            "name": "Michael Melone 33",
-           "rank": "10★ Polizeirat",
+           "rank": "11★ Polizeioberrat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
         },
         {
            "name": "Siegbert Schnößel",
-           "rank": "10★ Polizeirat",
+           "rank": "11★ Polizeioberrat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flufffyy2/"
-        },
-        {
-           "name": "Nick Sack 68",
-           "rank": "10★ Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/#wall"
-        },
-        {
-           "name": "Chris Red 16",
-           "rank": "10★ Polizeirat",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         },
         {
            "name": "Sir Leon Nice 66",
@@ -93,40 +79,26 @@
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/6601-6d0901e796d76efcdc33c739a0539bb922f08c10.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
         },
-        {
-           "name": "Julian Snow 83",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2301-julian-snow/"
-        },
-        {
-           "name": "Felix Black 40",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
-        },
-        {
-           "name": "Ben Koslovski 54",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
-        },
-        {
-           "name": "Jerry Pflanzenberg 322",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
-        },
-        {
+         {
            "name": "Khabib Sokolow 67",
-           "rank": "8★ Polizeihauptkommissar",
+           "rank": "9★ Erster Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/25/41979-2586dac66b24b2093034efeab81a02a53eea5427.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
+        },
+        {
+           "name": "Markus Klops 34",
+           "rank": "9★ Erster Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {
+           "name": "Jerry Klops 322",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         },
         {
            "name": "Samuel Saulus 12",
@@ -143,18 +115,39 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         },
         {
-           "name": "Markus Klops 34",
+           "name": "Walter Forte",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {
-           "name": "Zaree Klops 999",
+           "name": "Mika Salzbergwerk",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/62726-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
+        },
+        {
+           "name": "Santiago Heinrich",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/cb/45194-cb5c19aa9388cd274ed138c8f34cdf554f44dbfe.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1534-rox/"
+        },
+        {
+           "name": "John Anime",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/f4/62817-f4a9f8c8a5d88b2f7313461a09d06fbd8667224b.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2722-animehdd/"
+        },
+        {
+           "name": "Noah Land",
+           "rank": "8★ Polizeihauptkommissar",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/7315-f990b01c2f68956d30d8a0f3ff622dad7a358c45.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-noah/"
         }
     ]
 }
