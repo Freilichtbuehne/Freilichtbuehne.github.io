@@ -22,24 +22,24 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flufffyy2/"
         },
         {
+            "name": "Klaus Klops",
+            "rank": "Management",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
+        },
+        {
             "name": "Hanz Voight",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/02/55414-022de1be31e6b1acabf045d3c2f08857a3a85bd8.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
-        },
-        {
-            "name": "Simon Banges",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/gravatars/b7ca0dc97965ad4585b8503d8bd8afed-128.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2740-simon-banges/"
         },
         {
             "name": "Walter Forte",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/55404-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {
@@ -50,18 +50,46 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1108-grandpajosef/#wall"
         },
         {
-            "name": "Chriss Kross",
+            "name": "Norbert Hellmann",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/36/10787-36129cae313ee1880ec76c71e9489e2c011b16ae.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1802-ron/"
         },
         {
-            "name": "Klaus Klops",
+            "name": "Odin",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/65/45703-650054c9612571128d8fa345cc80ab2a6a29e641.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/"
+        },
+        {
+            "name": "Ben Forst Koslovksi",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6e/62756-6e18efc28db6c76de5269d08d90878c3c5d37001.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
+            "name": "Marlon Brand",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
+        },
+        {
+            "name": "Fake Luke",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+        },
+        {
+            "name": "Franz Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": ""
         }
     ]
 }
