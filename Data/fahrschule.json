@@ -81,7 +81,7 @@
             "name": "Andrew Tate",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/55270-c70409b0f7972bfbd3bdd0159980709ae82d687f.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-blaubeere/"
         },
         {
@@ -118,6 +118,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/gravatars/b7ca0dc97965ad4585b8503d8bd8afed-128.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2740-simon-banges/"
+        },
+        {
+            "name": "David Mulde",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a6/57429-a6fc1ee0e09cc14a1161d8ae5e83efb46cadb704.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2265-some-1/"
+        },
+        {
+            "name": "Maurice Ball",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f7/62770-f7e5221e41ca70c03f60d302332ae6cd40bb2bee.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         }
     ]
 }
