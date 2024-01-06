@@ -8,18 +8,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"        
         },
         {    
-            "name": "Simon Banges",
+            "name": "--zu vergeben--",
             "rank": "Stv. Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/gravatars/b7ca0dc97965ad4585b8503d8bd8afed-128.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2740-simon-banges/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
         },
         {    
-            "name": "Adrian Monk",
+            "name": "--zu Vergeben--",
             "rank": "Manager",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/22719-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
         },
         {    
             "name": "Ronny von Heisenberg",
@@ -64,18 +64,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {    
-            "name": "Luca Klops",
+            "name": "Felix Sack",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": ""
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
         },
         {    
-            "name": "Yannick Schenker",
+            "name": "Jonathan Toast",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": ""
+            "picture": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-toast/",
+            "profile": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg"
         }
     ]
 }
