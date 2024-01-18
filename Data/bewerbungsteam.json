@@ -49,26 +49,26 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
       },
-       {
-            "name": "Simon Banges",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/gravatars/b7ca0dc97965ad4585b8503d8bd8afed-128.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2740-simon-banges/"
-      },
-       {
+      {
             "name": "Tristen Harrison",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/26258-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
       },
-       {
+      {
             "name": "Klaus Klops",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
+      },
+      {
+            "name": "Mika Salzbergwerk",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/68100-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
       }
    ]
 }
