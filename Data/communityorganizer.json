@@ -8,11 +8,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"        
         },
         {    
-            "name": "--zu vergeben--",
-            "rank": "Stv. Leitung",
+            "name": "Hanz Salzbergwerk",
+            "rank": "Mitglied",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/#wall"
         },
         {    
             "name": "--zu Vergeben--",
@@ -27,20 +27,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1c/8123-1c8cd824ab5adf976c3c4c6a2fe113c68390a370.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
-        {    
-            "name": "Josef Braun",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/4968-bb35f54203fb1a4a0f217f3623a1a4d2af641945.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1108-grandpajosef/"
-        },
-        {    
-            "name": "Hanz Voight",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/#wall"
         },
         {    
             "name": "Marlon Brand",
@@ -60,7 +46,7 @@
             "name": "Dr.Walter Forte",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/55404-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/index.php?panel/",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {    
@@ -74,8 +60,15 @@
             "name": "Jonathan Toast",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-toast/",
+            "picture": "https://www.goldphoenix.de/wcf/index.php?panel/",
             "profile": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg"
+        },
+        {    
+            "name": "Jerry Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fb/12690-fb24a74985d261a813419540e619aa57c7a5a26d.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-robinator/"
         }
     ]
 }
