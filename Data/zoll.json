@@ -16,8 +16,8 @@
         },
         {
             "name": "Walter Forte",
-            "rank": "12★ Oberregierungsrat",
-            "highlight": false,
+            "rank": "13★ Regierungsdirektor",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
@@ -71,11 +71,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
-            "name": "Klaus Gunnar",
+            "name": "Klaus Gunner",
             "rank": "7★ Zolloberinspektor",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5c/17988-5ca6dd88cae877a1993773faddce7e1fe5e2c64c.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
+        },
+        {
+            "name": "Jake Reudner",
+            "rank": "6★ Zollinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2925-inspectortrolo/"
+        },
+        {
+            "name": "Holger Buddel",
+            "rank": "6★ Zollinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/98/72218-9880bb77ae6c8ac9b1afa932337e1e9a98ec76ec.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-rezartspc/"
+        },
+        {
+            "name": "Herrmann Joel",
+            "rank": "6★ Zollinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2919-konstopolis/#about"
         
         }
     ]
