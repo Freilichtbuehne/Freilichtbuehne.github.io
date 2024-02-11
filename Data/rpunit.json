@@ -8,18 +8,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         },
         {
-           "name": "Obito Tanaka",
+           "name": "Siegbert Schnößel",            
            "rank": "Stellv. Leitung",
            "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flungymungy/"
         },
         {
-           "name": "Fake Luke",
-           "rank": "Management",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+           "name": "Klaus Klops",
+           "rank": "Manager",
+           "highlight": true,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
         },
         {
             "name": "Tristano",
@@ -57,32 +57,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
        },
        {
-           "name": "Rick Rich Saulus",
+           "name": "Leo Salzbergwerk",
            "rank": "Mitglied",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
-       },
-       {
-           "name": "Siegbert Schnößel",
-           "rank": "Mitglied",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flungymungy/"
-       },
-       {
-           "name": "Klaus Klops",
-           "rank": "Mitglied",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
-       },
-       {
-           "name": "Nick Sack",
-           "rank": "Mitglied",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/"
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/72736-23920479375db694229698e58c9a73710879f242.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
        },
        {
            "name": "Heinz Peters",
@@ -92,11 +71,33 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
        },
        {
-           "name": "Odin",
+           "name": "Odin Klops",
            "rank": "Mitglied",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/65/45703-650054c9612571128d8fa345cc80ab2a6a29e641.gif",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/#wall"
+        },
+        {
+           "name": "Obito Tanaka",
+           "rank": "Mitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
+        },
+        {  
+            "name": "Walter Forte",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/71152-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
+        },
+        {
+            "name": "Hans Schneider",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
+
        }
     ]
 }
