@@ -13,6 +13,13 @@
            "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/25/41979-2586dac66b24b2093034efeab81a02a53eea5427.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
+        },
+       {
+           "name": "Dieter Koksberg",
+           "rank": "10☠ Diputado",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de"
        },
        {
            "name": "Olaf Merkel",
@@ -22,22 +29,8 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2477-olaf-merkel/"
        },
        {
-           "name": "Nick Koksberg",
-           "rank": "9☠ El Capitan",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/"
-       },
-       {
-           "name": "Dieter Gustavo",
-           "rank": "9☠ El Capitan",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de"
-       },
-       {
            "name": "Hanz Salzbergwerk",
-           "rank": "8☠ Companero",
+           "rank": "9☠ El Capitan",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de"
@@ -50,8 +43,8 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2480-noname-ger/#wall"
         },
         {
-           "name": "Dr.med. Ben Koslovski",
-           "rank": "6☠ Ascendente",
+           "name": "Ben Koksberg",
+           "rank": "7☠ Preferido",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
@@ -64,18 +57,18 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {
+           "name": "Felix Sack",
+           "rank": "6☠ Ascendente",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+        },
+        {
            "name": "Daniel Gremory",
            "rank": "5☠ El Asociado",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/#wall"
-        },
-        {
-           "name": "Felix Sack",
-           "rank": "5☠ El Asociado",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         },
         {
            "name": "Ben Voight",
@@ -85,8 +78,8 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd/"
         },
         {
-           "name": "Rüdiger Waldmeier",
-           "rank": "4☠ Amigo",
+           "name": "Leon Van Kliev",
+           "rank": "5☠ El Asociato",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
@@ -100,20 +93,6 @@
         },
         {
            "name": "John Anime",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
-        },
-        {
-           "name": "Rüdiger Waldmeier",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
-        },
-        {
-           "name": "Leon Van Kliev",
            "rank": "4☠ Amigo",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
