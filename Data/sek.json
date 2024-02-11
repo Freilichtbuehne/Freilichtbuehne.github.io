@@ -23,17 +23,24 @@
         },
         {
             "name": "Blue 42",
-            "rank": "12✪ Brigardegeneral",
+            "rank": "13✪ Generalmajor",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/" 
         },
         {
             "name": "Salzi 44",
-            "rank": "11✪ Oberst",
-            "highlight": false,
+            "rank": "12✪ Brigadegeneral",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/" 
+        },
+        {
+            "name": "Mamba 17",
+            "rank": "12✪ Brigadegeneral",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/" 
         },
         {
             "name": "Pulse 90",
@@ -43,53 +50,40 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/" 
         },
         {
-            "name": "Mamba 17",
-            "rank": "10✪ Major",
+            "name": "Buck 30",
+            "rank": "9✪ Stabshauptmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/" 
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
         },
         {
             "name": "Cat 808",
             "rank": "8✪ Oberleutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/" 
-        },
-        {
-            "name": "Buck 30",
-            "rank": "8✪ Oberleutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/" 
-        },
-        {
-            "name": "Kerberos 52",
-            "rank": "7✪ Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/" 
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
         },
         {
             "name": "Lenco 15",
-            "rank": "7✪ Leutnant",
+            "rank": "8✪ Oberleutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-toast/" 
         },
         {
-            "name": "Kebab 68",
-            "rank": "6✪ Feldwebel",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer07/"
-        },
-        {
             "name": "Quest 72",
-            "rank": "6✪ Feldwebel",
+            "rank": "8✪ Oberleutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
+        },
+        {
+            "name": "Centurio 52",
+            "rank": "7✪ Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/" 
+       
         },
         {
             "name": "Rox 49",
@@ -100,31 +94,38 @@
         },
         {
             "name": "Senf 95",
-            "rank": "5✪ Unteroffizier",
+            "rank": "6✪ Feldwebel",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": ""
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/da/72950-da0e6340373d3c731aeb3b425b7b7a0acd503a4e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
             "name": "Dunkelwolf",
             "rank": "5✪ Unteroffizier",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": ""
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/#wall"
         },
         {
             "name": "Iron 909",
             "rank": "5✪ Unteroffizier",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": ""
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2833-zaree/"
         },
         {
-            "name": "Alucard 777",
+            "name": "Snow 34",
             "rank": "5✪ Unteroffizier",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": ""
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/62841-35aa754bf716cd634daa3af2240448ebb0fe9d75.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2796-claudia-faller/"
+        },
+        {
+            "name": "Area 51",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/64/72896-64421bfe58a281538bd286c2da9afa1bfb6d8f72.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd/"
         }
     ]
 }
