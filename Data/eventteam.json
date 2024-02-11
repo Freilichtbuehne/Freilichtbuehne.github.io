@@ -1,7 +1,7 @@
 {
     "members": [
         {
-            "name": "Adrian",
+            "name": "Adrian Monk",
             "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/22719-8203607c210e7d19b6187ecedd6fc888d722c55a.webp",
@@ -23,8 +23,8 @@
         },
         {
             "name": "Klaus Klops",
-            "rank": "Management",
-            "highlight": false,
+            "rank": "true",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
         },
@@ -43,21 +43,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {
-            "name": "Josef Braun",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/4968-bb35f54203fb1a4a0f217f3623a1a4d2af641945.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1108-grandpajosef/#wall"
-        },
-        {
-            "name": "Norbert Hellmann",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/36/10787-36129cae313ee1880ec76c71e9489e2c011b16ae.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1802-ron/"
-        },
-        {
-            "name": "Odin",
+            "name": "Odin Klops",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/65/45703-650054c9612571128d8fa345cc80ab2a6a29e641.gif",
@@ -76,13 +62,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
-        },
-         {
-            "name": "Jerry Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fb/12690-fb24a74985d261a813419540e619aa57c7a5a26d.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-robinator/"
         },
         {
             "name": "Maurice Ball",
