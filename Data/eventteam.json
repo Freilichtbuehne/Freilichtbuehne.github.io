@@ -8,11 +8,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         },
         {
-            "name": "Hans Schneider",
-            "rank": "Stv. Leitung",
+            "name": "Klaus Klops",
+            "rank": "Stellv. Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
         },
         {
             "name": "Siegbert Schnößel",
@@ -20,13 +20,6 @@
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flufffyy2/"
-        },
-        {
-            "name": "Klaus Klops",
-            "rank": "Management",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
         },
         {
             "name": "Hanz Voight",
@@ -39,7 +32,7 @@
             "name": "Walter Forte",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/78346-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {
@@ -48,13 +41,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/65/45703-650054c9612571128d8fa345cc80ab2a6a29e641.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/"
-        },
-        {
-            "name": "Ben Koksberg",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/71106-607eb303c94f04418aaa181cf8cd205ddee7bce8.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
             "name": "Marlon Brand",
@@ -76,6 +62,41 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": ""
+        },
+        {
+            "name": "Albert Reznov",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/8203-29b7f985c31fc7a982c555fca4a640bb04dc191c.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2305-stoney/"
+        },
+        {
+            "name": "Heinz Peters",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2c/78355-2c1fc787972878e340d837aceef6b79cecdd617c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2693-colossalcloth79/"
+         },
+        {
+            "name": "Felix Sack",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg"
+        },
+        {
+            "name": "Ronny Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1c/8123-1c8cd824ab5adf976c3c4c6a2fe113c68390a370.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
+        },
+        {
+            "name": "jonathan Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         }
     ]
 }
