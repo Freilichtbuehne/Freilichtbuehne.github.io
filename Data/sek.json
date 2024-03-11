@@ -58,10 +58,17 @@
         },
         {
             "name": "Cat 808",
-            "rank": "8✪ Oberleutnant",
+            "rank": "9✪ Stabshauptmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
+        },
+        {
+            "name": "Quest 72",
+            "rank": "9✪ Stabshauptmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
         },
         {
             "name": "Lenco 15",
@@ -71,23 +78,8 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-toast/" 
         },
         {
-            "name": "Quest 72",
-            "rank": "8✪ Oberleutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
-        },
-        {
-            "name": "Centurio 52",
-            "rank": "7✪ Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/" 
-       
-        },
-        {
             "name": "Rox 49",
-            "rank": "6✪ Feldwebel",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ce/68994-ced1d725d619cd40919cf641354179efef0fb10c.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1534-rox/"
@@ -100,18 +92,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
-            "name": "Dunkelwolf",
-            "rank": "5✪ Unteroffizier",
+            "name": "Dunkelwolf 40",
+            "rank": "6✪ Feldwebel",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/#wall"
-        },
-        {
-            "name": "Iron 909",
-            "rank": "5✪ Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2833-zaree/"
         },
         {
             "name": "Snow 34",
@@ -126,6 +111,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/64/72896-64421bfe58a281538bd286c2da9afa1bfb6d8f72.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd/"
+        },
+        {
+            "name": "Caveira 154",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d4/78511-d4298cf0d86cd1a7d0b03fdc02ff3b0ea9d07b1e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         }
     ]
 }
