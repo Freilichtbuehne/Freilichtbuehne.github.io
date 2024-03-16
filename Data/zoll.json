@@ -4,7 +4,7 @@
             "name": "Siegbert Schnößel",
             "rank": "15★ Zoll-Präsident",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/79321-6d2a2840f4a078386ff9427d721f98c1ca0ded48.jpg5",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flungymungy/"
         },
         {
@@ -18,56 +18,49 @@
             "name": "Walter Forte",
             "rank": "13★ Regierungsdirektor",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/79341-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {
-            "name": "Josef Braun",
-            "rank": "11★ Regierungsrat",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bb/4968-bb35f54203fb1a4a0f217f3623a1a4d2af641945.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1108-grandpajosef/"
-        },
-        {
-            "name": "Hanz Voight",
-            "rank": "9★ Zollamtsrat",
+            "name": "Jonathan Klops",
+            "rank": "10★ Zolloberamtsrat",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-toast/"
+        },
+        {
+            "name": "Hanz Salzbergwerk",
+            "rank": "9★ Zollamtsrat",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/02/79351-022de1be31e6b1acabf045d3c2f08857a3a85bd8.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
         },
         {
             "name": "Heinz Peters",
             "rank": "9★ Zollamtsrat",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": ""
-        },
-        {
-            "name": "Jonathan Klops",
-            "rank": "9★ Zollamtsrat",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-toast/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2c/79350-2c1fc787972878e340d837aceef6b79cecdd617c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2693-colossalcloth79/"
         },
         {
             "name": "Franz Klops",
             "rank": "8★ Zollamtmann",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/97/79362-97d22bf3962c9bf9d43303859b62e20d567ccf2e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2781-ben1202/"
         },
         {
             "name": "Mark Winkler",
-            "rank": "7★ Zolloberinspektor",
+            "rank": "8★ Zollamtmann",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/79324-0a0c163777e8d2952c6a65cfa88d6ac0985b6696.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2608-mark-winkler/"
         },
         {
-            "name": "Ben Koslovski",
-            "rank": "7★ Zolloberinspektor",
+            "name": "Ben Koksberg",
+            "rank": "8★ Zollamtmann",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/26/79295-260c90f5164f9db6b1b30cfb7ef68d6f17557d64.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
@@ -78,6 +71,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1922-stegano3/"
         },
         {
+            "name": "Holger Buddel",
+            "rank": "7★ Zolliobernspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/98/72218-9880bb77ae6c8ac9b1afa932337e1e9a98ec76ec.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-rezartspc/"
+        },
+        {
             "name": "Jake Reudner",
             "rank": "6★ Zollinspektor",
             "highlight": false,
@@ -85,18 +85,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2925-inspectortrolo/"
         },
         {
-            "name": "Holger Buddel",
-            "rank": "6★ Zollinspektor",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/98/72218-9880bb77ae6c8ac9b1afa932337e1e9a98ec76ec.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-rezartspc/"
-        },
-        {
             "name": "Herrmann Joel",
             "rank": "6★ Zollinspektor",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2919-konstopolis/#about"
+        },
+        {
+            "name": "Maurice Ball",
+            "rank": "6★ Zollinspektor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/da/79389-da0e6340373d3c731aeb3b425b7b7a0acd503a4e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         
         }
     ]
