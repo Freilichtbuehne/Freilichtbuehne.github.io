@@ -24,13 +24,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
        },
        {
-           "name": "Tristen Harrison 11",
-           "rank": "12★ Polizeidirektor",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/26258-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
-       },
-       {
            "name": "Klaus Klops 72",
            "rank": "12★ Polizeidirektor",
            "highlight": false,
@@ -114,8 +107,7 @@
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
-        },
-        
+        },  
         {
            "name": "Jonathan Toast 15",
            "rank": "8★ Polizeihauptkommissar",
@@ -131,18 +123,18 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
         },
         {
-           "name": "Noah Land",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/7315-f990b01c2f68956d30d8a0f3ff622dad7a358c45.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1816-noah/"
-        },
-        {
          "name": "Marlon Sabitch",
          "rank": "8★ Polizeihauptkommissar",
          "highlight": false,
          "picture": "https://www.goldphoenix.de/wcf/images/avatars/b3/46552-b397cd1cbb3d8bfaabd882571eb5c9503591e36d.webp",
          "profile": "https://www.goldphoenix.de/wcf/index.php?user/2788-bmk-bund/"
+      },
+      {
+         "name": "Jake Klops",
+         "rank": "8★ Polizeihauptkommissar",
+         "highlight": false,
+         "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+         "profile": "https://www.goldphoenix.de/wcf/index.php?user/2925-inspectortrolo/"
       } 
     ]
 }
