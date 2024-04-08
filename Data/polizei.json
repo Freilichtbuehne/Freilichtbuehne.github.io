@@ -52,7 +52,7 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
         },
         {
-           "name": "Siegbert Schnößel",
+           "name": "Siegbert Schnößel 99",
            "rank": "11★ Polizeioberrat",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/76032-6d2a2840f4a078386ff9427d721f98c1ca0ded48.jpg",
@@ -73,7 +73,14 @@
          "profile": "https://www.goldphoenix.de/wcf/index.php?user/2796-claudia-faller/"
       },
       {
-         "name": "Walter Forte",
+         "name": "Walter Forte 17",
+         "rank": "10★ Polizeirat",
+         "highlight": false,
+         "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/76052-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
+         "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
+        },
+      {
+         "name": "Ronny Klops 04",
          "rank": "10★ Polizeirat",
          "highlight": false,
          "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/76052-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
@@ -87,7 +94,7 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
         },
         {
-         "name": "Santiago Heinrich",
+         "name": "Santiago Heinrich 49",
          "rank": "9★ Erster Polizeihauptkommissar",
          "highlight": false,
          "picture": "https://www.goldphoenix.de/wcf/images/avatars/ce/68994-ced1d725d619cd40919cf641354179efef0fb10c.webp",
@@ -99,42 +106,55 @@
          "highlight": false,
          "picture": "https://www.goldphoenix.de/wcf/index.php?user/2781-ben1202/",
          "profile": "hhttps://www.goldphoenix.de/wcf/images/avatars/97/76073-97d22bf3962c9bf9d43303859b62e20d567ccf2e.jpg"
-      },
-
-        {
-           "name": "Jerry Klops 322",
-           "rank": "8★ Polizeihauptkommissar",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         },  
         {
-           "name": "Jonathan Toast 15",
-           "rank": "8★ Polizeihauptkommissar",
+           "name": "Jonathan Klops 15",
+           "rank": "9★ Erster Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
         {
-           "name": "Mika Salzbergwerk",
+           "name": "Mika Salzbergwerk 90",
            "rank": "8★ Polizeihauptkommissar",
            "highlight": false,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/71076-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
         },
         {
-         "name": "Marlon Sabitch",
+         "name": "Marlon Sabitch 501",
          "rank": "8★ Polizeihauptkommissar",
          "highlight": false,
          "picture": "https://www.goldphoenix.de/wcf/images/avatars/b3/46552-b397cd1cbb3d8bfaabd882571eb5c9503591e36d.webp",
          "profile": "https://www.goldphoenix.de/wcf/index.php?user/2788-bmk-bund/"
       },
       {
-         "name": "Jake Klops",
+         "name": "Jake Klops 74",
          "rank": "8★ Polizeihauptkommissar",
          "highlight": false,
          "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
          "profile": "https://www.goldphoenix.de/wcf/index.php?user/2925-inspectortrolo/"
+        },
+      {
+         "name": "Leon Jäger 53",
+         "rank": "8★ Polizeihauptkommissar",
+         "highlight": false,
+         "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/84206-0d98b44aacb719f093ef7bb66df845ad103d4a30.jpg",
+         "profile": "https://www.goldphoenix.de/wcf/index.php?user/2379-lendo/"
+        },
+      {
+         "name": "Samuel Klops 12",
+         "rank": "8★ Polizeihauptkommissar",
+         "highlight": false,
+         "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/12594-9c6c2fb22c3ecf245560f576634607cbc882d9a3.webp",
+         "profile": "https://www.goldphoenix.de/wcf/index.php?user/2493-samuel-klops/"
+        },
+      {
+         "name": "Adrian Sefjec 56",
+         "rank": "8★ Polizeihauptkommissar",
+         "highlight": false,
+         "picture": "https://www.goldphoenix.de/wcf/images/avatars/a6/84326-a6a5222d93c06171225e62cac9833dc9e150247b.jpg",
+         "profile": "https://www.goldphoenix.de/wcf/index.php?user/2997-gpx-adrian/"
       } 
     ]
 }
