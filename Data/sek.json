@@ -86,7 +86,7 @@
         },
         {
             "name": "Senf 95",
-            "rank": "6✪ Feldwebel",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/da/72950-da0e6340373d3c731aeb3b425b7b7a0acd503a4e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
@@ -118,6 +118,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d4/78511-d4298cf0d86cd1a7d0b03fdc02ff3b0ea9d07b1e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
+            "name": "Apache 207",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8c/84703-8c15418cd712b62e979e48b9e413b729bc392ff0.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2627-harry-potter-saulus/"
+        },
+        {
+            "name": "Lendo 53",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/84649-0d98b44aacb719f093ef7bb66df845ad103d4a30.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2379-lendo/"
         }
     ]
 }
