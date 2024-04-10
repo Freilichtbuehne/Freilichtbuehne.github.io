@@ -1,39 +1,11 @@
 {
     "members": [
         {    
-            "name": "Hans Schneider",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"        
-        },
-        {    
             "name": "Hanz Salzbergwerk",
-            "rank": "stellvertretende Leitung",
+            "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/#wall"
-        },
-        {    
-            "name": "--zu Vergeben--",
-            "rank": "Manager",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
-        },
-        {    
-            "name": "Ronny von Heisenberg",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1c/8123-1c8cd824ab5adf976c3c4c6a2fe113c68390a370.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
-        {    
-            "name": "Marlon Brand",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
         },
         {    
             "name": "Dr.Walter Forte",
@@ -43,6 +15,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {    
+            "name": "Marlon Brand",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
+        },
+        {    
             "name": "Felix Sack",
             "rank": "Mitglied",
             "highlight": false,
@@ -50,7 +29,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
         },
         {    
-            "name": "Jonathan Toast",
+            "name": "Jonathan Klops",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/index.php?panel/",
@@ -60,8 +39,8 @@
             "name": "Jerry Klops",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fb/12690-fb24a74985d261a813419540e619aa57c7a5a26d.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-robinator/"
         },
         {    
             "name": "Ben Voight",
@@ -69,13 +48,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/64/72692-64421bfe58a281538bd286c2da9afa1bfb6d8f72.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd//"
-        },
-        {    
-            "name": "Franko Giovanni Falzone",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a6/70997-a68bcce394d631b7681f0a175092560a9ff86306.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/818-franko56848/"
         },
         {    
             "name": "Maurice Ball",
@@ -90,6 +62,62 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/72761-0a0c163777e8d2952c6a65cfa88d6ac0985b6696.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2608-mark-winkler/"
+        },
+        {    
+            "name": "Frank Neuhausen",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4e/84772-4efb75913388f6c29ec6298598afe20d3bfe60f6.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3013-markgraf/"
+        },
+        {
+            "name": "Ben Koksberg",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d4/78511-d4298cf0d86cd1a7d0b03fdc02ff3b0ea9d07b1e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"   
+        },
+        {
+            "name": "Adrian Sefjec",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a6/84771-a6a5222d93c06171225e62cac9833dc9e150247b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2997-gpx-adrian/"
+        },
+        {
+            "name": "Quazim Najim",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/84654-2955d2f4934a9afc70eff2d8c8d8fbfab74c2e28.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2413-joanlorcan/"
+        },
+        {
+            "name": "Rick Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/84631-0a8122dc577607b9f329ac671511a0f827d05757.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
+        },
+        {
+            "name": "Andrew Tate",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/84573-45a6482d9a2ac3ab8e2f1ef64340046e3cb7a4ff.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-tate/"
+        },
+        {
+            "name": "Ben Wurst",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7b/84680-7b0b0b5ec3b6793cc170c8271f4ae60a51dcd1a6.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2537-samet/"
+        },
+        {
+            "name": "Max Willis",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7b/84680-7b0b0b5ec3b6793cc170c8271f4ae60a51dcd1a6.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2537-samet/"
         }
     ]
 }
