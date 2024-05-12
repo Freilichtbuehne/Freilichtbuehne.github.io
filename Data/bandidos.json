@@ -1,31 +1,17 @@
 {
     "members": [
        {
-           "name": "Cracky Koksberg",
+           "name": "Khabib Sokolow",
            "rank": "15☠ Patron",
            "highlight": true,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/10969-3ca2cb4fa6ac197c2c08efbf8e6c7f78176eca95.webp",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2240-peppschnueffler/"
-       },
-       {
-           "name": "Khabib Sokolow",
-           "rank": "14☠ Don",
-           "highlight": true,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/25/41979-2586dac66b24b2093034efeab81a02a53eea5427.webp",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/3f/74053-3f3aebf57c48bdab05cd936cf81a8952f2e29450.webp",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
-        },
-       {
-           "name": "Dieter Chavez",
-           "rank": "10☠ Diputado",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/61/84936-61508d6a5161e28b5e5573b02edb71f6e049e8ae.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2673-fynnnth13/#wall"
-        },
+       },
        {
            "name": "Hanz Salzbergwerk",
            "rank": "10☠ Diputado",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/02/84944-022de1be31e6b1acabf045d3c2f08857a3a85bd8.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/91835-84a243eeba01d4f63b7416397b0f77af1b5e1df6.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
        },
        {
@@ -36,6 +22,13 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2477-olaf-merkel/"
        },
        {
+           "name": "Felix Sack",
+           "rank": "8☠ Companero",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
+       },
+       {
            "name": "Gustavo Salz",
            "rank": "7☠ Preferido",
            "highlight": false,
@@ -43,17 +36,10 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2480-noname-ger/"
         },
         {
-           "name": "Felix Sack",
-           "rank": "7☠ Preferido",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
-        },
-        {
            "name": "Walter Forte",
            "rank": "6☠ Ascendente",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/84934-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/91825-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {
@@ -63,6 +49,20 @@
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd/"
         },
+         {
+           "name": "Ben Wurst",
+           "rank": "6☠ Ascendente",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/87426-b406e72acfddad806e9d5e9ef0070e32fdab8421.webp",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2537-samet/"
+        },
+        {
+           "name": "Sanchez Can",
+           "rank": "5☠ Ascendente",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/91847-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
+        },
         {
            "name": "Daniel Gremory",
            "rank": "5☠ El Asociado",
@@ -71,60 +71,25 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
         },
         {
-           "name": "Ben Wurst",
-           "rank": "5☠ El Asociato",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/7b/84901-7b0b0b5ec3b6793cc170c8271f4ae60a51dcd1a6.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2537-samet/"
-        },
-        {
-           "name": "Leo Bohg",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2370-leogamer3400/#wall"
-        },
-        {
-           "name": "Sanchez Can",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/84956-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
-        },
-        {
            "name": "Emin Can",
-           "rank": "4☠ Amigo",
+           "rank": "5☠ Al Asociado",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/84957-695382e9bb258d675531d40844891b75b501fb61.jpg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/91848-695382e9bb258d675531d40844891b75b501fb61.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2790-emin/"
-        },
-        {
-           "name": "Marter Rothdauscher",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de"
-        },
-        {
-           "name": "Willi Warmduscher",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2983-seeking1ghost/"
-        },
-        {
-           "name": "Ricardo Rothdauscher",
-           "rank": "4☠ Amigo",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/3007-salkin1324/"
         },
         {
            "name": "Ediumz Ackermann",
            "rank": "4☠ Amigo",
            "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/91694-4ffd770be0181cca89af0698227fed1afb64be18.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1785-ediumz/"
+        },
+        {
+           "name": "Maurice Reznov",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/da/91792-da0e6340373d3c731aeb3b425b7b7a0acd503a4e.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         }
     ]
 }
