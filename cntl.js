@@ -19,81 +19,77 @@ function load(page) {
     let url;
 
     switch (page) {
-        case 1:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/team.json";
-            rpSection = false;
-            break;
         case 2:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/bewerbungsteam.json";
+            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/bewerbungsteam.json";
             rpSection = false;
             break;
         case 3:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/eventteam.json";
+            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/eventteam.json";
             rpSection = false;
             break;
         case 4:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/teammanagement.json";
+            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/teammanagement.json";
             rpSection = false;
             break;
         case 5:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/rpunit.json";
+            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/rpunit.json";
             rpSection = false;
             break;
         case 6:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/communityorganizer.json";
+            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/communityorganizer.json";
             rpSection = false;
             break;
         case 7:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/polizei.json";
+            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/polizei.json";
             rpSection = true;
             ClearSubBox();
             ClearPageBox();
             setActive(rpids[page]);
             break;
         case 9:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/feuerwehr.json";
+            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/feuerwehr.json";
             rpSection = true;
             ClearSubBox();
             ClearPageBox();
             setActive(rpids[page]);
             break;
         case 10:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/fahrschule.json";
+            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/fahrschule.json";
             rpSection = true;
             ClearSubBox();
             ClearPageBox();
             setActive(rpids[page]);
             break;
         case 11:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/sek.json";
+            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/sek.json";
             rpSection = true;
             ClearSubBox();
             ClearPageBox();
             setActive(rpids[page]);
             break;
         case 12:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/bandidos.json";
+            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/bandidos.json";
             rpSection = true;
             ClearSubBox();
             ClearPageBox();
             setActive(rpids[page]);
             break;
          case 13:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/sani.json";
+            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/sani.json";
             rpSection = true;
             ClearSubBox();
             ClearPageBox();
             setActive(rpids[page]);
             break;
           case 14:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/arzt.json";
+            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/arzt.json";
             rpSection = true;
             ClearSubBox();
             ClearPageBox();
             setActive(rpids[page]);
             break;
            case 15:
-            url = "https://raw.githubusercontent.com/Uschipanzer/UschiPanzer.github.io/master/Data/zoll.json";
+            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/zoll.json";
             rpSection = true;
             ClearSubBox();
             ClearPageBox();
@@ -172,6 +168,9 @@ function newElement(url, name, highlight, index, text, profile) {
     document.getElementById(index).appendChild(t).id = "text" + index;
 
     document.getElementById("img" + index).src = url;
+    document.getElementById("img" + index).onerror = function() {
+        this.src = 'https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg';
+    };
     document.getElementById("img" + index).addEventListener('click', function() {
         OpenURL(profile);
     });
@@ -232,7 +231,7 @@ function processData(value) {
         }
         if (curMembers.members.length >= showPageUpEntrys) {
             ShowScrollToTop(true);
-        }
+        }xs
     }
 }
 
