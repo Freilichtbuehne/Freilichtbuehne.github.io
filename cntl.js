@@ -231,7 +231,7 @@ function processData(value) {
         }
         if (curMembers.members.length >= showPageUpEntrys) {
             ShowScrollToTop(true);
-        }xs
+        }
     }
 }
 
