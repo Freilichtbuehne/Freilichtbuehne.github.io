@@ -36,13 +36,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
         },
         {
-            "name": "Phelios Stammtisch",
-            "rank": "Fahrlehrer",
-            "highlight": false,
-            "picture": "https://i.ibb.co/KskXJXR/17525-67367e1d77cfa29207f26b553ac59fa01806818e.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1766-luke/"
-        },
-        {
             "name": "Norbert Hellmann",
             "rank": "Fahrlehrer",
             "highlight": false,
@@ -132,6 +125,34 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/da/71120-da0e6340373d3c731aeb3b425b7b7a0acd503a4e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
+        },
+        {
+            "name": "Franko Giovanni Falzone",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": ""
+        },
+        {
+            "name": "Tobias Gehring",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": ""
+        },
+         {
+            "name": "Jannik Schmidt",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": ""
+        },
+        {
+            "name": "Siegbert Schnößel",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": ""
         }
     ]
 }
