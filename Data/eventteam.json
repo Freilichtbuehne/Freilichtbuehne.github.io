@@ -22,46 +22,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flufffyy2/"
         },
         {
-            "name": "Hanz Voight",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
-        },
-        {
             "name": "Walter Forte",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/91825-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
-        },
-        {
-            "name": "Odin Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6b/79609-6b25269bd953c3b3777eda4295238529cf419a79.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/"
-        },
-        {
-            "name": "Marlon Brand",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/6890-b4fe7f766c9471c3f83d5bbab739fdc7eee799e9.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
-        },
-        {
-            "name": "Maurice Ball",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/da/91792-da0e6340373d3c731aeb3b425b7b7a0acd503a4e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
-        },
-        {
-            "name": "Franz Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": ""
         },
         {
             "name": "Albert Reznov",
@@ -78,13 +43,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2693-colossalcloth79/"
          },
         {
-            "name": "Felix Sack",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg"
-        },
-        {
             "name": "Ronny Klops",
             "rank": "Mitglied",
             "highlight": false,
@@ -97,6 +55,41 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
+        },
+        {
+            "name": "Sebastian Feinstaub",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8f/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
+        {
+            "name": "Rick Rich Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "",
+            "profile": ""
+        },
+        {
+            "name": "Markus Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "",
+            "profile": ""
+        },
+        {
+            "name": "Adrian Sefjec",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "",
+            "profile": ""
+        },
+        {
+            "name": "Jonathan Pflanzenburg ",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "",
+            "profile": ""
         }
     ]
 }

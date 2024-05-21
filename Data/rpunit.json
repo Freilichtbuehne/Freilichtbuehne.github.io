@@ -22,13 +22,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
         },
         {
-            "name": "Tristano",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/40/26258-40f6ea896cb9a9e8e62aeba34ea326d22769f48a.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2027-tristano/"
-        },
-        {
            "name": "Michael Melone",
            "rank": "Mitglied",
            "highlight": false,
@@ -57,13 +50,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
        },
        {
-           "name": "Leo Salzbergwerk",
-           "rank": "Mitglied",
-           "highlight": false,
-           "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/72736-23920479375db694229698e58c9a73710879f242.jpg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
-       },
-       {
            "name": "Heinz Peters",
            "rank": "Mitglied",
            "highlight": false,
@@ -84,20 +70,13 @@
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
         },
-        {  
-            "name": "Walter Forte",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/91825-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
-        },
         {
-            "name": "Hans Schneider",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
+           "name": "Franz Klops",
+           "rank": "Mitglied",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
+        }
 
-       }
     ]
 }
