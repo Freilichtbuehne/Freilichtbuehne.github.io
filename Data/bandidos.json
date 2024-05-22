@@ -10,7 +10,7 @@
        {
            "name": "Hanz Salzbergwerk",
            "rank": "14☠ Don",
-           "highlight": false,
+           "highlight": true,
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/91835-84a243eeba01d4f63b7416397b0f77af1b5e1df6.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
        },
@@ -49,13 +49,6 @@
            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd/"
         },
-        {
-         "name": "Sanchez Can",
-         "rank": "7☠ Preferido",
-         "highlight": false,
-         "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/91847-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
-         "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
-      },
          {
            "name": "Ben Wurst",
            "rank": "6☠ Ascendente",
@@ -112,5 +105,25 @@
          "picture": "",
          "profile": ""
       }
+           "name": "Donalt Obama",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/91694-4ffd770be0181cca89af0698227fed1afb64be18.jpg",
+           "profile": "https://www.goldphoenix.de"
+        },
+        {
+           "name": "Mark da Massando",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/91694-4ffd770be0181cca89af0698227fed1afb64be18.jpg",
+           "profile": "https://www.goldphoenix.de"
+        },
+        {
+           "name": "Ricardo Rothdauscher",
+           "rank": "4☠ Amigo",
+           "highlight": false,
+           "picture": "https://www.goldphoenix.de/wcf/images/avatars/da/91792-da0e6340373d3c731aeb3b425b7b7a0acd503a4e.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/3007-salkin1324/"
+        }
     ]
 }
