@@ -57,6 +57,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
+            "name": "Dr. Ben Melone",
+            "rank": "VI Oberlöschmeister",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
             "name": "Tristen Harrison",
             "rank": "V Löschmeister",
             "highlight": false,
@@ -69,20 +76,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/22239-23fce6a01538d08e8e6f3f8f404e7e51c104c961.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1126-nockray5yt/"
-        },
-        {
-            "name": "Ben Koslovski",
-            "rank": "V Löschmeister",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
-        },
-        {
-            "name": "Thorge Heinzmann",
-            "rank": "V Löschmeister",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/71188-7362e27676d1a8cfaa650b36525fbcd23a995662.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2855-gameplayhoch4/"
         },
         {
             "name": "Alexander Gerst",
@@ -111,7 +104,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
-       
+        },
+        {
+            "name": "Franz Klops",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "",
+            "profile": ""
         }
     ]
 }

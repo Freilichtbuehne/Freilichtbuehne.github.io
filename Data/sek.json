@@ -29,18 +29,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/" 
         },
         {
-            "name": "Salzi 44",
-            "rank": "12✪ Brigadegeneral",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/" 
-        },
-        {
             "name": "Mamba 17",
             "rank": "12✪ Brigadegeneral",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/84934-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/" 
+        },
+        {
+            "name": "Salzi 44",
+            "rank": "11✪ Oberst",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/" 
         },
         {
             "name": "Pulse 90",
@@ -99,6 +99,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/#wall"
         },
         {
+            "name": "Bautzener 21",
+            "rank": "6✪ Feldwebel",
+            "highlight": false,
+            "picture": "",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1351-vincent/"
+        },
+        {
             "name": "Snow 34",
             "rank": "5✪ Unteroffizier",
             "highlight": false,
@@ -106,32 +113,16 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2796-claudia-faller/"
         },
         {
-            "name": "Area 51",
+            "name": "Look 25",
             "rank": "5✪ Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/64/84844-64421bfe58a281538bd286c2da9afa1bfb6d8f72.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd/"
+            "picture": "",
+            "profile": ""
         },
         {
-            "name": "Caveira 154",
+            "name": "snowing 13",
             "rank": "5✪ Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/26/84885-260c90f5164f9db6b1b30cfb7ef68d6f17557d64.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
-        },
-        {
-            "name": "Apache 207",
-            "rank": "5✪ Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8c/84924-8c15418cd712b62e979e48b9e413b729bc392ff0.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2627-harry-potter-saulus/"
-        },
-        {
-            "name": "Lendo 53",
-            "rank": "5✪ Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/84870-0d98b44aacb719f093ef7bb66df845ad103d4a30.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2379-lendo/"
-        }
-    ]
+            "picture": "",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1463-crypton/"
+        }    
+     ]
 }
