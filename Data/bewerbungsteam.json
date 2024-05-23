@@ -1,67 +1,67 @@
 {
-   "members":[
-   {
-            "name":"Chrisskross",
-            "rank":"Leitung",
-            "highlight":true,
-            "picture":"https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
-            "profile":"https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
-      },
-      {
+    "members": [
+        {
+            "name": "Chrisskross",
+            "rank": "Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
+        },
+        {
             "name": "Sebastian",
             "rank": "Stv. Leitung",
             "highlight": true,
             "picture": "https://i.ibb.co/NYmLQCF/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
-      },
-      {
+        },
+        {
             "name": "Apple",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
-      },
-      {
+        },
+        {
             "name": "Nick Santos",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/7248-5ddf1a14be6a01af55a682ea178727ea320839d1.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
-      },
-      {
+        },
+        {
             "name": "Jessy Salzbergwerk",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
-      },
-      {
+        },
+        {
             "name": "Siegbert Schnößel",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flufffyy2/"
-      },
-      {
+        },
+        {
             "name": "Michael Melone",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
-      },
-      {
+        },
+        {
             "name": "Klaus Klops",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
-      },
-      {
+        },
+        {
             "name": "Mika Salzbergwerk",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/91746-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/94218-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
-      }
-   ]
+        }
+    ]
 }
