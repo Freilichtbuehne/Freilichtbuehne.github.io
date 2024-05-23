@@ -9,6 +9,23 @@ const rpids = {
     15: "zoll",
 }
 
+const urls = {
+    2: "bewerbungsteam.json",
+    3: "eventteam.json",
+    4: "teammanagement.json",
+    5: "rpunit.json",
+    6: "communityorganizer.json",
+    7: "polizei.json",
+    9: "feuerwehr.json",
+    10: "fahrschule.json",
+    11: "sek.json",
+    12: "bandidos.json",
+    13: "sani.json",
+    14: "arzt.json",
+    15: "zoll.json",
+    16: "communitybuilder.json",
+}
+
 const maxEntrys = 10;
 const showPageUpEntrys = 8;
 var curMembers;
@@ -16,90 +33,29 @@ var rpSection;
 
 
 function load(page) {
+    let baseURL = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/"
     let url;
+    // check if page exists
+    if (urls[page]){
+        // concat url with base url
+        url = baseURL + urls[page];
 
-    switch (page) {
-        case 2:
-            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/bewerbungsteam.json";
+        // check if page is a rp fraction
+        if (rpids[page]){
+            rpSection = true;
+            ClearSubBox();
+            ClearPageBox();
+            setActive(rpids[page]);
+        }
+        else {
             rpSection = false;
-            break;
-        case 3:
-            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/eventteam.json";
-            rpSection = false;
-            break;
-        case 4:
-            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/teammanagement.json";
-            rpSection = false;
-            break;
-        case 5:
-            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/rpunit.json";
-            rpSection = false;
-            break;
-        case 6:
-            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/communityorganizer.json";
-            rpSection = false;
-            break;
-        case 7:
-            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/polizei.json";
-            rpSection = true;
-            ClearSubBox();
-            ClearPageBox();
-            setActive(rpids[page]);
-            break;
-        case 9:
-            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/feuerwehr.json";
-            rpSection = true;
-            ClearSubBox();
-            ClearPageBox();
-            setActive(rpids[page]);
-            break;
-        case 10:
-            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/fahrschule.json";
-            rpSection = true;
-            ClearSubBox();
-            ClearPageBox();
-            setActive(rpids[page]);
-            break;
-        case 11:
-            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/sek.json";
-            rpSection = true;
-            ClearSubBox();
-            ClearPageBox();
-            setActive(rpids[page]);
-            break;
-        case 12:
-            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/bandidos.json";
-            rpSection = true;
-            ClearSubBox();
-            ClearPageBox();
-            setActive(rpids[page]);
-            break;
-         case 13:
-            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/sani.json";
-            rpSection = true;
-            ClearSubBox();
-            ClearPageBox();
-            setActive(rpids[page]);
-            break;
-          case 14:
-            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/arzt.json";
-            rpSection = true;
-            ClearSubBox();
-            ClearPageBox();
-            setActive(rpids[page]);
-            break;
-           case 15:
-            url = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/zoll.json";
-            rpSection = true;
-            ClearSubBox();
-            ClearPageBox();
-            setActive(rpids[page]);
-            break;
-        default:
-            ClearPageBox();
-            loadingError("Ladefehler");
+        }
     }
-
+    else{
+        ClearPageBox();
+        loadingError("Ladefehler");
+    }
+    
     fetch(url)
         .then(response => response.json())
         .then(data => {
