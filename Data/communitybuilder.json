@@ -1,11 +1,60 @@
 {
     "members": [
         {    
-            "name": "TODO",
-            "rank": "TODO",
+            "name": "Klaus Klops",
+            "rank": "Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/"
+            "picture": "https://avatars.cloudflare.steamstatic.com/601f81817abb7b52726fdb3145d850e67d6bd3b6_full.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
+        },
+        {
+            "name": "Siegbert Schnößel",
+            "rank": "Stellv. Leitung",
+            "highlight": true,
+            "picture": "https://avatars.cloudflare.steamstatic.com/87de579f2abe18d51bd787fb511330833ec4e890_full.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flungymungy/"
+        },
+        {
+            "name": "Walter Forte",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://avatars.cloudflare.steamstatic.com/7d2736bf3b44a7a4e4a189378ed4ec82fa3c174b_full.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
+        },
+        {
+            "name": "Franz Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://avatars.cloudflare.steamstatic.com/b07be9c407332a48e1a74ab916be24b7867434a4_full.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2781-ben1202/"
+        },
+        {
+            "name": "Ben Monk",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://avatars.cloudflare.steamstatic.com/8fd2eb627b77a0b6f621c7763f92f8d57fcf79de_full.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
+            "name": "Elias Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://avatars.cloudflare.steamstatic.com/cc50a045e3680737d70cb760a976011fe05d84d6_full.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3014-gpx-eliasjeeea/"
+        },
+        {
+            "name": "Leon Jäger",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://avatars.cloudflare.steamstatic.com/a9851299065581f8bc309c8d111bd17be6274722_full.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2379-lendo/"
+        },
+        {
+            "name": "Rick Rich Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://avatars.cloudflare.steamstatic.com/b07be9c407332a48e1a74ab916be24b7867434a4_full.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2781-ben1202/"
         }
     ]
 }
