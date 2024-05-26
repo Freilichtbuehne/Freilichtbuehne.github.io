@@ -4,22 +4,22 @@
             "name": "Hanz Salzbergwerk",
             "rank": "Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "picture": "https://avatars.cloudflare.steamstatic.com/544416e47f855cd2ebec70d3231e18dd9fcb04f8_full.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/#wall"
-        },
-        {
-            "name": "Adrian Sefjec",
-            "rank": "Manager",
-            "highlight": "True",
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a6/94355-a6a5222d93c06171225e62cac9833dc9e150247b.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2997-gpx-adrian/"
         },
         {
             "name": "Dr.Walter Forte",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/94297-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
+            "picture": "https://avatars.cloudflare.steamstatic.com/7d2736bf3b44a7a4e4a189378ed4ec82fa3c174b_full.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
+        },
+        {
+            "name": "Ben Voight",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://avatars.cloudflare.steamstatic.com/e6dc3dc0530a42556d554ad3cdc447a6274f03bd_full.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd//"
         },
         {
             "name": "Felix Sack",
@@ -36,81 +36,53 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
         {
-            "name": "Jerry Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fb/12690-fb24a74985d261a813419540e619aa57c7a5a26d.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-robinator/"
-        },
-        {
-            "name": "Ben Voight",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/64/94208-64421bfe58a281538bd286c2da9afa1bfb6d8f72.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd//"
-        },
-        {
             "name": "Maurice Reznov",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/da/94264-da0e6340373d3c731aeb3b425b7b7a0acd503a4e.jpg",
+            "picture": "https://avatars.cloudflare.steamstatic.com/9d89e373a25e2d09662ca3d6674f3fab2a763ad0_full.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
             "name": "Mark Winkler",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/94280-0a0c163777e8d2952c6a65cfa88d6ac0985b6696.jpg",
+            "picture": "https://avatars.cloudflare.steamstatic.com/121b8f451472e932c5abe93f84e4e97ce405a05f_full.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2608-mark-winkler/"
-        },
-        {
-            "name": "Frank Neuhausen",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4e/94356-4efb75913388f6c29ec6298598afe20d3bfe60f6.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3013-markgraf/"
         },
         {
             "name": "Ben Monk",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/94249-42e13d6678bf5d5b0e989ae70a3d916d2f94ec31.jpg",
+            "picture": "https://avatars.cloudflare.steamstatic.com/8fd2eb627b77a0b6f621c7763f92f8d57fcf79de_full.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
             "name": "Quazim Najim",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6a/94239-6a9e6f8e9026cc3acb4423e208b476d00a248f1d.jpg",
+            "picture": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1715130/544480cdbf72754a55fe7f80d7e3b2c512b006bd.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2413-joanlorcan/"
         },
         {
             "name": "Rick Rich Walsteen",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/94216-0a8122dc577607b9f329ac671511a0f827d05757.jpg",
+            "picture": "https://avatars.cloudflare.steamstatic.com/c51e9261b43dd21d3b037270249b5436be05d989_full.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
         },
         {
             "name": "Andrew Tate",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/94157-45a6482d9a2ac3ab8e2f1ef64340046e3cb7a4ff.jpg",
+            "picture": "https://avatars.cloudflare.steamstatic.com/dece84e2c92e9b43f6c269291e43bfd7ff498742_full.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1542-tate/"
         },
         {
             "name": "Ben Wurst",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/87426-b406e72acfddad806e9d5e9ef0070e32fdab8421.webp",
+            "picture": "https://avatars.cloudflare.steamstatic.com/52f201997455e639bdc817df82e630620b911e66_full.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2537-samet/"
-        },
-        {
-            "name": "Max Willis",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "",
-            "profile": ""
         }
     ]
 }
