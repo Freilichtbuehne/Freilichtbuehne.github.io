@@ -4,8 +4,13 @@ import requests
 from bs4 import BeautifulSoup
 
 def check_url(url):
+    # edge case: default avatar url
+    if url.endswith('avatar-default.svg'):
+        print(f"URL is default avatar: {url}")
+        return False
+
+    print(f"Checking URL: {url}")
     try:
-        print(f"Checking URL: {url}")
         response = requests.head(url)
         if response.status_code == 200:
             print(f"URL is valid: {url}")
