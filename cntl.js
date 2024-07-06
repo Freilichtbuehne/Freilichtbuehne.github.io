@@ -6,7 +6,6 @@ const rpids = {
     12: "bandios",
     13: "sani",
     14: "arzt",
-    15: "zoll",
 }
 
 const urls = {
@@ -22,7 +21,6 @@ const urls = {
     12: "bandidos.json",
     13: "sani.json",
     14: "arzt.json",
-    15: "zoll.json",
     16: "communitybuilder.json",
 }
 
@@ -65,7 +63,7 @@ function load(page) {
 }
 
 function setActive(id) {
-    var ids = ["pol", "feu", "far", "sek", "bandios", "sani", "arzt", "zoll"];
+    var ids = ["pol", "feu", "far", "sek", "bandios", "sani", "arzt"];
     for (let i = 0; i < ids.length; i++) {
         document.getElementById(ids[i]).classList.remove("active");
     }
