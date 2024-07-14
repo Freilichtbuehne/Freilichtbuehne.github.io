@@ -1,6 +1,6 @@
 {
     "members": [
-        {    
+        {
             "name": "Klaus Klops",
             "rank": "Leitung",
             "highlight": true,
@@ -11,7 +11,7 @@
             "name": "Sanchez Can",
             "rank": "Stellv. Leitung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/104288-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/106131-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
         },
         {
@@ -25,14 +25,14 @@
             "name": "Ben Monk",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/104219-42e13d6678bf5d5b0e989ae70a3d916d2f94ec31.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/106062-d2d090de7f4504260a473f70404b50dead24bd50.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
             "name": "Rick Rich",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/54/104185-54cd29c259f0daa51a44535ccbb45c30121ab357.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/54/106030-54cd29c259f0daa51a44535ccbb45c30121ab357.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
         },
         {
@@ -46,14 +46,14 @@
             "name": "Emin Can",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/104289-695382e9bb258d675531d40844891b75b501fb61.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/106132-695382e9bb258d675531d40844891b75b501fb61.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2790-emin/"
         },
         {
             "name": "Olli Mani",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/104210-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/106054-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
         }
     ]
