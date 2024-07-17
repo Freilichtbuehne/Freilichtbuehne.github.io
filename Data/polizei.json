@@ -15,13 +15,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2002-impulsives-pony/"
         },
         {
-            "name": "Nick Santos 31",
-            "rank": "13★ Leitender Polizeidirektor",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/7248-5ddf1a14be6a01af55a682ea178727ea320839d1.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
-        },
-        {
             "name": "Klaus Klops 72",
             "rank": "13★ Leitender Polizeidirektor",
             "highlight": true,
@@ -71,36 +64,29 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1534-rox/"
         },
         {
-            "name": "Franz Klops 207",
-            "rank": "10★ Polizeirat",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/97/106130-97d22bf3962c9bf9d43303859b62e20d567ccf2e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2781-ben1202/"
-        },
-        {
             "name": "Jonathan Klops 15",
-            "rank": "9★ Erster Polizeihauptkommissar",
+            "rank": "10★ Polizeirat",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
         {
             "name": "Mika Salzbergwerk 90",
-            "rank": "9★ Erster Polizeihauptkommissar",
+            "rank": "10★ Polizeirat",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/106032-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
         },
         {
             "name": "Rick Rich Klops 32",
-            "rank": "8★ Polizeihauptkommissar",
+            "rank": "9★ Erster Polizeihauptkommissar",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/54/106030-54cd29c259f0daa51a44535ccbb45c30121ab357.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
         },
         {
             "name": "Henry McGrady 501",
-            "rank": "8★ Polizeihauptkommissar",
+            "rank": "9★ Erster Polizeihauptkommissar",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/14/104104-148f4a4343fb6cb9841fa085455be6283f0892d5.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2788-bmk-bund/"
@@ -113,25 +99,54 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2925-inspectortrolo/"
         },
         {
-            "name": "Leon Jäger 53",
-            "rank": "8★ Polizeihauptkommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0d/106047-0d98b44aacb719f093ef7bb66df845ad103d4a30.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2379-lendo/"
-        },
-        {
-            "name": "Elias Losty 25",
-            "rank": "8★ Polizeihauptkommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e0/106170-e0bd61aa71dff2205e41a990ee383d8aa5beedbd.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3014-gpx-eliasjeeea/"
-        },
-        {
             "name": "Heinz Peters 512",
             "rank": "8★ Polizeihauptkommissar",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/2c/106119-2c1fc787972878e340d837aceef6b79cecdd617c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2693-colossalcloth79/"
+        },
+        {
+            "name": "Philipe Klops 16",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2883-luc-099/"
+        },
+        {
+            "name": "Khabib Sokolow 67",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3f/74053-3f3aebf57c48bdab05cd936cf81a8952f2e29450.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
+        },
+        {
+            "name": "Sanchez Can 12",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/106361-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
+        },
+        {
+            "name": "Ben Koksberg 402",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/106292-d2d090de7f4504260a473f70404b50dead24bd50.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
+            "name": "Paul Miller 24",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3052-warthrup/"
+        },
+        {
+            "name": "Holger Buddel 555",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/101128-6869c684adafa1949fd35aa1c9b23c79e380130f.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-h-buddel/"
+            
         }
     ]
 }
