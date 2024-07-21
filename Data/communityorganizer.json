@@ -1,21 +1,21 @@
 {
     "members": [
         {
-            "name": "Hanz Salzbergwerk",
+            "name": "Hanz Black",
             "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7d/92572-7dad8584d94bddafa10e65a28ef777612e30b62a.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
         },
         {
-            "name": "Walter Forte",
+            "name": "Walter Black",
             "rank": "Stellv. Leitung",
             "highlight": true,
             "picture": "https://avatars.cloudflare.steamstatic.com/7d2736bf3b44a7a4e4a189378ed4ec82fa3c174b_full.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {
-            "name": "Ben Voight",
+            "name": "Ben Black",
             "rank": "Manager",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5b/101356-5b626eb53726e0a51e91c613514d0a1c1b4d8858.png",
@@ -78,11 +78,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2265-some-1/"
         },
         {
-            "name": "Salzling",
+            "name": "Jessy Salzbergwerk",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
+        },
+        {
+            "name": "Olli Mani",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/107685-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
         }
     ]
 }
