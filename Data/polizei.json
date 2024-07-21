@@ -36,11 +36,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
         },
         {
-            "name": "Walter Forte 17",
+            "name": "Walter Black 17",
             "rank": "12★ Polizeidirektor",
             "highlight": true,
             "picture": "https://avatars.akamai.steamstatic.com/7d2736bf3b44a7a4e4a189378ed4ec82fa3c174b_full.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
         },
         {
             "name": "Ronny Klops 04",
@@ -55,6 +55,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
+        },
+        {
+            "name": "ODin Klops 153",
+            "rank": "11★ Polizeioberrat",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6b/79609-6b25269bd953c3b3777eda4295238529cf419a79.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/"
         },
         {
             "name": "Adrian Engel 49",
@@ -113,7 +120,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2883-luc-099/"
         },
         {
-            "name": "Khabib Sokolow 67",
+            "name": "Khabib Black 67",
             "rank": "8★ Polizeihauptkommissar",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/3f/74053-3f3aebf57c48bdab05cd936cf81a8952f2e29450.webp",
@@ -125,13 +132,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/107765-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
-        },
-        {
-            "name": "Ben Koksberg 402",
-            "rank": "8★ Polizeihauptkommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/107694-d2d090de7f4504260a473f70404b50dead24bd50.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
             "name": "Paul Miller 24",
@@ -146,6 +146,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/101128-6869c684adafa1949fd35aa1c9b23c79e380130f.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-h-buddel/"
+        },
+        {
+            "name": "Daniel Malley 19",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3074-daniel-malley/"
         }
     ]
 }
