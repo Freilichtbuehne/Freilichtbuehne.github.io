@@ -16,8 +16,8 @@
         },
         {
             "name": "Klaus Klops",
-            "rank": "Manager",
-            "highlight": true,
+            "rank": "Mitglied",
+            "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
         },
@@ -57,13 +57,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         },
         {
-            "name": "Odin Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6b/79609-6b25269bd953c3b3777eda4295238529cf419a79.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/#wall"
-        },
-        {
             "name": "Obito Tanaka",
             "rank": "Mitglied",
             "highlight": false,
@@ -76,6 +69,27 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/107674-7305c43a839986d25db7a6154976e53bc9d614ab.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
+        },
+        {
+            "name": "Walter Forte",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://avatars.cloudflare.steamstatic.com/7d2736bf3b44a7a4e4a189378ed4ec82fa3c174b_full.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
+        },
+        {
+            "name": "Jonathan Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
+        },
+        {
+            "name": "Ben Monk",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/107694-d2d090de7f4504260a473f70404b50dead24bd50.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         }
     ]
 }
