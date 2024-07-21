@@ -16,24 +16,10 @@
         },
         {
             "name": "Siegbert Schnößel",
-            "rank": "Management",
+            "rank": "Mitglied",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/107721-1e9dabc2d90bf102d5b2b993c9a4c5964a8114be.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flufffyy2/"
-        },
-        {
-            "name": "Walter Forte",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/107743-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
-        },
-        {
-            "name": "Albert Reznov",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/8203-29b7f985c31fc7a982c555fca4a640bb04dc191c.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2305-stoney/"
         },
         {
             "name": "Heinz Peters",
@@ -50,7 +36,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {
-            "name": "jonathan Klops",
+            "name": "Jonathan Klops",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
@@ -64,32 +50,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
-            "name": "Rick Rich Klops",
+            "name": "Rick Rich",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "",
-            "profile": ""
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/54/107660-54cd29c259f0daa51a44535ccbb45c30121ab357.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
         },
         {
-            "name": "Markus Klops",
+            "name": "Maurice Ball",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "",
-            "profile": ""
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/da/107709-da0e6340373d3c731aeb3b425b7b7a0acd503a4e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
-            "name": "Adrian Sefjec",
+            "name": "Ben Wurst",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "",
-            "profile": ""
-        },
-        {
-            "name": "Jonathan Pflanzenburg ",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "",
-            "profile": ""
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/100221-b406e72acfddad806e9d5e9ef0070e32fdab8421.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2537-samet/"
         }
     ]
 }
