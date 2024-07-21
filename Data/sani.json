@@ -15,18 +15,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
         },
         {
-            "name": "Jonathan Klops",
+            "name": "Micheal Melone",
             "rank": "12+ Org. Leiter Rettungsdienst",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
-        },
-        {
-            "name": "Micheal Melone",
-            "rank": "11+ Einsatzleitung Rettungsdienst",
-            "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
+        },
+        {
+            "name": "Jonathan Klops",
+            "rank": "11+ Einsatzleitung Rettungsdienst",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
         {
             "name": "Julian Snow",
@@ -34,6 +34,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/cc/60392-ccc80734027a90a651e26b65ed8982eee45db117.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2301-julian-snow/"
+        },
+        {
+            "name": "Leo Salzbergwerk",
+            "rank": "9+ Notarzt",
+            "highlight": true,
+            "picture": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1239690/a42eb4aa11bfcfbd7622cdf0c9e0b6b039caed45.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
             "name": "Heinz Peters",
@@ -62,6 +69,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
+        },
+        {
+            "name": "David Mulde",
+            "rank": "7+ Notfallsanitäter Anwärter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a6/57429-a6fc1ee0e09cc14a1161d8ae5e83efb46cadb704.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2265-some-1/"
         }
     ]
 }
