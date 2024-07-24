@@ -24,7 +24,7 @@
         {
             "name": "Jonathan Klops",
             "rank": "12+ Org. Leiter Rettungsdienst",
-            "highlight": false,
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
@@ -38,7 +38,7 @@
         {
             "name": "Leo Salzbergwerk",
             "rank": "9+ Notarzt",
-            "highlight": true,
+            "highlight": false,
             "picture": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1239690/a42eb4aa11bfcfbd7622cdf0c9e0b6b039caed45.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
