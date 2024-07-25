@@ -16,14 +16,14 @@
         },
         {
             "name": "Ben Black",
-            "rank": "[10☠] Diputado",
+            "rank": "10☠ Diputado",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5b/101356-5b626eb53726e0a51e91c613514d0a1c1b4d8858.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd/"
         },
         {
             "name": "Felix Sack",
-            "rank": "9☠ El Capitan",
+            "rank": "10☠ Diputado",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
@@ -37,17 +37,24 @@
         },
         {
             "name": "Walter Black",
-            "rank": "[8☠] Compañero",
+            "rank": "8☠ Compañero",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/107743-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {
             "name": "Sanchez Can",
-            "rank": "[8☠] Compañero",
+            "rank": "8☠ Compañero",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/107765-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
+        },
+        {
+            "name": "Donalt Obama ",
+            "rank": "7☠ Preferido",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "goldphoenix.de"
         },
         {
             "name": "Daniel Gremory",
@@ -57,25 +64,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
         },
         {
-            "name": "Donalt Obama ",
-            "rank": "5☠ El Asociado",
-            "highlight": false,
-            "picture": "",
-            "profile": ""
-        },
-        {
             "name": "Azad Libanon",
             "rank": "6☠ Ascendente",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/4e/107808-4ece07e2db925d0c3058e9902499bc4048f06782.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3030-azad-libanon/"
-        },
-        {
-            "name": "Donalt Obama ",
-            "rank": "5☠ El Asociado",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": ""
         },
         {
             "name": "Ben Monk",
@@ -121,7 +114,7 @@
         },
         {
             "name": "Klaus Salzbergwerk",
-            "rank": "[4☠] Amigo",
+            "rank": "4☠ Amigo",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/106877-749646c9972444214bc3d576977a2b804256eb65.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2994-jobrime/"
