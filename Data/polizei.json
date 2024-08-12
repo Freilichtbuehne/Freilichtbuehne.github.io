@@ -92,6 +92,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2788-bmk-bund/"
         },
         {
+            "name": "Holger Buddel 555",
+            "rank": "9★ Erster Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/101128-6869c684adafa1949fd35aa1c9b23c79e380130f.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-h-buddel/"
+        },
+        {
             "name": "Jake Rich 74",
             "rank": "8★ Polizeihauptkommissar",
             "highlight": false,
@@ -134,18 +141,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3052-warthrup/"
         },
         {
-            "name": "Holger Buddel 555",
-            "rank": "8★ Polizeihauptkommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/101128-6869c684adafa1949fd35aa1c9b23c79e380130f.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-h-buddel/"
-        },
-        {
             "name": "Daniel Malley 19",
             "rank": "8★ Polizeihauptkommissar",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3074-daniel-malley/"
+        },
+        {
+            "name": "Franz Klops 207",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/97/112954-97d22bf3962c9bf9d43303859b62e20d567ccf2e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2781-ben1202/"
         }
     ]
 }
