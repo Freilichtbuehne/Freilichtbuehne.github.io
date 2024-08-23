@@ -36,18 +36,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2790-emin/"
         },
         {
+            "name": "Sanchez Can",
+            "rank": "9☠ El Capitán",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/114374-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
+        },
+        {
             "name": "Walter Black",
             "rank": "8☠ Compañero",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/114352-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
-        },
-        {
-            "name": "Sanchez Can",
-            "rank": "8☠ Compañero",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/114374-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
         },
         {
             "name": "Donalt Obama ",
@@ -57,6 +57,13 @@
             "profile": "goldphoenix.de"
         },
         {
+            "name": "Azad Libanon",
+            "rank": "7☠ Preferido",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4e/114417-4ece07e2db925d0c3058e9902499bc4048f06782.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3030-azad-libanon/"
+        },
+        {
             "name": "Daniel Gremory",
             "rank": "6☠ Ascendente",
             "highlight": false,
@@ -64,14 +71,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
         },
         {
-            "name": "Azad Libanon",
-            "rank": "6☠ Ascendente",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4e/114417-4ece07e2db925d0c3058e9902499bc4048f06782.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3030-azad-libanon/"
-        },
-        {
-            "name": "Ben Monk",
+            "name": "Fabian Monk",
             "rank": "5☠ El Asociado",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/114303-354e44a5ff738a0aef6e47b9bcbe376ef4d92cb2.jpg",
@@ -92,13 +92,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1785-ediumz/"
         },
         {
-            "name": "Maurice Reznov",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/da/114318-da0e6340373d3c731aeb3b425b7b7a0acd503a4e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
-        },
-        {
             "name": "Mark da Massando",
             "rank": "4☠ Amigo",
             "highlight": false,
@@ -113,11 +106,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3007-salkin1324/"
         },
         {
-            "name": "Klaus Salzbergwerk",
+            "name": "Rüdiger Rammel",
             "rank": "4☠ Amigo",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/106877-749646c9972444214bc3d576977a2b804256eb65.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2994-jobrime/"
+        },
+        {
+            "name": "Alessandro De Luca",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3097-hirschgang/"
         }
     ]
 }
