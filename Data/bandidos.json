@@ -16,31 +16,31 @@
         },
         {
             "name": "Ben Black",
-            "rank": "10☠ Diputado",
-            "highlight": false,
+            "rank": "13☠ Mano Derecha",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5b/101356-5b626eb53726e0a51e91c613514d0a1c1b4d8858.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd/"
         },
         {
             "name": "Felix Sack",
-            "rank": "10☠ Diputado",
-            "highlight": false,
+            "rank": "12☠ El Asesor",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
         },
         {
+            "name": "Sanchez Can",
+            "rank": "12☠ El Asesor",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/114374-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
+        },
+        {
             "name": "Emin Can",
-            "rank": "9☠ El Capitan",
+            "rank": "10☠ Diputado",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/114375-695382e9bb258d675531d40844891b75b501fb61.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2790-emin/"
-        },
-        {
-            "name": "Sanchez Can",
-            "rank": "9☠ El Capitán",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/114374-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
         },
         {
             "name": "Walter Black",
@@ -51,7 +51,7 @@
         },
         {
             "name": "Donalt Obama ",
-            "rank": "7☠ Preferido",
+            "rank": "8☠ Compañero",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "goldphoenix.de"
@@ -71,13 +71,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
         },
         {
-            "name": "Fabian Monk",
-            "rank": "5☠ El Asociado",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/114303-354e44a5ff738a0aef6e47b9bcbe376ef4d92cb2.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
-        },
-        {
             "name": "Olli Mani",
             "rank": "5☠ El Asociado",
             "highlight": false,
@@ -85,25 +78,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
         },
         {
-            "name": "Ediumz Ackermann",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/114221-96260078c8027dc6b26b13529e78ce2a30162546.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1785-ediumz/"
-        },
-        {
             "name": "Mark da Massando",
             "rank": "4☠ Amigo",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/54/92573-54ca5f67ec07a0b72fce363bb178b467815b26a4.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2703-schmitt/"
-        },
-        {
-            "name": "Ricardo Rothdauscher",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3007-salkin1324/"
         },
         {
             "name": "Rüdiger Rammel",
