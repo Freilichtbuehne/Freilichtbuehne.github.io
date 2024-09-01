@@ -8,25 +8,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
         },
         {
-            "name": "Falcon 07",
-            "rank": "14✪ Generalleutnant",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
-        },
-        {
             "name": "Blue 42",
-            "rank": "13✪ Generalmajor",
+            "rank": "14✪ Generalleutnant",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/117635-23920479375db694229698e58c9a73710879f242.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
             "name": "Mamba 17",
-            "rank": "12✪ Brigadegeneral",
+            "rank": "13✪ Generalmajor",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/117679-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
+        },
+        {
+            "name": "Pulse 90",
+            "rank": "12✪ Brigadegeneral",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/117599-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
+        },
+        {
+            "name": "Buck 30",
+            "rank": "12✪ Brigadegeneral",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
         },
         {
             "name": "Salzi 44",
@@ -34,20 +41,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
-        },
-        {
-            "name": "Pulse 90",
-            "rank": "11✪ Oberst",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/117599-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
-        },
-        {
-            "name": "Buck 30",
-            "rank": "10✪ Major",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
         },
         {
             "name": "Cat 808",
@@ -65,17 +58,10 @@
         },
         {
             "name": "Rox 49",
-            "rank": "7✪ Leutnant",
+            "rank": "8✪ Oberleutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5b/104564-5bf3003454a0715bb71829d0c892f2d699a0ce8e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1534-rox/"
-        },
-        {
-            "name": "Snowing 13",
-            "rank": "5✪ Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7a/4859-7a89355762b8a30e1e9a3a7521c6150e310503ac.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1463-crypton/"
         },
         {
             "name": "Birne 455",
@@ -92,11 +78,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
-            "name": "Itadori 12",
+            "name": "Blaubär 555",
             "rank": "5✪ Unteroffizier",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/117701-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/117038-d2a7b5ad11799e0f6bb8cde53a6dec491668fa39.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
         }
     ]
 }
