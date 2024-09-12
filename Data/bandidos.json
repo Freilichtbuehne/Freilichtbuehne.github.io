@@ -44,7 +44,7 @@
         },
         {
             "name": "Walter Black",
-            "rank": "8☠ Compañero",
+            "rank": "9☠ El Capitán",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/119361-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
@@ -71,6 +71,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
         },
         {
+            "name": "Reinhard Rommel",
+            "rank": "6☠ Ascendente",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2798-numb/"
+        },
+        {
             "name": "Olli Mani",
             "rank": "5☠ El Asociado",
             "highlight": false,
@@ -92,11 +99,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2994-jobrime/"
         },
         {
+            "name": "Peter Griffin",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9e/65322-9e96ccf9230d1ec3248d6b6341e6232df53869cd.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2821-peter-griffin/"
+        },
+        {
             "name": "Alessandro De Luca",
             "rank": "4☠ Amigo",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3097-hirschgang/"
+        },
+        {
+            "name": "Sydney Henschke",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/7007-67eebb0964fde926f5fbccf0cc2c31df846c3470.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1719-wrp-sydney/"
         }
     ]
 }
