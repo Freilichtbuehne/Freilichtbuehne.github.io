@@ -92,15 +92,8 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-h-buddel/"
         },
         {
-            "name": "Jake Rich 74",
-            "rank": "8★ Polizeihauptkommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2925-inspectortrolo/"
-        },
-        {
             "name": "Philipe Klops 16",
-            "rank": "8★ Polizeihauptkommissar",
+            "rank": "9★ Erster Polizeihauptkommissar",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2883-luc-099/"
@@ -125,6 +118,27 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3052-warthrup/"
+        },
+        {
+            "name": "Daniel Malley 19",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3074-daniel-malley/"
+        },
+        {
+            "name": "Iggy Klops 36",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/54/108768-54bee12404a1ff639337d42ae81e6ade4910b868.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1381-derkosmonat/"
+        },
+        {
+            "name": "Linus Oneil 43",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2698-linus/"
         }
     ]
 }
