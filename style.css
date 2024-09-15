@@ -55,7 +55,7 @@
 #pageBox div.activePage {
     background-color: #383f48;
     color: #a1a1a1;
-    box-shadow: 0px 3px 0px 0px #349ae4;
+    box-shadow: 0px 3px 0px 0px rgb(20, 93, 165);
 }
 
 .subBox {
@@ -159,16 +159,23 @@ img {
 }
 
 #infoBox {
-    background-color: rgb(20, 93, 165);
-    font-weight: bold;
-    color: #ffffff;
-    font-size: 17px;
+    position: relative;
     padding: 20px;
+    margin-bottom: 1rem;
+    color: #ffffff;
+    background-color: rgba(18, 80, 141, 0.86);
+    border: 3px solid rgb(20, 93, 165);
+    border-radius: 4px;
     margin-top: 10px;
+    font-weight: bold;
 }
 
 #infoBox p a:hover {
     text-decoration: underline;
+}
+
+#infoBox a {
+    color: rgb(13, 25, 42) !important;
 }
 
 a:-webkit-any-link {
@@ -214,13 +221,13 @@ button{
     color: #a1a1a1;
     margin-top: 5px;
     padding: 8px;   
-    box-shadow: 0px 3px 0px 0px rgba(255, 60, 0);
+    box-shadow: 0px 3px 0px 0px rgb(20, 93, 165);
 }
 button:hover{
     background-color: #383f48;
-    color: black;
+    color: #ffffff;
     cursor: pointer;
-    box-shadow: 0px 3px 0px 0px rgba(255, 60, 0);
+    box-shadow: 0px 3px 0px 0px rgb(31, 111, 192);
 }
 button:focus{
     outline:0;
