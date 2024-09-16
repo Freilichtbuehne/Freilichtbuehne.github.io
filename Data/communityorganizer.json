@@ -22,13 +22,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd/"
         },
         {
-            "name": "Jonathan Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
-        },
-        {
             "name": "Olli Mani",
             "rank": "Mitglied",
             "highlight": false,
@@ -57,11 +50,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2821-peter-griffin/"
         },
         {
-            "name": "Paule Herrmann",
+            "name": "Paulo Black",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/81/108297-814cf160aa9f4532ff71e25cdd7e24f1e55c80c5.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2660-milchreis/"
+        },
+        {
+            "name": "Philipe Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2883-luc-099/"
+        },
+        {
+            "name": "Felix Fischmann",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/121184-45a574315f106440a84582b969dc9cfef0630cd6.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2028-affen-bruder/"
         }
     ]
 }
