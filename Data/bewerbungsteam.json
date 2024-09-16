@@ -15,7 +15,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
-            "name": "Apple",
+            "name": "Apple Black",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/09/120980-0903bbc9571d3edfdc8378137097ad74c04b96cc.jpg",
@@ -62,6 +62,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/120984-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
+        },
+        {
+            "name": "Daniel Gremory",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
         }
     ]
 }
