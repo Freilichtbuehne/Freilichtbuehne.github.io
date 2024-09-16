@@ -64,7 +64,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {
-            "name": "Apple Danger",
+            "name": "Apple Black",
             "rank": "Fahrlehrer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/09/120980-0903bbc9571d3edfdc8378137097ad74c04b96cc.jpg",
@@ -88,8 +88,8 @@
             "name": "Jerry Klops",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fb/12690-fb24a74985d261a813419540e619aa57c7a5a26d.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-robinator/"
         },
         {
             "name": "Dieter Gustavo",
@@ -123,29 +123,36 @@
             "name": "Franko Giovanni Falzone",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": ""
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a6/70997-a68bcce394d631b7681f0a175092560a9ff86306.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/818-franko56848/"
         },
         {
             "name": "Tobias Gehring",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": ""
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/cd/71201-cd6c19f9806a5ef7d93d6fe535cf5697edbe5e9d.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-tobias-gehring/"
         },
         {
             "name": "Jannik Schmidt",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": ""
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8a/6310-8a503bb88f7957cd3ec3b2dd89b43b41ce9b9ab8.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2059-janik-schmidt/"
         },
         {
             "name": "Siegbert Schnößel",
             "rank": "Fahrlehrer",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": ""
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/121284-1e9dabc2d90bf102d5b2b993c9a4c5964a8114be.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flufffyy2/"
+        },
+        {
+            "name": "Maurice Ball",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/117518-d3b12f8e79285cf385522af846fbace978822d7a.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         }
     ]
 }
