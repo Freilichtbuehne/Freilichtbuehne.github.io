@@ -22,27 +22,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2790-emin/"
         },
         {
-            "name": "Fabian Monk",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/121016-354e44a5ff738a0aef6e47b9bcbe376ef4d92cb2.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
-        },
-        {
-            "name": "Rick Rich",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/54/120982-54cd29c259f0daa51a44535ccbb45c30121ab357.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2296-flein/"
-        },
-        {
-            "name": "Ben Wurst",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b4/100221-b406e72acfddad806e9d5e9ef0070e32fdab8421.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2537-ben-wurst/"
-        },
-        {
             "name": "Olli Mani",
             "rank": "Mitglied",
             "highlight": false,
@@ -85,11 +64,39 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2883-luc-099/"
         },
         {
+            "name": "Azad Libanon",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/121371-0647abd603f6d66baae7e9669dfe5588b15cda0b.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3030-azad-libanon/"
+        },
+        {
             "name": "Rüdiger Ramel",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/106877-749646c9972444214bc3d576977a2b804256eb65.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2994-jobrime/"
+        },
+        {
+            "name": "Felix Black",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/27/120418-2790383fca28f8e82d28126153e3acacebe86951.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
+        },
+        {
+            "name": "Holger Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/119685-5feb822cea3d05c9164d1ed3f183118c7e5a0ad9.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
+        },
+        {
+            "name": "Daniel Gremory",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
         }
     ]
 }
