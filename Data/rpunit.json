@@ -1,18 +1,18 @@
 {
     "members": [
         {
-            "name": "Adrian",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/92567-2010390e71c0b8f69d3b26880deb2cfb18363d8c.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
-        },
-        {
             "name": "Siegbert Schnößel",
-            "rank": "Stellv. Leitung",
+            "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/121042-1e9dabc2d90bf102d5b2b993c9a4c5964a8114be.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flungymungy/"
+        },
+        {
+            "name": "Adrian",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/92567-2010390e71c0b8f69d3b26880deb2cfb18363d8c.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         },
         {
             "name": "Klaus Klops",
@@ -57,35 +57,14 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?panel/"
         },
         {
-            "name": "Obito Tanaka",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/120996-7305c43a839986d25db7a6154976e53bc9d614ab.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
-        },
-        {
-            "name": "Franz Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/120996-7305c43a839986d25db7a6154976e53bc9d614ab.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
-        },
-        {
-            "name": "Walter Forte",
+            "name": "Walter Black",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://avatars.cloudflare.steamstatic.com/7d2736bf3b44a7a4e4a189378ed4ec82fa3c174b_full.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
         },
         {
-            "name": "Jonathan Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
-        },
-        {
-            "name": "Ben Monk",
+            "name": "Viktor Monk",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/121016-354e44a5ff738a0aef6e47b9bcbe376ef4d92cb2.jpg",
