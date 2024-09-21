@@ -64,6 +64,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1534-rox/"
         },
         {
+            "name": "Wolf 911",
+            "rank": "6✪ Feldwebel",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1f/122145-1ffa875d9de4b30154d3a1176db88d206071f74c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
+        },
+        {
             "name": "Birne 455",
             "rank": "5✪ Unteroffizier",
             "highlight": false,
@@ -83,6 +90,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/119685-5feb822cea3d05c9164d1ed3f183118c7e5a0ad9.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
+        },
+        {
+            "name": "Senf 95",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/117518-d3b12f8e79285cf385522af846fbace978822d7a.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
+        },
+        {
+            "name": "Area 51",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5b/101356-5b626eb53726e0a51e91c613514d0a1c1b4d8858.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd/"
         }
     ]
 }
