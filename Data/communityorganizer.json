@@ -43,13 +43,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3113-modibo/"
         },
         {
-            "name": "Peter Griffin",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9e/65322-9e96ccf9230d1ec3248d6b6341e6232df53869cd.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2821-peter-griffin/"
-        },
-        {
             "name": "Paulo Black",
             "rank": "Mitglied",
             "highlight": false,
@@ -69,6 +62,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/124341-45a574315f106440a84582b969dc9cfef0630cd6.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2028-affen-bruder/"
+        },
+        {
+            "name": "Gustavo Frings",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/104335-9f225511bc56f016449968d293716edf5ef05d27.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2268-duckteam/"
         }
     ]
 }
