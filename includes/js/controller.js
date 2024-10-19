@@ -6,6 +6,7 @@ const rpids = {
     12: "bandios",
     13: "sani",
     14: "arzt",
+    15: "flug",
 }
 
 const urls = {
@@ -21,6 +22,7 @@ const urls = {
     12: "bandidos.json",
     13: "sani.json",
     14: "arzt.json",
+    15: "flugschule.json",
     16: "communitybuilder.json",
 }
 
@@ -31,7 +33,7 @@ var rpSection;
 
 
 function load(page) {
-    let baseURL = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/Data/"
+    let baseURL = "https://raw.githubusercontent.com/Freilichtbuehne/Freilichtbuehne.github.io/master/data/"
     let url;
     // check if page exists
     if (urls[page]){
@@ -63,7 +65,7 @@ function load(page) {
 }
 
 function setActive(id) {
-    var ids = ["pol", "feu", "far", "sek", "bandios", "sani", "arzt"];
+    var ids = ["pol", "feu", "far", "sek", "bandios", "sani", "arzt", "flug"];
     for (let i = 0; i < ids.length; i++) {
         document.getElementById(ids[i]).classList.remove("active");
     }

@@ -49,11 +49,11 @@ def get_new_image_url(profile_url):
         return None
 
 def update_json_files():
-    data_dir = 'Data'
+    data_dir = 'data'
     for filename in os.listdir(data_dir):
         if filename.endswith('.json'):
             filepath = os.path.join(data_dir, filename)
-            print(f"Processing file: {filepath}")
+            print(f"=============\nProcessing file: {filepath}\n=============")
             with open(filepath, 'r') as file:
                 data = json.load(file)
 
@@ -63,7 +63,7 @@ def update_json_files():
                 profile_url = member.get('profile')
 
                 if picture_url:
-                    print(f"Checking member: {member.get('name')}, picture URL: {picture_url}")
+                    print(f"------------\nChecking member: {member.get('name')}, picture URL: {picture_url}")
                     if not check_url(picture_url):
                         print(f"Picture URL is invalid, attempting to fetch new URL from profile: {profile_url}")
                         new_picture_url = get_new_image_url(profile_url)
