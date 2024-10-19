@@ -1,18 +1,39 @@
 {
     "members": [
         {
-            "name": "TODO",
-            "rank": "TODO",
+            "name": "Jessy Salzbergwerk",
+            "rank": "Geschäftsführung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         },
         {
-            "name": "TODO",
-            "rank": "TODO",
+            "name": "Ronny Klops",
+            "rank": "Geschäftsführung",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c6/118717-c687e0824606b531b8f92744ea6f3658fcffd35f.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
+        },
+        {
+            "name": "Hanz Black",
+            "rank": "Fluglehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7d/92572-7dad8584d94bddafa10e65a28ef777612e30b62a.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
+        },
+        {
+            "name": "Daniel Gremory",
+            "rank": "Fluglehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
+        },
+        {
+            "name": "Mika Salzbergwerk",
+            "rank": "Fluglehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/129317-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
         }
     ]
 }
