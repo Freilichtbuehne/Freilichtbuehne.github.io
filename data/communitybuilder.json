@@ -15,11 +15,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
         },
         {
-            "name": "Emin Can",
+            "name": "Gustavo Klops",
             "rank": "Manager",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/129670-695382e9bb258d675531d40844891b75b501fb61.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2790-emin/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/104335-9f225511bc56f016449968d293716edf5ef05d27.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2268-duckteam/"
         },
         {
             "name": "Olli Mani",
@@ -64,25 +64,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
         },
         {
-            "name": "Holger Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/119685-5feb822cea3d05c9164d1ed3f183118c7e5a0ad9.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
-        },
-        {
             "name": "Daniel Gremory",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
-        },
-        {
-            "name": "Gustavo Fring",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/104335-9f225511bc56f016449968d293716edf5ef05d27.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2268-duckteam/"
         }
     ]
 }
