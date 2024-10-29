@@ -15,6 +15,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
         },
         {
+            "name": "Odin Klops",
+            "rank": "Manager",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/34/127490-342d4a23d74d45ab9df5e673e450b2e8c49e4685.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/"
+        },
+        {
             "name": "Sebastian Feinstaub",
             "rank": "Mitglied",
             "highlight": false,
@@ -29,25 +36,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {
-            "name": "Olli Mani",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/130843-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
-        },
-        {
             "name": "Mark Da Massando",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/54/92573-54ca5f67ec07a0b72fce363bb178b467815b26a4.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2703-schmitt/"
-        },
-        {
-            "name": "Odin Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/34/127490-342d4a23d74d45ab9df5e673e450b2e8c49e4685.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/"
         },
         {
             "name": "Rüdiger Rammel",
@@ -88,8 +81,15 @@
             "name": "Philip Auner",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/131237-7cab496d841c0091a537dbad8d04b96825d1fcaf.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3138-philippku/"
+        },
+        {
+            "name": "Abdulrashid Krasniqi",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c4/130989-c40bacb4d609d65138de9c570b6d875ae932db5f.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1846-abdulrashid-krasniqi/"
         }
     ]
 }
