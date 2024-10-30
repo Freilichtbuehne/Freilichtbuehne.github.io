@@ -8,6 +8,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flungymungy/"
         },
         {
+            "name": "Sir Leon Nice",
+            "rank": "Stellv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/24061-b845d10cbb515055baa97ec8e0026268fa0d5b0f.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
+        },
+        {
             "name": "Adrian Monk",
             "rank": "Mitglied",
             "highlight": false,
@@ -36,13 +43,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {
-            "name": "Sir Leon Nice",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/24061-b845d10cbb515055baa97ec8e0026268fa0d5b0f.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
-        },
-        {
             "name": "Leo Salzbergwerk",
             "rank": "Mitglied",
             "highlight": false,
@@ -69,6 +69,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/34/127490-342d4a23d74d45ab9df5e673e450b2e8c49e4685.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/"
+        },
+        {
+            "name": "Philipe Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2883-philipe/"
         }
     ]
 }
