@@ -50,13 +50,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
         },
         {
-            "name": "Rox 49",
-            "rank": "9✪ Stabshauptmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5b/104564-5bf3003454a0715bb71829d0c892f2d699a0ce8e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1534-rox/"
-        },
-        {
             "name": "Lenco 15",
             "rank": "8✪ Oberleutnant",
             "highlight": false,
@@ -65,17 +58,24 @@
         },
         {
             "name": "Wolf 911",
-            "rank": "6✪ Feldwebel",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1f/134302-1ffa875d9de4b30154d3a1176db88d206071f74c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {
             "name": "Dunkelolf 40",
-            "rank": "6✪ Feldwebel",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/27/120418-2790383fca28f8e82d28126153e3acacebe86951.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
+        },
+        {
+            "name": "Senf 95",
+            "rank": "7✪ Leutnant",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/117518-d3b12f8e79285cf385522af846fbace978822d7a.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
             "name": "Blaubär 555",
@@ -83,13 +83,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5f/119685-5feb822cea3d05c9164d1ed3f183118c7e5a0ad9.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
-        },
-        {
-            "name": "Senf 95",
-            "rank": "6✪ Feldwebel",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/117518-d3b12f8e79285cf385522af846fbace978822d7a.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
             "name": "Area 51",
@@ -111,6 +104,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3052-warthrup/"
+        },
+        {
+            "name": "Soundwave 246",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3147-los-homeless/"
         }
     ]
 }
