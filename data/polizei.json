@@ -64,13 +64,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
         },
         {
-            "name": "Adrian Engel 49",
-            "rank": "10★ Polizeirat",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5b/104564-5bf3003454a0715bb71829d0c892f2d699a0ce8e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1534-rox/"
-        },
-        {
             "name": "Jonathan Klops 15",
             "rank": "10★ Polizeirat",
             "highlight": false,
@@ -106,6 +99,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
+            "name": "Lukas Carrington 504",
+            "rank": "9★ Erster Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2889-lukas1234/"
+        },
+        {
             "name": "Paul Miller 24",
             "rank": "8★ Polizeihauptkommissar",
             "highlight": false,
@@ -134,13 +134,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2698-linus/"
         },
         {
-            "name": "Lukas Carrington 504",
-            "rank": "8★ Polizeihauptkommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2889-lukas1234/"
-        },
-        {
             "name": "Rafael Loco 31",
             "rank": "8★ Polizeihauptkommissar",
             "highlight": false,
@@ -160,6 +153,34 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/40-imsimon/"
+        },
+        {
+            "name": "Felix Sack",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/27/120418-2790383fca28f8e82d28126153e3acacebe86951.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
+        },
+        {
+            "name": "Paul Trichter",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/10880-0a1996e24dc050570696c4c36d5640ce1e9840b9.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1975-jan-3/"
+        },
+        {
+            "name": "Julian JohnDeer",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3181-starfire911/"
+        },
+        {
+            "name": "Flynn Kingsley",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8b/136539-8b4cb40755982b1b3b0ce8fd63cd9bbf451f61c7.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1281-leonas09/"
         }
     ]
 }
