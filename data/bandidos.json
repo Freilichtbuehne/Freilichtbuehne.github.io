@@ -8,14 +8,14 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
         },
         {
-            "name": "Hanz Black",
+            "name": "Hanz Voight",
             "rank": "14☠ Don",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7d/92572-7dad8584d94bddafa10e65a28ef777612e30b62a.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
         },
         {
-            "name": "Ben Black",
+            "name": "Ben Voight",
             "rank": "13☠ Mano Derecha",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5b/101356-5b626eb53726e0a51e91c613514d0a1c1b4d8858.png",
@@ -64,13 +64,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3030-azad-libanon/"
         },
         {
-            "name": "Daniel Gremory",
-            "rank": "6☠ Ascendente",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
-        },
-        {
             "name": "Reinhard Rommel",
             "rank": "6☠ Ascendente",
             "highlight": false,
@@ -78,11 +71,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2798-numb/"
         },
         {
-            "name": "Olli Mani",
+            "name": "Sydney Henscke",
             "rank": "5☠ El Asociado",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/136139-66d4d1b657b170b04712c6ace55698899ec3ae97.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2419-olli-mani/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/7007-67eebb0964fde926f5fbccf0cc2c31df846c3470.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1719-wrp-sydney/"
         },
         {
             "name": "Mark da Massando",
@@ -106,25 +99,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2821-peter-griffin/"
         },
         {
-            "name": "Ricardo Blackblood",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1b/118231-1b0e548f6b6ed8e090f63a321d7384c777900e9a.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3007-salkin1324/"
-        },
-        {
-            "name": "Sydney Henschke",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/7007-67eebb0964fde926f5fbccf0cc2c31df846c3470.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1719-wrp-sydney/"
-        },
-        {
             "name": "Felix Fischmann",
             "rank": "4☠ Amigo",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/136073-45a574315f106440a84582b969dc9cfef0630cd6.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2028-affen-bruder/"
+        },
+        {
+            "name": "Luis Preuss",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/eb/134015-eb7ba5270dbbdbea504ec6d73657ba281da05098.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2821-peter-griffin/"
+        },
+        {
+            "name": "Ryan Gurke",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3139-ninjaniloc/"
+        },
+        {
+            "name": "Maurice Ball",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/117518-d3b12f8e79285cf385522af846fbace978822d7a.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         }
     ]
 }
