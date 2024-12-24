@@ -72,17 +72,17 @@
         },
         {
             "name": "Sydney Henscke",
-            "rank": "5☠ El Asociado",
+            "rank": "6☠ El Asociado",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/7007-67eebb0964fde926f5fbccf0cc2c31df846c3470.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1719-wrp-sydney/"
         },
         {
-            "name": "Mark da Massando",
-            "rank": "4☠ Amigo",
+            "name": "Luis Preuss",
+            "rank": "5☠ Amigo",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/54/92573-54ca5f67ec07a0b72fce363bb178b467815b26a4.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2703-schmitt/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/eb/134015-eb7ba5270dbbdbea504ec6d73657ba281da05098.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2821-peter-griffin/"
         },
         {
             "name": "Rüdiger Rammel",
@@ -90,13 +90,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/106877-749646c9972444214bc3d576977a2b804256eb65.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2994-jobrime/"
-        },
-        {
-            "name": "Peter Griffin",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/eb/134015-eb7ba5270dbbdbea504ec6d73657ba281da05098.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2821-peter-griffin/"
         },
         {
             "name": "Felix Fischmann",
@@ -125,6 +118,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/117518-d3b12f8e79285cf385522af846fbace978822d7a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
+        },
+        {
+            "name": "Harald der Harmlose",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/10880-0a1996e24dc050570696c4c36d5640ce1e9840b9.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1975-jan-3/"
+        },
+        {
+            "name": "Lorenzo Carson",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6f/144974-6f1fdcc79f5cff61c083898aefb647257ece98d3.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3206-lorenzo/"
         }
     ]
 }
