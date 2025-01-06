@@ -2,17 +2,122 @@
     "members": [
         {
             "name": "Lukas Danger",
-            "rank": "10♛ Real-OG",
+            "rank": "13♛ Real-OG",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/fb/142163-fba71d6974ed0808c4b6514ffb1aa2fab7759192.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
         },
         {
             "name": "Heinrich Danger",
-            "rank": "9♛ OG",
+            "rank": "13♛ Real-OG",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/140903-afea1c68bb73a2427dad5671e1fc7dbaacdf28a6.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
+        },
+        {
+            "name": "Dietrich Stammtisch",
+            "rank": "12♛ OG",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/140901-afea1c68bb73a2427dad5671e1fc7dbaacdf28a6.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
+        },
+        {
+            "name": "Apple Danger",
+            "rank": "12♛ OG",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/09/148457-0903bbc9571d3edfdc8378137097ad74c04b96cc.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
+        },
+        {
+            "name": "Thommy Smith",
+            "rank": "11♛ Hood-Boss",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1f/148407-1ffa875d9de4b30154d3a1176db88d206071f74c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
+        },
+        {
+            "name": "Obito Tanaka",
+            "rank": "8♛ Instruktor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/148473-7305c43a839986d25db7a6154976e53bc9d614ab.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
+        },
+        {
+            "name": "Michael Melone",
+            "rank": "7♛ Watcher",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
+        },
+        {
+            "name": "Leo Salzbergwerk",
+            "rank": "7♛ Watcher",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/148498-23920479375db694229698e58c9a73710879f242.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
+        },
+        {
+            "name": "Mika Salzbergwerk",
+            "rank": "7♛ Watcher",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/148461-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
+        },
+        {
+            "name": "Klaus Hunter",
+            "rank": "6♛ Executer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-klaus-hunter/"
+        },
+        {
+            "name": "Daniel Gremory",
+            "rank": "5♛ Baller",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
+        },
+        {
+            "name": "Holger Buddel",
+            "rank": "5♛ Baller",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/55/141417-55b9e213213eb2c7d3c25b3942acf193aa16cf1e.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
+        },
+        {
+            "name": "Leon van Kliev",
+            "rank": "5♛ Baller",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
+        },
+        {
+            "name": "Jonathan Klops",
+            "rank": "4♛ Hustler",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
+        },
+        {
+            "name": "Ben Monk",
+            "rank": "4♛ Hustler",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/53/148492-534cccccf9e3391ab7dd8112a7e020c9aab7260d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
+            "name": "Luis Holz",
+            "rank": "4♛ Hustler",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
+        },
+        {
+            "name": "David Holz",
+            "rank": "4♛ Hustler",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
         }
     ]
 }
