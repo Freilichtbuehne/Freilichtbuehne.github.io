@@ -22,13 +22,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/"
         },
         {
-            "name": "Siegbert Schnößel 99",
-            "rank": "12★ Polizeidirektor",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/148258-1e9dabc2d90bf102d5b2b993c9a4c5964a8114be.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flufffyy2/"
-        },
-        {
             "name": "Sir Leon Nice 66",
             "rank": "12★ Polizeidirektor",
             "highlight": true,
@@ -50,6 +43,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {
+            "name": "Siegbert Schnößel 99",
+            "rank": "11★ Polizeioberrat",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/148258-1e9dabc2d90bf102d5b2b993c9a4c5964a8114be.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flufffyy2/"
+        },
+        {
             "name": "Michael Melone 33",
             "rank": "11★ Polizeioberrat",
             "highlight": false,
@@ -65,7 +65,7 @@
         },
         {
             "name": "Jonathan Klops 15",
-            "rank": "10★ Polizeirat",
+            "rank": "11★ Polizeioberrat",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
@@ -85,7 +85,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-h-buddel/"
         },
         {
-            "name": "Philipe Klops 16",
+            "name": "Philipe Bauer 16",
             "rank": "10★ Polizeirat",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
@@ -100,10 +100,17 @@
         },
         {
             "name": "Paul Miller 24",
-            "rank": "6★ Polizeikommissar",
+            "rank": "7★ Polizeioberkommissar",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3052-warthrup/"
+        },
+        {
+            "name": "Paul Trichter 39",
+            "rank": "7★ Polizeioberkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/10880-0a1996e24dc050570696c4c36d5640ce1e9840b9.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1975-jan-3/"
         },
         {
             "name": "Linus Oneil 43",
@@ -134,13 +141,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
         },
         {
-            "name": "Paul Trichter 39",
-            "rank": "6★ Polizeikommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/10880-0a1996e24dc050570696c4c36d5640ce1e9840b9.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1975-jan-3/"
-        },
-        {
             "name": "Julian JohnDeer 84",
             "rank": "6★ Polizeikommissar",
             "highlight": false,
@@ -169,7 +169,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2094-gpx-nicosenpai/"
         },
         {
-            "name": "Gustavo Klops 143",
+            "name": "Gustavo Hunter 143",
             "rank": "6★ Polizeikommissar",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/104335-9f225511bc56f016449968d293716edf5ef05d27.webp",
