@@ -8,46 +8,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         },
         {
-            "name": "Klaus Klops",
+            "name": "Klaus Hunter",
             "rank": "Stellv. Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
         },
         {
-            "name": "Odin Klops",
+            "name": "Jonathan Klops",
             "rank": "Manager",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bc/131995-bc30eeff04490010f2136a6682c7909ee33f90c0.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
         {
-            "name": "Sebastian Feinstaub",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8f/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
-        },
-        {
-            "name": "Ronny Klops",
+            "name": "Ronny Hunter",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/97/137814-9708162ebd1991ca599436518c218b465fd1cdf7.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
-        {
-            "name": "Mark Da Massando",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/54/92573-54ca5f67ec07a0b72fce363bb178b467815b26a4.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2703-schmitt/"
-        },
-        {
-            "name": "Rüdiger Rammel",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/74/106877-749646c9972444214bc3d576977a2b804256eb65.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2994-jobrime/"
         },
         {
             "name": "Philipe Klops",
@@ -57,13 +36,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2883-luc-099/"
         },
         {
-            "name": "Iggy Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/54/108768-54bee12404a1ff639337d42ae81e6ade4910b868.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1381-derkosmonat/"
-        },
-        {
             "name": "Maurice Ball",
             "rank": "Mitglied",
             "highlight": false,
@@ -71,25 +43,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
-            "name": "Gustavo Fring",
+            "name": "Gustavo Hunter",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/104335-9f225511bc56f016449968d293716edf5ef05d27.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2268-duckteam/"
         },
         {
-            "name": "Philip Auner",
+            "name": "Jürgen Hasselbach",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/13/148361-139215c50026543fd7157810e32036936767b9f0.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3138-philippku/"
-        },
-        {
-            "name": "Abdulrashid Krasniqi",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3a/140125-3aabaea51b1918d92ae781d699f4bff5342c306b.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1846-abdulrashid-krasniqi/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/149469-354d17e13ef0b095ff651aa816a0e02585ad1214.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1789-iron-philipp/"
         }
     ]
 }
