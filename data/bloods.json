@@ -29,18 +29,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
         },
         {
-            "name": "Thommy Smith",
-            "rank": "11♛ Hood-Boss",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1f/150006-1ffa875d9de4b30154d3a1176db88d206071f74c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
-        },
-        {
             "name": "Obito Tanaka",
-            "rank": "8♛ Instruktor",
-            "highlight": false,
+            "rank": "11♛ Hood Boss",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/150073-7305c43a839986d25db7a6154976e53bc9d614ab.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
+        },
+        {
+            "name": "Thommy Smith",
+            "rank": "10♛ Vize-Hood Boss",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1f/150006-1ffa875d9de4b30154d3a1176db88d206071f74c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {
             "name": "Michael Melone",
