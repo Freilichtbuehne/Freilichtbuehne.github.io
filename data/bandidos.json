@@ -36,13 +36,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
         },
         {
-            "name": "Emin Can",
-            "rank": "10☠ Diputado",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/69/152039-695382e9bb258d675531d40844891b75b501fb61.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2790-emin/"
-        },
-        {
             "name": "Walter Forte",
             "rank": "9☠ El Capitán",
             "highlight": false,
@@ -50,14 +43,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri-l/"
         },
         {
-            "name": "Donalt Black",
-            "rank": "9☠ El Capitán",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "goldphoenix.de"
-        },
-        {
-            "name": "Azad Hamadi",
+            "name": "Azad Kheir",
             "rank": "8☠ Compañero",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d4/152082-d4272ad6dd44ac99cdb9bced68cdbd3811369368.jpg",
@@ -99,18 +85,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3139-ninjaniloc/"
         },
         {
-            "name": "Maurice Ball",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/117518-d3b12f8e79285cf385522af846fbace978822d7a.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
-        },
-        {
             "name": "Lorenzo Carson",
             "rank": "4☠ Amigo",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/6f/144974-6f1fdcc79f5cff61c083898aefb647257ece98d3.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3206-lorenzo/"
+        },
+        {
+            "name": "Gerald Der Scharmlose",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/151885-c73cdfc832b551e5b3edfd01b0e45e3bf169c519.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1940-schrom/"
+        },
+        {
+            "name": "Josefine Munzenbacher",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1940-schrom/"
+        },
+        {
+            "name": "Marianne Rosenberg",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1940-schrom/"
         }
     ]
 }
