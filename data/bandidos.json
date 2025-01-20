@@ -51,7 +51,7 @@
         },
         {
             "name": "Reinhard Rommel",
-            "rank": "6☠ Ascendente",
+            "rank": "7☠ Ascendente",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2798-numb/"
@@ -62,6 +62,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/7007-67eebb0964fde926f5fbccf0cc2c31df846c3470.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1719-wrp-sydney/"
+        },
+        {
+            "name": "Nick Santos",
+            "rank": "6☠ El Asociado",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/7248-5ddf1a14be6a01af55a682ea178727ea320839d1.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
         },
         {
             "name": "Luis Preuss",
@@ -78,18 +85,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1975-jan-3/"
         },
         {
+            "name": "Lorenzo Carson",
+            "rank": "5☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6f/144974-6f1fdcc79f5cff61c083898aefb647257ece98d3.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3206-lorenzo/"
+        },
+        {
             "name": "Ryan Gurke",
             "rank": "4☠ Amigo",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3139-ninjaniloc/"
-        },
-        {
-            "name": "Lorenzo Carson",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6f/144974-6f1fdcc79f5cff61c083898aefb647257ece98d3.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3206-lorenzo/"
         },
         {
             "name": "Gerald Der Scharmlose",
@@ -111,6 +118,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1940-schrom/"
+        }
+        {
+            "name": "Fridi Der Frauenlose",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3195-fridi-faze-bear/"
         }
     ]
 }
