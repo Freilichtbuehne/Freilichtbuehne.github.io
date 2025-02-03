@@ -57,13 +57,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
         },
         {
-            "name": "CL 500",
-            "rank": "9✪ Stabshauptmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/140901-afea1c68bb73a2427dad5671e1fc7dbaacdf28a6.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
-        },
-        {
             "name": "Lenco 15",
             "rank": "9✪ Stabshauptmann",
             "highlight": false,
@@ -78,7 +71,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {
-            "name": "Dunkelolf 40",
+            "name": "Dunkelwolf 40",
             "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/3f/154844-3fe1bdeb46f17aa25185d7198d66d2baf700720f.png",
@@ -111,6 +104,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2698-linus/"
+        },
+        {
+            "name": "Ash 37",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/07/155655-078ef16f6e95495578480b8751c200d5243a72cd.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3215-gpx-finn/"
         }
     ]
 }
