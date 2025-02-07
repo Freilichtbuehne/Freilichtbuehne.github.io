@@ -51,10 +51,17 @@
         },
         {
             "name": "Sydney Henschke",
-            "rank": "6☠ El Asociado",
+            "rank": "7☠ Preferido",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/7007-67eebb0964fde926f5fbccf0cc2c31df846c3470.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1719-wrp-sydney/"
+        },
+        {
+            "name": "Harald der Harmlose",
+            "rank": "7☠ Preferido",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/10880-0a1996e24dc050570696c4c36d5640ce1e9840b9.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1975-jan-3/"
         },
         {
             "name": "Nick Santos",
@@ -64,18 +71,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
         },
         {
-            "name": "Harald der Harmlose",
-            "rank": "6☠ El Asociado",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/10880-0a1996e24dc050570696c4c36d5640ce1e9840b9.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1975-jan-3/"
-        },
-        {
             "name": "Luis Preuss",
-            "rank": "5☠ Amigo",
+            "rank": "5☠ El Asociad",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/146020-4912b30b8002e4c0126d0619d9571aa927ba9e83.jpg",
             "profile": "https://www.goldphoenix.de"
+        },
+        {
+            "name": "Fridi Der Frauenlose",
+            "rank": "5☠ El Asociado",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3195-fridi-faze-bear/"
         },
         {
             "name": "Lorenzo Carson",
@@ -104,13 +111,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/155160-c73cdfc832b551e5b3edfd01b0e45e3bf169c519.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1940-schrom/"
-        },
-        {
-            "name": "Fridi Der Frauenlose",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3195-fridi-faze-bear/"
         }
     ]
 }
