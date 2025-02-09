@@ -106,6 +106,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
         },
         {
+            "name": "Jack Reacher 84",
+            "rank": "8★ Polizeihauptkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/140114-9f001aa13df2de1c3bf3af90c860d92b73e0a884.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3181-starfire911/"
+        },
+        {
             "name": "Paul Miller 24",
             "rank": "7★ Polizeioberkommissar",
             "highlight": false,
@@ -118,13 +125,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/10880-0a1996e24dc050570696c4c36d5640ce1e9840b9.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1975-jan-3/"
-        },
-        {
-            "name": "Julian JohnDeer 84",
-            "rank": "7★ Polizeioberkommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/140114-9f001aa13df2de1c3bf3af90c860d92b73e0a884.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3181-starfire911/"
         },
         {
             "name": "Linus Oneil 43",
@@ -169,13 +169,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2438-lord-internet/"
         },
         {
-            "name": "Nico Blackwater 65",
-            "rank": "6★ Polizeikommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/85/6439-85661b99447c3ca582b9bdf498491dcdea29e95c.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2094-gpx-nicosenpai/"
-        },
-        {
             "name": "Gustavo Hunter 143",
             "rank": "6★ Polizeikommissar",
             "highlight": false,
@@ -195,6 +188,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de"
+        },
+        {
+            "name": "Bernhardt Kruse 621",
+            "rank": "6★ Polizeikommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/157066-73be3a64f7c0e7ca370cb77c8c87df76c8725c4c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         }
     ]
 }
