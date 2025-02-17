@@ -50,13 +50,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
         {
-            "name": "Siegbert Schnößel 99",
-            "rank": "11★ Polizeioberrat",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/159112-1e9dabc2d90bf102d5b2b993c9a4c5964a8114be.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2582-flufffyy2/"
-        },
-        {
             "name": "Michael Melone 33",
             "rank": "11★ Polizeioberrat",
             "highlight": false,
@@ -141,13 +134,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
-            "name": "Alexander Hold 502",
-            "rank": "6★ Polizeikommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/40-imsimon/"
-        },
-        {
             "name": "Felix Sack 40",
             "rank": "6★ Polizeikommissar",
             "highlight": false,
@@ -195,6 +181,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/158997-73be3a64f7c0e7ca370cb77c8c87df76c8725c4c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
+        },
+        {
+            "name": "Johan Liebert 44",
+            "rank": "6★ Polizeikommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter/"
         }
     ]
 }
