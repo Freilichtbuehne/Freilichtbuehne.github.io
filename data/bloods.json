@@ -36,6 +36,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {
+            "name": "Holger Buddel",
+            "rank": "8♛ Instruktor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8f/150240-8f6af17b4a228ac1ad015ee844e5051827bb702d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
+        },
+        {
             "name": "Michael Melone",
             "rank": "7♛ Watcher",
             "highlight": false,
@@ -55,13 +62,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/160982-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
-        },
-        {
-            "name": "Holger Buddel",
-            "rank": "7♛ Watcher",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8f/150240-8f6af17b4a228ac1ad015ee844e5051827bb702d.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
         },
         {
             "name": "Daniel Gremory",
@@ -86,6 +86,13 @@
         },
         {
             "name": "Johan Liebert",
+            "rank": "5♛ Baller",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
+        },
+        {
+            "name": "Orcun Müller",
             "rank": "5♛ Baller",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
@@ -128,13 +135,6 @@
         },
         {
             "name": "Alex Fontana",
-            "rank": "4♛ Hustler",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
-        },
-        {
-            "name": "Orcun Müller",
             "rank": "4♛ Hustler",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
