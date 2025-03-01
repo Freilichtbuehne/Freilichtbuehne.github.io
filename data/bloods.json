@@ -57,13 +57,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
-            "name": "Mika Salzbergwerk",
-            "rank": "7♛ Watcher",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/160982-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
-        },
-        {
             "name": "Daniel Gremory",
             "rank": "5♛ Baller",
             "highlight": false,
@@ -160,6 +153,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f2/154836-f2b255b47406473ebf04f7a390552ffff21d92dd.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
+                    },
+        {
+            "name": "Mika Salzbergwerk",
+            "rank": "4♛ Hustler",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/160982-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
         }
     ]
 }
