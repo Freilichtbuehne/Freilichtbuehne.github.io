@@ -92,13 +92,6 @@
             "profile": "https://www.goldphoenix.de"
         },
         {
-            "name": "Marianne Rosenberg",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
-        },
-        {
             "name": "Antionio Agiani",
             "rank": "4☠ Amigo",
             "highlight": false,
@@ -118,6 +111,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2833-zaree/"
+        },
+        {
+            "name": "Mikdas Santos",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/146020-4912b30b8002e4c0126d0619d9571aa927ba9e83.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2821-peter-griffin/"
         }
     ]
 }
