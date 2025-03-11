@@ -22,6 +22,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/"
         },
         {
+            "name": "Heinrich Danger",
+            "rank": "Management",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/140903-afea1c68bb73a2427dad5671e1fc7dbaacdf28a6.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
+        },
+        {
             "name": "Sebastian Feinstaub",
             "rank": "Fahrlehrer",
             "highlight": false,
@@ -76,6 +83,28 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e9/164793-e9e8669106c920f484749b2d790adbd66da4ca89.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2059-jannik-schmidt/"
+        },
+        {
+            "name": "Lukas Danger",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fb/142163-fba71d6974ed0808c4b6514ffb1aa2fab7759192.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
+        },
+        {
+            "name": "Jerry Steinauer",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a4/155662-a4824604e2ee5bdd08113410360a42cf8ee5f471.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-countdestroyer69/"
+        },
+        {
+            "name": "Johan Liebert",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter/"
+
         }
     ]
 }
