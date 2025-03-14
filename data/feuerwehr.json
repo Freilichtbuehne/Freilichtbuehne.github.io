@@ -44,7 +44,7 @@
         },
         {
             "name": "Luke Harrison",
-            "rank": "VII Brandmeister",
+            "rank": "VIII Brandmeister",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
@@ -55,6 +55,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/8f/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
+        {
+            "name": "Heinrich Danger",
+            "rank": "VII Hauptlöschmeister",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/140903-afea1c68bb73a2427dad5671e1fc7dbaacdf28a6.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
         },
         {
             "name": "Ben Monk",
@@ -103,7 +110,14 @@
             "rank": "IV Hauptfeuerwehrmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/117518-d3b12f8e79285cf385522af846fbace978822d7a.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"'
+        },
+        {
+            "name": "Bernhardt Kruse",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/166163-73be3a64f7c0e7ca370cb77c8c87df76c8725c4c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         }
     ]
 }
