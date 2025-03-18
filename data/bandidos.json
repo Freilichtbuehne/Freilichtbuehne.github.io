@@ -36,13 +36,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3030-azad-libanon/"
         },
         {
-            "name": "Reinhard Rommel",
-            "rank": "7☠ Preferido",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2798-numb/"
-        },
-        {
             "name": "Paul Trichter",
             "rank": "7☠ Preferido",
             "highlight": false,
@@ -57,6 +50,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
         },
         {
+            "name": "Sydney Henschke",
+             "rank": "7☠ Preferido",
+             "highlight": false,
+             "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/7007-67eebb0964fde926f5fbccf0cc2c31df846c3470.webp",
+             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1719-wrp-sydney/"
+         },
+         {
             "name": "Luis Preuss",
             "rank": "5☠ El Asociad",
             "highlight": false,
@@ -76,13 +76,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/159000-c73cdfc832b551e5b3edfd01b0e45e3bf169c519.jpg",
             "profile": "https://www.goldphoenix.de/"
-        },
-        {
-            "name": "Josefine Munzenbacher",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
         },
         {
             "name": "Antionio Agiani",
