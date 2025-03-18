@@ -15,13 +15,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
         },
         {
-            "name": "Leo Salzbergwerk",
-            "rank": "XII Kreisbrandmeister",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/166809-23920479375db694229698e58c9a73710879f242.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
-        },
-        {
             "name": "Thommy Smith",
             "rank": "XI Hauptbrandmeister",
             "highlight": true,
@@ -48,13 +41,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
-        },
-        {
-            "name": "Sebastian Feinstaub",
-            "rank": "VII Hauptlöschmeister",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8f/7502-8f8188f18526d446240d148ab45b6771fc8c28ba.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
         },
         {
             "name": "Heinrich Danger",
@@ -132,6 +118,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/166717-73be3a64f7c0e7ca370cb77c8c87df76c8725c4c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
+        },
+        {
+            "name": "Robert Schnacken",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/gravatars/b1d6e848fb712fdf70736489b206d048-128.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3269-flame05/"
+        },
+        {
+            "name": "Lars Schulz",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3251-tarek342/"
         }
     ]
 }
