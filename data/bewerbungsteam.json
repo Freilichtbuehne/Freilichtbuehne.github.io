@@ -22,25 +22,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
         },
         {
-            "name": "Jessy Salzbergwerk",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/52/7080-52a484bcab3b4371b3f537908fcc0f21b6440a8b.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
-        },
-        {
             "name": "Michael Melone",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
-        },
-        {
-            "name": "Klaus Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
         },
         {
             "name": "Daniel Gremory",
@@ -62,6 +48,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/38/140128-38bf6008c5719053121e8689a3a7ae85a3f44368.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
+        },
+        {
+            "name": "Maurice Ball",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/117518-d3b12f8e79285cf385522af846fbace978822d7a.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
+        },
+        {
+            "name": "Holger Buddel",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/83/167250-83a2f035aacc9fb1fe5127887ddd03492ab3de23.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-buddel/"
         }
     ]
 }
