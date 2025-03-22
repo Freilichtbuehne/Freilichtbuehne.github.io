@@ -92,7 +92,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
         },
         {
-            "name": "Jack Reacher 84",
+            "name": "Julian Koksberg 501",
             "rank": "8★ Polizeihauptkommissar",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/157307-59c2d7a5fc68a705e9f581612e1e26fa8199d7a5.jpg",
@@ -104,13 +104,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/166920-06bfed822be552aed933c26d86e19d60b699385b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3052-warthrup/"
-        },
-        {
-            "name": "Paul Trichter 39",
-            "rank": "7★ Polizeioberkommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/10880-0a1996e24dc050570696c4c36d5640ce1e9840b9.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1975-jan-3/"
         },
         {
             "name": "Linus Oneil 43",
@@ -125,6 +118,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/3f/158133-3fe1bdeb46f17aa25185d7198d66d2baf700720f.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
+        },
+        {
+            "name": "Bernhardt Kruse 621",
+            "rank": "7★ Polizeioberkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/166717-73be3a64f7c0e7ca370cb77c8c87df76c8725c4c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },
         {
             "name": "Maurice Ball 95",
@@ -169,13 +169,6 @@
             "profile": "https://www.goldphoenix.de"
         },
         {
-            "name": "Bernhardt Kruse 621",
-            "rank": "6★ Polizeikommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/166717-73be3a64f7c0e7ca370cb77c8c87df76c8725c4c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
-        },
-        {
             "name": "Johan Liebert 44",
             "rank": "6★ Polizeikommissar",
             "highlight": false,
@@ -195,6 +188,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/166820-b09930db58183dfceaab7c82f18e387826b737b3.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2542-a-02/"
+        },
+        {
+            "name": "Helmut Richter 126",
+            "rank": "6★ Polizeikommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0e/168661-0e0a7abd6e85ab7bc598afda0e4287b8d1fddb23.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3243-dwain/"
+        },
+        {
+            "name": "Jerry Steinauer 810",
+            "rank": "6★ Polizeikommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a4/155662-a4824604e2ee5bdd08113410360a42cf8ee5f471.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-countdestroyer69/"
         }
     ]
 }
