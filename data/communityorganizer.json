@@ -1,32 +1,11 @@
 {
     "members": [
         {
-            "name": "Hanz Black",
+            "name": "Walter Danger",
             "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/77/140641-778901c5a01c414798cf58595f16d5f8214f6291.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
-        },
-        {
-            "name": "Walter Forte",
-            "rank": "Stellv. Leitung",
             "highlight": true,
             "picture": "https://avatars.cloudflare.steamstatic.com/7d2736bf3b44a7a4e4a189378ed4ec82fa3c174b_full.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
-        },
-        {
-            "name": "Ben Black",
-            "rank": "Manager",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5b/101356-5b626eb53726e0a51e91c613514d0a1c1b4d8858.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd/"
-        },
-        {
-            "name": "Paulo Herrmann",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/81/108297-814cf160aa9f4532ff71e25cdd7e24f1e55c80c5.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2660-milchreis/"
         },
         {
             "name": "Philipe Klops",
@@ -57,18 +36,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
         },
         {
-            "name": "Paul Trichter",
+            "name": "Luke Harrison",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/10880-0a1996e24dc050570696c4c36d5640ce1e9840b9.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1975-jan-3/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
-            "name": "Perry Abel",
+            "name": "Ben Koksberg",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3221-just-jade/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c4/168510-c4e65588eed0d9fe2c48438ca1fd18e45a463937.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
+            "name": "Lloyd Kanzler",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0c/147326-0c5a87e6f5a4e248a183b9f294f632810e410a7c.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2438-lord-internet/"
         }
     ]
 }
