@@ -92,6 +92,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
+            "name": "Atomic 14",
+            "rank": "6✪ Feldwebel",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter/"
+        },
+        {
             "name": "Curry 43",
             "rank": "5✪ Unteroffizier",
             "highlight": false,
@@ -113,18 +120,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3258-downsyndrom-kevin/"
         },
         {
-            "name": "Atomic 14",
-            "rank": "5✪ Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter/"
-        },
-        {
             "name": "Reaper 402",
             "rank": "5✪ Unteroffizier",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c4/168794-c4e65588eed0d9fe2c48438ca1fd18e45a463937.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
+            "name": "Shadow 63",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/168992-73be3a64f7c0e7ca370cb77c8c87df76c8725c4c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         }
     ]
 }
