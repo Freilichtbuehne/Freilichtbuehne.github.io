@@ -8,7 +8,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
         },
         {
-            "name": "Walter Forte",
+            "name": "Walter Danger",
             "rank": "Stellv. Leitung",
             "highlight": true,
             "picture": "https://avatars.cloudflare.steamstatic.com/7d2736bf3b44a7a4e4a189378ed4ec82fa3c174b_full.jpg",
@@ -23,8 +23,8 @@
         },
         {
             "name": "Adrian Monk",
-            "rank": "Mentor",
-            "highlight": false,
+            "rank": "Admin",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/92567-2010390e71c0b8f69d3b26880deb2cfb18363d8c.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
         },
@@ -43,6 +43,27 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
+            "name": "Leo Salzbergwerk",
+            "rank": "Mentor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/168800-23920479375db694229698e58c9a73710879f242.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
+        },
+        {
+            "name": "Lemon Ace",
+            "rank": "Mentor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2603-lemon/"
+        },
+        {
+            "name": "Felix Sack",
+            "rank": "Mentor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3f/158133-3fe1bdeb46f17aa25185d7198d66d2baf700720f.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
+        },
+        {
             "name": "Michael Melone",
             "rank": "Mitglied",
             "highlight": false,
@@ -50,32 +71,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
         },
         {
-            "name": "Leo Salzbergwerk",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/168800-23920479375db694229698e58c9a73710879f242.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
-        },
-        {
-            "name": "Odin Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/bc/131995-bc30eeff04490010f2136a6682c7909ee33f90c0.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/"
-        },
-        {
             "name": "Philipe Klops",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2883-philipe/"
-        },
-        {
-            "name": "Lemon Ace",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2603-lemon/"
         },
         {
             "name": "Paul Miller",
@@ -90,6 +90,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/168708-73be3a64f7c0e7ca370cb77c8c87df76c8725c4c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
+        },
+        {
+            "name": "Jonathan Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/83/154847-83ef0b55f0e10cfb9834e04731bcdbe7a54a2ab8.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         }
     ]
 }
