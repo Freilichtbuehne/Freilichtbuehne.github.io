@@ -15,13 +15,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
         },
         {
-            "name": "Apple Danger",
-            "rank": "12♛ OG",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/170752-f5a369323c1a2a18f89adadb1680b6fb49fbd60c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2282-apple/"
-        },
-        {
             "name": "Obito Tanaka",
             "rank": "11♛ Hood Boss",
             "highlight": true,
@@ -37,7 +30,7 @@
         },
         {
             "name": "Holger Buddel",
-            "rank": "8♛ Instruktor",
+            "rank": "9♛ Hood Instruktor",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/83/167250-83a2f035aacc9fb1fe5127887ddd03492ab3de23.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
@@ -174,6 +167,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/117518-d3b12f8e79285cf385522af846fbace978822d7a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
+        },
+        {
+            "name": "Hans Schneider",
+            "rank": "4♛ Hustler",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
         }
     ]
 }
