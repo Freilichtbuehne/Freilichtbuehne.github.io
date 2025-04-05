@@ -30,7 +30,7 @@
         },
         {
             "name": "Azad Kheir",
-            "rank": "9☠ El Capitán",
+            "rank": "10☠ Diputado",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/163918-4f7eef6d69e463957e19f2383aad1d4d03f6f692.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3030-azad-libanon/"
@@ -44,17 +44,10 @@
         },
         {
             "name": "Paul Trichter",
-            "rank": "8☠ Compañero",
+            "rank": "7☠ Preferido",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/10880-0a1996e24dc050570696c4c36d5640ce1e9840b9.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1975-jan-3/"
-        },
-        {
-            "name": "Sydney Henschke",
-            "rank": "7☠ Preferido",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/7007-67eebb0964fde926f5fbccf0cc2c31df846c3470.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1719-wrp-sydney/"
         },
         {
             "name": "Luis Preuss",
@@ -78,39 +71,74 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2833-zaree/"
         },
         {
+            "name": "Johan Liebert",
+            "rank": "5☠ El Asociado",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter/"
+        },
+        {
+            "name": "Holger Buddel",
+            "rank": "5☠ El Asociado",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/83/167250-83a2f035aacc9fb1fe5127887ddd03492ab3de23.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
+        },
+        {
+            "name": "Mikdas Santos",
+            "rank": "5☠ El Asociado",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/146020-4912b30b8002e4c0126d0619d9571aa927ba9e83.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2821-peter-griffin/"
+        },
+        {
             "name": "Schrom Peacher",
             "rank": "4☠ Amigo",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/159000-c73cdfc832b551e5b3edfd01b0e45e3bf169c519.jpg",
-            "profile": "https://www.goldphoenix.de/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/172420-c73cdfc832b551e5b3edfd01b0e45e3bf169c519.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1940-schrom/"
         },
         {
             "name": "Antionio Agiani",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/gravatars/dde4c4a5ae82c3fa9391c0e91932487d-128.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3249-flinn/"
+        },
+        {
+            "name": "Carti Oreo",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f1/172618-f10a9a106a8adea612640a75096cdc58eaf6ba34.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3029-joe-mama/"
+        },
+        {
+            "name": "Hans Smart",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/172666-222ea7a30ae3b510d3c4ae3529e2419c9eb62a3a.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3301-aceflo-09/"
+        },
+        {
+            "name": "Vale Oreo",
             "rank": "4☠ Amigo",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de"
         },
         {
-            "name": "Johan Liebert",
+            "name": "Young Buree",
             "rank": "4☠ Amigo",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter/"
+            "profile": "https://www.goldphoenix.de"
         },
         {
-            "name": "Mikdas Santos",
+            "name": "Kevin Skipper",
             "rank": "4☠ Amigo",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/146020-4912b30b8002e4c0126d0619d9571aa927ba9e83.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2821-peter-griffin/"
-        },
-        {
-            "name": "Holger Buddel",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/83/167250-83a2f035aacc9fb1fe5127887ddd03492ab3de23.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3258-downsyndrom-kevin/"
         }
     ]
 }
