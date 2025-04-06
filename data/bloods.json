@@ -9,7 +9,7 @@
         },
         {
             "name": "Heinrich Danger",
-            "rank": "13♛ Real-OG",
+            "rank": "12♛ OG",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/140903-afea1c68bb73a2427dad5671e1fc7dbaacdf28a6.gif",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
@@ -92,6 +92,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2833-zaree/"
         },
         {
+            "name": "Hans Schneider",
+            "rank": "5♛ Baller",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
+        },
+        {
             "name": "Luis Holz",
             "rank": "4♛ Hustler",
             "highlight": false,
@@ -153,13 +160,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/117518-d3b12f8e79285cf385522af846fbace978822d7a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
-        },
-        {
-            "name": "Hans Schneider",
-            "rank": "4♛ Hustler",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
         }
     ]
 }
