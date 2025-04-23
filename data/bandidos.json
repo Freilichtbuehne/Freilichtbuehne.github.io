@@ -43,11 +43,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
         },
         {
-            "name": "Paul Trichter",
-            "rank": "7☠ Preferido",
+            "name": "Nick Sack",
+            "rank": "6☠ Ascendente",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/10880-0a1996e24dc050570696c4c36d5640ce1e9840b9.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1975-jan-3/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/7248-5ddf1a14be6a01af55a682ea178727ea320839d1.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer/"
+        },
+        {
+            "name": "Zaree Crocs",
+            "rank": "6☠ Ascendente",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/55/176916-55fed5d0432fc027e9d97d478f9786d33b3b3a75.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2833-zaree/"
+        },
+        {
+            "name": "Peter Voight",
+            "rank": "6☠ Ascendente",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/146020-4912b30b8002e4c0126d0619d9571aa927ba9e83.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2821-peter-griffin/"
         },
         {
             "name": "Luis Preuss",
@@ -57,54 +71,13 @@
             "profile": "https://www.goldphoenix.de"
         },
         {
-            "name": "Lorenzo Carson",
-            "rank": "5☠ El Asociado",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6f/144974-6f1fdcc79f5cff61c083898aefb647257ece98d3.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3206-lorenzo/"
-        },
-        {
-            "name": "Zaree Crocs",
-            "rank": "5☠ El Asociado",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/55/176916-55fed5d0432fc027e9d97d478f9786d33b3b3a75.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2833-zaree/"
-        },
-        {
             "name": "Johan Liebert",
             "rank": "5☠ El Asociado",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter/"
         },
-        {
-            "name": "Holger Buddel",
-            "rank": "5☠ El Asociado",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/172668-67c7667bc101c06e677f49e8169e78b4ebd11f39.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
-        },
-        {
-            "name": "Mikdas Santos",
-            "rank": "5☠ El Asociado",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/146020-4912b30b8002e4c0126d0619d9571aa927ba9e83.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2821-peter-griffin/"
-        },
-        {
-            "name": "Schrom Peacher",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/176750-c73cdfc832b551e5b3edfd01b0e45e3bf169c519.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1940-schrom/"
-        },
-        {
-            "name": "Antionio Agiani",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/gravatars/dde4c4a5ae82c3fa9391c0e91932487d-128.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3249-flinn/"
-        },
+
         {
             "name": "Carti Oreo",
             "rank": "4☠ Amigo",
@@ -139,6 +112,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3258-downsyndrom-kevin/"
+        },
+        {
+            "name": "Malik Akok",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
         }
     ]
 }
