@@ -92,7 +92,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
         },
         {
-            "name": "Julian Koksberg 501",
+            "name": "Julian Koksberg 401",
             "rank": "8★ Polizeihauptkommissar",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/157307-59c2d7a5fc68a705e9f581612e1e26fa8199d7a5.jpg",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Paul Miller 24",
-            "rank": "7★ Polizeioberkommissar",
+            "rank": "8★ Polizeihauptkommissar",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/178987-06bfed822be552aed933c26d86e19d60b699385b.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3052-warthrup/"
@@ -120,11 +120,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
         },
         {
-            "name": "Bernhardt Kruse 621",
+            "name": "Light Yagami 21",
             "rank": "7★ Polizeioberkommissar",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/178784-73be3a64f7c0e7ca370cb77c8c87df76c8725c4c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/178886-b09930db58183dfceaab7c82f18e387826b737b3.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2542-a-02/"
+        },
+        {
+            "name": "Ben Koksberg 402",
+            "rank": "7★ Polizeioberkommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c4/178869-c4e65588eed0d9fe2c48438ca1fd18e45a463937.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
             "name": "Maurice Ball 95",
@@ -132,34 +139,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/117518-d3b12f8e79285cf385522af846fbace978822d7a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
-        },
-        {
-            "name": "Flynn Kingsley 85",
-            "rank": "6★ Polizeikommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/8b/136539-8b4cb40755982b1b3b0ce8fd63cd9bbf451f61c7.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1281-leonas09/"
-        },
-        {
-            "name": "Lloyd Kanzler 83",
-            "rank": "6★ Polizeikommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0c/147326-0c5a87e6f5a4e248a183b9f294f632810e410a7c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2438-lord-internet/"
-        },
-        {
-            "name": "Gustavo Hunter 143",
-            "rank": "6★ Polizeikommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/104335-9f225511bc56f016449968d293716edf5ef05d27.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2268-duckteam/"
-        },
-        {
-            "name": "Schrom Peacher 35",
-            "rank": "6★ Polizeikommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/104335-9f225511bc56f016449968d293716edf5ef05d27.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2268-duckteam/"
         },
         {
             "name": "Bernd Trapper 18",
@@ -176,20 +155,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter/"
         },
         {
-            "name": "Ben Koksberg 402",
-            "rank": "6★ Polizeikommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c4/178869-c4e65588eed0d9fe2c48438ca1fd18e45a463937.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
-        },
-        {
-            "name": "Light Yagami 21",
-            "rank": "6★ Polizeikommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b0/178886-b09930db58183dfceaab7c82f18e387826b737b3.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2542-a-02/"
-        },
-        {
             "name": "Helmut Richter 126",
             "rank": "6★ Polizeikommissar",
             "highlight": false,
@@ -202,6 +167,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a4/155662-a4824604e2ee5bdd08113410360a42cf8ee5f471.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-countdestroyer69/"
+        },
+        {
+            "name": "Alexander Hold 502",
+            "rank": "6★ Polizeikommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/40-imsimon/"
         }
     ]
 }
