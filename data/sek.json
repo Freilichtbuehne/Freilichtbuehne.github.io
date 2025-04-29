@@ -50,6 +50,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
         },
         {
+            "name": "Falcon 07",
+            "rank": "10✪ Major",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+        },
+        {
             "name": "Lenco 15",
             "rank": "9✪ Stabshauptmann",
             "highlight": false,
@@ -62,13 +69,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1f/178783-1ffa875d9de4b30154d3a1176db88d206071f74c.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
-        },
-        {
-            "name": "Falcon 07",
-            "rank": "9✪ Stabshauptmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
             "name": "Dunkelwolf 40",
@@ -92,18 +92,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter/"
         },
         {
+            "name": "Reaper 402",
+            "rank": "6✪ Feldwebel",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c4/178869-c4e65588eed0d9fe2c48438ca1fd18e45a463937.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
+            "name": "Flash 26",
+            "rank": "6✪ Feldwebel",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3146-adrien/"
+        },
+        {
+            "name": "Snow 34",
+            "rank": "6✪ Feldwebel",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/62841-35aa754bf716cd634daa3af2240448ebb0fe9d75.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2796-markus-saulus/"
+        },
+        {
             "name": "Curry 43",
             "rank": "5✪ Unteroffizier",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2698-linus/"
-        },
-        {
-            "name": "Ash 37",
-            "rank": "5✪ Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/07/179013-078ef16f6e95495578480b8751c200d5243a72cd.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3215-gpx-finn/"
         },
         {
             "name": "Wood 55",
@@ -113,25 +127,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3258-downsyndrom-kevin/"
         },
         {
-            "name": "Reaper 402",
+            "name": "Centurio 420",
             "rank": "5✪ Unteroffizier",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c4/178869-c4e65588eed0d9fe2c48438ca1fd18e45a463937.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
-        },
-        {
-            "name": "Shadow 63",
-            "rank": "5✪ Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/178784-73be3a64f7c0e7ca370cb77c8c87df76c8725c4c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
-        },
-        {
-            "name": "Snow 34",
-            "rank": "5✪ Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/62841-35aa754bf716cd634daa3af2240448ebb0fe9d75.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2796-markus-saulus/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f4/179594-f414eca42ca878cb228e204e04c783081f465c61.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3229-matukiller420/"
         }
     ]
 }
