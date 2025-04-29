@@ -15,6 +15,13 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
         },
         {
+            "name": "Luke Harrison",
+            "rank": "XI Luke Harrison",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+        },
+        {
             "name": "Michael Melone",
             "rank": "X Hauptbrandmeister",
             "highlight": false,
@@ -22,11 +29,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
         },
         {
-            "name": "Luke Harrison",
-            "rank": "VIII Brandmeister",
+            "name": "Dirk Matthies",
+            "rank": "IX Oberbrandmeister",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/130234-4fdfefdf736f2906366cb96cdf1ed29042140545.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1830-dirk-matthies/"
         },
         {
             "name": "Heinrich Danger",
@@ -36,13 +43,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
         },
         {
-            "name": "Bernhardt Kruse",
-            "rank": "VII Hauptlöschmeister",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/178784-73be3a64f7c0e7ca370cb77c8c87df76c8725c4c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
-        },
-        {
             "name": "Ben Monk",
             "rank": "VI Oberlöschmeister",
             "highlight": false,
@@ -50,18 +50,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
-            "name": "Sebastian Salzburg",
-            "rank": "V Löschmeister",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/22239-23fce6a01538d08e8e6f3f8f404e7e51c104c961.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1126-nockray5yt/"
-        },
-        {
             "name": "Julien Detrox",
-            "rank": "V Löschmeister",
+            "rank": "VI Oberlöschmeister",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f4/159506-f414eca42ca878cb228e204e04c783081f465c61.jpg",
             "profile": "hhttps://www.goldphoenix.de/wcf/index.php?user/3229-matukiller420/"
+        },
+        {
+            "name": "Walter Danger",
+            "rank": "V Löschmeister",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/178920-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
+        },
+        {
+            "name": "Linus Oneil",
+            "rank": "V Löschmeister",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2698-linus/"
+        },
+        {
+            "name": "Robert Schnacken",
+            "rank": "V Löschmeister",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/gravatars/b1d6e848fb712fdf70736489b206d048-128.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3269-flame05/"
         },
         {
             "name": "Alexander Gerst",
@@ -78,13 +92,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-toast/"
         },
         {
-            "name": "Walter Danger",
-            "rank": "IV Hauptfeuerwehrmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/178920-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
-        },
-        {
             "name": "Maurice Ball",
             "rank": "IV Hauptfeuerwehrmann",
             "highlight": false,
@@ -99,25 +106,25 @@
             "profile": "https://www.goldphoenix.de"
         },
         {
-            "name": "Linus Oneil",
-            "rank": "IV Hauptfeuerwehrmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2698-linus/"
-        },
-        {
-            "name": "Robert Schnacken",
-            "rank": "IV Hauptfeuerwehrmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/gravatars/b1d6e848fb712fdf70736489b206d048-128.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3269-flame05/"
-        },
-        {
             "name": "Lars Schulz",
             "rank": "IV Hauptfeuerwehrmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3251-tarek342/"
+        },
+        {
+            "name": "Samuel Saulus",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/12594-9c6c2fb22c3ecf245560f576634607cbc882d9a3.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2493-samuel-saulus/"
+        },
+        {
+            "name": "Pascal Müller Santos",
+            "rank": "IV Hauptfeuerwehrmann",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
         }
     ]
 }
