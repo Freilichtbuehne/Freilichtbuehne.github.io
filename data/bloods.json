@@ -1,25 +1,25 @@
 {
     "members": [
         {
-            "name": "Lukas Danger",
-            "rank": "13♛ Real-OG",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fb/142163-fba71d6974ed0808c4b6514ffb1aa2fab7759192.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
-        },
-        {
-            "name": "Heinrich Danger",
-            "rank": "12♛ OG",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/140903-afea1c68bb73a2427dad5671e1fc7dbaacdf28a6.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
-        },
-        {
             "name": "Obito Tanaka",
-            "rank": "11♛ Hood Boss",
+            "rank": "13♛ Real-OG",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/73/180880-7305c43a839986d25db7a6154976e53bc9d614ab.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2362-flipperz/"
+        },
+        {
+            "name": "Nick Santos",
+            "rank": "12♛ OG",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/7248-5ddf1a14be6a01af55a682ea178727ea320839d1.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
+        },
+        {
+            "name": "Holger Buddel",
+            "rank": "12♛ OG",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/179905-d7bbaa294973b081de1077c77d1f4fd1823dffcb.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
         },
         {
             "name": "Thommy Smith",
@@ -29,13 +29,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {
-            "name": "Holger Buddel",
-            "rank": "9♛ Hood Instruktor",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/179905-d7bbaa294973b081de1077c77d1f4fd1823dffcb.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-klops/"
-        },
-        {
             "name": "Leo Salzbergwerk",
             "rank": "7♛ Watcher",
             "highlight": false,
@@ -43,7 +36,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
         },
         {
-            "name": "Orcun Müller",
+            "name": "Orcun Abi",
             "rank": "6♛ Executer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
@@ -51,10 +44,24 @@
         },
         {
             "name": "Johan Liebert",
-            "rank": "5♛ Executer",
+            "rank": "6♛ Executer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter/"
+        },
+        {
+            "name": "Jonathan Klops",
+            "rank": "6♛ Executer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/83/154847-83ef0b55f0e10cfb9834e04731bcdbe7a54a2ab8.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
+        },
+        {
+            "name": "Hans Schneider",
+            "rank": "6♛ Executer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
         },
         {
             "name": "Daniel Gremory",
@@ -71,20 +78,6 @@
             "profile": "https://www.goldphoenix.de"
         },
         {
-            "name": "Jonathan Klops",
-            "rank": "5♛ Baller",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/83/154847-83ef0b55f0e10cfb9834e04731bcdbe7a54a2ab8.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
-        },
-        {
-            "name": "David Holz",
-            "rank": "5♛ Baller",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
-        },
-        {
             "name": "Zaree Klops",
             "rank": "5♛ Baller",
             "highlight": false,
@@ -92,15 +85,8 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2833-zaree/"
         },
         {
-            "name": "Hans Schneider",
+            "name": "Itachi Uchiwa",
             "rank": "5♛ Baller",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
-        },
-        {
-            "name": "Luis Holz",
-            "rank": "4♛ Hustler",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de"
