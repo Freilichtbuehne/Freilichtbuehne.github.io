@@ -1,18 +1,18 @@
 {
     "members": [
         {
-            "name": "Adrian Monk",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/20/92567-2010390e71c0b8f69d3b26880deb2cfb18363d8c.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1652-adrian-monk/"
-        },
-        {
             "name": "Klaus Hunter",
-            "rank": "Stellv. Leitung",
+            "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
+        },
+        {
+            "name": "Holger Buddel",
+            "rank": "Stellv. Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d9/181947-d9f28a2dd43f39465df6a0833e1a5d19bacf8425.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-buddel/"
         },
         {
             "name": "Jonathan Klops",
@@ -22,25 +22,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
         {
-            "name": "Ronny Hunter",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/181656-4f8184c2fccd973bc5618bfb9a74fbf8996b40e9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
-        {
             "name": "Philipe Klops",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2883-luc-099/"
-        },
-        {
-            "name": "Maurice Ball",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d3/117518-d3b12f8e79285cf385522af846fbace978822d7a.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
             "name": "Gustavo Hunter",
@@ -62,6 +48,48 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/3f/158133-3fe1bdeb46f17aa25185d7198d66d2baf700720f.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
+        },
+        {
+            "name": "Jerry Steinauer",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a4/155662-a4824604e2ee5bdd08113410360a42cf8ee5f471.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-countdestroyer69/"
+        },
+        {
+            "name": "Julian Detrox",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f4/185714-f414eca42ca878cb228e204e04c783081f465c61.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3229-matukiller420/"
+        },
+        {
+            "name": "Carti Oreo",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f1/185096-f10a9a106a8adea612640a75096cdc58eaf6ba34.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3029-joe-mama/"
+        },
+        {
+            "name": "Vale Oreo",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
+        },
+        {
+            "name": "Perry Abel",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/2b/185712-2b399facfef62e92fb1b2ad5acdf9e2153f5c1db.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3221-yaya-jade/"
+        },
+        {
+            "name": "Franz Hunter",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/97/185638-97d22bf3962c9bf9d43303859b62e20d567ccf2e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2781-ben-bruder-von-odin/"
         }
     ]
 }
