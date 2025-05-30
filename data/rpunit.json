@@ -8,7 +8,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
         },
         {
-            "name": "Walter Danger",
+            "name": "Walter Forte",
             "rank": "Stellv. Leitung",
             "highlight": true,
             "picture": "https://avatars.cloudflare.steamstatic.com/7d2736bf3b44a7a4e4a189378ed4ec82fa3c174b_full.jpg",
@@ -50,32 +50,46 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3052-warthrup/"
         },
         {
-            "name": "Leo Salzbergwerk",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/187039-23920479375db694229698e58c9a73710879f242.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
-        },
-        {
-            "name": "Ronny Hunter",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4f/181656-4f8184c2fccd973bc5618bfb9a74fbf8996b40e9.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
-        },
-        {
-            "name": "Johan Liebert",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter/"
-        },
-        {
             "name": "Jerry Steinauer",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/a4/155662-a4824604e2ee5bdd08113410360a42cf8ee5f471.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-countdestroyer69/"
+        },
+        {
+            "name": "Vincent Nirvalen",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4a/7042-4a7ad91548508ca2f8bdc4dece7841b2e0a74ba8.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1351-vincent/"
+        },
+        {
+            "name": "Lara Miewia",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a4/155662-a4824604e2ee5bdd08113410360a42cf8ee5f471.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-countdestroyer69/"
+        },
+        {
+            "name": "Linus Oneil",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2698-linus/"
+        },
+        {
+            "name": "Ben Koksberg",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/12/188501-12e10a6564cb28e725bf0b7c2d17aaac65bb04ad.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
+            "name": "Jannik Schmidt",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e9/188425-e9e8669106c920f484749b2d790adbd66da4ca89.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2059-jannik-schmidt/"
         }
     ]
 }
