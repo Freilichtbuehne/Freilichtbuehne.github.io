@@ -2,108 +2,82 @@
     "members": [
         {
             "name": "Khabib Black",
-            "rank": "15☠ Patron",
+            "rank": "13♚ Original Gangster",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/38/140128-38bf6008c5719053121e8689a3a7ae85a3f44368.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1590-khabib/"
         },
         {
             "name": "Hanz Voight",
-            "rank": "14☠ Don",
+            "rank": "12♚ Lil Original Gangster",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/77/140641-778901c5a01c414798cf58595f16d5f8214f6291.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2695-gurkenwasser/"
         },
         {
             "name": "Felix Sack",
-            "rank": "13☠ Mano Derecha",
+            "rank": "11♚Street OG",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/3f/158133-3fe1bdeb46f17aa25185d7198d66d2baf700720f.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
         },
         {
             "name": "Azad Kheir",
-            "rank": "11☠ Contador",
+            "rank": "10♜ Lil Street OG ",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/2d/177880-2d2ebc9c020c6bfbed2bf3c82c1dcf0067a6ec81.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3030-azad-libanon/"
         },
         {
-            "name": "Nick Santos",
-            "rank": "9☠ El Capitán",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/7248-5ddf1a14be6a01af55a682ea178727ea320839d1.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
-        },
-        {
             "name": "Nick Sack",
-            "rank": "7☠ Preferido",
+            "rank": "8♜ Big Loc",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/7248-5ddf1a14be6a01af55a682ea178727ea320839d1.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer/"
         },
         {
             "name": "Zaree Crocs",
-            "rank": "6☠ Ascendente",
+            "rank": "6♝Locster",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/55/189169-55fed5d0432fc027e9d97d478f9786d33b3b3a75.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2833-zaree/"
         },
         {
-            "name": "Peter Voight",
-            "rank": "6☠ Ascendente",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/49/146020-4912b30b8002e4c0126d0619d9571aa927ba9e83.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2821-peter-griffin/"
-        },
-        {
-            "name": "Luis Preuss",
-            "rank": "6☠ Ascendente",
+            "name": "Luis Preus",
+            "rank": "6♝ Locster",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de"
         },
         {
             "name": "Young Buree",
-            "rank": "5☠ El Asociado",
+            "rank": "5♝ TroubleShooter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de"
         },
         {
-            "name": "Carti Oreo",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f1/189202-f10a9a106a8adea612640a75096cdc58eaf6ba34.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3029-joe-mama/"
-        },
-        {
-            "name": "Hans Smart",
-            "rank": "4☠ Amigo",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/189252-222ea7a30ae3b510d3c4ae3529e2419c9eb62a3a.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3301-aceflo-09/"
-        },
-        {
-            "name": "Vale Oreo",
-            "rank": "4☠ Amigo",
+            "name": "Fridi von Frauenlos",
+            "rank": "5♝ TroubleShooter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de"
         },
         {
-            "name": "Kevin Skipper",
-            "rank": "4☠ Amigo",
+            "name": "Levent Holzapfel",
+            "rank": "4♝ Crip",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3258-downsyndrom-kevin/"
+            "profile": "https://www.goldphoenix.de"
         },
+
         {
             "name": "Malik Akok",
-            "rank": "4☠ Amigo",
+            "rank": "4♝ Crip",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de"
         }
     ]
 }
+
