@@ -20,12 +20,12 @@ const urls = {
     9: "feuerwehr.json",
     10: "fahrschule.json",
     11: "sek.json",
-    12: "bandidos.json",
+    12: "crips.json",
 //    13: "sani.json",
 //    14: "arzt.json",
     15: "flugschule.json",
     16: "communitybuilder.json",
-    17: "bloods.json",
+    17: "tanaka.json",
 }
 
 const maxEntrys = 10;
