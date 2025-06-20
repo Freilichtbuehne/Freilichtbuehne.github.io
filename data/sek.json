@@ -29,15 +29,8 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
         },
         {
-            "name": "Buck 30",
-            "rank": "12✪ Brigadegeneral",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2622-ichbinderlachs/"
-        },
-        {
             "name": "Falcon 07",
-            "rank": "10✪ Major",
+            "rank": "11✪ Oberst",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
@@ -71,8 +64,8 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
-            "name": "Reaper 402",
-            "rank": "6✪ Feldwebel",
+            "name": "Ghost 187",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/193193-ae566f0a53c301d14a9e35e6fa033e6885e36f24.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
@@ -111,6 +104,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/f4/193342-f414eca42ca878cb228e204e04c783081f465c61.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3229-matukiller420/"
+        },
+        {
+            "name": "Shadow 99",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/193662-e4533959a605cc2b032cd1874cfb6a096d958bb9.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/511-mickaspeedy/"
         }
     ]
 }
