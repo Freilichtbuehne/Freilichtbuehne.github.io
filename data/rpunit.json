@@ -36,6 +36,20 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
         {
+            "name": "Lara Miewia",
+            "rank": "Mentor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a4/155662-a4824604e2ee5bdd08113410360a42cf8ee5f471.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-countdestroyer69/"
+        },
+        {
+            "name": "Holger Buddel",
+            "rank": "Mentor",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/194844-0a2ce10f82ba5cb39ec2eb93a56e7c3be89cbe57.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-buddel/"
+        },
+        {
             "name": "Michael Melone",
             "rank": "Mitglied",
             "highlight": false,
@@ -64,13 +78,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1351-vincent/"
         },
         {
-            "name": "Lara Miewia",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a4/155662-a4824604e2ee5bdd08113410360a42cf8ee5f471.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-countdestroyer69/"
-        },
-        {
             "name": "Linus Oneil",
             "rank": "Mitglied",
             "highlight": false,
@@ -90,6 +97,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e9/193117-e9e8669106c920f484749b2d790adbd66da4ca89.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2059-jannik-schmidt/"
+        },
+        {
+            "name": "Maurice Ball",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/192485-5ece5072fd230a1cf444812b9713be12b925b11f.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         }
     ]
 }
