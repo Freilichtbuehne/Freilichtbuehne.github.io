@@ -22,11 +22,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/"
         },
         {
-            "name": "Heinrich Danger",
+            "name": "Walter Forte",
             "rank": "Management",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/140903-afea1c68bb73a2427dad5671e1fc7dbaacdf28a6.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1835-heinrich-danger/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/193244-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
         },
         {
             "name": "Jerry Frischbier",
@@ -50,13 +50,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1381-derkosmonat/"
         },
         {
-            "name": "Walter Danger",
-            "rank": "Fahrlehrer",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/193244-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
-        },
-        {
             "name": "Jonathan Klops",
             "rank": "Fahrlehrer",
             "highlight": false,
@@ -71,13 +64,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2059-jannik-schmidt/"
         },
         {
-            "name": "Lukas Danger",
-            "rank": "Fahrlehrer",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/fb/142163-fba71d6974ed0808c4b6514ffb1aa2fab7759192.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2024-n1gh1m4r3/"
-        },
-        {
             "name": "Jerry Steinauer",
             "rank": "Fahrlehrer",
             "highlight": false,
@@ -85,11 +71,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-countdestroyer69/"
         },
         {
-            "name": "Johan Liebert",
+            "name": "Ben Koksberg",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/194669-ae566f0a53c301d14a9e35e6fa033e6885e36f24.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+        },
+        {
+            "name": "Maurice Ball",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/192485-5ece5072fd230a1cf444812b9713be12b925b11f.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
+       },
+        {
+            "name": "Adrien Anderson",
             "rank": "Fahrlehrer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3146-adrien/"
         }
     ]
 }
