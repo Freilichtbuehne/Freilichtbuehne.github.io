@@ -1,36 +1,15 @@
 {
     "members": [
         {
-            "name": "Kristall 33",
-            "rank": "15✪ General",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
-        },
-        {
-            "name": "Blue 42",
-            "rank": "14✪ Generalleutnant",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/195269-23920479375db694229698e58c9a73710879f242.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2473-exl3nd/"
-        },
-        {
             "name": "Mamba 17",
-            "rank": "13✪ Generalmajor",
+            "rank": "15✪ General",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/195314-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
         },
         {
-            "name": "Pulse 90",
-            "rank": "12✪ Brigadegeneral",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/195232-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
-        },
-        {
             "name": "Falcon 07",
-            "rank": "11✪ Oberst",
+            "rank": "14✪ Generalleutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
