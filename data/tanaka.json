@@ -36,18 +36,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
         {
-            "name": "Itachi Uchiwa",
-            "rank": "5刃 Tora",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
-        },
-        {
             "name": "Linus Oneil",
-            "rank": "5刃 Shōnin",
+            "rank": "6竜 Kurai",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2698-linus/"
+        },
+        {
+            "name": "Itachi Uchiwa",
+            "rank": "5刃 Tora",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/36/196023-3697f2ebb486e48dfc8a4138f6a7c4e7d7798e13.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3299-ita3hi/"
         },
         {
             "name": "Zaree Crocs",
@@ -62,6 +62,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/"
+        },
+        {
+            "name": "Starious Goldberg",
+            "rank": "4刃 Shōnin",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/"
+        },
+        {
+            "name": "Fridi von Frauenlos",
+            "rank": "4刃 Shōnin",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e0/177879-e08d123f302afd135907e4331f1ba60158b6c4bd.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3195-fridi/"
         },
         {
             "name": "Lemon Ace",
@@ -85,13 +99,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {
-            "name": "Mika Salzbergwerk",
-            "rank": "3刃 Hashi",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/29/195232-296e94dc30ca8a54be125f7376b84952b7a7e238.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2308-mikano2/"
-        },
-        {
             "name": "Mark Massando",
             "rank": "3刃 Hashi",
             "highlight": false,
@@ -99,25 +106,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2703-schmitt/"
         },
         {
-            "name": "Fridi von Frauenlos",
-            "rank": "3刃 Hashi",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e0/177879-e08d123f302afd135907e4331f1ba60158b6c4bd.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3195-fridi/"
-        },
-        {
             "name": "Rudi Winkler",
             "rank": "3刃 Hashi",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2816-flying-fink/"
         },
         {
-            "name": "Starious Goldberg",
+            "name": "Arthur Mason",
             "rank": "3刃 Hashi",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f1/196030-f10a9a106a8adea612640a75096cdc58eaf6ba34.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3361-ghost/"
         }
     ]
 }
