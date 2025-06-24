@@ -50,6 +50,13 @@
             "profile": "https://www.goldphoenix.de"
         },
         {
+            "name": "Paul Trichter",
+            "rank": "6♝ Locster",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
+        },
+        {
             "name": "Young Buree",
             "rank": "5♝ TroubleShooter",
             "highlight": false,
@@ -60,29 +67,50 @@
             "name": "Fridi von Frauenlos",
             "rank": "5♝ TroubleShooter",
             "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e0/177879-e08d123f302afd135907e4331f1ba60158b6c4bd.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3195-fridi/"
+        },
+        {
+            "name": "Malik Akok",
+            "rank": "5♝ TroubleShooter",
+            "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3276-malik/"
         },
         {
             "name": "Nick Sakk",
             "rank": "4♝ Crip",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3339-te-emo-onduty/"
         },
         {
             "name": "Ronny Kohlberger",
             "rank": "4♝ Crip",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3258-downsyndrom-kevin/"
         },
         {
-            "name": "Malik Akok",
+            "name": "Sieb Ter Bauarbeiter",
             "rank": "4♝ Crip",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3359-zocker24/"
+        },
+        {
+            "name": "Herbert Protz",
+            "rank": "4♝ Crip",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/cb/185446-cb0657e6a17de500f6abb9635a545b3eab58ba2a.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
+        },
+        {
+            "name": "Feny Milchzahn",
+            "rank": "4♝ Crip",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/195475-c73cdfc832b551e5b3edfd01b0e45e3bf169c519.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1940-schrom/"
         }
     ]
 }
