@@ -15,11 +15,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
         },
         {
+            "name": "Dunkelwolf 40",
+            "rank": "12✪ Brigardegeneral",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3f/158133-3fe1bdeb46f17aa25185d7198d66d2baf700720f.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
+        },
+        {
             "name": "Lenco 15",
-            "rank": "9✪ Stabshauptmann",
-            "highlight": false,
+            "rank": "12✪ Brigardegeneral",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/83/154847-83ef0b55f0e10cfb9834e04731bcdbe7a54a2ab8.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-toast/"
+        },
+        {
+            "name": "Ghost 187",
+            "rank": "12✪ Brigardegeneral",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/197334-ae566f0a53c301d14a9e35e6fa033e6885e36f24.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
             "name": "Wolf 911",
@@ -29,25 +43,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {
-            "name": "Dunkelwolf 40",
-            "rank": "9✪ Stabshauptmann",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3f/158133-3fe1bdeb46f17aa25185d7198d66d2baf700720f.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
-        },
-        {
             "name": "Senf 95",
-            "rank": "7✪ Leutnant",
+            "rank": "8✪ Oberleutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/192485-5ece5072fd230a1cf444812b9713be12b925b11f.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
-        },
-        {
-            "name": "Ghost 187",
-            "rank": "7✪ Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ae/197334-ae566f0a53c301d14a9e35e6fa033e6885e36f24.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
         },
         {
             "name": "Flash 26",
@@ -90,6 +90,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/193662-e4533959a605cc2b032cd1874cfb6a096d958bb9.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/511-mickaspeedy/"
+        },
+        {
+            "name": "Payback 46",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e0/177879-e08d123f302afd135907e4331f1ba60158b6c4bd.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3195-fridi/"
         }
     ]
 }
