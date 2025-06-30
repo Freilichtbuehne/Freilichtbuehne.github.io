@@ -16,14 +16,14 @@
         },
         {
             "name": "Odin Hunter",
-            "rank": "Management",
+            "rank": "Manager",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/bc/131995-bc30eeff04490010f2136a6682c7909ee33f90c0.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2469-odin/"
         },
         {
             "name": "Walter Forte",
-            "rank": "Management",
+            "rank": "Manager",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/197385-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
@@ -57,7 +57,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
         {
-            "name": "Jannik Schmidt",
+            "name": "Janik Schmidt",
             "rank": "Fahrlehrer",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e9/197258-e9e8669106c920f484749b2d790adbd66da4ca89.jpg",
