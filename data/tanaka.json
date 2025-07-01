@@ -44,7 +44,7 @@
         },
         {
             "name": "Itachi Uchiwa",
-            "rank": "5刃 Tora",
+            "rank": "6竜 Kurai",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/36/197501-3697f2ebb486e48dfc8a4138f6a7c4e7d7798e13.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3299-ita3hi/"
@@ -125,6 +125,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/193662-e4533959a605cc2b032cd1874cfb6a096d958bb9.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/511-mickaspeedy/"
+        },
+        {
+            "name": "Nick Sack",
+            "rank": "3刃 Hashi",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/185738-3c5941d53bcfbfaf5087d17d9f09d1fad0dd762c.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer/"
         }
     ]
 }
