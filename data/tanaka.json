@@ -29,25 +29,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee/"
         },
         {
-            "name": "Jonathan Klops",
-            "rank": "6竜 Kurai",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/83/154847-83ef0b55f0e10cfb9834e04731bcdbe7a54a2ab8.jpeg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
-        },
-        {
             "name": "Linus Oneil",
-            "rank": "6竜 Kurai",
+            "rank": "7竜 Senshi",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2698-linus/"
         },
         {
             "name": "Itachi Uchiwa",
-            "rank": "6竜 Kurai",
+            "rank": "7竜 Senshi",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/36/203800-3697f2ebb486e48dfc8a4138f6a7c4e7d7798e13.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3299-ita3hi/"
+        },
+        {
+            "name": "Jonathan Klops",
+            "rank": "6竜 Kurai",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/83/154847-83ef0b55f0e10cfb9834e04731bcdbe7a54a2ab8.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
         {
             "name": "Starious Goldberg",
@@ -132,6 +132,27 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2816-flying-fink/"
+        },
+        {
+            "name": "Haruto Kurayami",
+            "rank": "3刃 Hashi",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/96/204422-96f545d7104c28b085f7fb726e7c39321102ece2.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2063-shaykon"
+        },
+        {
+            "name": "Rafael Loco",
+            "rank": "3刃 Hashi",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9a/204669-9aa84e10a965f118928955aa13bb7ee2b4748360.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3082-osama-bin-laden/"
+        },
+        {
+            "name": "Eduard Schäfer",
+            "rank": "3刃 Hashi",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/25/204519-25079c8bc678067363bb7c9bd5429a6700cefdff.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2334-dimle"
         }
     ]
 }
