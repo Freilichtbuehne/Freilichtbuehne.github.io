@@ -16,17 +16,10 @@
         },
         {
             "name": "Sir Leon Nice 66",
-            "rank": "12★ Polizeidirektor",
+            "rank": "13★ Ltd. Polizeidirektor",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/b8/24061-b845d10cbb515055baa97ec8e0026268fa0d5b0f.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2551-sirleonnice/"
-        },
-        {
-            "name": "Walter Forte 17",
-            "rank": "12★ Polizeidirektor",
-            "highlight": true,
-            "picture": "https://avatars.akamai.steamstatic.com/7d2736bf3b44a7a4e4a189378ed4ec82fa3c174b_full.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
         },
         {
             "name": "Jonathan Klops 15",
@@ -43,11 +36,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2889-lukas1234/"
         },
         {
-            "name": "Holger Buddel 555",
+            "name": "Holger Buddel 55",
             "rank": "12★ Polizeidirektor",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/194844-0a2ce10f82ba5cb39ec2eb93a56e7c3be89cbe57.jpeg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-h-buddel/"
+        },
+        {
+            "name": "Ronny Hunter",
+            "rank": "12★ Polizeidirektor",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0a/194844-0a2ce10f82ba5cb39ec2eb93a56e7c3be89cbe57.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {
             "name": "Carl von Sternberg 501",
@@ -55,6 +55,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/90/114664-90b004fa0a466f43f2eb64db6440dc8d1ef46095.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2788-bmk-bund/"
+        },
+        {
+            "name": "Nick Santos 31",
+            "rank": "11★ Polizeioberrat",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/90/114664-90b004fa0a466f43f2eb64db6440dc8d1ef46095.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2330-santos/"
         },
         {
             "name": "Philipe Bauer 16",
@@ -97,14 +104,7 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/192485-5ece5072fd230a1cf444812b9713be12b925b11f.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
-        },
-        {
-            "name": "Bernd Trapper 18",
-            "rank": "6★ Polizeikommissar",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
-        },
+        }
         {
             "name": "Jerry Steinauer 810",
             "rank": "6★ Polizeikommissar",
@@ -118,6 +118,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/40-imsimon/"
+        },
+        {
+            "name": "Remzi Fett",
+            "rank": "6★ Polizeikommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3364-b4d4s2-420/"
+        },
+        {
+            "name": "Franz Hunter",
+            "rank": "6★ Polizeikommissar",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/index.php?thread/9079-bewerbung-f%C3%BCr-6-polizeikommissar-pk/"
         }
     ]
 }
