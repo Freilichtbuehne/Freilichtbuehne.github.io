@@ -1,18 +1,12 @@
 {
     "members": [
         {
-            "name": "Walter Danger",
+            "name": "Walter Forte",
             "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/42/203684-422453e4dba29641a5589851ab9f2491aa2ac056.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
-        },
-        {
-            "name": "Luke Harrison",
-            "rank": "stellv. Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/44/6541-44d1238ea7c35072f883ce9bd7a179115274cb76.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1918-fake-luke/"
+
         },
         {
             "name": "Philipe Klops",
@@ -36,18 +30,32 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
-            "name": "Ben Koksberg",
+            "name": "Hans Schneider",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/203632-5de8a11901e15d5a9a59b354c53705312736e4b6.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d2/4088-d2b79ff7dec1d89f97bb05ea3188f3bf9548692f.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1118-gpx-theblackarmee"
         },
         {
-            "name": "Lloyd Kanzler",
+            "name": "Mika Eko",
             "rank": "Mitglied",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0c/147326-0c5a87e6f5a4e248a183b9f294f632810e410a7c.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2438-lord-internet/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/193662-e4533959a605cc2b032cd1874cfb6a096d958bb9.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/511-flameofblood"
+        },
+        {
+            "name": "Adrian Sefjec",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/41/205261-41a590f69508ae54e1d53354f7fa7b8ae3442c21.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2997-gpx-adrian"
+        },
+        {
+            "name": "Joan Sefjec",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1a/205137-1aa9a21c326b063420a6d7d2821f48085cabbc5f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2413-void"
         }
     ]
 }
