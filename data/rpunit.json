@@ -29,13 +29,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
         {
-            "name": "Lara Niewia",
-            "rank": "Mentor",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a4/155662-a4824604e2ee5bdd08113410360a42cf8ee5f471.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-countdestroyer69/"
-        },
-        {
             "name": "Holger Buddel",
             "rank": "Mentor",
             "highlight": false,
@@ -90,6 +83,41 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/192485-5ece5072fd230a1cf444812b9713be12b925b11f.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
+        },
+        {
+            "name": "Perry Abel",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/db/205296-db843873caf9cedb9d1a4ce136389296f0d022a4.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3221-yaya-jade"
+        },
+        {
+            "name": "Nick Sack",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/185738-3c5941d53bcfbfaf5087d17d9f09d1fad0dd762c.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer"
+        },
+        {
+            "name": "Mika Eko",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/193662-e4533959a605cc2b032cd1874cfb6a096d958bb9.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/511-flameofblood"
+        },
+        {
+            "name": "Adrian Sefjec",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/41/205261-41a590f69508ae54e1d53354f7fa7b8ae3442c21.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2997-gpx-adrian"
+        },
+        {
+            "name": "Joan Sefjec",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1a/205137-1aa9a21c326b063420a6d7d2821f48085cabbc5f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2413-void"
         }
     ]
 }
