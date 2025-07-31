@@ -44,7 +44,7 @@
         },
         {
             "name": "Senf 95",
-            "rank": "8✪ Oberleutnant",
+            "rank": "9✪ Stabshauptmann",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/192485-5ece5072fd230a1cf444812b9713be12b925b11f.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
@@ -58,38 +58,31 @@
         },
         {
             "name": "Snow 34",
-            "rank": "6✪ Feldwebel",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/62841-35aa754bf716cd634daa3af2240448ebb0fe9d75.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2796-markus-saulus/"
         },
         {
             "name": "Baum 51",
-            "rank": "6✪ Feldwebel",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3334-celli/"
         },
         {
-            "name": "Curry 43",
-            "rank": "6✪ Feldwebel",
+            "name": "Phantom 43",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2698-linus/"
         },
         {
             "name": "Shadow 99",
-            "rank": "6✪ Feldwebel",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e4/193662-e4533959a605cc2b032cd1874cfb6a096d958bb9.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/511-mickaspeedy/"
-        },
-        {
-            "name": "Centurio 420",
-            "rank": "5✪ Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f4/205900-f414eca42ca878cb228e204e04c783081f465c61.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3229-matukiller420/"
         },
         {
             "name": "Payback 46",
@@ -97,6 +90,34 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/e0/177879-e08d123f302afd135907e4331f1ba60158b6c4bd.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3195-fridi/"
+        },
+        {
+            "name": "Madara 787",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/36/207133-3697f2ebb486e48dfc8a4138f6a7c4e7d7798e13.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3299-ita3hi"
+        },
+        {
+            "name": "Apfel 49",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2816-flying-fink"
+        },
+        {
+            "name": "Galaxy 38",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1a/206955-1aa9a21c326b063420a6d7d2821f48085cabbc5f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2413-void"
+        },
+        {
+            "name": "Seal 12",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9c/12594-9c6c2fb22c3ecf245560f576634607cbc882d9a3.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2493-samuel-saulus"
         }
     ]
 }
