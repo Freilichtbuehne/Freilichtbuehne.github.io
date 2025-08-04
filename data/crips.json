@@ -30,8 +30,8 @@
         },
         {
             "name": "Nick Sack",
-            "rank": "8♜ Big Loc",
-            "highlight": false,
+            "rank": "10♜ Lil Street OG",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5d/7248-5ddf1a14be6a01af55a682ea178727ea320839d1.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2677-kebabenjoyer/"
         },
@@ -50,11 +50,11 @@
             "profile": "https://www.goldphoenix.de"
         },
         {
-            "name": "Luis Preus",
+            "name": "Andro Moritz",
             "rank": "6♝ Locster",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3339-te-emo-onduty/"
         },
         {
             "name": "Young Buree",
@@ -71,18 +71,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3276-malik/"
         },
         {
-            "name": "Andro Moritz",
-            "rank": "5♝ TroubleShooter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3339-te-emo-onduty/"
-        },
-        {
             "name": "Herbert Protz",
             "rank": "5♝ TroubleShooter",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/cb/185446-cb0657e6a17de500f6abb9635a545b3eab58ba2a.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
+        },
+        {
+            "name": "Hanz Bock",
+            "rank": "5♝ TroubleShooter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b3/208279-b314af938de785fddf782fed0b64c3d343d58e3e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2970-cs-guock/"
         },
         {
             "name": "Ronny Kohlberger",
@@ -116,15 +116,22 @@
             "name": "Anna Bolicka",
             "rank": "4♝ Crip",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/db/196329-dbfc2ca23c1000c9949c7f2a9c2ae2441d42b307.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2883-philipe/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
         },
         {
             "name": "Linus Oneil",
             "rank": "4♝ Crip",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/db/196329-dbfc2ca23c1000c9949c7f2a9c2ae2441d42b307.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2883-philipe/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
+        },
+        {
+            "name": "Andrew Tate",
+            "rank": "4♝ Crip",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de"
         }
     ]
 }
