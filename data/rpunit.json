@@ -29,13 +29,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2461-jonathan-klops/"
         },
         {
-            "name": "Holger Buddel",
-            "rank": "Mentor",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/39/211987-396e18361e012012461c06023685ff36395190ce.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-buddel/"
-        },
-        {
             "name": "Paul Miller",
             "rank": "Mitglied",
             "highlight": false,
@@ -118,6 +111,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1a/212100-1aa9a21c326b063420a6d7d2821f48085cabbc5f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2413-void"
+                    },
+        {
+            "name": "Johan Liebert",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter"
         }
     ]
 }
