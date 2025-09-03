@@ -71,25 +71,11 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2059-jannik-schmidt/"
         },
         {
-            "name": "Jerry Steinauer",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a4/155662-a4824604e2ee5bdd08113410360a42cf8ee5f471.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2408-countdestroyer69/"
-        },
-        {
             "name": "Perry Abel",
             "rank": "Mitglied",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/215620-45c1a3767e2b5512f528ad446ab7155ac8c02bc5.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3221-yaya-jade/"
-        },
-        {
-            "name": "Franz Hunter",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/97/215545-97d22bf3962c9bf9d43303859b62e20d567ccf2e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2781-ben-bruder-von-odin/"
         },
         {
             "name": "Markus Saulus",
@@ -104,6 +90,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2698-linus/"
+        },
+        {
+            "name": "Johan Pro Hunter",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3242-average-innie-hunter"
         },
         {
             "name": "Maurice Ball",
