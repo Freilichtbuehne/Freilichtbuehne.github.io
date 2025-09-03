@@ -8,25 +8,25 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2661-adri/"
         },
         {
-            "name": "Philipe Klops",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/db/196329-dbfc2ca23c1000c9949c7f2a9c2ae2441d42b307.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2883-luc-099/"
-        },
-        {
             "name": "Gustavo Hunter",
-            "rank": "Mitglied",
-            "highlight": false,
+            "rank": "Stellv. Leitung",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/104335-9f225511bc56f016449968d293716edf5ef05d27.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2268-duckteam/"
         },
         {
             "name": "Maurice Ball",
-            "rank": "Mitglied",
-            "highlight": false,
+            "rank": "Manager",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5e/192485-5ece5072fd230a1cf444812b9713be12b925b11f.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
+        },
+        {
+            "name": "Philipe Klops",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/db/196329-dbfc2ca23c1000c9949c7f2a9c2ae2441d42b307.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2883-luc-099/"
         },
         {
             "name": "Hans Schneider",
@@ -55,6 +55,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1a/215765-1aa9a21c326b063420a6d7d2821f48085cabbc5f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2413-void"
+        },
+        {
+            "name": "Perry Abel",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/216681-45c1a3767e2b5512f528ad446ab7155ac8c02bc5.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3221-yaya-jade"
+        },
+        {
+            "name": "Eduart Schäfer",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/25/216505-25079c8bc678067363bb7c9bd5429a6700cefdff.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2334-dimle"
         }
     ]
 }
