@@ -22,13 +22,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
         },
         {
-            "name": "Michael Melone",
-            "rank": "Mitglied",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/"
-        },
-        {
             "name": "Khabib Sokolow",
             "rank": "Mitglied",
             "highlight": false,
@@ -48,6 +41,20 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/39/211987-396e18361e012012461c06023685ff36395190ce.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-buddel/"
+        },
+        {
+            "name": "Gustavo Hunter",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/9f/104335-9f225511bc56f016449968d293716edf5ef05d27.webp",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2268-duckteam"
+        },
+        {
+            "name": "Eduart Schäfer",
+            "rank": "Mitglied",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/25/216805-25079c8bc678067363bb7c9bd5429a6700cefdff.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2334-dimle"
         }
     ]
 }
