@@ -36,13 +36,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2534-senf/"
         },
         {
-            "name": "Ghost 187",
-            "rank": "8✪ Oberleutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/83/224171-83080a41711e5441deca9ad61c757b615048a1e7.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2450-hustensafx/"
-        },
-        {
             "name": "Baum 51",
             "rank": "8✪ Oberleutnant",
             "highlight": false,
@@ -86,17 +79,10 @@
         },
         {
             "name": "Rox 49",
-            "rank": "6✪ Feldwebel",
+            "rank": "7✪ Leutnant",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c2/144717-c2876558faf8f2d2454a314131044b5d869fbc05.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1534-rox"
-        },
-        {
-            "name": "Seal 12",
-            "rank": "6✪ Feldwebel",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1a/214429-1af595e7070f39cd62cd3464c30ab74449e9ae46.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2493-samuel-saulus"
         },
         {
             "name": "Madara 787",
@@ -132,6 +118,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3364-b4d4s2-420"
+        },
+        {
+            "name": "German 504",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2889-lukas1234"
         }
     ]
 }
