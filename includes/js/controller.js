@@ -8,7 +8,6 @@ const rpids = {
 //    14: "arzt",
     15: "flug",
     17: "tan",
-    18: "soc"
 }
 
 const urls = {
@@ -69,7 +68,7 @@ function load(page) {
 }
 
 function setActive(id) {
-    var ids = ["pol", "feu", "far", "sek", "cri", /*"sani", "arzt",*/ "flug", "tan", "soc"];
+    var ids = ["pol", "feu", "far", "sek", "cri", /*"sani", "arzt",*/ "flug", "tan"];
     for (let i = 0; i < ids.length; i++) {
         document.getElementById(ids[i]).classList.remove("active");
     }
@@ -219,5 +218,6 @@ window.addEventListener("load", function(event) {
         ScrollToTop()
     };
 });
+
 
 
