@@ -57,20 +57,6 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3146-adrien/"
         },
         {
-            "name": "Snow 34",
-            "rank": "7✪ Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/35/62841-35aa754bf716cd634daa3af2240448ebb0fe9d75.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2796-markus-saulus/"
-        },
-        {
-            "name": "Phantom 43",
-            "rank": "7✪ Leutnant",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2698-linus/"
-        },
-        {
             "name": "Wolf 911",
             "rank": "7✪ Leutnant",
             "highlight": false,
@@ -113,18 +99,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/3369-tobi1-9"
         },
         {
-            "name": "Red 29",
-            "rank": "5✪ Unteroffizier",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3364-b4d4s2-420"
-        },
-        {
             "name": "German 504",
             "rank": "5✪ Unteroffizier",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2889-lukas1234"
+        },
+        {
+            "name": "Rambo 46",
+            "rank": "5✪ Unteroffizier",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/avatar-default.svg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/3403-der-profii"
         }
     ]
 }
