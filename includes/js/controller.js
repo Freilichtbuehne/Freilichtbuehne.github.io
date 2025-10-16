@@ -26,6 +26,7 @@ const urls = {
     15: "flugschule.json",
     16: "communitybuilder.json",
     17: "tanaka.json",
+    18: "socialmedia.json",
 }
 
 const maxEntrys = 10;
@@ -67,7 +68,7 @@ function load(page) {
 }
 
 function setActive(id) {
-    var ids = ["pol", "feu", "far", "sek", "cri", /*"sani", "arzt",*/ "flug", "tan"];
+    var ids = ["pol", "feu", "far", "sek", "cri", /*"sani", "arzt",*/ "flug", "tan", "soc"];
     for (let i = 0; i < ids.length; i++) {
         document.getElementById(ids[i]).classList.remove("active");
     }
@@ -217,3 +218,4 @@ window.addEventListener("load", function(event) {
         ScrollToTop()
     };
 });
+
