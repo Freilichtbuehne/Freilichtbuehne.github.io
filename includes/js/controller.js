@@ -7,7 +7,8 @@ const rpids = {
 //    13: "sani",
 //    14: "arzt",
     15: "flug",
-    17: "tan"
+    17: "tan",
+    18: "soc"
 }
 
 const urls = {
@@ -218,4 +219,5 @@ window.addEventListener("load", function(event) {
         ScrollToTop()
     };
 });
+
 
