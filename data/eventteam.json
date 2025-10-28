@@ -1,15 +1,8 @@
 {
     "members": [
         {
-            "name": "Klaus Hunter",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f5/39527-f5442c6731b58c9b7ea2b2a262d8a320d4aab1af.webp",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2691-blackshadow/"
-        },
-        {
             "name": "Holger Buddel",
-            "rank": "Stellv. Leitung",
+            "rank": "Leitung",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/39/211987-396e18361e012012461c06023685ff36395190ce.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2917-holger-buddel/"
